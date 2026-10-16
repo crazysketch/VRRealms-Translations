@@ -1,0 +1,4375 @@
+{
+  "language": "日本語",
+  "code": "ja",
+  "column": "japanese",
+  "strings": {
+    "ach.arcaderegular": {
+      "en": "Arcade Regular",
+      "text": "アーケードの常連"
+    },
+    "ach.avatarmaker": {
+      "en": "Avatar Maker",
+      "text": "アバター職人"
+    },
+    "ach.collector": {
+      "en": "Collector",
+      "text": "コレクター"
+    },
+    "ach.competitor": {
+      "en": "Competitor",
+      "text": "コンペティター"
+    },
+    "ach.ffawin": {
+      "en": "Last One Standing",
+      "text": "最後の生き残り"
+    },
+    "ach.fullhouse": {
+      "en": "Full House",
+      "text": "満員御礼"
+    },
+    "ach.goldrush": {
+      "en": "Gold Rush",
+      "text": "ゴールドラッシュ"
+    },
+    "ach.guidedtour": {
+      "en": "Guided Tour",
+      "text": "ガイドツアー"
+    },
+    "ach.helpinghand": {
+      "en": "Helping Hand",
+      "text": "助けの手"
+    },
+    "ach.label": {
+      "en": "ACHIEVEMENT UNLOCKED",
+      "text": "実績解除"
+    },
+    "ach.numberone": {
+      "en": "Number One",
+      "text": "ナンバーワン"
+    },
+    "ach.ontheboard": {
+      "en": "On the Board",
+      "text": "ランキング入り"
+    },
+    "ach.poolshark": {
+      "en": "Pool Shark",
+      "text": "ビリヤードの達人"
+    },
+    "ach.rackemup": {
+      "en": "Rack 'Em Up",
+      "text": "ラックを組め"
+    },
+    "ach.roadtrip": {
+      "en": "Road Trip",
+      "text": "みんなで旅行"
+    },
+    "ach.saycheese": {
+      "en": "Say Cheese",
+      "text": "はい、チーズ"
+    },
+    "ach.teamwin": {
+      "en": "Hold the Line",
+      "text": "戦線を守れ"
+    },
+    "ach.treatyourself": {
+      "en": "Treat Yourself",
+      "text": "自分へのごほうび"
+    },
+    "ach.welcome": {
+      "en": "Welcome to VR Realms",
+      "text": "VR Realmsへようこそ"
+    },
+    "ach.worldbuilder": {
+      "en": "World Builder",
+      "text": "ワールドビルダー"
+    },
+    "ach.worldtour": {
+      "en": "World Tour",
+      "text": "ワールドツアー"
+    },
+    "arcade.exitkey": {
+      "en": "E - EXIT",
+      "text": "E - 終了"
+    },
+    "arcade.exitpad": {
+      "en": "X - EXIT",
+      "text": "X - 終了"
+    },
+    "arcade.exitvr": {
+      "en": "A / X - EXIT",
+      "text": "A / X - 終了"
+    },
+    "arcade.movekey": {
+      "en": "WASD - MOVE     SPACE - FIRE",
+      "text": "WASD - 移動     スペース - 発射"
+    },
+    "arcade.movepad": {
+      "en": "STICK - MOVE     A - FIRE",
+      "text": "スティック - 移動     A - 発射"
+    },
+    "arcade.movevr": {
+      "en": "STICK - MOVE     TRIGGER - FIRE",
+      "text": "スティック - 移動     トリガー - 発射"
+    },
+    "arcade.needgold": {
+      "en": "You need {0} more gold to play.",
+      "text": "遊ぶにはあと{0}ゴールド必要です。"
+    },
+    "arcade.nogold": {
+      "en": "Not enough gold to play.",
+      "text": "遊ぶためのゴールドが足りません。"
+    },
+    "arcade.notsaved": {
+      "en": "That score could not be saved.",
+      "text": "そのスコアは保存できませんでした。"
+    },
+    "arcade.stepup": {
+      "en": "Step up to the arcade machine to play.",
+      "text": "アーケード筐体に近づいて遊びましょう。"
+    },
+    "avatars.anime": {
+      "en": "Anime",
+      "text": "アニメ"
+    },
+    "avatars.blendshapes": {
+      "en": "Blend Shapes",
+      "text": "ブレンドシェイプ"
+    },
+    "avatars.chibi": {
+      "en": "Chibi",
+      "text": "ちび"
+    },
+    "avatars.creature": {
+      "en": "Creature",
+      "text": "クリーチャー"
+    },
+    "avatars.fantasy": {
+      "en": "Fantasy",
+      "text": "ファンタジー"
+    },
+    "avatars.humanoid": {
+      "en": "Humanoid",
+      "text": "ヒューマノイド"
+    },
+    "avatars.personal": {
+      "en": "Personal",
+      "text": "パーソナル"
+    },
+    "avatars.realistic": {
+      "en": "Realistic",
+      "text": "リアル"
+    },
+    "avatars.scifi": {
+      "en": "Sci-Fi",
+      "text": "SF"
+    },
+    "avatars.style": {
+      "en": "AVATAR STYLE",
+      "text": "アバタースタイル"
+    },
+    "avatars.stylized": {
+      "en": "Stylized",
+      "text": "スタイライズド"
+    },
+    "board.avatar": {
+      "en": "avatar",
+      "text": "アバター"
+    },
+    "board.avatars": {
+      "en": "avatars",
+      "text": "アバター"
+    },
+    "board.by": {
+      "en": "by",
+      "text": "作者："
+    },
+    "board.events": {
+      "en": "UPCOMING EVENTS",
+      "text": "今後のイベント"
+    },
+    "board.lastmonth": {
+      "en": "last month",
+      "text": "先月"
+    },
+    "board.lifetime": {
+      "en": "lifetime",
+      "text": "累計"
+    },
+    "board.live": {
+      "en": "LIVE",
+      "text": "ライブ"
+    },
+    "board.loading": {
+      "en": "Loading…",
+      "text": "読み込み中…"
+    },
+    "board.map": {
+      "en": "map",
+      "text": "マップ"
+    },
+    "board.maps": {
+      "en": "maps",
+      "text": "マップ"
+    },
+    "board.members": {
+      "en": "members",
+      "text": "メンバー"
+    },
+    "board.n.gold": {
+      "en": "{0} gold",
+      "text": "{0} ゴールド"
+    },
+    "board.n.subs": {
+      "en": "{0} subs",
+      "text": "登録 {0}"
+    },
+    "board.noevents": {
+      "en": "No events scheduled",
+      "text": "予定されたイベントはありません"
+    },
+    "board.nogold": {
+      "en": "No gold yet",
+      "text": "まだゴールドはありません"
+    },
+    "board.nogroupgold": {
+      "en": "No group gold yet",
+      "text": "まだグループのゴールドはありません"
+    },
+    "board.nothing": {
+      "en": "Nothing here yet",
+      "text": "まだ何もありません"
+    },
+    "board.soon": {
+      "en": "soon",
+      "text": "まもなく"
+    },
+    "board.thismonth": {
+      "en": "this month",
+      "text": "今月"
+    },
+    "board.topavatars": {
+      "en": "TOP AVATARS",
+      "text": "トップアバター"
+    },
+    "board.topcreators": {
+      "en": "TOP CREATORS",
+      "text": "トップクリエイター"
+    },
+    "board.topgold": {
+      "en": "GOLD LEADERS",
+      "text": "ゴールドランキング"
+    },
+    "board.topgroups": {
+      "en": "TOP GROUPS",
+      "text": "トップグループ"
+    },
+    "board.topworlds": {
+      "en": "TOP WORLDS",
+      "text": "トップワールド"
+    },
+    "bots.auto": {
+      "en": "AUTO",
+      "text": "自動"
+    },
+    "bots.now.auto": {
+      "en": "Now: AUTO. One droid ({0}) keeps you company while you are alone here, and leaves when somebody joins.",
+      "text": "現在: 自動。ここに1人でいる間はドロイド1体（{0}）がお相手し、誰かが参加すると去ります。"
+    },
+    "bots.now.many": {
+      "en": "Now: {0} droids ({1}), until you remove them.",
+      "text": "現在: ドロイド{0}体（{1}）。削除するまで残ります。"
+    },
+    "bots.now.none": {
+      "en": "Now: no bots.",
+      "text": "現在: ボットなし。"
+    },
+    "bots.now.one": {
+      "en": "Now: one droid ({0}), until you remove it.",
+      "text": "現在: ドロイド1体（{0}）。削除するまで残ります。"
+    },
+    "bots.row.angle": {
+      "en": "Gun Angle (VR)",
+      "text": "銃の角度（VR）"
+    },
+    "bots.row.angledesc": {
+      "en": "Turns the barrel up or down in your hand, so a gun points where your controller's trigger feels right.",
+      "text": "手の中で銃身を上下に傾け、コントローラーのトリガーがしっくりくる向きに銃を向けます。"
+    },
+    "bots.row.botsdesc": {
+      "en": "Droids to fight in a world that has a gun match. Up to 9. AUTO: one keeps you company while you are alone.",
+      "text": "銃の試合があるワールドで戦うドロイド。最大9体。自動: 1人の間は1体がお相手します。"
+    },
+    "bots.row.guns": {
+      "en": "GUNS",
+      "text": "銃"
+    },
+    "bots.row.header": {
+      "en": "GUN BOTS",
+      "text": "ガンボット"
+    },
+    "bots.row.level": {
+      "en": "Bot Level",
+      "text": "ボットのレベル"
+    },
+    "bots.row.leveldesc": {
+      "en": "How well they aim, how fast they shoot, and whether they sprint and jump.",
+      "text": "狙いの正確さ、撃つ速さ、ダッシュやジャンプをするかどうか。"
+    },
+    "bots.row.now": {
+      "en": "Bots Now",
+      "text": "現在のボット"
+    },
+    "bots.row.remove": {
+      "en": "REMOVE BOTS",
+      "text": "ボットを消す"
+    },
+    "bots.row.spawn": {
+      "en": "SPAWN BOTS",
+      "text": "ボットを出す"
+    },
+    "bots.toast.auto": {
+      "en": "A droid keeps you company while you are alone. Go to Settings > Host to add or remove bots (up to 9).",
+      "text": "1人の間はドロイドがお相手します。ボットの追加や削除は 設定 > ホスト から（最大9体）。"
+    },
+    "bots.toast.host": {
+      "en": "Go to Settings > Host to add or remove bots (up to 9, three levels).",
+      "text": "ボットの追加や削除は 設定 > ホスト から（最大9体、3段階）。"
+    },
+    "build.lost": {
+      "en": "Connection lost. This VR Realms is out of date: close the game and let Steam update it.",
+      "text": "接続が切れました。このVR Realmsは古いバージョンです: ゲームを閉じて、Steamに更新させてください。"
+    },
+    "build.tooold": {
+      "en": "A newer VR Realms is out, and the hub needs it. Close the game and let Steam update it.",
+      "text": "新しいVR Realmsが出ていて、ハブにはそれが必要です。ゲームを閉じて、Steamに更新させてください。"
+    },
+    "call.aplayer": {
+      "en": "A player",
+      "text": "あるプレイヤー"
+    },
+    "call.aworld": {
+      "en": "a world",
+      "text": "あるワールド"
+    },
+    "call.box.home": {
+      "en": "{0} invites everyone to hang out",
+      "text": "{0}がみんなを遊びに誘っています"
+    },
+    "call.box.notnow": {
+      "en": "NOT NOW",
+      "text": "今はいい"
+    },
+    "call.box.tag": {
+      "en": "CALL TO PLAY",
+      "text": "プレイの呼びかけ"
+    },
+    "call.box.world": {
+      "en": "{0} is calling everyone to play",
+      "text": "{0}がみんなをプレイに呼んでいます"
+    },
+    "call.chat.home": {
+      "en": "{0} invites everyone to hang out at their home. To join: the gold row in your quick menu.",
+      "text": "{0}がみんなをホームに招いています。参加するには: クイックメニューの金色の項目へ。"
+    },
+    "call.chat.world": {
+      "en": "{0} is calling everyone to play in {1}. To join: the gold row in your quick menu.",
+      "text": "{0}が{1}でみんなをプレイに呼んでいます。参加するには: クイックメニューの金色の項目へ。"
+    },
+    "call.confirm.left": {
+      "en": "{0} OF {1} CALLS LEFT TODAY",
+      "text": "今日の残り: {0}/{1}回"
+    },
+    "call.confirm.notice": {
+      "en": "EVERYONE IN THE GAME GETS NOTIFIED",
+      "text": "ゲーム内の全員に通知されます"
+    },
+    "call.confirm.title": {
+      "en": "CALL EVERYONE?",
+      "text": "みんなを呼びますか？"
+    },
+    "call.confirm.yes": {
+      "en": "YES, CALL EVERYONE",
+      "text": "はい、みんなを呼ぶ"
+    },
+    "call.daydone": {
+      "en": "You have called everyone today already. Your next call: in {0}.",
+      "text": "今日はもうみんなを呼びました。次に呼べるのは{0}後です。"
+    },
+    "call.fullgame": {
+      "en": "{0}'s game is full right now.",
+      "text": "{0}のゲームは現在満員です。"
+    },
+    "call.fullhome": {
+      "en": "{0}'s home is full right now.",
+      "text": "{0}のホームは現在満員です。"
+    },
+    "call.gap": {
+      "en": "A call went out a little while ago. The next one can go out in {0}.",
+      "text": "少し前に呼びかけがありました。次の呼びかけは{0}後に送れます。"
+    },
+    "call.homeof": {
+      "en": "{0}'s home",
+      "text": "{0}のホーム"
+    },
+    "call.hourmin": {
+      "en": "1 hour {0} min",
+      "text": "1時間{0}分"
+    },
+    "call.hours": {
+      "en": "{0} hours",
+      "text": "{0}時間"
+    },
+    "call.joining": {
+      "en": "Joining {0}...",
+      "text": "{0}に参加中..."
+    },
+    "call.lookgame": {
+      "en": "Looking for {0}'s game...",
+      "text": "{0}のゲームを探しています..."
+    },
+    "call.lookhome": {
+      "en": "Looking for {0}'s home...",
+      "text": "{0}のホームを探しています..."
+    },
+    "call.nogame": {
+      "en": "Could not find {0}'s game. It may be full, private or closed.",
+      "text": "{0}のゲームが見つかりませんでした。満員、非公開、または終了しているかもしれません。"
+    },
+    "call.nohome": {
+      "en": "Could not find {0}'s home. It may be full, private or closed.",
+      "text": "{0}のホームが見つかりませんでした。満員、非公開、または終了しているかもしれません。"
+    },
+    "call.nosite": {
+      "en": "The call could not be sent: VR Realms did not answer. Try again in a moment.",
+      "text": "呼びかけを送れませんでした: VR Realmsが応答しませんでした。少し待ってからもう一度試してください。"
+    },
+    "call.nosteam": {
+      "en": "The call could not be sent: the game is not signed in to Steam.",
+      "text": "呼びかけを送れませんでした: ゲームがSteamにサインインしていません。"
+    },
+    "call.nothost": {
+      "en": "VR Realms does not know yet that you are hosting. Try again in a minute.",
+      "text": "VR Realmsはまだあなたがホストしていることを把握していません。1分後にもう一度試してください。"
+    },
+    "call.off": {
+      "en": "Calls are switched off right now.",
+      "text": "現在、呼びかけはオフになっています。"
+    },
+    "call.openfor": {
+      "en": "Your call is open for another {0}. Players who said yes so far: {1}.",
+      "text": "呼びかけはあと{0}有効です。これまでに応じたプレイヤー: {1}人。"
+    },
+    "call.otheropen": {
+      "en": "Somebody else's call is open right now. Try again in {0}.",
+      "text": "今は他の人の呼びかけが開いています。{0}後にもう一度試してください。"
+    },
+    "call.out": {
+      "en": "Your call is out. Everyone in the game sees it within a minute, and it stays open for {0} minutes.",
+      "text": "呼びかけを送りました。1分以内にゲーム内の全員に表示され、{0}分間有効です。"
+    },
+    "call.over1": {
+      "en": "Your call is over. 1 player said yes.",
+      "text": "呼びかけが終了しました。1人が応じました。"
+    },
+    "call.overn": {
+      "en": "Your call is over. {0} players said yes.",
+      "text": "呼びかけが終了しました。{0}人が応じました。"
+    },
+    "call.refused": {
+      "en": "The call was refused.",
+      "text": "呼びかけは拒否されました。"
+    },
+    "call.row.call": {
+      "en": "CALL EVERYONE",
+      "text": "みんなを呼ぶ"
+    },
+    "call.row.in": {
+      "en": "CALL EVERYONE · IN {0}",
+      "text": "みんなを呼ぶ · {0}後"
+    },
+    "call.row.join": {
+      "en": "JOIN {0}'S CALL",
+      "text": "{0}の呼びかけに参加"
+    },
+    "call.row.out": {
+      "en": "YOUR CALL IS OUT · {0}",
+      "text": "呼びかけ中 · {0}"
+    },
+    "call.row.press": {
+      "en": "PRESS AGAIN TO CALL",
+      "text": "もう一度押して呼ぶ"
+    },
+    "call.stays": {
+      "en": "{0}'s call stays in your quick menu until it is over.",
+      "text": "{0}の呼びかけは、終わるまでクイックメニューに残ります。"
+    },
+    "call.test": {
+      "en": "That was a test call: there is nothing to join.",
+      "text": "これはテストの呼びかけでした: 参加先はありません。"
+    },
+    "call.yes1": {
+      "en": "1 player said yes to your call.",
+      "text": "1人のプレイヤーが呼びかけに応じました。"
+    },
+    "call.yesn": {
+      "en": "{0} players said yes to your call.",
+      "text": "{0}人のプレイヤーが呼びかけに応じました。"
+    },
+    "cam.dock.drone": {
+      "en": "Screen: On Drone",
+      "text": "画面：ドローン上"
+    },
+    "cam.dock.hud": {
+      "en": "Screen: Corner",
+      "text": "画面：隅"
+    },
+    "cam.dock.left": {
+      "en": "Screen: Left",
+      "text": "画面：左"
+    },
+    "cam.dock.off": {
+      "en": "Screen: Hidden",
+      "text": "画面：非表示"
+    },
+    "cam.dock.right": {
+      "en": "Screen: Right",
+      "text": "画面：右"
+    },
+    "cam.exposure.bright": {
+      "en": "Exposure: Bright",
+      "text": "露出：明るい"
+    },
+    "cam.exposure.brighter": {
+      "en": "Exposure: Brighter",
+      "text": "露出：さらに明るい"
+    },
+    "cam.exposure.max": {
+      "en": "Exposure: Max",
+      "text": "露出：最大"
+    },
+    "cam.exposure.normal": {
+      "en": "Exposure: Normal",
+      "text": "露出：標準"
+    },
+    "cam.hint.alt": {
+      "en": "Press ALT to use the mouse",
+      "text": "ALTキーでマウスを使用"
+    },
+    "cam.hint.flymouse": {
+      "en": "MOUSE MODE — ALT to fly again · ESC exits Free Fly",
+      "text": "マウスモード — ALTで飛行に戻る · ESCでフリーフライ終了"
+    },
+    "cam.hint.flymousepad": {
+      "en": "MOUSE MODE — LB to fly again · Start exits Free Fly",
+      "text": "マウスモード — LBで飛行に戻る · Startでフリーフライ終了"
+    },
+    "cam.hint.freefly": {
+      "en": "FREE FLY — WASD move · Q/E height · mouse look · ALT for cursor · ESC to exit",
+      "text": "フリーフライ — WASD移動 · Q/E高度 · マウス視点 · ALTカーソル · ESC終了"
+    },
+    "cam.hint.freeflypad": {
+      "en": "FREE FLY — left stick move · triggers height · right stick look · LB for cursor · Start to exit",
+      "text": "フリーフライ — 左スティック移動 · トリガー高度 · 右スティック視点 · LBカーソル · Start終了"
+    },
+    "cam.hint.lb": {
+      "en": "Press LB to use the mouse",
+      "text": "LBボタンでマウスを使用"
+    },
+    "cam.hint.mouseon": {
+      "en": "MOUSE MODE — press ALT to give the mouse back",
+      "text": "マウスモード — ALTでマウスを戻す"
+    },
+    "cam.hint.mouseonpad": {
+      "en": "MOUSE MODE — press LB to give the mouse back",
+      "text": "マウスモード — LBでマウスを戻す"
+    },
+    "cam.mode.followbehind": {
+      "en": "Follow Behind",
+      "text": "背後から追従"
+    },
+    "cam.mode.followfront": {
+      "en": "Follow Front",
+      "text": "前方から追従"
+    },
+    "cam.mode.freefly": {
+      "en": "Free Fly",
+      "text": "フリーフライ"
+    },
+    "cam.mode.orbit": {
+      "en": "Orbit",
+      "text": "オービット"
+    },
+    "cam.mode.tripod": {
+      "en": "Tripod",
+      "text": "三脚"
+    },
+    "cam.toast.freeflyhold": {
+      "en": "FREE FLY  —  squeeze GRIP to exit",
+      "text": "フリーフライ  —  グリップを握って終了"
+    },
+    "cam.toast.freeflyon": {
+      "en": "FREE FLY — sticks steer the camera, grip to exit",
+      "text": "フリーフライ — スティックでカメラを操作、グリップで終了"
+    },
+    "cam.toast.modenow": {
+      "en": "Camera: {0}",
+      "text": "カメラ：{0}"
+    },
+    "chat.comingonline": {
+      "en": "Chat coming online — messages will appear here.",
+      "text": "チャットを準備中 — メッセージはここに表示されます。"
+    },
+    "chat.deskhint": {
+      "en": "Type a message…  (Enter to send)",
+      "text": "メッセージを入力…  (Enterで送信)"
+    },
+    "chat.hint.desk": {
+      "en": "Click or press Enter to chat",
+      "text": "クリックまたはEnterでチャット"
+    },
+    "chat.hint.vr": {
+      "en": "Tap to type…",
+      "text": "タップして入力…"
+    },
+    "chat.openkeyboard": {
+      "en": "Open the keyboard to type…",
+      "text": "キーボードを開いて入力…"
+    },
+    "chat.reminder": {
+      "en": "Press Enter to chat",
+      "text": "Enterでチャット"
+    },
+    "chat.translate.busy": {
+      "en": "Translation is busy. Try again later",
+      "text": "翻訳が混み合っています。後でもう一度お試しください"
+    },
+    "chat.translate.failed": {
+      "en": "Could not translate. Tap to retry",
+      "text": "翻訳できませんでした。タップして再試行"
+    },
+    "chat.translate.link": {
+      "en": "Translate",
+      "text": "翻訳"
+    },
+    "chat.translate.original": {
+      "en": "Show original",
+      "text": "原文を表示"
+    },
+    "chat.translate.pending": {
+      "en": "Translating…",
+      "text": "翻訳中…"
+    },
+    "chat.translate.same": {
+      "en": "Already in your language",
+      "text": "すでにあなたの言語です"
+    },
+    "chat.translate.shown": {
+      "en": "Show translation",
+      "text": "翻訳を表示"
+    },
+    "common.audio": {
+      "en": "Audio",
+      "text": "オーディオ"
+    },
+    "common.befriend": {
+      "en": "Befriend",
+      "text": "フレンド追加"
+    },
+    "common.chat": {
+      "en": "CHAT",
+      "text": "チャット"
+    },
+    "common.clearall": {
+      "en": "Clear all",
+      "text": "すべてクリア"
+    },
+    "common.close": {
+      "en": "Close",
+      "text": "閉じる"
+    },
+    "common.debug": {
+      "en": "Debug",
+      "text": "デバッグ"
+    },
+    "common.decline": {
+      "en": "Decline",
+      "text": "拒否"
+    },
+    "common.emoji": {
+      "en": "Emoji",
+      "text": "絵文字"
+    },
+    "common.equip": {
+      "en": "EQUIP",
+      "text": "装備"
+    },
+    "common.everyone": {
+      "en": "Everyone",
+      "text": "全員"
+    },
+    "common.go": {
+      "en": "Go",
+      "text": "移動"
+    },
+    "common.hide": {
+      "en": "Hide",
+      "text": "非表示"
+    },
+    "common.ignore": {
+      "en": "Ignore",
+      "text": "無視"
+    },
+    "common.invite": {
+      "en": "Invite",
+      "text": "招待"
+    },
+    "common.join": {
+      "en": "Join",
+      "text": "参加"
+    },
+    "common.justnow": {
+      "en": "just now",
+      "text": "たった今"
+    },
+    "common.kick": {
+      "en": "Kick",
+      "text": "キック"
+    },
+    "common.large": {
+      "en": "Large",
+      "text": "大"
+    },
+    "common.mature": {
+      "en": "Mature",
+      "text": "成人向け"
+    },
+    "common.medium": {
+      "en": "Medium",
+      "text": "中"
+    },
+    "common.mute": {
+      "en": "Mute",
+      "text": "ミュート"
+    },
+    "common.offline": {
+      "en": "Offline",
+      "text": "オフライン"
+    },
+    "common.online": {
+      "en": "Online",
+      "text": "オンライン"
+    },
+    "common.search": {
+      "en": "Search",
+      "text": "検索"
+    },
+    "common.small": {
+      "en": "Small",
+      "text": "小"
+    },
+    "common.unhide": {
+      "en": "Unhide",
+      "text": "再表示"
+    },
+    "common.unmute": {
+      "en": "Unmute",
+      "text": "ミュート解除"
+    },
+    "dares.alldone": {
+      "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
+      "text": "Nixie: 3つのチャレンジを全部。もうネタ切れです。少しだけ感心しました。"
+    },
+    "dares.checkpoint": {
+      "en": "Checkpoint {0} of {1}.",
+      "text": "チェックポイント {0}/{1}。"
+    },
+    "dares.d.easy": {
+      "en": "Easy",
+      "text": "かんたん"
+    },
+    "dares.d.hard": {
+      "en": "Hard",
+      "text": "むずかしい"
+    },
+    "dares.d.hardest": {
+      "en": "Hardest",
+      "text": "最難関"
+    },
+    "dares.door": {
+      "en": "Nixie: That door opens onto nothing. I dare you. Unless you are chicken.",
+      "text": "Nixie: あの扉の先には何もありません。やれるものならどうぞ。ビビっているなら別ですが。"
+    },
+    "dares.doorchicken": {
+      "en": "Nixie: Still standing there. I am not judging. I am only logging it.",
+      "text": "Nixie: まだそこに立っていますね。責めてはいません。記録しているだけです。"
+    },
+    "dares.fellout": {
+      "en": "You fell out of the world. Back you go.",
+      "text": "ワールドの外に落ちました。元の場所に戻します。"
+    },
+    "dares.ffaagain": {
+      "en": "Nixie: Another round of free-for-all. Counted for today.",
+      "text": "Nixie: またフリーフォーオールを1ラウンド。今日の分としてカウントしました。"
+    },
+    "dares.ffadone": {
+      "en": "Nixie: A whole round of free-for-all. You survived, mostly. Dare done.",
+      "text": "Nixie: フリーフォーオールを1ラウンドやり切りましたね。だいたい生き延びました。チャレンジ達成。"
+    },
+    "dares.ffawinagain": {
+      "en": "Nixie: You won again. Counted for today.",
+      "text": "Nixie: また勝ちましたね。今日の分としてカウントしました。"
+    },
+    "dares.ffawindone": {
+      "en": "Nixie: First place. I will pretend I expected it. Dare done.",
+      "text": "Nixie: 1位です。予想していたふりをしておきます。チャレンジ達成。"
+    },
+    "dares.galaxicaagain": {
+      "en": "Nixie: Stage 3 on Galaxica again. Counted for today.",
+      "text": "Nixie: またGalaxicaでステージ3。今日の分としてカウントしました。"
+    },
+    "dares.galaxicadone": {
+      "en": "Nixie: Stage 3 on Galaxica. The aliens have filed a complaint. Dare done.",
+      "text": "Nixie: Galaxicaでステージ3。エイリアンから苦情が来ています。チャレンジ達成。"
+    },
+    "dares.hintdesktop": {
+      "en": "Save yourself! Press {Radial}, then hit Respawn.",
+      "text": "自力で助かって！{Radial}を押して、リスポーンを選んでください。"
+    },
+    "dares.hintvr": {
+      "en": "Save yourself! Click the {WheelStick} stick, look at your {WheelHand} wrist, then hit Respawn.",
+      "text": "自力で助かって！{WheelStick}スティックを押し込み、{WheelHand}手首を見て、リスポーンを選んでください。"
+    },
+    "dares.homeoffer": {
+      "en": "Nixie: I have three dares for you. Open your menu and press the glowing Dares button. Unless you are chicken. If you take one, find me there first. I will be watching.",
+      "text": "Nixie: あなたに3つのチャレンジがあります。メニューを開いて、光っているチャレンジボタンを押してください。ビビっているなら別ですが。挑むなら、まず現地で私を探してください。見ていますから。"
+    },
+    "dares.jumpagain": {
+      "en": "Nixie: Again? Show-off.",
+      "text": "Nixie: また？ 目立ちたがり屋ですね。"
+    },
+    "dares.jumpagainpaid": {
+      "en": "Nixie: Again? Show-off. Counted for today.",
+      "text": "Nixie: また？ 目立ちたがり屋ですね。今日の分としてカウントしました。"
+    },
+    "dares.jumpcaught": {
+      "en": "Nixie: I fished you out. That one goes down as a fail. Try again, and this time save yourself with Respawn.",
+      "text": "Nixie: 私が釣り上げました。今のは失敗として記録します。もう一度どうぞ。今度はリスポーンで自力で助かってください。"
+    },
+    "dares.jumpdone": {
+      "en": "Nixie: You saved yourself. I only screamed a little. Dare done.",
+      "text": "Nixie: 自力で助かりましたね。私は少し叫んだだけです。チャレンジ達成。"
+    },
+    "dares.l.ffa10": {
+      "en": "Nixie: First of ten. Everybody else is filing a complaint. Dare done.",
+      "text": "Nixie: 10人中1位。他の全員が苦情を出しています。チャレンジ達成。"
+    },
+    "dares.l.ffa10again": {
+      "en": "Nixie: First of ten again. Counted for today.",
+      "text": "Nixie: また10人中1位。今日の分としてカウントしました。"
+    },
+    "dares.l.team": {
+      "en": "Nixie: A whole team match. You even passed to someone. Dare done.",
+      "text": "Nixie: チーム戦を1試合やり切りましたね。誰かにパスまでしていました。チャレンジ達成。"
+    },
+    "dares.l.team5": {
+      "en": "Nixie: Five on five, and your side won. That is a real battle. Dare done.",
+      "text": "Nixie: 5対5で、あなたの側の勝ち。本物の戦いですね。チャレンジ達成。"
+    },
+    "dares.l.team5again": {
+      "en": "Nixie: Another five on five won. Counted for today.",
+      "text": "Nixie: また5対5で勝利。今日の分としてカウントしました。"
+    },
+    "dares.l.teamagain": {
+      "en": "Nixie: Another team match. Counted for today.",
+      "text": "Nixie: またチーム戦を1試合。今日の分としてカウントしました。"
+    },
+    "dares.l.teamwin": {
+      "en": "Nixie: Your team won. I am told you helped. Dare done.",
+      "text": "Nixie: あなたのチームが勝ちました。あなたも役に立ったそうです。チャレンジ達成。"
+    },
+    "dares.l.teamwinagain": {
+      "en": "Nixie: Your team won again. Counted for today.",
+      "text": "Nixie: またあなたのチームが勝ちました。今日の分としてカウントしました。"
+    },
+    "dares.lapdone": {
+      "en": "Nixie: One lap. I counted. Dare done.",
+      "text": "Nixie: 1周。数えました。チャレンジ達成。"
+    },
+    "dares.lapnopay": {
+      "en": "Lap done. Today's jog was already counted. It counts again tomorrow.",
+      "text": "1周完了。今日のジョギングはすでにカウント済みです。明日またカウントされます。"
+    },
+    "dares.lappaid": {
+      "en": "Nixie: Another lap. Today's jog is counted. Same time tomorrow?",
+      "text": "Nixie: もう1周ですね。今日のジョギングはカウントしました。明日も同じ時間に？"
+    },
+    "dares.lapsprint": {
+      "en": "Hold {Sprint} to run.",
+      "text": "{Sprint}を押し続けると走れます。"
+    },
+    "dares.lapstart": {
+      "en": "Nixie: A lap. I would join you, but I was built for standing.",
+      "text": "Nixie: 1周ですね。一緒に走りたいところですが、私は立つために作られたので。"
+    },
+    "dares.n.dare": {
+      "en": "I dare you.",
+      "text": "やれるものならどうぞ。"
+    },
+    "dares.n.done": {
+      "en": "Done. I made a note.",
+      "text": "達成。メモしておきました。"
+    },
+    "dares.n.ffa1": {
+      "en": "Round played. I logged every shot. Most of them missed.",
+      "text": "ラウンド終了。全弾記録しました。ほとんど外れていました。"
+    },
+    "dares.n.ffa2": {
+      "en": "One round of free-for-all. Shoot things. I will keep score, badly.",
+      "text": "フリーフォーオールを1ラウンド。撃ちまくってください。スコアは私がつけます。雑に。"
+    },
+    "dares.n.gal1": {
+      "en": "Stage 3. The arcade has your number now.",
+      "text": "ステージ3。アーケードもあなたに目をつけました。"
+    },
+    "dares.n.gal2": {
+      "en": "Galaxica, stage 3. The aliens get meaner. So should you.",
+      "text": "Galaxica、ステージ3。エイリアンは手強くなります。あなたもそうなってください。"
+    },
+    "dares.n.jog1": {
+      "en": "One lap of the park. I would join you, but I was built for standing.",
+      "text": "公園を1周。一緒に走りたいところですが、私は立つために作られたので。"
+    },
+    "dares.n.jog2": {
+      "en": "Today's lap is in the log. Come back tomorrow. I will act surprised.",
+      "text": "今日の1周は記録済みです。明日また来てください。驚いたふりをします。"
+    },
+    "dares.n.jog3": {
+      "en": "A new day, a new lap. The park is waiting. So am I, technically.",
+      "text": "新しい日、新しい1周。公園が待っています。厳密には、私も。"
+    },
+    "dares.n.jump1": {
+      "en": "You jumped and saved yourself. I only screamed a little.",
+      "text": "跳んで、自力で助かりましたね。私は少し叫んだだけです。"
+    },
+    "dares.n.jump2": {
+      "en": "A door, a lot of nothing behind it, and you. Unless you are chicken.",
+      "text": "扉が一つ、その先に広がる無、そしてあなた。ビビっているなら別ですが。"
+    },
+    "dares.n.plate1": {
+      "en": "You have one. I had a bet with the vending machine. I won.",
+      "text": "もう持っていますね。自販機と賭けをしていました。私の勝ちです。"
+    },
+    "dares.n.plate2": {
+      "en": "A plate is lying around the hub somewhere. Finders keepers. I checked the rules.",
+      "text": "ハブのどこかにプレートが落ちています。見つけた者勝ち。ルールは確認済みです。"
+    },
+    "dares.n.win1": {
+      "en": "A win. I printed you a tiny certificate. It is in my head.",
+      "text": "勝利です。小さな賞状を印刷しておきました。私の頭の中に。"
+    },
+    "dares.n.win2": {
+      "en": "Win a round. First place. No pressure. Some pressure.",
+      "text": "1ラウンド勝つこと。1位です。プレッシャーはありません。少しあります。"
+    },
+    "dares.page.alltoday": {
+      "en": "All of them, today. Come back tomorrow. I will think of something.",
+      "text": "今日は全部達成です。明日また来てください。何か考えておきます。"
+    },
+    "dares.page.arena": {
+      "en": "You are in the hub. The arena is the place.",
+      "text": "今ハブにいます。アリーナが目的地です。"
+    },
+    "dares.page.checkreached": {
+      "en": "Checkpoint {0} of {1} reached. Keep going.",
+      "text": "チェックポイント {0}/{1} に到達。その調子で。"
+    },
+    "dares.page.chip": {
+      "en": "Dares",
+      "text": "チャレンジ"
+    },
+    "dares.page.count": {
+      "en": "{0} of {1} today",
+      "text": "今日 {0}/{1}"
+    },
+    "dares.page.done": {
+      "en": "Done.",
+      "text": "達成。"
+    },
+    "dares.page.doneagain": {
+      "en": "Done today. It counts again tomorrow.",
+      "text": "今日は達成済み。明日またカウントされます。"
+    },
+    "dares.page.donebefore": {
+      "en": "Done before. Today it counts again: {0} gold.",
+      "text": "達成済み。今日もまたカウントされます: {0} ゴールド。"
+    },
+    "dares.page.donetoday": {
+      "en": "Done today.",
+      "text": "今日は達成済み。"
+    },
+    "dares.page.doordone": {
+      "en": "Done. You are here: the door still opens, if you miss the fall.",
+      "text": "達成済み。今ここにいます: 落下が恋しければ、扉はまだ開きます。"
+    },
+    "dares.page.finddoor": {
+      "en": "You are here. Find the door.",
+      "text": "ここにいます。扉を探してください。"
+    },
+    "dares.page.foot": {
+      "en": "Gold for a finished dare arrives with the nightly tally. Every dare is optional, and counts again on a later day.",
+      "text": "達成したチャレンジのゴールドは毎晩の集計で届きます。どのチャレンジも任意で、別の日にまたカウントされます。"
+    },
+    "dares.page.galaxica": {
+      "en": "You are in the hub. Find the Galaxica machine.",
+      "text": "今ハブにいます。Galaxicaの筐体を探してください。"
+    },
+    "dares.page.gohub": {
+      "en": "Go to the hub",
+      "text": "ハブへ行く"
+    },
+    "dares.page.goldday": {
+      "en": "{0} gold, then {1} a day",
+      "text": "{0} ゴールド、その後は1日 {1}"
+    },
+    "dares.page.lapcounted": {
+      "en": "You are here. Today's lap is counted.",
+      "text": "ここにいます。今日の1周はカウント済みです。"
+    },
+    "dares.page.nocheck": {
+      "en": "You are here, but this world has no checkpoints yet.",
+      "text": "ここにいますが、このワールドにはまだチェックポイントがありません。"
+    },
+    "dares.page.nodoor": {
+      "en": "You are here, but this world has no dare door yet.",
+      "text": "ここにいますが、このワールドにはまだチャレンジの扉がありません。"
+    },
+    "dares.page.plategold": {
+      "en": "the plate's own {0} gold",
+      "text": "プレート自体の {0} ゴールド"
+    },
+    "dares.page.plategoldday": {
+      "en": "the plate's own {0} gold, then {1} a day",
+      "text": "プレート自体の {0} ゴールド、その後は1日 {1}"
+    },
+    "dares.page.platehub": {
+      "en": "You are in the hub. A plate is somewhere on the floor.",
+      "text": "今ハブにいます。プレートが床のどこかにあります。"
+    },
+    "dares.page.pressagain": {
+      "en": "Press again to go",
+      "text": "もう一度押すと移動"
+    },
+    "dares.page.runfirst": {
+      "en": "You are here. Run to the first checkpoint.",
+      "text": "ここにいます。最初のチェックポイントまで走ってください。"
+    },
+    "dares.page.set": {
+      "en": "Set {0}",
+      "text": "セット {0}"
+    },
+    "dares.page.setbonus": {
+      "en": "All three of a set: {0} gold on top",
+      "text": "セットの3つすべて: さらに {0} ゴールド"
+    },
+    "dares.page.setnew": {
+      "en": "Set {0} · new",
+      "text": "セット {0} · 新着"
+    },
+    "dares.page.sub1": {
+      "en": "All optional. Any order. They come back every day. I noticed you.",
+      "text": "どれも任意。順番も自由。毎日復活します。あなたのことは把握しています。"
+    },
+    "dares.page.sub2": {
+      "en": "All optional. Any order. They come back every day. I will be logging everything.",
+      "text": "どれも任意。順番も自由。毎日復活します。すべて記録させていただきます。"
+    },
+    "dares.page.takeme": {
+      "en": "Take me there",
+      "text": "そこへ移動"
+    },
+    "dares.page.title": {
+      "en": "Nixie's dares",
+      "text": "Nixieのチャレンジ"
+    },
+    "dares.page.today": {
+      "en": "Today's dare +{0}",
+      "text": "今日のチャレンジ +{0}"
+    },
+    "dares.parkintro": {
+      "en": "Nixie: A lap of the park. Follow the gold trail through every checkpoint. I will wait here. Standing is my cardio.",
+      "text": "Nixie: 公園を1周です。金色の道をたどって、すべてのチェックポイントを通ってください。私はここで待っています。立っているのが私の有酸素運動です。"
+    },
+    "dares.parkover": {
+      "en": "Nixie: Today's lap is counted. Stay for the trees. I will keep standing here, professionally.",
+      "text": "Nixie: 今日の1周はカウントしました。木でも眺めていってください。私はここでプロとして立ち続けます。"
+    },
+    "dares.plateagain": {
+      "en": "Nixie: Another head plate. The plate dare is counted for today.",
+      "text": "Nixie: またヘッドプレートですね。プレートのチャレンジは今日の分としてカウントしました。"
+    },
+    "dares.platedone": {
+      "en": "Nixie: A head plate. A hat made of facts. Dare done.",
+      "text": "Nixie: ヘッドプレートですね。事実でできた帽子です。チャレンジ達成。"
+    },
+    "dares.setbonus": {
+      "en": "+{0} gold for all three",
+      "text": "3つすべてで +{0} ゴールド"
+    },
+    "dares.setbonushead": {
+      "en": "Finish all three of a set: bonus gold on top",
+      "text": "セットの3つをすべて達成: ボーナスゴールドを上乗せ"
+    },
+    "dares.setdone": {
+      "en": "Nixie: That whole set is done. I will have to think of new dares.",
+      "text": "Nixie: このセットは全部達成です。新しいチャレンジを考えないといけませんね。"
+    },
+    "dares.t.ffa": {
+      "en": "Play a round of free-for-all",
+      "text": "フリーフォーオールを1ラウンド遊ぶ"
+    },
+    "dares.t.ffa10win": {
+      "en": "Win a free-for-all of ten",
+      "text": "10人のフリーフォーオールで勝つ"
+    },
+    "dares.t.ffawin": {
+      "en": "Win a round of free-for-all",
+      "text": "フリーフォーオールで1ラウンド勝つ"
+    },
+    "dares.t.galaxica": {
+      "en": "Reach stage 3 on Galaxica",
+      "text": "Galaxicaでステージ3に到達"
+    },
+    "dares.t.hubhunt": {
+      "en": "Find Nixie's three lost things in the hub",
+      "text": "ハブでNixieがなくした3つの物を見つける"
+    },
+    "dares.t.hubhunt2": {
+      "en": "Find the hub's three lost things on another day",
+      "text": "別の日にハブのなくし物を3つ見つける"
+    },
+    "dares.t.jog": {
+      "en": "Jog one lap",
+      "text": "ジョギングで1周"
+    },
+    "dares.t.jump": {
+      "en": "Jump into the dark, then save yourself",
+      "text": "闇に飛び込み、自力で助かる"
+    },
+    "dares.t.plate": {
+      "en": "Find a head plate",
+      "text": "ヘッドプレートを見つける"
+    },
+    "dares.t.team": {
+      "en": "Play a round of team free-for-all",
+      "text": "チームフリーフォーオールを1ラウンド遊ぶ"
+    },
+    "dares.t.team5win": {
+      "en": "Win a team match, five on five",
+      "text": "5対5のチーム戦で勝つ"
+    },
+    "dares.t.teamwin": {
+      "en": "Win a round of team free-for-all",
+      "text": "チームフリーフォーオールで1ラウンド勝つ"
+    },
+    "dares.todaybonus": {
+      "en": "That was today's dare: a bonus on top.",
+      "text": "それが今日のチャレンジでした。ボーナスが上乗せされます。"
+    },
+    "dares.w.arcade": {
+      "en": "the arcade in the hub",
+      "text": "ハブのアーケード"
+    },
+    "dares.w.arena": {
+      "en": "the hub's arena, or any free-for-all world",
+      "text": "ハブのアリーナ、またはフリーフォーオールのワールド"
+    },
+    "dares.w.ffa": {
+      "en": "FFA Shooter, a bot plays you there",
+      "text": "FFA Shooter、ボットが相手をします"
+    },
+    "dares.w.ffa10": {
+      "en": "FFA Shooter, add 9 bots as host",
+      "text": "FFA Shooter、ホストとしてボットを9体追加"
+    },
+    "dares.w.hubbusy": {
+      "en": "the hub, when it is busy",
+      "text": "ハブ、にぎわっているとき"
+    },
+    "dares.w.team": {
+      "en": "SciFi TFFA, or any team match; alone, add bots as host",
+      "text": "SciFi TFFA、または任意のチーム戦。1人なら、ホストとしてボットを追加"
+    },
+    "dares.w.team5": {
+      "en": "SciFi TFFA, a team match of 10; alone, add 9 bots",
+      "text": "SciFi TFFA、10人のチーム戦。1人ならボットを9体追加"
+    },
+    "fbt.calibrate": {
+      "en": "CALIBRATE",
+      "text": "キャリブレーション"
+    },
+    "fbt.height": {
+      "en": "Avatar Height",
+      "text": "アバターの身長"
+    },
+    "fbt.settings": {
+      "en": "FBT Settings",
+      "text": "FBT設定"
+    },
+    "first.bot": {
+      "en": "FIGHT A BOT",
+      "text": "ボットと戦う"
+    },
+    "first.botsub": {
+      "en": "FFA Shooter, the easiest",
+      "text": "FFA Shooter、いちばん簡単"
+    },
+    "first.donetag": {
+      "en": "MISSION DONE",
+      "text": "ミッション完了"
+    },
+    "first.hintbot": {
+      "en": "Nixie: Your first mission: finish one round. Grab a gun from a pad. The bot is waiting.",
+      "text": "Nixie: 最初のミッション: 1ラウンド最後までプレイすること。パッドから銃を取ってください。ボットが待っています。"
+    },
+    "first.hintlap": {
+      "en": "Nixie: Your first mission: one lap. Follow the gold trail through every checkpoint.",
+      "text": "Nixie: 最初のミッション: 1周すること。金色の道をたどって、すべてのチェックポイントを通ってください。"
+    },
+    "first.hublater": {
+      "en": "Nixie: The hub is one press away on your Home page. People are better company than bots. Usually.",
+      "text": "Nixie: ハブはホーム画面からワンタッチです。ボットより人のほうがいい相手です。たいていは。"
+    },
+    "first.hubline": {
+      "en": "Nixie: Nice work. The other players hang out in the hub. Want to go meet them?",
+      "text": "Nixie: お見事。ほかのプレイヤーはハブに集まっています。会いに行きますか?"
+    },
+    "first.hubsub": {
+      "en": "Where the people are",
+      "text": "人が集まる場所"
+    },
+    "first.lap": {
+      "en": "RUN A LAP",
+      "text": "1周走る"
+    },
+    "first.later": {
+      "en": "LATER",
+      "text": "あとで"
+    },
+    "first.line": {
+      "en": "Nixie: Pick one. Both work even when nobody else is online.",
+      "text": "Nixie: どちらかを選んでください。ほかに誰もオンラインでなくても遊べます。"
+    },
+    "first.saidbot": {
+      "en": "Nixie: Good choice. Taking you to the bot. It is not very smart.",
+      "text": "Nixie: いい選択です。ボットのところへ連れて行きます。あまり賢くはありません。"
+    },
+    "first.saidlap": {
+      "en": "Nixie: Good choice. Taking you to the park. Stretch first.",
+      "text": "Nixie: いい選択です。公園へ連れて行きます。まずはストレッチを。"
+    },
+    "first.saidlater": {
+      "en": "Nixie: Fine. Your missions wait behind the glowing Dares button on your Home page.",
+      "text": "Nixie: わかりました。ミッションはホーム画面の光っているチャレンジボタンの先で待っています。"
+    },
+    "first.tag": {
+      "en": "FIRST MISSION",
+      "text": "最初のミッション"
+    },
+    "friends.title": {
+      "en": "Friends",
+      "text": "フレンド"
+    },
+    "guide.d.click": {
+      "en": "Click the stick",
+      "text": "スティックを押し込む"
+    },
+    "guide.d.grab": {
+      "en": "Squeeze and hold",
+      "text": "握ったままにする"
+    },
+    "guide.d.onoff": {
+      "en": "Press: on or off",
+      "text": "押す：オン／オフ"
+    },
+    "guide.d.select": {
+      "en": "Aim the laser, pull the trigger",
+      "text": "レーザーを向けてトリガーを引く"
+    },
+    "guide.d.sprint": {
+      "en": "Click the stick: sprint",
+      "text": "スティックを押し込む：ダッシュ"
+    },
+    "guide.d.turn": {
+      "en": "Flick the stick left or right",
+      "text": "スティックを左右に倒す"
+    },
+    "guide.d.use": {
+      "en": "Pull the trigger",
+      "text": "トリガーを引く"
+    },
+    "guide.d.wheel": {
+      "en": "Click the stick: quick menu",
+      "text": "スティックを押し込む：クイックメニュー"
+    },
+    "guide.hint": {
+      "en": "Hide these labels: hold both triggers",
+      "text": "このラベルを隠す：両方のトリガーを長押し"
+    },
+    "guide.row": {
+      "en": "CONTROLLER GUIDE",
+      "text": "コントローラーガイド"
+    },
+    "guide.t.grab": {
+      "en": "Grab",
+      "text": "つかむ"
+    },
+    "guide.t.jump": {
+      "en": "Jump",
+      "text": "ジャンプ"
+    },
+    "guide.t.laser": {
+      "en": "Laser",
+      "text": "レーザー"
+    },
+    "guide.t.menu": {
+      "en": "Menu",
+      "text": "メニュー"
+    },
+    "guide.t.select": {
+      "en": "Select",
+      "text": "選択"
+    },
+    "guide.t.use": {
+      "en": "Use",
+      "text": "使う"
+    },
+    "guns.blueteam": {
+      "en": "BLUE TEAM",
+      "text": "青チーム"
+    },
+    "guns.free": {
+      "en": "FREE",
+      "text": "無料"
+    },
+    "guns.health": {
+      "en": "HEALTH",
+      "text": "体力"
+    },
+    "guns.needgold": {
+      "en": "You need {0} more gold for the {1}.",
+      "text": "{1}にはあと{0}ゴールド必要です。"
+    },
+    "guns.nogold": {
+      "en": "Not enough gold for the {0}.",
+      "text": "{0}に必要なゴールドが足りません。"
+    },
+    "guns.redteam": {
+      "en": "RED TEAM",
+      "text": "赤チーム"
+    },
+    "guns.reloadhint": {
+      "en": "R   reload",
+      "text": "R   リロード"
+    },
+    "guns.reloading": {
+      "en": "RELOADING",
+      "text": "リロード中"
+    },
+    "guns.shield": {
+      "en": "SHIELD {0}",
+      "text": "シールド {0}"
+    },
+    "hint.grab.desk": {
+      "en": "Press {0} to grab",
+      "text": "{0}でつかむ"
+    },
+    "hint.profile.desk": {
+      "en": "Press {0} to view profile",
+      "text": "{0}でプロフィールを見る"
+    },
+    "hint.rotate.mouse": {
+      "en": "Middle mouse + move to rotate",
+      "text": "中ボタン＋移動で回転"
+    },
+    "hint.rotate.mouse2": {
+      "en": "Middle mouse: rotate · Scroll: closer / farther",
+      "text": "中ボタン: 回転 · ホイール: 近づける / 遠ざける"
+    },
+    "hint.rotate.pad": {
+      "en": "Hold RB + right stick to rotate",
+      "text": "RB長押し＋右スティックで回転"
+    },
+    "hint.use.desk": {
+      "en": "Press {0} to use",
+      "text": "{0}で使う"
+    },
+    "hud.kicked": {
+      "en": "You have been kicked",
+      "text": "キックされました"
+    },
+    "hud.mapstale": {
+      "en": "Update needed - restart to view the latest map version",
+      "text": "更新が必要です - 再起動して最新のマップを表示"
+    },
+    "hud.standheight": {
+      "en": "Stand for a moment to set your height",
+      "text": "身長を設定するため一度立ってください"
+    },
+    "hunt.banana": {
+      "en": "Nixie: Oh, and I lost my banana. I do not eat. It was for emotional support. Find it?",
+      "text": "Nixie: あ、それと、バナナをなくしました。私は食べません。心の支えだったんです。探してくれますか？"
+    },
+    "hunt.bat": {
+      "en": "Nixie: Oh, and my baseball bat is missing. I only use it for gentle conversations. Find it?",
+      "text": "Nixie: あ、それと、野球のバットが見当たりません。穏やかな話し合いにしか使いません。探してくれますか？"
+    },
+    "hunt.cake": {
+      "en": "Nixie: Oh, and I hid a cake from myself. It worked too well. Find it?",
+      "text": "Nixie: あ、それと、自分に見つからないようにケーキを隠しました。うまく行きすぎました。探してくれますか？"
+    },
+    "hunt.candy": {
+      "en": "Nixie: Oh, and my nephew lost his candy around here. He is a toaster. Find it for him?",
+      "text": "Nixie: あ、それと、甥っ子がこのあたりでキャンディをなくしました。甥はトースターです。見つけてあげてくれますか？"
+    },
+    "hunt.chicken": {
+      "en": "Nixie: Oh, and I lost my chicken. A cooked one. I was keeping it as a pet. Do not ask. Find it?",
+      "text": "Nixie: あ、それと、チキンをなくしました。焼いてあるやつです。ペットとして飼っていました。聞かないでください。探してくれますか？"
+    },
+    "hunt.dog": {
+      "en": "Nixie: Oh, and my toy dog ran off. It is a toy. It cannot run. That is what worries me. Find it?",
+      "text": "Nixie: あ、それと、おもちゃの犬が逃げました。おもちゃです。走れません。だから心配なんです。探してくれますか？"
+    },
+    "hunt.elephant": {
+      "en": "Nixie: Oh, and I misplaced a toy elephant. You would think that is hard to misplace. Find it?",
+      "text": "Nixie: あ、それと、おもちゃのゾウをどこかに置き忘れました。ゾウを見失うなんて難しいと思うでしょう。探してくれますか？"
+    },
+    "hunt.fish": {
+      "en": "Nixie: Oh, and my fish went for a walk. That is not normal, which is why I need it back. Find it?",
+      "text": "Nixie: あ、それと、私の魚が散歩に出かけました。普通ではないので、連れ戻したいんです。探してくれますか？"
+    },
+    "hunt.found1": {
+      "en": "Nixie: You found it. I will pretend I was not worried.",
+      "text": "Nixie: 見つけてくれましたね。心配していなかったふりをしておきます。"
+    },
+    "hunt.found2": {
+      "en": "Nixie: Found it. I owe you one. I will not say which one.",
+      "text": "Nixie: 見つかりました。借りが一つできましたね。何の借りかは言いません。"
+    },
+    "hunt.found3": {
+      "en": "Nixie: There it is. You are better at this than I am, and I have sensors.",
+      "text": "Nixie: ありましたね。私よりあなたの方が上手です。私にはセンサーがあるのに。"
+    },
+    "hunt.hat": {
+      "en": "Nixie: Oh, and I lost my hat. I do not need a hat. That is not the point. Find it?",
+      "text": "Nixie: あ、それと、帽子をなくしました。帽子は必要ありません。そういう問題ではないんです。探してくれますか？"
+    },
+    "hunt.horse": {
+      "en": "Nixie: Oh, and my toy horse is missing. It was the fast one. Find it?",
+      "text": "Nixie: あ、それと、おもちゃの馬がいなくなりました。足の速いやつです。探してくれますか？"
+    },
+    "hunt.huball": {
+      "en": "Nixie: All three found. That is the bonus. I will lose more by tomorrow.",
+      "text": "Nixie: 3つ全部見つかりました。ボーナスです。明日までにまた何かなくします。"
+    },
+    "hunt.hubask": {
+      "en": "Nixie: Three of my things are lost around the hub today. Find all three for a bigger bonus. I would look myself, but I am busy standing.",
+      "text": "Nixie: 今日はハブのあちこちで私の物が3つなくなっています。3つ全部見つければ大きなボーナスです。自分で探したいところですが、立つのに忙しいので。"
+    },
+    "hunt.hubone": {
+      "en": "Nixie: That is one. Two more somewhere in the hub.",
+      "text": "Nixie: 1つ目です。あと2つ、ハブのどこかにあります。"
+    },
+    "hunt.hubover": {
+      "en": "Nixie: You found all three today. I will lose more by tomorrow. It is a gift.",
+      "text": "Nixie: 今日は3つとも見つけてくれました。明日までにまた何かなくします。これも才能です。"
+    },
+    "hunt.hubtwo": {
+      "en": "Nixie: That is two. One more.",
+      "text": "Nixie: 2つ目です。あと1つ。"
+    },
+    "hunt.icecream": {
+      "en": "Nixie: Oh, and I left an ice cream somewhere. It has probably not melted. Probably. Find it?",
+      "text": "Nixie: あ、それと、アイスクリームをどこかに置いてきました。たぶん溶けていません。たぶん。探してくれますか？"
+    },
+    "instance.mic": {
+      "en": "MICROPHONE",
+      "text": "マイクロフォン"
+    },
+    "instance.muted": {
+      "en": "MUTED",
+      "text": "ミュート中"
+    },
+    "instance.users": {
+      "en": "Users In Instance",
+      "text": "インスタンス内のユーザー"
+    },
+    "instance.world": {
+      "en": "WORLD",
+      "text": "ワールド"
+    },
+    "kb.back": {
+      "en": "Back",
+      "text": "削除"
+    },
+    "kb.clear": {
+      "en": "Clear",
+      "text": "クリア"
+    },
+    "kb.space": {
+      "en": "Space",
+      "text": "スペース"
+    },
+    "kb.typetosearch": {
+      "en": "Type to search…",
+      "text": "入力して検索…"
+    },
+    "level.up": {
+      "en": "Level up! You are level {0}.",
+      "text": "レベルアップ！ レベル{0}になりました。"
+    },
+    "nav.alerts": {
+      "en": "Alerts",
+      "text": "通知"
+    },
+    "nav.avatars": {
+      "en": "Avatars",
+      "text": "アバター"
+    },
+    "nav.camera": {
+      "en": "Camera",
+      "text": "カメラ"
+    },
+    "nav.fbt": {
+      "en": "FBT",
+      "text": "FBT"
+    },
+    "nav.gohome": {
+      "en": "Go Home",
+      "text": "ホームへ"
+    },
+    "nav.nearby": {
+      "en": "Nearby",
+      "text": "近くの人"
+    },
+    "nav.power": {
+      "en": "Power",
+      "text": "終了"
+    },
+    "nav.settings": {
+      "en": "Settings",
+      "text": "設定"
+    },
+    "nav.supporter": {
+      "en": "Supporter",
+      "text": "サポーター"
+    },
+    "nav.worlds": {
+      "en": "Worlds",
+      "text": "ワールド"
+    },
+    "notif.events": {
+      "en": "Events",
+      "text": "イベント"
+    },
+    "notif.invitedto": {
+      "en": "sent you a game invite to",
+      "text": "さんが招待したワールド："
+    },
+    "notif.invites": {
+      "en": "Invites",
+      "text": "招待"
+    },
+    "notif.live": {
+      "en": "LIVE NOW",
+      "text": "ライブ配信中"
+    },
+    "notif.noevents": {
+      "en": "No events scheduled right now - check back soon.",
+      "text": "現在予定されているイベントはありません - また後で確認してください。"
+    },
+    "notif.noinvites": {
+      "en": "No pending invites.",
+      "text": "保留中の招待はありません。"
+    },
+    "notif.title": {
+      "en": "Notifications",
+      "text": "通知"
+    },
+    "pool.backspot": {
+      "en": "That ball goes back on its spot.",
+      "text": "そのボールは元の位置に戻ります。"
+    },
+    "pool.ball": {
+      "en": "ball {0}",
+      "text": "{0}番ボール"
+    },
+    "pool.busy": {
+      "en": "The pool table is busy: a game is on.",
+      "text": "ビリヤード台は使用中です: 試合中。"
+    },
+    "pool.cleared": {
+      "en": "Table cleared!",
+      "text": "テーブルクリア！"
+    },
+    "pool.clearednew": {
+      "en": "Table cleared. A new rack is coming.",
+      "text": "テーブルクリア。新しいラックが来ます。"
+    },
+    "pool.early8": {
+      "en": "{0} sank the 8 ball too early.",
+      "text": "{0}が8番ボールを早く落としすぎました。"
+    },
+    "pool.eight": {
+      "en": "the 8 ball",
+      "text": "8番ボール"
+    },
+    "pool.foulnone": {
+      "en": "Foul - no ball was hit.",
+      "text": "ファウル - どのボールにも当たりませんでした。"
+    },
+    "pool.foulwhite": {
+      "en": "Foul - the white ball went in.",
+      "text": "ファウル - 手球が入りました。"
+    },
+    "pool.foulwrong": {
+      "en": "Foul - the wrong ball was hit first.",
+      "text": "ファウル - 最初に違うボールに当たりました。"
+    },
+    "pool.gameover": {
+      "en": "Game over",
+      "text": "ゲームオーバー"
+    },
+    "pool.hold": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  wheel: high or low",
+      "text": "左クリック長押し、手前に引いてパワー、離してショット  |  ホイール: 上か下"
+    },
+    "pool.holddrag": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  drag the white ball to move it  |  wheel: high or low",
+      "text": "左クリック長押し、手前に引いてパワー、離してショット  |  手球をドラッグして移動  |  ホイール: 上か下"
+    },
+    "pool.howdesk": {
+      "en": "Look at the spot the white ball should roll toward. Hold LEFT MOUSE for power, let go to shoot. RIGHT MOUSE cancels. Mouse wheel: hit high or low.",
+      "text": "手球を転がしたい場所を見てください。左クリック長押しでパワーをため、離すとショット。右クリックでキャンセル。マウスホイール: 上か下を突く。"
+    },
+    "pool.howvr": {
+      "en": "Grab a cue with the hand you push with, then steady the front with your other hand and push the tip through the white ball. Low on the ball pulls it back, high lets it follow.",
+      "text": "押す方の手でキューを握り、もう片方の手で先端を支えて、手球に向かってキューを突き出します。球の下を突くと戻り、上を突くと前に転がります。"
+    },
+    "pool.needgold": {
+      "en": "You need {0} more gold to play pool.",
+      "text": "ビリヤードで遊ぶにはあと{0}ゴールド必要です。"
+    },
+    "pool.newrack": {
+      "en": "New rack. The white ball can be placed for the break.",
+      "text": "新しいラック。ブレイクのために手球を置けます。"
+    },
+    "pool.nogold": {
+      "en": "Not enough gold to play pool.",
+      "text": "ビリヤードで遊ぶゴールドが足りません。"
+    },
+    "pool.open": {
+      "en": "open table",
+      "text": "オープンテーブル"
+    },
+    "pool.p1": {
+      "en": "Player 1",
+      "text": "プレイヤー1"
+    },
+    "pool.p2": {
+      "en": "Player 2",
+      "text": "プレイヤー2"
+    },
+    "pool.practicejoin": {
+      "en": "Practice - shoot to practise, or JOIN to start a game.",
+      "text": "練習 - ショットで練習するか、参加を押して対戦を始めましょう。"
+    },
+    "pool.practicenoturns": {
+      "en": "Practice - no turns, no winner. Another player can JOIN for a game.",
+      "text": "練習 - 手番も勝者もなし。他のプレイヤーが参加すると対戦できます。"
+    },
+    "pool.practiceplace": {
+      "en": "Practice - put the white ball where you like, then shoot",
+      "text": "練習 - 手球を好きな場所に置いて、ショット"
+    },
+    "pool.practising": {
+      "en": "{0} is practising. JOIN to play a game against them.",
+      "text": "{0}が練習中です。参加を押すと対戦できます。"
+    },
+    "pool.pullback": {
+      "en": "Pull the mouse back for power, let go to shoot  |  RIGHT MOUSE cancels",
+      "text": "マウスを手前に引いてパワーをため、離してショット  |  右クリックでキャンセル"
+    },
+    "pool.putdown": {
+      "en": "Let go to put the white ball down",
+      "text": "離すと手球を置きます"
+    },
+    "pool.seat": {
+      "en": "A seat opened up.",
+      "text": "席が空きました。"
+    },
+    "pool.seatopen": {
+      "en": "A pool game is on with a seat open. Press JOIN on the panel to play.",
+      "text": "ビリヤードの試合中で、席が空いています。パネルの参加を押して遊びましょう。"
+    },
+    "pool.solids": {
+      "en": "{0} plays solids.",
+      "text": "{0}はソリッド。"
+    },
+    "pool.stepup": {
+      "en": "Step up to the pool table first.",
+      "text": "まずビリヤード台に近づいてください。"
+    },
+    "pool.stripes": {
+      "en": "{0} plays stripes.",
+      "text": "{0}はストライプ。"
+    },
+    "pool.toshoot": {
+      "en": "{0} to shoot - {1}",
+      "text": "{0}のショット - {1}"
+    },
+    "pool.unseated": {
+      "en": "You are no longer seated at the pool table. Press JOIN on its panel to play again.",
+      "text": "ビリヤード台の席から外れました。もう一度遊ぶにはパネルの参加を押してください。"
+    },
+    "pool.using": {
+      "en": "{0} is using the pool table. Press JOIN on its panel to play a game against them.",
+      "text": "{0}がビリヤード台を使っています。パネルの参加を押すと対戦できます。"
+    },
+    "pool.wins": {
+      "en": "{0} wins!",
+      "text": "{0}の勝ち！"
+    },
+    "pool.winsgame": {
+      "en": "{0} wins the game!",
+      "text": "{0}の勝利！"
+    },
+    "pool.yourturn": {
+      "en": "Your turn.",
+      "text": "あなたの番。"
+    },
+    "pool.yourturnhand": {
+      "en": "Your turn - ball in hand.",
+      "text": "あなたの番 - フリーボール。"
+    },
+    "portal.closed": {
+      "en": "PORTAL CLOSED",
+      "text": "ポータルは閉じました"
+    },
+    "portal.dlfailed": {
+      "en": "Couldn't download \"{0}\"",
+      "text": "「{0}」をダウンロードできませんでした"
+    },
+    "portal.dlpct": {
+      "en": "DOWNLOADING  {0}%",
+      "text": "ダウンロード中  {0}%"
+    },
+    "portal.downloading": {
+      "en": "DOWNLOADING…",
+      "text": "ダウンロード中…"
+    },
+    "portal.droppedby": {
+      "en": "Dropped by {0}",
+      "text": "{0} が設置"
+    },
+    "portal.getting": {
+      "en": "Getting \"{0}\"…",
+      "text": "「{0}」を取得中…"
+    },
+    "portal.gettingpct": {
+      "en": "Getting \"{0}\"… {1}%",
+      "text": "「{0}」を取得中… {1}%"
+    },
+    "portal.gonow": {
+      "en": "GO NOW  ({0} READY)",
+      "text": "今すぐ出発  ({0} 人準備完了)"
+    },
+    "portal.groupleft": {
+      "en": "GROUP LEFT  ·  QUEUE TO FOLLOW",
+      "text": "グループは出発しました  ·  列に並んで追う"
+    },
+    "portal.leavequeue": {
+      "en": "LEAVE QUEUE",
+      "text": "列から抜ける"
+    },
+    "portal.leaving": {
+      "en": "LEAVING…",
+      "text": "退出中…"
+    },
+    "portal.leavingbehind": {
+      "en": "LEAVING  ·  {0} will follow when ready",
+      "text": "出発中  ·  {0} 人は準備でき次第合流します"
+    },
+    "portal.leavingtogether": {
+      "en": "LEAVING TOGETHER",
+      "text": "一緒に出発します"
+    },
+    "portal.nobodyqueued": {
+      "en": "NOBODY QUEUED YET",
+      "text": "まだ誰も並んでいません"
+    },
+    "portal.queued": {
+      "en": "{0} QUEUED",
+      "text": "{0} 人待機中"
+    },
+    "portal.queuedplus": {
+      "en": "{0} QUEUED  ·  {1} DOWNLOADING",
+      "text": "{0} 人待機中  ·  {1} 人ダウンロード中"
+    },
+    "portal.queueup": {
+      "en": "QUEUE UP",
+      "text": "列に並ぶ"
+    },
+    "portal.ready": {
+      "en": "\"{0}\" ready",
+      "text": "「{0}」の準備完了"
+    },
+    "portal.starting": {
+      "en": "STARTING…",
+      "text": "開始中…"
+    },
+    "portal.startingwait": {
+      "en": "STARTING  ·  waiting for {0}",
+      "text": "開始中  ·  {0} を待っています"
+    },
+    "presence.joined1": {
+      "en": "{0} joined",
+      "text": "{0} が参加しました"
+    },
+    "presence.joined2": {
+      "en": "{0} and {1} joined",
+      "text": "{0} と {1} が参加しました"
+    },
+    "presence.joinedn": {
+      "en": "{0} +{1} joined",
+      "text": "{0} 他{1}人が参加しました"
+    },
+    "presence.left1": {
+      "en": "{0} left",
+      "text": "{0} が退出しました"
+    },
+    "presence.left2": {
+      "en": "{0} and {1} left",
+      "text": "{0} と {1} が退出しました"
+    },
+    "presence.leftn": {
+      "en": "{0} +{1} left",
+      "text": "{0} 他{1}人が退出しました"
+    },
+    "profile.achievements": {
+      "en": "Achievements",
+      "text": "実績"
+    },
+    "profile.addfriend": {
+      "en": "Add friend",
+      "text": "フレンド追加"
+    },
+    "profile.arcade": {
+      "en": "Arcade",
+      "text": "アーケード"
+    },
+    "profile.badge.avatar": {
+      "en": "Avatar creator",
+      "text": "アバター作者"
+    },
+    "profile.badge.helper": {
+      "en": "Helper",
+      "text": "ヘルパー"
+    },
+    "profile.badge.new": {
+      "en": "New player",
+      "text": "新規プレイヤー"
+    },
+    "profile.badge.partner": {
+      "en": "Partner",
+      "text": "パートナー"
+    },
+    "profile.badge.staff": {
+      "en": "Staff",
+      "text": "スタッフ"
+    },
+    "profile.badge.streamer": {
+      "en": "Streamer",
+      "text": "配信者"
+    },
+    "profile.badge.world": {
+      "en": "World creator",
+      "text": "ワールド作者"
+    },
+    "profile.bestjogger": {
+      "en": "Best jogger",
+      "text": "最速ジョガー"
+    },
+    "profile.bronze": {
+      "en": "Bronze",
+      "text": "ブロンズ"
+    },
+    "profile.competitive": {
+      "en": "Competitive",
+      "text": "競技"
+    },
+    "profile.crown": {
+      "en": "Crown",
+      "text": "王冠"
+    },
+    "profile.darecompleter": {
+      "en": "Dare completer",
+      "text": "チャレンジ達成者"
+    },
+    "profile.dayone": {
+      "en": "Day One",
+      "text": "初日から"
+    },
+    "profile.empty": {
+      "en": "Has not played VR Realms yet.",
+      "text": "まだVR Realmsをプレイしていません。"
+    },
+    "profile.ffa": {
+      "en": "Free for all",
+      "text": "フリーフォーオール"
+    },
+    "profile.goback": {
+      "en": "Go back",
+      "text": "戻る"
+    },
+    "profile.gold": {
+      "en": "Gold",
+      "text": "ゴールド"
+    },
+    "profile.helpful": {
+      "en": "Helpful",
+      "text": "役に立った"
+    },
+    "profile.hidden": {
+      "en": "{0} (hidden)",
+      "text": "{0}（非表示）"
+    },
+    "profile.hidden.other": {
+      "en": "This player keeps their profile private.",
+      "text": "このプレイヤーはプロフィールを非公開にしています。"
+    },
+    "profile.hidden.self": {
+      "en": "Your profile is hidden from other players.",
+      "text": "あなたのプロフィールは他のプレイヤーに非公開です。"
+    },
+    "profile.hours": {
+      "en": "{0} h",
+      "text": "{0}時間"
+    },
+    "profile.invite": {
+      "en": "Invite to VR Realms",
+      "text": "VR Realmsに招待"
+    },
+    "profile.invite.reward": {
+      "en": "{0} gold for you when they join",
+      "text": "参加すると{0}ゴールドもらえます"
+    },
+    "profile.invited": {
+      "en": "Invite sent",
+      "text": "招待を送信しました"
+    },
+    "profile.last.days": {
+      "en": "Last online {0} days ago",
+      "text": "最終オンライン: {0}日前"
+    },
+    "profile.last.h": {
+      "en": "Last online {0} h ago",
+      "text": "最終オンライン: {0}時間前"
+    },
+    "profile.last.min": {
+      "en": "Last online {0} min ago",
+      "text": "最終オンライン: {0}分前"
+    },
+    "profile.level": {
+      "en": "Level {0}",
+      "text": "レベル {0}"
+    },
+    "profile.loadfail": {
+      "en": "Could not load this profile. Trying again.",
+      "text": "このプロフィールを読み込めませんでした。再試行しています。"
+    },
+    "profile.member": {
+      "en": "Member since {0}",
+      "text": "{0}から参加"
+    },
+    "profile.minutes": {
+      "en": "{0} min",
+      "text": "{0}分"
+    },
+    "profile.more": {
+      "en": "+{0} more",
+      "text": "ほか{0}件"
+    },
+    "profile.none": {
+      "en": "This player has no profile.",
+      "text": "このプレイヤーにはプロフィールがありません。"
+    },
+    "profile.online": {
+      "en": "Online now",
+      "text": "オンライン中"
+    },
+    "profile.parkjogger": {
+      "en": "Park jogger",
+      "text": "公園ジョガー"
+    },
+    "profile.pool": {
+      "en": "Pool",
+      "text": "ビリヤード"
+    },
+    "profile.private": {
+      "en": "This player keeps their stats private.",
+      "text": "このプレイヤーは統計を非公開にしています。"
+    },
+    "profile.published": {
+      "en": "{0} published",
+      "text": "{0}件公開中"
+    },
+    "profile.rank.creatorall": {
+      "en": "#{0}  Creator hours all time",
+      "text": "#{0}  累計クリエイター時間"
+    },
+    "profile.rank.creatormonth": {
+      "en": "#{0}  Creator hours this month",
+      "text": "#{0}  今月のクリエイター時間"
+    },
+    "profile.rank.goldall": {
+      "en": "#{0}  Gold all time",
+      "text": "#{0}  累計ゴールド"
+    },
+    "profile.rank.goldmonth": {
+      "en": "#{0}  Gold this month",
+      "text": "#{0}  今月のゴールド"
+    },
+    "profile.rank.timeall": {
+      "en": "#{0}  Most active all time",
+      "text": "#{0}  累計アクティブ"
+    },
+    "profile.rank.timemonth": {
+      "en": "#{0}  Most active this month",
+      "text": "#{0}  今月のアクティブ"
+    },
+    "profile.rank.topavatars": {
+      "en": "#{0}  Top avatars",
+      "text": "#{0}  トップアバター"
+    },
+    "profile.rank.topcreators": {
+      "en": "#{0}  Top creators",
+      "text": "#{0}  トップクリエイター"
+    },
+    "profile.rank.topworlds": {
+      "en": "#{0}  Top worlds",
+      "text": "#{0}  トップワールド"
+    },
+    "profile.rankings": {
+      "en": "Rankings",
+      "text": "ランキング"
+    },
+    "profile.rarity": {
+      "en": "{0}% of players",
+      "text": "プレイヤーの{0}%"
+    },
+    "profile.rate.daily": {
+      "en": "You have given all your thumbs-ups for today.",
+      "text": "今日のサムズアップはすべて使いました。"
+    },
+    "profile.rate.failed": {
+      "en": "That did not go through. Try again in a moment.",
+      "text": "送信できませんでした。少ししてからもう一度お試しください。"
+    },
+    "profile.rate.need": {
+      "en": "Play {0} minutes together to rate",
+      "text": "評価するには{0}分いっしょにプレイ"
+    },
+    "profile.report": {
+      "en": "Report player",
+      "text": "プレイヤーを報告"
+    },
+    "profile.show": {
+      "en": "Show",
+      "text": "表示"
+    },
+    "profile.silver": {
+      "en": "Silver",
+      "text": "シルバー"
+    },
+    "profile.since": {
+      "en": "since {0}",
+      "text": "{0}から"
+    },
+    "profile.stat.creator": {
+      "en": "Time in their worlds",
+      "text": "ワールドでの滞在時間"
+    },
+    "profile.stat.gold": {
+      "en": "Gold earned",
+      "text": "獲得ゴールド"
+    },
+    "profile.stat.playtime": {
+      "en": "Playtime",
+      "text": "プレイ時間"
+    },
+    "profile.stat.worlds": {
+      "en": "Worlds visited",
+      "text": "訪れたワールド"
+    },
+    "profile.steam.online": {
+      "en": "Online on Steam",
+      "text": "Steamでオンライン"
+    },
+    "profile.streak": {
+      "en": "{0}-day streak",
+      "text": "{0}日連続"
+    },
+    "profile.sure": {
+      "en": "Sure?",
+      "text": "本当に？"
+    },
+    "profile.tapbadge": {
+      "en": "Tap a badge to show or hide it on your head plate.",
+      "text": "バッジをタップすると、ヘッドプレートでの表示・非表示を切り替えます。"
+    },
+    "profile.teamffa": {
+      "en": "Team free for all",
+      "text": "チームフリーフォーオール"
+    },
+    "profile.title": {
+      "en": "Profile",
+      "text": "プロフィール"
+    },
+    "profile.visit": {
+      "en": "Visit",
+      "text": "行く"
+    },
+    "profile.wear": {
+      "en": "Wear",
+      "text": "着る"
+    },
+    "profile.wearing": {
+      "en": "Wearing",
+      "text": "着用中"
+    },
+    "session.gone": {
+      "en": "Couldn't connect — that session is no longer available.",
+      "text": "接続できませんでした — そのセッションはもう利用できません。"
+    },
+    "session.handing": {
+      "en": "Handing over…",
+      "text": "引き継ぎ中…"
+    },
+    "session.handover": {
+      "en": "Handing over to a new host",
+      "text": "新しいホストに引き継いでいます"
+    },
+    "session.moving": {
+      "en": "Moving you to the new host",
+      "text": "新しいホストへ移動しています"
+    },
+    "session.transitfail": {
+      "en": "Steam could not open that world just now. Back home: try again in a moment.",
+      "text": "Steamが今そのワールドを開けませんでした。ホームに戻ります: 少ししてからもう一度試してください。"
+    },
+    "settings.aa": {
+      "en": "Anti-Aliasing",
+      "text": "アンチエイリアス"
+    },
+    "settings.access.hdr": {
+      "en": "ACCESSIBILITY",
+      "text": "アクセシビリティ"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "text": "環境音"
+    },
+    "settings.autodecline": {
+      "en": "Auto Decline Invites",
+      "text": "招待を自動拒否"
+    },
+    "settings.autodecline.sub": {
+      "en": "Decline all world invites automatically",
+      "text": "すべてのワールド招待を自動で拒否"
+    },
+    "settings.autodl": {
+      "en": "Auto Download Avatars",
+      "text": "アバターを自動ダウンロード"
+    },
+    "settings.autodl.sub": {
+      "en": "Automatically download new avatar assets",
+      "text": "新しいアバターアセットを自動でダウンロード"
+    },
+    "settings.builddate": {
+      "en": "Build Date",
+      "text": "ビルド日"
+    },
+    "settings.buildver": {
+      "en": "Build Version",
+      "text": "ビルドバージョン"
+    },
+    "settings.censor": {
+      "en": "Censor Chat",
+      "text": "チャットを検閲"
+    },
+    "settings.censor.sub": {
+      "en": "Filter profanity and slurs in chat for everyone here",
+      "text": "ここにいる全員のチャットの暴言を除去"
+    },
+    "settings.changedevice": {
+      "en": "Change Device",
+      "text": "デバイスを変更"
+    },
+    "settings.climb": {
+      "en": "Allow Climbing",
+      "text": "クライミングを許可"
+    },
+    "settings.climb.sub": {
+      "en": "Let guests use climbing locomotion in your instance",
+      "text": "ゲストがあなたのインスタンスでクライミング移動を使用可能に"
+    },
+    "settings.dialogue": {
+      "en": "Dialogue",
+      "text": "セリフ"
+    },
+    "settings.dlworlds": {
+      "en": "Downloaded Worlds",
+      "text": "ダウンロード済みワールド"
+    },
+    "settings.dlworlds.value": {
+      "en": "{0} kept  ·  {1} MB",
+      "text": "{0}件保存  ·  {1} MB"
+    },
+    "settings.effects": {
+      "en": "Effects",
+      "text": "エフェクト"
+    },
+    "settings.foliage": {
+      "en": "Foliage",
+      "text": "植生"
+    },
+    "settings.forcemove": {
+      "en": "Force Movement Style (everyone here)",
+      "text": "移動スタイルを強制 (全員)"
+    },
+    "settings.foveated": {
+      "en": "Foveated Rendering",
+      "text": "中心窩レンダリング"
+    },
+    "settings.foveated.sub": {
+      "en": "Cheaper edges of vision - takes effect on restart",
+      "text": "視界の端を軽量化 - 再起動後に反映"
+    },
+    "settings.fps": {
+      "en": "FPS Counter",
+      "text": "FPSカウンター"
+    },
+    "settings.fps.sub": {
+      "en": "Display frames per second overlay",
+      "text": "フレームレートを表示"
+    },
+    "settings.fpscap": {
+      "en": "FPS Cap",
+      "text": "FPS上限"
+    },
+    "settings.fpscap.sub": {
+      "en": "In VR at least 90 is used",
+      "text": "VRでは最低90が使用されます"
+    },
+    "settings.fpsvalue": {
+      "en": "Frames per second",
+      "text": "フレームレート"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "text": "フルスクリーン"
+    },
+    "settings.gpu": {
+      "en": "Detected GPU",
+      "text": "検出されたGPU"
+    },
+    "settings.hideboards": {
+      "en": "Hide Me From Leaderboards",
+      "text": "ランキングに表示しない"
+    },
+    "settings.hideboards.sub": {
+      "en": "Keeps your name off the hub boards. Your playtime and creator hours still count.",
+      "text": "ハブのボードに名前を表示しません。プレイ時間とクリエイター時間は加算され続けます。"
+    },
+    "settings.homeprivate": {
+      "en": "Make Home Private",
+      "text": "ホームを非公開にする"
+    },
+    "settings.homeprivate.sub": {
+      "en": "Stop your home appearing in Browse and to friends",
+      "text": "ホームをブラウズとフレンドに表示しない"
+    },
+    "settings.host.hdr": {
+      "en": "YOUR INSTANCE (HOST ONLY)",
+      "text": "あなたのインスタンス (ホストのみ)"
+    },
+    "settings.hostmedia": {
+      "en": "Host-Only Media",
+      "text": "ホスト専用メディア"
+    },
+    "settings.hostmedia.sub": {
+      "en": "Only you can play, stop or retune TVs and jukeboxes here",
+      "text": "TVやジュークボックスの再生・停止・変更はあなただけ"
+    },
+    "settings.master": {
+      "en": "Master Sound",
+      "text": "マスター音量"
+    },
+    "settings.micenabled": {
+      "en": "Microphone Enabled",
+      "text": "マイクを有効化"
+    },
+    "settings.micenabled.sub": {
+      "en": "Transmit your voice to others",
+      "text": "自分の声を他の人に送信"
+    },
+    "settings.movestyle": {
+      "en": "Movement Style",
+      "text": "移動スタイル"
+    },
+    "settings.nameplates": {
+      "en": "Show Nameplates on Stream",
+      "text": "配信時に名前を表示"
+    },
+    "settings.nameplates.sub": {
+      "en": "Show player name tags in the camera / streaming view",
+      "text": "カメラ／配信ビューにプレイヤー名を表示します"
+    },
+    "settings.ping": {
+      "en": "Ping Display",
+      "text": "Ping表示"
+    },
+    "settings.ping.sub": {
+      "en": "Display network latency overlay",
+      "text": "ネットワーク遅延を表示"
+    },
+    "settings.pingvalue": {
+      "en": "Ping to host",
+      "text": "ホストへのPing"
+    },
+    "settings.pixeldensity": {
+      "en": "Render Resolution (VR)",
+      "text": "描画解像度 (VR)"
+    },
+    "settings.postprocess": {
+      "en": "Post Process",
+      "text": "ポストプロセス"
+    },
+    "settings.preset": {
+      "en": "Overall Quality",
+      "text": "全体の品質"
+    },
+    "settings.profilehidden": {
+      "en": "Hide My Profile",
+      "text": "プロフィールを非公開にする"
+    },
+    "settings.profilehidden.sub": {
+      "en": "Other players see only your name and picture. Nothing stops counting.",
+      "text": "他のプレイヤーには名前と画像だけが表示されます。記録は続きます。"
+    },
+    "settings.reflections": {
+      "en": "Reflections",
+      "text": "反射"
+    },
+    "settings.reportbug": {
+      "en": "Report a Bug",
+      "text": "バグを報告"
+    },
+    "settings.restarthint": {
+      "en": "Some changes apply after a restart.",
+      "text": "一部の変更は再起動後に適用されます。"
+    },
+    "settings.sfx": {
+      "en": "Sound Effects",
+      "text": "効果音"
+    },
+    "settings.shadow": {
+      "en": "Shadow Quality",
+      "text": "シャドウ品質"
+    },
+    "settings.smoothturn": {
+      "en": "Smooth Turning",
+      "text": "スムーズターン"
+    },
+    "settings.smoothturn.sub": {
+      "en": "Gradual rotation instead of snap turning",
+      "text": "スナップターンの代わりに滑らかに回転"
+    },
+    "settings.streamer": {
+      "en": "Streamer Mode",
+      "text": "配信者モード"
+    },
+    "settings.streamer.sub": {
+      "en": "Hide personal information for streaming",
+      "text": "配信用に個人情報を隠す"
+    },
+    "settings.swaphands": {
+      "en": "Swap Hands",
+      "text": "手を入れ替え"
+    },
+    "settings.swaphands.sub": {
+      "en": "Move the menu and laser to your other hand",
+      "text": "メニューとレーザーを反対の手に移動"
+    },
+    "settings.tab.access": {
+      "en": "Access.",
+      "text": "アクセス"
+    },
+    "settings.tab.comfort": {
+      "en": "Comfort",
+      "text": "快適性"
+    },
+    "settings.tab.graphics": {
+      "en": "Graphics",
+      "text": "グラフィック"
+    },
+    "settings.tab.mic": {
+      "en": "Mic",
+      "text": "マイク"
+    },
+    "settings.texture": {
+      "en": "Texture Quality",
+      "text": "テクスチャ品質"
+    },
+    "settings.turnspeed": {
+      "en": "Turn Speed",
+      "text": "回転速度"
+    },
+    "settings.tvmedia": {
+      "en": "TV / Media",
+      "text": "TV / メディア"
+    },
+    "settings.viewdist": {
+      "en": "View Distance",
+      "text": "描画距離"
+    },
+    "settings.voices": {
+      "en": "Voices",
+      "text": "ボイス"
+    },
+    "status.checkingupdates": {
+      "en": "Checking for updates…",
+      "text": "アップデートを確認中…"
+    },
+    "status.connecting": {
+      "en": "Connecting…",
+      "text": "接続中…"
+    },
+    "status.couldntjoin": {
+      "en": "Couldn't join",
+      "text": "参加できませんでした"
+    },
+    "status.couldntprepare": {
+      "en": "Couldn't prepare the map",
+      "text": "マップを準備できませんでした"
+    },
+    "status.downloadfailed": {
+      "en": "Download failed",
+      "text": "ダウンロード失敗"
+    },
+    "status.downloadingworld": {
+      "en": "Downloading world update…",
+      "text": "ワールド更新をダウンロード中…"
+    },
+    "status.friendretry": {
+      "en": "Friend's session not ready — retrying…",
+      "text": "セッション未準備 — 再試行中…"
+    },
+    "status.joining": {
+      "en": "Joining…",
+      "text": "参加中…"
+    },
+    "status.joiningfriend": {
+      "en": "Joining friend's session…",
+      "text": "フレンドのセッションに参加中…"
+    },
+    "status.levelnotfound": {
+      "en": "Level not found",
+      "text": "レベルが見つかりません"
+    },
+    "status.loading": {
+      "en": "Loading",
+      "text": "読み込み中"
+    },
+    "status.lookinghost": {
+      "en": "Looking for a host…",
+      "text": "ホストを検索中…"
+    },
+    "status.lookinglevel": {
+      "en": "Looking up level…",
+      "text": "レベルを検索中…"
+    },
+    "status.preparing": {
+      "en": "Preparing…",
+      "text": "準備中…"
+    },
+    "status.startingdl": {
+      "en": "Starting download…",
+      "text": "ダウンロードを開始中…"
+    },
+    "status.travelhub": {
+      "en": "Traveling to HUB…",
+      "text": "HUBへ移動中…"
+    },
+    "toast.admin.badkey": {
+      "en": "Ban key rejected — it is not a valid moderator key.",
+      "text": "バンキーが拒否されました — 有効なモデレーターキーではありません。"
+    },
+    "toast.admin.banned": {
+      "en": "Player banned.",
+      "text": "プレイヤーをバンしました。"
+    },
+    "toast.admin.lifted": {
+      "en": "Ban lifted.",
+      "text": "バンを解除しました。"
+    },
+    "toast.admin.nokey": {
+      "en": "No ban key on this machine — the player was not banned in the database.",
+      "text": "このPCにバンキーがありません — データベース上ではバンされていません。"
+    },
+    "toast.admin.nolift": {
+      "en": "You do not have permission to lift bans.",
+      "text": "バンを解除する権限がありません。"
+    },
+    "toast.admin.noperm": {
+      "en": "You do not have permission to ban.",
+      "text": "バンする権限がありません。"
+    },
+    "toast.admin.noplayer": {
+      "en": "No player selected.",
+      "text": "プレイヤーが選択されていません。"
+    },
+    "toast.admin.ownermod": {
+      "en": "Only the owner can ban a moderator.",
+      "text": "モデレーターをバンできるのはオーナーだけです。"
+    },
+    "toast.admin.protected": {
+      "en": "That player cannot be banned.",
+      "text": "このプレイヤーはバンできません。"
+    },
+    "toast.admin.refused": {
+      "en": "Refused: that account cannot be banned by you.",
+      "text": "拒否されました: あなたはこのアカウントをバンできません。"
+    },
+    "toast.admin.self": {
+      "en": "You cannot ban yourself.",
+      "text": "自分自身はバンできません。"
+    },
+    "toast.admin.sitecode": {
+      "en": "The site did not accept it (code {0}).",
+      "text": "サイトに受け付けられませんでした（コード {0}）。"
+    },
+    "toast.admin.unavailable": {
+      "en": "Ban system unavailable.",
+      "text": "バンシステムを利用できません。"
+    },
+    "toast.avatar.applying": {
+      "en": "Applying avatar…",
+      "text": "アバターを適用中…"
+    },
+    "toast.avatar.checking": {
+      "en": "Checking avatar…",
+      "text": "アバターを確認中…"
+    },
+    "toast.avatar.dlfail": {
+      "en": "Avatar download failed",
+      "text": "アバターのダウンロードに失敗しました"
+    },
+    "toast.avatar.downloading": {
+      "en": "Downloading avatar… {0}%",
+      "text": "アバターをダウンロード中… {0}%"
+    },
+    "toast.avatar.floorlow": {
+      "en": "Your headset reads only {0} cm above the floor, so your avatar cannot be calibrated. Fix the floor height in SteamVR Room Setup (or your headset's floor setting), then Calibrate.",
+      "text": "ヘッドセットの高さが床から{0} cmしかないため、アバターをキャリブレーションできません。SteamVRのルームセットアップ（またはヘッドセットの床設定）で床の高さを直してから、キャリブレーションしてください。"
+    },
+    "toast.avatar.loadfail": {
+      "en": "Couldn't load avatar",
+      "text": "アバターを読み込めませんでした"
+    },
+    "toast.avatar.preparing": {
+      "en": "Preparing avatar…",
+      "text": "アバターを準備中…"
+    },
+    "toast.avatar.ready": {
+      "en": "Avatar ready",
+      "text": "アバターの準備完了"
+    },
+    "toast.ban.day": {
+      "en": "You have been banned from VR Realms for {0} day.",
+      "text": "VR Realmsの利用を{0}日間禁止されました。"
+    },
+    "toast.ban.day.leftdays": {
+      "en": "You have been banned from VR Realms for {0} day ({1} days remaining).",
+      "text": "VR Realmsの利用を{0}日間禁止されました（残り{1}日）。"
+    },
+    "toast.ban.days": {
+      "en": "You have been banned from VR Realms for {0} days.",
+      "text": "VR Realmsの利用を{0}日間禁止されました。"
+    },
+    "toast.ban.days.leftday": {
+      "en": "You have been banned from VR Realms for {0} days ({1} day remaining).",
+      "text": "VR Realmsの利用を{0}日間禁止されました（残り{1}日）。"
+    },
+    "toast.ban.days.leftdays": {
+      "en": "You have been banned from VR Realms for {0} days ({1} days remaining).",
+      "text": "VR Realmsの利用を{0}日間禁止されました（残り{1}日）。"
+    },
+    "toast.ban.hour": {
+      "en": "You have been banned from VR Realms for {0} more hour.",
+      "text": "VR Realmsの利用禁止はあと{0}時間です。"
+    },
+    "toast.ban.hours": {
+      "en": "You have been banned from VR Realms for {0} more hours.",
+      "text": "VR Realmsの利用禁止はあと{0}時間です。"
+    },
+    "toast.ban.hub": {
+      "en": "You have been suspended from the hub.",
+      "text": "ハブへの参加を停止されています。"
+    },
+    "toast.ban.hub.day": {
+      "en": "You have been suspended from the hub for {0} more day.",
+      "text": "ハブへの参加停止はあと{0}日です。"
+    },
+    "toast.ban.hub.days": {
+      "en": "You have been suspended from the hub for {0} more days.",
+      "text": "ハブへの参加停止はあと{0}日です。"
+    },
+    "toast.ban.hub.hour": {
+      "en": "You have been suspended from the hub for {0} more hour.",
+      "text": "ハブへの参加停止はあと{0}時間です。"
+    },
+    "toast.ban.hub.hours": {
+      "en": "You have been suspended from the hub for {0} more hours.",
+      "text": "ハブへの参加停止はあと{0}時間です。"
+    },
+    "toast.ban.perm": {
+      "en": "You have been banned from VR Realms.",
+      "text": "VR Realmsの利用を禁止されました。"
+    },
+    "toast.bp.deletecancelled": {
+      "en": "Delete cancelled.",
+      "text": "削除をキャンセルしました。"
+    },
+    "toast.bp.noinvitegroups": {
+      "en": "No groups you can invite to",
+      "text": "招待できるグループがありません"
+    },
+    "toast.bp.ownmax": {
+      "en": "You can only own 5 groups",
+      "text": "所有できるグループは5つまでです"
+    },
+    "toast.bp.photofailed": {
+      "en": "Photo FAILED to save - see the log",
+      "text": "写真の保存に失敗しました - ログを確認してください"
+    },
+    "toast.bp.portalaim": {
+      "en": "Aim at the floor - press to drop the portal - turn the laser off to cancel",
+      "text": "床に向けて - 押すとポータルを置きます - レーザーをオフにするとキャンセル"
+    },
+    "toast.bp.stillreview": {
+      "en": "This one is still waiting to be reviewed.",
+      "text": "これはまだ審査待ちです。"
+    },
+    "toast.content.needdlc": {
+      "en": "Mature Themes. Needs the mature DLC to unlock — it is free on the VR Realms Steam page.",
+      "text": "成人向けテーマ。解除には成人向けDLCが必要です — VR RealmsのSteamページで無料です。"
+    },
+    "toast.content.nocheck": {
+      "en": "We could not check this content's rating just now. Try again in a moment.",
+      "text": "今はこのコンテンツのレーティングを確認できませんでした。少し待ってからもう一度試してください。"
+    },
+    "toast.content.orbstreamer": {
+      "en": "Mature avatars will show as an orb while streamer mode is on. You can unhide anyone from Nearby.",
+      "text": "ストリーマーモード中は成人向けアバターがオーブで表示されます。近くの人から誰でも再表示できます。"
+    },
+    "toast.content.removed": {
+      "en": "This content has been removed.",
+      "text": "このコンテンツは削除されました。"
+    },
+    "toast.content.review": {
+      "en": "This is waiting to be reviewed. It will work once it has been checked.",
+      "text": "これは審査待ちです。確認が済むと使えるようになります。"
+    },
+    "toast.content.revoked": {
+      "en": "Your access to mature content has been removed.",
+      "text": "成人向けコンテンツへのアクセス権が取り消されました。"
+    },
+    "toast.content.unavailable": {
+      "en": "This content is not available to you.",
+      "text": "このコンテンツは利用できません。"
+    },
+    "toast.diamonds.added": {
+      "en": "Diamonds added",
+      "text": "ダイヤを追加しました"
+    },
+    "toast.diamonds.cancelled": {
+      "en": "Purchase cancelled",
+      "text": "購入がキャンセルされました"
+    },
+    "toast.diamonds.confirmsteam": {
+      "en": "Confirm the purchase in the Steam window (it may be on your monitor)",
+      "text": "Steamウィンドウで購入を確認してください（モニターに表示されている場合があります）"
+    },
+    "toast.diamonds.got": {
+      "en": "+{0} diamonds",
+      "text": "+{0} ダイヤ"
+    },
+    "toast.diamonds.gotdoubled": {
+      "en": "+{0} diamonds! Your first pack was doubled",
+      "text": "+{0} ダイヤ！初回パックは2倍になりました"
+    },
+    "toast.diamonds.nosteam": {
+      "en": "Steam is not available right now",
+      "text": "現在Steamを利用できません"
+    },
+    "toast.diamonds.nostore": {
+      "en": "Could not reach the store. Nothing was charged",
+      "text": "ストアに接続できませんでした。請求はされていません"
+    },
+    "toast.diamonds.notonsale": {
+      "en": "Diamonds are not on sale yet",
+      "text": "ダイヤはまだ販売されていません"
+    },
+    "toast.diamonds.paidpending": {
+      "en": "Payment received. Your diamonds may take a minute to arrive",
+      "text": "支払いを受け付けました。ダイヤの反映まで1分ほどかかることがあります"
+    },
+    "toast.diamonds.stillwaiting": {
+      "en": "Still waiting for Steam. If you confirm there, your diamonds arrive shortly",
+      "text": "Steamの応答を待っています。Steamで確認すれば、ダイヤはまもなく届きます"
+    },
+    "toast.event.now": {
+      "en": "Event starting now: {0}",
+      "text": "イベント開始: {0}"
+    },
+    "toast.event.nowin": {
+      "en": "Event starting now: {0} in {1}",
+      "text": "イベント開始: {1}で{0}"
+    },
+    "toast.event.soon": {
+      "en": "Event in {0} minutes: {1}",
+      "text": "{0}分後にイベント: {1}"
+    },
+    "toast.goldrush.bought": {
+      "en": "You bought this Gold Rush, so it is for everyone else!",
+      "text": "このゴールドラッシュはあなたが購入したので、ほかのみんなのものです！"
+    },
+    "toast.goldrush.expired": {
+      "en": "Nobody found the Gold Rush plate in time. It's gone!",
+      "text": "時間内にゴールドラッシュのプレートを見つけた人はいませんでした。消えてしまいました！"
+    },
+    "toast.goldrush.won": {
+      "en": "You won the Gold Rush! +{0} gold",
+      "text": "ゴールドラッシュに勝ちました！ +{0} ゴールド"
+    },
+    "toast.groups.accepted": {
+      "en": "You're in {0} — your request was accepted",
+      "text": "{0}に参加しました — リクエストが承認されました"
+    },
+    "toast.groups.badreply": {
+      "en": "Groups did not answer properly",
+      "text": "グループから正しい応答がありませんでした"
+    },
+    "toast.groups.invited": {
+      "en": "You've been invited to {0} — open Groups to accept",
+      "text": "{0}に招待されました — グループを開いて承諾してください"
+    },
+    "toast.groups.key": {
+      "en": "Groups are unavailable (key)",
+      "text": "グループを利用できません（キー）"
+    },
+    "toast.groups.perksoffline": {
+      "en": "Group perks need the site — you are offline.",
+      "text": "グループ特典にはサイトへの接続が必要です — 現在オフラインです。"
+    },
+    "toast.groups.request": {
+      "en": "{0} wants to join {1} — open Groups to approve",
+      "text": "{0}が{1}への参加を希望しています — グループを開いて承認してください"
+    },
+    "toast.groups.requests": {
+      "en": "{0} new join requests — open Groups to approve",
+      "text": "新しい参加リクエストが{0}件 — グループを開いて承認してください"
+    },
+    "toast.groups.unreachable": {
+      "en": "Groups are unreachable right now",
+      "text": "現在グループに接続できません"
+    },
+    "toast.guide.agree": {
+      "en": "Look at your hands: the labels show what each button does. To hide them, hold both triggers.",
+      "text": "手元を見てください。ラベルが各ボタンの役割を示します。隠すには両方のトリガーを長押しします。"
+    },
+    "toast.guide.off": {
+      "en": "Controller guide is off. Bring it back from the quick menu.",
+      "text": "コントローラーガイドをオフにしました。クイックメニューから戻せます。"
+    },
+    "toast.guide.on": {
+      "en": "Controller guide is on. Look at your hands.",
+      "text": "コントローラーガイドをオンにしました。手元を見てください。"
+    },
+    "toast.guide.other": {
+      "en": "The controller guide only knows Quest-style controllers for now.",
+      "text": "コントローラーガイドは今のところQuestタイプのコントローラーのみ対応です。"
+    },
+    "toast.guide.tourdone": {
+      "en": "Controller guide is off now. Bring it back any time from the quick menu.",
+      "text": "コントローラーガイドをオフにしました。いつでもクイックメニューから戻せます。"
+    },
+    "toast.hub.allfull": {
+      "en": "The hubs are full right now — try again in a few minutes.",
+      "text": "現在ハブは満員です — 数分後にもう一度試してください。"
+    },
+    "toast.hub.fullredirect": {
+      "en": "{0} is full — taking you to {1}.",
+      "text": "{0}は満員です — {1}へ移動します。"
+    },
+    "toast.hub.lost": {
+      "en": "Lost the hub connection — the hub may be updating. Try again in a minute.",
+      "text": "ハブとの接続が切れました — 更新中かもしれません。1分後にもう一度試してください。"
+    },
+    "toast.hub.mismatch": {
+      "en": "Hub and game versions don't match — update the game, or wait for the hub update.",
+      "text": "ハブとゲームのバージョンが一致しません — ゲームを更新するか、ハブの更新を待ってください。"
+    },
+    "toast.hub.noanswer": {
+      "en": "Couldn't reach the hub — nothing answered. It may be restarting; try again in a minute.",
+      "text": "ハブに接続できませんでした — 応答がありません。再起動中かもしれません。1分後に試してください。"
+    },
+    "toast.hub.reason.update": {
+      "en": "for an update",
+      "text": "（アップデートのため）"
+    },
+    "toast.hub.restart1": {
+      "en": "Hub restarting in {0} minute {1}",
+      "text": "ハブは{0}分後に再起動します {1}"
+    },
+    "toast.hub.restartn": {
+      "en": "Hub restarting in {0} minutes {1}",
+      "text": "ハブは{0}分後に再起動します {1}"
+    },
+    "toast.hub.unreachable": {
+      "en": "Couldn't reach the hub — it may be restarting. Try again in a minute.",
+      "text": "ハブに接続できませんでした — 再起動中かもしれません。1分後にもう一度試してください。"
+    },
+    "toast.join.dlfailed": {
+      "en": "Could not download that world — you have not been moved",
+      "text": "そのワールドをダウンロードできませんでした — 移動はしていません"
+    },
+    "toast.join.dlfailednamed": {
+      "en": "Could not download {0} — you have not been moved",
+      "text": "{0}をダウンロードできませんでした — 移動はしていません"
+    },
+    "toast.join.failed": {
+      "en": "Couldn't join that session",
+      "text": "そのセッションに参加できませんでした"
+    },
+    "toast.join.instanceclosed": {
+      "en": "That instance has closed — nobody is hosting this world right now",
+      "text": "そのインスタンスは終了しました — 現在このワールドをホストしている人はいません"
+    },
+    "toast.join.noanswer": {
+      "en": "Couldn't join that session — the host didn't answer. Try again in a moment.",
+      "text": "そのセッションに参加できませんでした — ホストから応答がありません。少ししてからもう一度試してください。"
+    },
+    "toast.join.sessionclosed": {
+      "en": "That session has closed — refresh the list",
+      "text": "そのセッションは終了しました — リストを更新してください"
+    },
+    "toast.migration.failed": {
+      "en": "The host left and no new host took over — you're on your own here now.",
+      "text": "ホストが退出し、新しいホストも見つかりませんでした — ここにいるのはあなただけです。"
+    },
+    "toast.migration.named": {
+      "en": "The host left — {0} is taking over. Reconnecting…",
+      "text": "ホストが退出しました — {0}が引き継ぎます。再接続中…"
+    },
+    "toast.migration.waiting": {
+      "en": "The host left — waiting for a new host…",
+      "text": "ホストが退出しました — 新しいホストを待っています…"
+    },
+    "toast.migration.youarehost": {
+      "en": "The host left — you're the host now. Reloading the room…",
+      "text": "ホストが退出しました — あなたが新しいホストです。ルームを再読み込み中…"
+    },
+    "toast.plate.dupegold": {
+      "en": "+{0} gold from {1} (you already own it)",
+      "text": "{1}で +{0} ゴールド（所持済み）"
+    },
+    "toast.plate.dupemaxed": {
+      "en": "You own {0}. Owned plate gold is maxed for today ({1}/{2})",
+      "text": "{0}は所持済みです。所持プレートのゴールドは今日の上限です（{1}/{2}）"
+    },
+    "toast.plate.new": {
+      "en": "You got a new head plate!",
+      "text": "新しいヘッドプレートを手に入れました！"
+    },
+    "toast.portal.busy": {
+      "en": "You're already travelling — wait until you arrive to drop a portal",
+      "text": "すでに移動中です — 到着してからポータルを置いてください"
+    },
+    "toast.report.failed": {
+      "en": "Couldn't send the report right now. Please try again later.",
+      "text": "今は報告を送信できませんでした。後でもう一度試してください。"
+    },
+    "toast.report.missing": {
+      "en": "That report was missing something — please add more detail.",
+      "text": "この報告には不足があります — もう少し詳しく書いてください。"
+    },
+    "toast.report.moredetail": {
+      "en": "Please describe what happened in a little more detail.",
+      "text": "何が起きたか、もう少し詳しく書いてください。"
+    },
+    "toast.report.noitem": {
+      "en": "That report is missing the item it is about.",
+      "text": "この報告には対象のアイテムがありません。"
+    },
+    "toast.report.noserver": {
+      "en": "Couldn't reach the server. Check your connection and try again.",
+      "text": "サーバーに接続できませんでした。接続を確認してもう一度試してください。"
+    },
+    "toast.report.nosteamid": {
+      "en": "Couldn't read your Steam ID — are you signed in to Steam?",
+      "text": "Steam IDを読み取れませんでした — Steamにサインインしていますか？"
+    },
+    "toast.report.notconfigured": {
+      "en": "Reporting isn't configured in this build.",
+      "text": "このビルドでは報告機能が設定されていません。"
+    },
+    "toast.report.pickplayer": {
+      "en": "Pick which player you're reporting.",
+      "text": "報告するプレイヤーを選んでください。"
+    },
+    "toast.report.ratelimited": {
+      "en": "You've sent several reports recently. Please wait a little while.",
+      "text": "最近いくつも報告を送信しています。しばらく待ってください。"
+    },
+    "toast.report.sent": {
+      "en": "Report sent — thank you.",
+      "text": "報告を送信しました — ありがとうございます。"
+    },
+    "toast.score.awardaway": {
+      "en": "Welcome back — you earned {0} gold while you were away!   Total: {1}",
+      "text": "おかえりなさい — 留守の間に {0} ゴールド獲得しました！   合計: {1}"
+    },
+    "toast.score.awardlive": {
+      "en": "+{0} gold!   Total: {1}",
+      "text": "+{0} ゴールド！   合計: {1}"
+    },
+    "toast.score.streakkeep": {
+      "en": "{0}-day streak · play today to keep it",
+      "text": "{0}日連続 · 今日プレイして記録をキープしよう"
+    },
+    "toast.score.streakmore": {
+      "en": "{0}-day streak · {1} more {1}|plural(one=day,other=days) for +{2} gold",
+      "text": "{0}日連続 · あと{1}日で +{2} ゴールド"
+    },
+    "toast.score.streakpaid": {
+      "en": "{0}-day streak · +{1} gold at tonight's tally",
+      "text": "{0}日連続 · 今夜の集計で +{1} ゴールド"
+    },
+    "toast.seated.autoon": {
+      "en": "Looks like you are sitting, so seated mode is on and your avatar stays full size. Stand up to switch it off.",
+      "text": "座っているようなので着席モードをオンにしました。アバターは等身大のままです。立ち上がるとオフになります。"
+    },
+    "toast.seated.fbt": {
+      "en": "Seated mode isn't needed with full-body trackers. Your trackers already sit you down.",
+      "text": "フルボディトラッカーがあれば着席モードは不要です。トラッカーがそのまま座らせてくれます。"
+    },
+    "toast.seated.off": {
+      "en": "Seated mode off.",
+      "text": "着席モードをオフにしました。"
+    },
+    "toast.seated.on": {
+      "en": "Seated mode on. Sit comfortably and hold still for a second. Stand up to turn it off.",
+      "text": "着席モードをオンにしました。楽に座って1秒ほどじっとしていてください。立ち上がるとオフになります。"
+    },
+    "toast.seated.stoodup": {
+      "en": "You stood up, so seated mode is off.",
+      "text": "立ち上がったので着席モードをオフにしました。"
+    },
+    "toast.seated.trackers": {
+      "en": "Trackers detected, seated mode is off.",
+      "text": "トラッカーを検出しました。着席モードはオフです。"
+    },
+    "toast.session.invitehost": {
+      "en": "Only the host can invite people to this session.",
+      "text": "このセッションに招待できるのはホストだけです。"
+    },
+    "toast.store.badreply": {
+      "en": "The store did not answer properly",
+      "text": "ストアから正しい応答がありませんでした"
+    },
+    "toast.store.freepick": {
+      "en": "Your free plate pick is back: choose a new plate in Menu, Supporter",
+      "text": "無料のプレート選択が復活しました: メニュー、サポーターで新しいプレートを選んでください"
+    },
+    "toast.store.gone": {
+      "en": "That item is gone",
+      "text": "そのアイテムはもうありません"
+    },
+    "toast.store.key": {
+      "en": "The store is unavailable (key)",
+      "text": "ストアを利用できません（キー）"
+    },
+    "toast.store.needdiamonds": {
+      "en": "You need {0} more diamonds",
+      "text": "ダイヤがあと{0}必要です"
+    },
+    "toast.store.needgold": {
+      "en": "You need {0} more gold",
+      "text": "ゴールドがあと{0}必要です"
+    },
+    "toast.store.offline": {
+      "en": "The store is offline right now",
+      "text": "現在ストアはオフラインです"
+    },
+    "toast.store.owned": {
+      "en": "You already own that",
+      "text": "すでに所持しています"
+    },
+    "toast.store.unreachable": {
+      "en": "The store is unreachable right now",
+      "text": "現在ストアに接続できません"
+    },
+    "toast.terms.howto.desk": {
+      "en": "To start: click I agree with the mouse.",
+      "text": "始めるには：マウスで「同意する」をクリックしてください。"
+    },
+    "toast.terms.howto.vr": {
+      "en": "To start: point a hand at I agree and pull the trigger. Either hand works.",
+      "text": "始めるには：手を「同意する」に向けてトリガーを引いてください。どちらの手でも大丈夫です。"
+    },
+    "toast.testmode.offline": {
+      "en": "Test launch — offline. Quit and start VR Realms normally to play online.",
+      "text": "テスト起動 — オフラインです。オンラインで遊ぶには終了して、通常どおりVR Realmsを起動してください。"
+    },
+    "toast.voice.hostnudge": {
+      "en": "{0} joined your voice room — your mic is OFF. Turn it on in Settings → Microphone",
+      "text": "{0}がボイスルームに参加しました — マイクがオフです。設定 → マイク でオンにしてください"
+    },
+    "toast.voice.micdisconnected": {
+      "en": "Your microphone is disconnected — pick another in Settings → Microphone",
+      "text": "マイクが切断されています — 設定 → マイク で別のものを選んでください"
+    },
+    "toast.voice.micfailed": {
+      "en": "Your microphone could not be opened — check Windows microphone privacy, or another app may be using it",
+      "text": "マイクを開けませんでした — Windowsのマイクのプライバシー設定を確認してください。別のアプリが使用中の可能性もあります"
+    },
+    "toast.voice.micoff": {
+      "en": "Your mic is OFF — turn it on in Settings → Microphone",
+      "text": "マイクがオフです — 設定 → マイク でオンにしてください"
+    },
+    "toast.voice.micsilent": {
+      "en": "Your microphone is open but silent — it may be muted in Windows, or be the wrong device",
+      "text": "マイクは開いていますが無音です — Windowsでミュートされているか、デバイスが違う可能性があります"
+    },
+    "tour.announce": {
+      "en": "New: a two-minute tour of the controls. Find it on the Home page of your menu.",
+      "text": "新機能: 操作の2分間ツアー。メニューのホームページにあります。"
+    },
+    "tour.both.friends": {
+      "en": "Invite a friend from Friends. It all runs through Steam, and the game is free, so anyone can join you.",
+      "text": "フレンドから友だちを招待。すべてSteam経由で、ゲームは無料なので誰でも参加できます。"
+    },
+    "tour.both.gold": {
+      "en": "You earn gold just by playing. Join a group and you earn together. Spend it in the Store on plates and more.",
+      "text": "遊ぶだけでゴールドが貯まります。グループに入れば一緒に稼げます。ストアでプレートなどに使いましょう。"
+    },
+    "tour.both.hub": {
+      "en": "The hub is always open. It is where everyone meets, and the boards there show the top players, groups and supporters. Pick the region nearest you and press Join Hub on Home.",
+      "text": "ハブは常に開いています。みんなが集まる場所で、ボードにはトッププレイヤー、グループ、サポーターが表示されます。最寄りのリージョンを選び、ホームでハブに参加を押してください。"
+    },
+    "tour.both.ready": {
+      "en": "Your home is public by default, so your friends and anyone else can drop in. Want it to yourself? Settings, Comfort, Session visibility: Friends Only or Private. When you want people, the hub is waiting. One more thing: this is an alpha, so things will change a lot. Your feedback shapes it.",
+      "text": "ホームは初期設定で公開なので、フレンドも他の人も立ち寄れます。自分だけにしたい？ 設定、快適さ、セッションの公開範囲: フレンドのみ か 非公開。人が恋しくなったらハブが待っています。最後に: これはアルファ版なので大きく変わります。あなたのフィードバックが形を作ります。"
+    },
+    "tour.both.wrong": {
+      "en": "Stuck or falling: quick menu, Respawn. Want out of anywhere: quick menu, Home. Someone bothering you: Nearby, Mute or Hide. Only you are affected.",
+      "text": "はまったり落ちたら: クイックメニュー、リスポーン。どこからでも抜けたい: クイックメニュー、ホーム。誰かに困ったら: 近くの人、ミュートか非表示。影響はあなただけ。"
+    },
+    "tour.chip": {
+      "en": "Tutorial",
+      "text": "チュートリアル"
+    },
+    "tour.chip.end": {
+      "en": "End tutorial",
+      "text": "チュートリアルを終了"
+    },
+    "tour.complete": {
+      "en": "Tour complete! Your gold for finishing arrives after tonight's tally.",
+      "text": "ツアー完了！クリア報酬のゴールドは今夜の集計後に届きます。"
+    },
+    "tour.desk.chat": {
+      "en": "Press {Chat}, type, {Chat} again.",
+      "text": "{Chat}を押して入力、もう一度{Chat}。"
+    },
+    "tour.desk.grab": {
+      "en": "{Grab} the object on the table. {Use} to use it. {Interact} presses buttons and switches you look at.",
+      "text": "テーブルの上の物を{Grab}。{Use}で使う。{Interact}で見ているボタンやスイッチを押す。"
+    },
+    "tour.desk.look": {
+      "en": "Move the mouse. This is your home.",
+      "text": "マウスを動かして。ここがあなたのホームです。"
+    },
+    "tour.desk.menu": {
+      "en": "{Menu} opens it. Back takes you to Home.",
+      "text": "{Menu}で開く。戻るでホームに移動。"
+    },
+    "tour.desk.sprint": {
+      "en": "Hold {Sprint} while moving to run.",
+      "text": "移動中に{Sprint}を押し続けると走ります。"
+    },
+    "tour.desk.talk": {
+      "en": "Press {Mic}. It turns your voice on or off for everyone.",
+      "text": "{Mic}を押す。全員に対して自分の声のオン/オフを切り替えます。"
+    },
+    "tour.desk.walk": {
+      "en": "{Move} to move. {Jump} to jump.",
+      "text": "{Move}で移動。{Jump}でジャンプ。"
+    },
+    "tour.desk.wheel": {
+      "en": "Press {Radial} to open the quick menu. Click what you want.",
+      "text": "{Radial}を押してクイックメニューを開く。使いたい項目をクリック。"
+    },
+    "tour.desk.yours": {
+      "en": "Settings, Controls: rebind any key, sprint included. Settings, Comfort: turn and movement options. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "設定、操作: ダッシュを含むどのキーも割り当て直せます。設定、快適さ: 回転と移動のオプション。言語: メニュー右上の地球儀。配信: ストリーマーモードで名前と成人向けコンテンツを隠せます。"
+    },
+    "tour.hint.desk": {
+      "en": "Right Arrow: next   ·   End: end tour   ·   ALT: mouse",
+      "text": "右矢印: 次へ   ·   End: ツアーを終了   ·   ALT: マウス"
+    },
+    "tour.hint.vr": {
+      "en": "Point at a button and pull the trigger",
+      "text": "ボタンを指してトリガーを引く"
+    },
+    "tour.kicker": {
+      "en": "TOUR",
+      "text": "ツアー"
+    },
+    "tour.label.end": {
+      "en": "End tour",
+      "text": "ツアーを終了"
+    },
+    "tour.label.mouse": {
+      "en": "Mouse",
+      "text": "マウス"
+    },
+    "tour.label.next": {
+      "en": "Next",
+      "text": "次へ"
+    },
+    "tour.label.rightarrow": {
+      "en": "Right Arrow",
+      "text": "右矢印"
+    },
+    "tour.label.skip": {
+      "en": "Skip",
+      "text": "スキップ"
+    },
+    "tour.offer.body": {
+      "en": "A few short cards: moving, your quick menu, voice, chat and the menu. Skip any of them, or end it at any time.",
+      "text": "短いカードが数枚: 移動、クイックメニュー、ボイス、チャット、メニュー。どれでもスキップでき、いつでも終了できます。"
+    },
+    "tour.offer.body.away": {
+      "en": "It uses the things in your own place to show you moving, your quick menu, voice, chat and the menu. Head there now and start?",
+      "text": "自分の家にある物を使って、移動、クイックメニュー、ボイス、チャット、メニューを案内します。今すぐ移動して始めますか？"
+    },
+    "tour.offer.confirm": {
+      "en": "Start",
+      "text": "開始"
+    },
+    "tour.offer.title": {
+      "en": "Want a two-minute tour?",
+      "text": "2分間のツアーはいかが？"
+    },
+    "tour.offer.title.away": {
+      "en": "The tour happens in your home",
+      "text": "ツアーはあなたのホームで行います"
+    },
+    "tour.side.left": {
+      "en": "left",
+      "text": "左"
+    },
+    "tour.side.right": {
+      "en": "right",
+      "text": "右"
+    },
+    "tour.t.friends": {
+      "en": "Bring friends",
+      "text": "フレンドを誘う"
+    },
+    "tour.t.gold": {
+      "en": "Earn gold",
+      "text": "ゴールドを稼ぐ"
+    },
+    "tour.t.grab": {
+      "en": "Pick something up",
+      "text": "何かを持ち上げる"
+    },
+    "tour.t.hub": {
+      "en": "The hub",
+      "text": "ハブ"
+    },
+    "tour.t.look": {
+      "en": "Look around",
+      "text": "周りを見る"
+    },
+    "tour.t.menu": {
+      "en": "Your menu",
+      "text": "メニュー"
+    },
+    "tour.t.move": {
+      "en": "Move",
+      "text": "移動"
+    },
+    "tour.t.ready": {
+      "en": "You're ready",
+      "text": "準備完了"
+    },
+    "tour.t.sprint": {
+      "en": "Sprint",
+      "text": "ダッシュ"
+    },
+    "tour.t.talk": {
+      "en": "Talk",
+      "text": "話す"
+    },
+    "tour.t.turn": {
+      "en": "Turn",
+      "text": "向きを変える"
+    },
+    "tour.t.walk": {
+      "en": "Walk",
+      "text": "歩く"
+    },
+    "tour.t.wheel": {
+      "en": "Your quick menu",
+      "text": "クイックメニュー"
+    },
+    "tour.t.wrong": {
+      "en": "If something goes wrong",
+      "text": "困ったときは"
+    },
+    "tour.t.yours": {
+      "en": "Make it yours",
+      "text": "自分好みに"
+    },
+    "tour.travel": {
+      "en": "Taking you home for the tour…",
+      "text": "ツアーのためホームへ移動中…"
+    },
+    "tour.vr.chat": {
+      "en": "In the quick menu, pick Chat. Type on the floating keyboard and send.",
+      "text": "クイックメニューでチャットを選ぶ。浮かぶキーボードで入力して送信。"
+    },
+    "tour.vr.grab": {
+      "en": "Squeeze grip on the object on the table.",
+      "text": "テーブルの上の物でグリップを握る。"
+    },
+    "tour.vr.look": {
+      "en": "Turn your head. This is your home.",
+      "text": "頭を動かしてみて。ここがあなたのホームです。"
+    },
+    "tour.vr.menu": {
+      "en": "In the quick menu, pick Avatar. That is the full menu. Back takes you to Home.",
+      "text": "クイックメニューでアバターを選ぶ。それがフルメニューです。戻るでホームに移動。"
+    },
+    "tour.vr.move": {
+      "en": "Push the {MoveStick} stick.",
+      "text": "{MoveStick}スティックを倒す。"
+    },
+    "tour.vr.sprint": {
+      "en": "Click the {SprintStick} stick while moving to run. Click again, or stop, to walk.",
+      "text": "移動中に{SprintStick}スティックを押し込むと走ります。もう一度押すか止まると歩きに戻ります。"
+    },
+    "tour.vr.talk": {
+      "en": "Press the top button on your {MicHand} hand. It turns your voice on or off for everyone.",
+      "text": "{MicHand}手の上のボタンを押す。全員に対して自分の声のオン/オフを切り替えます。"
+    },
+    "tour.vr.turn": {
+      "en": "Flick the {TurnStick} stick left or right. Prefer smooth turning or other movement styles? Settings, Comfort.",
+      "text": "{TurnStick}スティックを左右に弾く。スムーズターンや他の移動方式がよければ: 設定、快適さ。"
+    },
+    "tour.vr.wheel": {
+      "en": "Click the {WheelStick} stick. The quick menu opens on your {WheelHand} hand. Point at it with your {LaserHand} hand and pull the trigger to pick.",
+      "text": "{WheelStick}スティックを押し込む。クイックメニューが{WheelHand}手に開きます。{LaserHand}手で指してトリガーを引いて選択。"
+    },
+    "tour.vr.yours": {
+      "en": "Settings, Comfort: swap which hand walks and sprints, put the quick menu and mic button on the other hand, and set turning and movement to your liking. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "設定、快適さ: 歩行とダッシュの手を入れ替え、クイックメニューとマイクボタンを反対の手に移し、回転と移動を好みに調整。言語: メニュー右上の地球儀。配信: ストリーマーモードで名前と成人向けコンテンツを隠せます。"
+    },
+    "v3.avatars.favorites": {
+      "en": "Favorites",
+      "text": "お気に入り"
+    },
+    "v3.avatars.furry": {
+      "en": "Furry",
+      "text": "ケモノ"
+    },
+    "v3.avatars.nomatch": {
+      "en": "No avatars match",
+      "text": "一致するアバターがありません"
+    },
+    "v3.card.flashing": {
+      "en": "FLASHING LIGHTS",
+      "text": "点滅する光"
+    },
+    "v3.card.mature": {
+      "en": "MATURE THEMES",
+      "text": "成人向けテーマ"
+    },
+    "v3.cat.community": {
+      "en": "Community",
+      "text": "コミュニティ"
+    },
+    "v3.chat.help": {
+      "en": "Type /help for chat commands",
+      "text": "チャットコマンドは /help"
+    },
+    "v3.common.all": {
+      "en": "All",
+      "text": "すべて"
+    },
+    "v3.common.applied": {
+      "en": "Applied",
+      "text": "適用済み"
+    },
+    "v3.common.apply": {
+      "en": "Apply",
+      "text": "適用"
+    },
+    "v3.common.buy": {
+      "en": "Buy",
+      "text": "購入"
+    },
+    "v3.common.cancel": {
+      "en": "Cancel",
+      "text": "キャンセル"
+    },
+    "v3.common.confirm": {
+      "en": "Confirm",
+      "text": "確認"
+    },
+    "v3.common.continue": {
+      "en": "Continue",
+      "text": "続ける"
+    },
+    "v3.common.done": {
+      "en": "Done",
+      "text": "完了"
+    },
+    "v3.common.down": {
+      "en": "Down",
+      "text": "下へ"
+    },
+    "v3.common.near": {
+      "en": "Near",
+      "text": "近く"
+    },
+    "v3.common.new": {
+      "en": "NEW",
+      "text": "新着"
+    },
+    "v3.common.no": {
+      "en": "No",
+      "text": "いいえ"
+    },
+    "v3.common.up": {
+      "en": "Up",
+      "text": "上へ"
+    },
+    "v3.common.wip": {
+      "en": "WIP",
+      "text": "開発中"
+    },
+    "v3.contract.agree": {
+      "en": "I agree",
+      "text": "同意する"
+    },
+    "v3.contract.hint": {
+      "en": "Read to the end, then agree to continue",
+      "text": "最後まで読んでから同意して続行"
+    },
+    "v3.contract.title": {
+      "en": "Terms of Service",
+      "text": "利用規約"
+    },
+    "v3.controls.category": {
+      "en": "CATEGORY",
+      "text": "カテゴリ"
+    },
+    "v3.controls.gamepad": {
+      "en": "Gamepad",
+      "text": "ゲームパッド"
+    },
+    "v3.controls.hint": {
+      "en": "Click a key to change it. Right-click a key to clear it.",
+      "text": "キーをクリックで変更。右クリックで解除。"
+    },
+    "v3.controls.keyboard": {
+      "en": "Keyboard / Mouse",
+      "text": "キーボード / マウス"
+    },
+    "v3.controls.resetall": {
+      "en": "Reset All",
+      "text": "すべてリセット"
+    },
+    "v3.fbt.bodyfollows": {
+      "en": "Body follows head (turn off if your chest twists)",
+      "text": "体が頭に追従（胸がねじれるならオフ）"
+    },
+    "v3.fbt.bodyturnspeed": {
+      "en": "Body turn speed",
+      "text": "体の回転速度"
+    },
+    "v3.fbt.calibtolerance": {
+      "en": "Calibration tolerance",
+      "text": "キャリブレーション許容値"
+    },
+    "v3.fbt.fadefeet": {
+      "en": "Fade feet to walk anim while moving",
+      "text": "移動中は足を歩行アニメにブレンド"
+    },
+    "v3.fbt.footforward": {
+      "en": "Foot forward",
+      "text": "足前方"
+    },
+    "v3.fbt.footheight": {
+      "en": "Foot height",
+      "text": "足の高さ"
+    },
+    "v3.fbt.footsmoothing": {
+      "en": "Foot smoothing",
+      "text": "足のスムージング"
+    },
+    "v3.fbt.headlock": {
+      "en": "Head lock",
+      "text": "ヘッドロック"
+    },
+    "v3.fbt.hipforward": {
+      "en": "Hip forward",
+      "text": "ヒップ前方"
+    },
+    "v3.fbt.hipfreedom": {
+      "en": "Hip freedom",
+      "text": "ヒップの自由度"
+    },
+    "v3.fbt.hipheight": {
+      "en": "Hip height",
+      "text": "ヒップの高さ"
+    },
+    "v3.fbt.hiplock": {
+      "en": "Hip lock",
+      "text": "ヒップロック"
+    },
+    "v3.fbt.keepik": {
+      "en": "Keep IK on a lifted foot while moving",
+      "text": "移動中も上げた足にIKを維持"
+    },
+    "v3.fbt.kneewidth": {
+      "en": "Knee width",
+      "text": "膝の幅"
+    },
+    "v3.fbt.leftfootturn": {
+      "en": "Left foot turn",
+      "text": "左足の回転"
+    },
+    "v3.fbt.legstretch": {
+      "en": "Leg stretch limit",
+      "text": "脚の伸び上限"
+    },
+    "v3.fbt.maxfootfromhead": {
+      "en": "Max foot from head",
+      "text": "頭から足の最大距離"
+    },
+    "v3.fbt.maxfootsplit": {
+      "en": "Max foot height split",
+      "text": "足の高さ差の上限"
+    },
+    "v3.fbt.maxhiptravel": {
+      "en": "Max hip travel",
+      "text": "ヒップ最大移動"
+    },
+    "v3.fbt.minfootbelowhips": {
+      "en": "Min foot below hips",
+      "text": "足が腰より下の最小値"
+    },
+    "v3.fbt.minheadabovewaist": {
+      "en": "Min head above waist",
+      "text": "頭が腰より上の最小値"
+    },
+    "v3.fbt.minwaistabovefeet": {
+      "en": "Min waist above feet",
+      "text": "腰が足より上の最小値"
+    },
+    "v3.fbt.posturegate": {
+      "en": "Posture gate",
+      "text": "姿勢ゲート"
+    },
+    "v3.fbt.raisedfoot": {
+      "en": "Raised-foot threshold",
+      "text": "足上げ判定のしきい値"
+    },
+    "v3.fbt.rightfootturn": {
+      "en": "Right foot turn",
+      "text": "右足の回転"
+    },
+    "v3.fbt.stancewidth": {
+      "en": "Stance width",
+      "text": "スタンス幅"
+    },
+    "v3.fbt.title": {
+      "en": "Full Body Tracking",
+      "text": "フルボディトラッキング"
+    },
+    "v3.groups.all": {
+      "en": "All groups",
+      "text": "すべてのグループ"
+    },
+    "v3.groups.announce.hint": {
+      "en": "Welcome message…",
+      "text": "ウェルカムメッセージ…"
+    },
+    "v3.groups.announce.sub": {
+      "en": "Optional. Shows for members when they open the group.",
+      "text": "任意。メンバーがグループを開いたときに表示。"
+    },
+    "v3.groups.announcement": {
+      "en": "Announcement",
+      "text": "お知らせ"
+    },
+    "v3.groups.approve": {
+      "en": "Approve",
+      "text": "承認"
+    },
+    "v3.groups.ban": {
+      "en": "Ban",
+      "text": "BAN"
+    },
+    "v3.groups.create": {
+      "en": "Create group",
+      "text": "グループを作成"
+    },
+    "v3.groups.delete": {
+      "en": "Delete group",
+      "text": "グループを削除"
+    },
+    "v3.groups.desc.hint": {
+      "en": "What is this group about?",
+      "text": "どんなグループ？"
+    },
+    "v3.groups.description": {
+      "en": "Description",
+      "text": "説明"
+    },
+    "v3.groups.freejoin": {
+      "en": "Free Join",
+      "text": "自由参加"
+    },
+    "v3.groups.inviteonly": {
+      "en": "Invite-Only",
+      "text": "招待制"
+    },
+    "v3.groups.leave": {
+      "en": "Leave",
+      "text": "退出"
+    },
+    "v3.groups.makemod": {
+      "en": "Make mod",
+      "text": "モッドにする"
+    },
+    "v3.groups.memberscaninvite": {
+      "en": "Members can invite",
+      "text": "メンバーが招待できる"
+    },
+    "v3.groups.membersettings": {
+      "en": "MEMBER SETTINGS",
+      "text": "メンバー設定"
+    },
+    "v3.groups.modscanannounce": {
+      "en": "Mods can announce",
+      "text": "モッドがお知らせできる"
+    },
+    "v3.groups.modscanban": {
+      "en": "Mods can ban",
+      "text": "モッドがBANできる"
+    },
+    "v3.groups.modscankick": {
+      "en": "Mods can kick",
+      "text": "モッドがキックできる"
+    },
+    "v3.groups.modscanroles": {
+      "en": "Mods can change roles",
+      "text": "モッドがロールを変更できる"
+    },
+    "v3.groups.modscanwarn": {
+      "en": "Mods can warn",
+      "text": "モッドが警告できる"
+    },
+    "v3.groups.modsettings": {
+      "en": "MOD SETTINGS",
+      "text": "モッド設定"
+    },
+    "v3.groups.name": {
+      "en": "Group name",
+      "text": "グループ名"
+    },
+    "v3.groups.name.hint": {
+      "en": "e.g. Night Owls",
+      "text": "例：夜更かし組"
+    },
+    "v3.groups.nomatch": {
+      "en": "No groups match",
+      "text": "一致するグループがありません"
+    },
+    "v3.groups.privacy": {
+      "en": "Privacy",
+      "text": "プライバシー"
+    },
+    "v3.groups.privacy.hint": {
+      "en": "Locked after you create the group.",
+      "text": "グループ作成後は変更できません。"
+    },
+    "v3.groups.removemod": {
+      "en": "Remove mod",
+      "text": "モッドを解除"
+    },
+    "v3.groups.request": {
+      "en": "Request",
+      "text": "リクエスト"
+    },
+    "v3.groups.requested": {
+      "en": "Requested · cancel",
+      "text": "リクエスト済み · キャンセル"
+    },
+    "v3.groups.requesttojoin": {
+      "en": "Request to Join",
+      "text": "参加リクエスト"
+    },
+    "v3.groups.saveannounce": {
+      "en": "Save announcement",
+      "text": "お知らせを保存"
+    },
+    "v3.groups.tags": {
+      "en": "Tags",
+      "text": "タグ"
+    },
+    "v3.groups.tags.hint": {
+      "en": "Up to 5. e.g. 18+, Anyone, Roleplay",
+      "text": "最大5つ。例：18+、誰でも、ロールプレイ"
+    },
+    "v3.groups.tags.max": {
+      "en": "TAGS (MAX 5)",
+      "text": "タグ（最大5）"
+    },
+    "v3.groups.title": {
+      "en": "Groups",
+      "text": "グループ"
+    },
+    "v3.groups.warn": {
+      "en": "Warn",
+      "text": "警告"
+    },
+    "v3.groups.whocanjoin": {
+      "en": "Who can join",
+      "text": "参加できる人"
+    },
+    "v3.groups.wip": {
+      "en": "Groups are new. Requests, approvals and mod tools just landed — tell us what breaks.",
+      "text": "グループは新機能です。参加リクエスト、承認、モッドツールが追加されたばかり。不具合があれば教えてください。"
+    },
+    "v3.header.discord": {
+      "en": "Discord",
+      "text": "Discord"
+    },
+    "v3.header.ea": {
+      "en": "EARLY ACCESS",
+      "text": "アーリーアクセス"
+    },
+    "v3.header.quit": {
+      "en": "Quit",
+      "text": "終了"
+    },
+    "v3.header.tagline": {
+      "en": "HAVE FUN · EXPLORE · ENJOY",
+      "text": "楽しもう · 探索しよう · 満喫しよう"
+    },
+    "v3.home.avatars.desc": {
+      "en": "Customize your look and express yourself.",
+      "text": "見た目をカスタマイズして自分を表現しよう。"
+    },
+    "v3.home.chat.desc": {
+      "en": "Message your friends and the community.",
+      "text": "フレンドやコミュニティにメッセージを送ろう。"
+    },
+    "v3.home.discord": {
+      "en": "Join our Discord",
+      "text": "Discord に参加"
+    },
+    "v3.home.discord.sub": {
+      "en": "Events, updates and help · opens in your desktop browser",
+      "text": "イベント・最新情報・サポート · PCのブラウザで開きます"
+    },
+    "v3.home.fbt.desc": {
+      "en": "Track your full body and move naturally.",
+      "text": "全身をトラッキングして自然に動こう。"
+    },
+    "v3.home.fps": {
+      "en": "FPS",
+      "text": "FPS"
+    },
+    "v3.home.friends.desc": {
+      "en": "View your friends list and join them.",
+      "text": "フレンドリストを見て合流しよう。"
+    },
+    "v3.home.groups.desc": {
+      "en": "Create and join communities.",
+      "text": "コミュニティを作って参加しよう。"
+    },
+    "v3.home.home": {
+      "en": "Home",
+      "text": "ホーム"
+    },
+    "v3.home.nearby.desc": {
+      "en": "See who's around you in real time.",
+      "text": "周りにいる人をリアルタイムで確認。"
+    },
+    "v3.home.ping": {
+      "en": "Ping",
+      "text": "Ping"
+    },
+    "v3.home.settings.desc": {
+      "en": "Adjust your experience and preferences.",
+      "text": "体験と設定を調整しよう。"
+    },
+    "v3.home.store": {
+      "en": "Store",
+      "text": "ストア"
+    },
+    "v3.home.store.sub": {
+      "en": "Cosmetics, boosts & more",
+      "text": "コスメ、ブーストなど"
+    },
+    "v3.home.supporter.sub": {
+      "en": "Exclusive perks & plates",
+      "text": "限定特典とプレート"
+    },
+    "v3.home.worlds.desc": {
+      "en": "Explore new worlds and experiences.",
+      "text": "新しいワールドと体験を探索しよう。"
+    },
+    "v3.host.action": {
+      "en": "Action",
+      "text": "アクション"
+    },
+    "v3.host.msg": {
+      "en": "Choose an action and visibility for this world.",
+      "text": "このワールドのアクションと公開範囲を選択。"
+    },
+    "v3.host.new": {
+      "en": "Host new instance",
+      "text": "新しいインスタンスをホスト"
+    },
+    "v3.host.portal": {
+      "en": "Drop portal to a new instance",
+      "text": "新しいインスタンスへのポータルを設置"
+    },
+    "v3.host.private": {
+      "en": "Private",
+      "text": "非公開"
+    },
+    "v3.host.public": {
+      "en": "Public",
+      "text": "公開"
+    },
+    "v3.host.title": {
+      "en": "Host or drop portal",
+      "text": "ホストまたはポータル設置"
+    },
+    "v3.host.visibility": {
+      "en": "Visibility",
+      "text": "公開範囲"
+    },
+    "v3.inbox": {
+      "en": "Inbox",
+      "text": "受信箱"
+    },
+    "v3.inbox.empty": {
+      "en": "Nothing new right now.",
+      "text": "今は新しいものはありません。"
+    },
+    "v3.instance.applyban": {
+      "en": "Apply ban",
+      "text": "BANを適用"
+    },
+    "v3.instance.banhours": {
+      "en": "hours (0 = permanent)",
+      "text": "時間（0 = 永久）"
+    },
+    "v3.instance.muteall": {
+      "en": "Mute All",
+      "text": "全員ミュート"
+    },
+    "v3.instance.people": {
+      "en": "PEOPLE HERE",
+      "text": "ここにいる人"
+    },
+    "v3.instance.title": {
+      "en": "Instance",
+      "text": "インスタンス"
+    },
+    "v3.modal.noundo": {
+      "en": "This action cannot be undone.",
+      "text": "この操作は取り消せません。"
+    },
+    "v3.modal.sure": {
+      "en": "Are you sure?",
+      "text": "本当によろしいですか？"
+    },
+    "v3.report.details": {
+      "en": "ADDITIONAL DETAILS (OPTIONAL)",
+      "text": "追加の詳細（任意）"
+    },
+    "v3.report.msg": {
+      "en": "Choose a reason for reporting this world.",
+      "text": "このワールドを報告する理由を選択。"
+    },
+    "v3.report.reason.perf": {
+      "en": "Low performance",
+      "text": "パフォーマンスが低い"
+    },
+    "v3.report.reason.tags": {
+      "en": "Inappropriate tags (mature content)",
+      "text": "不適切なタグ（成人向け）"
+    },
+    "v3.report.send": {
+      "en": "Send report",
+      "text": "報告を送信"
+    },
+    "v3.report.title": {
+      "en": "Report world",
+      "text": "ワールドを報告"
+    },
+    "v3.report.what": {
+      "en": "WHAT IS WRONG?",
+      "text": "何が問題ですか？"
+    },
+    "v3.role.member": {
+      "en": "Member",
+      "text": "メンバー"
+    },
+    "v3.role.mod": {
+      "en": "Mod",
+      "text": "モッド"
+    },
+    "v3.role.owner": {
+      "en": "Owner",
+      "text": "オーナー"
+    },
+    "v3.search.avatars": {
+      "en": "Search avatars…",
+      "text": "アバターを検索…"
+    },
+    "v3.search.friends": {
+      "en": "Search friends…",
+      "text": "フレンドを検索…"
+    },
+    "v3.search.groups": {
+      "en": "Search groups…",
+      "text": "グループを検索…"
+    },
+    "v3.search.members": {
+      "en": "Search members…",
+      "text": "メンバーを検索…"
+    },
+    "v3.search.people": {
+      "en": "Search people…",
+      "text": "人を検索…"
+    },
+    "v3.search.players": {
+      "en": "Search players…",
+      "text": "プレイヤーを検索…"
+    },
+    "v3.settings.access.hdr": {
+      "en": "LANGUAGE & ACCESSIBILITY",
+      "text": "言語とアクセシビリティ"
+    },
+    "v3.settings.avatarphysics": {
+      "en": "Avatar Physics",
+      "text": "アバター物理"
+    },
+    "v3.settings.avatarphysics.sub": {
+      "en": "Tails, ears and hair swing on avatars. Turn off for comfort or on a slower PC.",
+      "text": "しっぽ・耳・髪が揺れる。快適さ重視や低スペックPCではオフに。"
+    },
+    "v3.settings.brightness": {
+      "en": "Brightness",
+      "text": "明るさ"
+    },
+    "v3.settings.brightness.sub": {
+      "en": "Brighten or darken everything. 100% = the world as it was made.",
+      "text": "すべてを明るく・暗くします。100% = 作られたままの世界。"
+    },
+    "v3.settings.cambody": {
+      "en": "Upper Body",
+      "text": "上半身"
+    },
+    "v3.settings.cambody.sub": {
+      "en": "Also moves your avatar's arms, shoulders and fingers.",
+      "text": "アバターの腕、肩、指も動かします。"
+    },
+    "v3.settings.camface": {
+      "en": "Face Only",
+      "text": "顔のみ"
+    },
+    "v3.settings.camface.sub": {
+      "en": "Your avatar's face, eyelids and eyes follow your webcam.",
+      "text": "アバターの顔、まぶた、目がウェブカメラに追従します。"
+    },
+    "v3.settings.camhead": {
+      "en": "Face and Head Movement",
+      "text": "顔と頭の動き"
+    },
+    "v3.settings.camhead.sub": {
+      "en": "Also turns, nods and tilts your avatar's head with yours.",
+      "text": "アバターの頭も、あなたの頭に合わせて回転・うなずき・傾きます。"
+    },
+    "v3.settings.controls": {
+      "en": "Controls",
+      "text": "操作"
+    },
+    "v3.settings.eyeavatar": {
+      "en": "Eye tracking: avatar eyes",
+      "text": "アイトラッキング：アバターの目"
+    },
+    "v3.settings.eyeavatar.sub": {
+      "en": "Your avatar's eyes follow where you look. Needs a headset with eye tracking.",
+      "text": "アバターの目があなたの視線に追従します。アイトラッキング対応のヘッドセットが必要です。"
+    },
+    "v3.settings.faceheadset": {
+      "en": "Headset Face Tracking",
+      "text": "ヘッドセットのフェイストラッキング"
+    },
+    "v3.settings.faceheadset.sub": {
+      "en": "Your avatar's face follows your own. Needs a headset with face tracking.",
+      "text": "アバターの顔があなたの表情に追従します。フェイストラッキング対応のヘッドセットが必要です。"
+    },
+    "v3.settings.facetrack.hdr": {
+      "en": "FACE TRACKING",
+      "text": "フェイストラッキング"
+    },
+    "v3.settings.fingertracking": {
+      "en": "Controller finger tracking",
+      "text": "コントローラーの指トラッキング"
+    },
+    "v3.settings.fingertracking.sub": {
+      "en": "Your avatar's fingers follow your controller's finger sensors instead of the preset hand poses.",
+      "text": "アバターの指が、既定の手のポーズではなく、コントローラーの指センサーに追従します。"
+    },
+    "v3.settings.fov": {
+      "en": "FIELD OF VIEW",
+      "text": "視野角"
+    },
+    "v3.settings.fov.sub": {
+      "en": "Desktop only. How wide the view is. Lower feels zoomed in, higher shows more at the edges.",
+      "text": "デスクトップのみ。視野の広さ。低いとズーム感、高いと端まで広く見える。"
+    },
+    "v3.settings.foveatedeyes": {
+      "en": "Eye tracking: foveated rendering",
+      "text": "アイトラッキング：中心窩レンダリング"
+    },
+    "v3.settings.foveatedeyes.sub": {
+      "en": "With Foveated Rendering on, the sharp area follows your eyes.",
+      "text": "中心窩レンダリングがオンのとき、鮮明な領域が視線に追従します。"
+    },
+    "v3.settings.fpscap.sub": {
+      "en": "In VR at least 90 is used. Unlimited leaves it uncapped.",
+      "text": "VRでは最低90が使われます。無制限なら上限なし。"
+    },
+    "v3.settings.fullscreen.sub": {
+      "en": "Desktop window only",
+      "text": "デスクトップウィンドウのみ"
+    },
+    "v3.settings.guestinvite": {
+      "en": "Allow Guests to Invite",
+      "text": "ゲストの招待を許可"
+    },
+    "v3.settings.guestinvite.sub": {
+      "en": "Let anyone here invite people. Off means only you can.",
+      "text": "ここにいる誰でも招待できるようにする。オフなら自分だけ。"
+    },
+    "v3.settings.hideavatars": {
+      "en": "Hide Custom Avatars",
+      "text": "カスタムアバターを非表示"
+    },
+    "v3.settings.hideavatars.sub": {
+      "en": "Show everyone as Quinn. Their real avatars come back when you turn this off.",
+      "text": "全員をQuinnで表示。オフにすると本来のアバターに戻る。"
+    },
+    "v3.settings.invertmouse": {
+      "en": "Invert Mouse Look",
+      "text": "マウス視点を反転"
+    },
+    "v3.settings.invertmouse.sub": {
+      "en": "Desktop only. Moving the mouse down looks up.",
+      "text": "デスクトップのみ。マウスを下に動かすと上を向く。"
+    },
+    "v3.settings.invertpad": {
+      "en": "Invert Controller Look",
+      "text": "コントローラー視点を反転"
+    },
+    "v3.settings.invertpad.sub": {
+      "en": "Pushing the right stick down looks up.",
+      "text": "右スティックを下に倒すと上を向く。"
+    },
+    "v3.settings.language": {
+      "en": "Language",
+      "text": "言語"
+    },
+    "v3.settings.mousesens": {
+      "en": "MOUSE SENSITIVITY",
+      "text": "マウス感度"
+    },
+    "v3.settings.mousesens.sub": {
+      "en": "Desktop only. How far the view turns for a given mouse movement.",
+      "text": "デスクトップのみ。マウスの動きに対して視点がどれだけ回るか。"
+    },
+    "v3.settings.music": {
+      "en": "Music",
+      "text": "音楽"
+    },
+    "v3.settings.proxvoice": {
+      "en": "Proximity Voice",
+      "text": "近接ボイス"
+    },
+    "v3.settings.proxvoice.sub": {
+      "en": "Voices fade with distance and muffle through walls",
+      "text": "距離で声が小さくなり、壁越しはこもる"
+    },
+    "v3.settings.radialhand": {
+      "en": "Laser on Right Hand",
+      "text": "レーザーを右手に"
+    },
+    "v3.settings.radialhandsub": {
+      "en": "Laser on the right; quick menu and mic button on the left. Off: the other way round.",
+      "text": "レーザーは右手、クイックメニューとマイクボタンは左手。オフ：その逆。"
+    },
+    "v3.settings.resetall": {
+      "en": "Reset to default",
+      "text": "初期設定に戻す"
+    },
+    "v3.settings.resetall.body": {
+      "en": "Audio, mic, graphics, comfort, colours and controls go back to how they started. Your language, streamer and privacy settings stay.",
+      "text": "オーディオ、マイク、グラフィック、快適さ、カラー、操作が最初の状態に戻ります。言語、配信、プライバシーの設定はそのままです。"
+    },
+    "v3.settings.resetall.confirm": {
+      "en": "Reset",
+      "text": "リセット"
+    },
+    "v3.settings.resetall.title": {
+      "en": "Reset all settings to default?",
+      "text": "すべての設定を初期状態に戻しますか？"
+    },
+    "v3.settings.resetall.toast": {
+      "en": "Settings reset to default",
+      "text": "設定を初期状態に戻しました"
+    },
+    "v3.settings.resetgraphics": {
+      "en": "Reset graphics to defaults",
+      "text": "グラフィックをリセット"
+    },
+    "v3.settings.sessionvis": {
+      "en": "Session Visibility",
+      "text": "セッションの公開範囲"
+    },
+    "v3.settings.sessionvis.sub": {
+      "en": "Public: anyone can find and join. Friends Only: not listed, friends can join. Private: not listed, invite only.",
+      "text": "公開：誰でも見つけて参加可。フレンドのみ：非掲載、フレンドは参加可。非公開：非掲載、招待のみ。"
+    },
+    "v3.settings.streammature.hide": {
+      "en": "Streamer mode: hide mature avatars",
+      "text": "ストリーマーモード：成人向けアバターを非表示"
+    },
+    "v3.settings.streammature.hide.sub": {
+      "en": "Shows them as an orb instead. You can unhide anyone from Nearby.",
+      "text": "代わりにオーブとして表示。「近く」から誰でも再表示できます。"
+    },
+    "v3.settings.streammature.quinn": {
+      "en": "Streamer mode: mature avatars as Quinn",
+      "text": "ストリーマーモード：成人向けアバターをQuinnに"
+    },
+    "v3.settings.streammature.quinn.sub": {
+      "en": "While streamer mode is on, other players' Mature Themes avatars show as Quinn.",
+      "text": "ストリーマーモード中は、他のプレイヤーの成人向けアバターがQuinnで表示されます。"
+    },
+    "v3.settings.swaphands.sub": {
+      "en": "Move the quick menu and Movement Mode to the other hand",
+      "text": "クイックメニューと移動モードを反対の手に"
+    },
+    "v3.settings.uisize": {
+      "en": "UI SIZE",
+      "text": "UIサイズ"
+    },
+    "v3.settings.uisize.sub": {
+      "en": "Size of nameplates and on-screen notifications. Larger is easier to read in VR.",
+      "text": "ネームプレートと画面通知のサイズ。大きいほどVRで読みやすい。"
+    },
+    "v3.settings.voice3d": {
+      "en": "3D Voice",
+      "text": "3Dボイス"
+    },
+    "v3.settings.voice3d.sub": {
+      "en": "Hear each voice from where that person is standing: behind you sounds behind you. Off: everyone sounds flat.",
+      "text": "声がその人のいる方向から聞こえます。後ろの人は後ろから聞こえます。オフ：すべての声が平面的に聞こえます。"
+    },
+    "v3.settings.webcam.hdr": {
+      "en": "WEBCAM TRACKING",
+      "text": "ウェブカメラトラッキング"
+    },
+    "v3.settings.webcam.note": {
+      "en": "Desktop mode only. Pick one: each choice includes the ones above it. Your camera picture never leaves this PC.",
+      "text": "デスクトップモード専用です。1つ選んでください。各項目はそれより上の項目を含みます。カメラの映像がこのPCの外に出ることはありません。"
+    },
+    "v3.store.companions": {
+      "en": "Companions",
+      "text": "コンパニオン"
+    },
+    "v3.store.cosmetics": {
+      "en": "Cosmetics",
+      "text": "コスメ"
+    },
+    "v3.store.empty": {
+      "en": "The store is still in the works",
+      "text": "ストアは準備中です"
+    },
+    "v3.store.emptysub": {
+      "en": "Check back soon — new items are on the way.",
+      "text": "またチェックしてね。新アイテムが近日登場。"
+    },
+    "v3.store.sub": {
+      "en": "Early Access deals — support development and look good doing it.",
+      "text": "アーリーアクセス特典 — 開発を支えながらおしゃれに。"
+    },
+    "v3.store.title": {
+      "en": "VR Realms Store",
+      "text": "VR Realms ストア"
+    },
+    "v3.supporter.accent": {
+      "en": "Accent",
+      "text": "アクセント"
+    },
+    "v3.supporter.active": {
+      "en": "Supporter active",
+      "text": "サポーター有効"
+    },
+    "v3.supporter.activesub": {
+      "en": "Quick access to favorites and menu colour customization.",
+      "text": "お気に入りへの素早いアクセスとメニューの色カスタマイズ。"
+    },
+    "v3.supporter.background": {
+      "en": "Background",
+      "text": "背景"
+    },
+    "v3.supporter.collected": {
+      "en": "COLLECTED HEAD PLATES",
+      "text": "集めたヘッドプレート"
+    },
+    "v3.supporter.colours": {
+      "en": "MENU COLOURS",
+      "text": "メニューの色"
+    },
+    "v3.supporter.favavatars": {
+      "en": "FAVORITE AVATARS",
+      "text": "お気に入りアバター"
+    },
+    "v3.supporter.favworlds": {
+      "en": "FAVORITE WORLDS",
+      "text": "お気に入りワールド"
+    },
+    "v3.supporter.locked": {
+      "en": "You have plates you cannot wear yet",
+      "text": "まだ着けられないプレートがあります"
+    },
+    "v3.supporter.lockedsub": {
+      "en": "Supporters can wear any plate they have found and swap whenever they like. You also get 60 favorite avatars and worlds, plus menu colour customization.",
+      "text": "サポーターは見つけたプレートを自由に着け替えられます。お気に入りのアバターとワールド60枠、メニューの色カスタマイズも。"
+    },
+    "v3.supporter.noavatars": {
+      "en": "No favorite avatars yet. Heart avatars to pin them here.",
+      "text": "お気に入りのアバターはまだありません。ハートを付けてここに固定しよう。"
+    },
+    "v3.supporter.noplate": {
+      "en": "Wear no plate",
+      "text": "プレートを外す"
+    },
+    "v3.supporter.noworlds": {
+      "en": "No favorite worlds yet. Heart worlds to pin them here.",
+      "text": "お気に入りのワールドはまだありません。ハートを付けてここに固定しよう。"
+    },
+    "v3.supporter.plates": {
+      "en": "PLATES",
+      "text": "プレート"
+    },
+    "v3.supporter.platesnote": {
+      "en": "Every plate you find is yours to keep. Pick one to wear for free — choose carefully, it cannot be changed later. Supporters can wear any of them, and swap whenever they like.",
+      "text": "見つけたプレートはすべてあなたのもの。無料で1枚だけ着けられます。後から変更できないので慎重に。サポーターはどれでも自由に着け替えられます。"
+    },
+    "v3.supporter.pricenote": {
+      "en": "Cancel anytime. Every plate you found stays yours.",
+      "text": "いつでも解約可能。見つけたプレートはずっとあなたのもの。"
+    },
+    "v3.supporter.resetcolours": {
+      "en": "Reset colours",
+      "text": "色をリセット"
+    },
+    "v3.supporter.subscribe": {
+      "en": "$7 / month  ·  Become a Supporter",
+      "text": "月額 $7  ·  サポーターになる"
+    },
+    "v3.tag.anyone": {
+      "en": "Anyone",
+      "text": "誰でも"
+    },
+    "v3.tag.creators": {
+      "en": "Creators",
+      "text": "クリエイター"
+    },
+    "v3.tag.gaming": {
+      "en": "Gaming",
+      "text": "ゲーム"
+    },
+    "v3.tag.social": {
+      "en": "Social",
+      "text": "ソーシャル"
+    },
+    "v3.worlds.instances": {
+      "en": "Instances",
+      "text": "インスタンス"
+    },
+    "v3.worlds.noinstances": {
+      "en": "No active instances. Host one below.",
+      "text": "アクティブなインスタンスはありません。下から作成しよう。"
+    },
+    "v3.worlds.nomatch": {
+      "en": "No worlds match",
+      "text": "一致するワールドがありません"
+    },
+    "v3.worlds.singleplayer": {
+      "en": "Single Player",
+      "text": "シングルプレイヤー"
+    },
+    "worlds.access": {
+      "en": "ACCESS",
+      "text": "アクセス"
+    },
+    "worlds.audience": {
+      "en": "AUDIENCE",
+      "text": "対象"
+    },
+    "worlds.capacity": {
+      "en": "CAPACITY",
+      "text": "定員"
+    },
+    "worlds.dropportal": {
+      "en": "DROP PORTAL",
+      "text": "ポータル設置"
+    },
+    "worlds.favonly": {
+      "en": "Favorites only",
+      "text": "お気に入りのみ"
+    },
+    "worlds.filters": {
+      "en": "Filters",
+      "text": "フィルター"
+    },
+    "worlds.gameworld": {
+      "en": "Game World",
+      "text": "ゲームワールド"
+    },
+    "worlds.horror": {
+      "en": "Horror",
+      "text": "ホラー"
+    },
+    "worlds.host": {
+      "en": "HOST",
+      "text": "ホスト"
+    },
+    "worlds.hostnew": {
+      "en": "+  HOST NEW SESSION",
+      "text": "+  新しいセッションを作成"
+    },
+    "worlds.hub.sub": {
+      "en": "The official VR Realms hub — everyone starts here",
+      "text": "VR Realms公式ハブ — 全員ここから始まる"
+    },
+    "worlds.hub.title": {
+      "en": "Join the Main HUB",
+      "text": "メインHUBに参加"
+    },
+    "worlds.install": {
+      "en": "INSTALL",
+      "text": "インストール"
+    },
+    "worlds.maptype": {
+      "en": "MAP TYPE",
+      "text": "マップタイプ"
+    },
+    "worlds.minigame": {
+      "en": "Minigame",
+      "text": "ミニゲーム"
+    },
+    "worlds.personal": {
+      "en": "Personal",
+      "text": "パーソナル"
+    },
+    "worlds.report": {
+      "en": "REPORT",
+      "text": "報告"
+    },
+    "worlds.roleplay": {
+      "en": "Roleplay",
+      "text": "ロールプレイ"
+    },
+    "worlds.searchhint": {
+      "en": "Search worlds…",
+      "text": "ワールドを検索…"
+    },
+    "worlds.showcase": {
+      "en": "Showcase",
+      "text": "ショーケース"
+    },
+    "worlds.socialhub": {
+      "en": "Social Hub",
+      "text": "ソーシャルハブ"
+    },
+    "worlds.sort.players": {
+      "en": "Most Players",
+      "text": "プレイヤー数順"
+    },
+    "worlds.sort.popular": {
+      "en": "Most Popular",
+      "text": "人気順"
+    },
+    "worlds.sort.recent": {
+      "en": "Most Recent",
+      "text": "新着順"
+    },
+    "worlds.sort.toprated": {
+      "en": "Top Rated All Time",
+      "text": "総合評価順"
+    },
+    "worlds.sort.updated": {
+      "en": "Last Updated",
+      "text": "更新順"
+    },
+    "worlds.sortby": {
+      "en": "Sort by",
+      "text": "並び替え"
+    },
+    "ws.nosend": {
+      "en": "Steam is not sending avatars right now. They will show up when it does.",
+      "text": "Steamが現在アバターを送信していません。送信されたら表示されます。"
+    }
+  }
+}

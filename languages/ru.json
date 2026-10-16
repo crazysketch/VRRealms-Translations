@@ -1,0 +1,4375 @@
+{
+  "language": "Русский",
+  "code": "ru",
+  "column": "russian",
+  "strings": {
+    "ach.arcaderegular": {
+      "en": "Arcade Regular",
+      "text": "Завсегдатай аркады"
+    },
+    "ach.avatarmaker": {
+      "en": "Avatar Maker",
+      "text": "Создатель аватаров"
+    },
+    "ach.collector": {
+      "en": "Collector",
+      "text": "Коллекционер"
+    },
+    "ach.competitor": {
+      "en": "Competitor",
+      "text": "Соперник"
+    },
+    "ach.ffawin": {
+      "en": "Last One Standing",
+      "text": "Последний выживший"
+    },
+    "ach.fullhouse": {
+      "en": "Full House",
+      "text": "Полный дом"
+    },
+    "ach.goldrush": {
+      "en": "Gold Rush",
+      "text": "Золотая лихорадка"
+    },
+    "ach.guidedtour": {
+      "en": "Guided Tour",
+      "text": "Экскурсия"
+    },
+    "ach.helpinghand": {
+      "en": "Helping Hand",
+      "text": "Рука помощи"
+    },
+    "ach.label": {
+      "en": "ACHIEVEMENT UNLOCKED",
+      "text": "ДОСТИЖЕНИЕ ПОЛУЧЕНО"
+    },
+    "ach.numberone": {
+      "en": "Number One",
+      "text": "Номер один"
+    },
+    "ach.ontheboard": {
+      "en": "On the Board",
+      "text": "В таблице рекордов"
+    },
+    "ach.poolshark": {
+      "en": "Pool Shark",
+      "text": "Акула бильярда"
+    },
+    "ach.rackemup": {
+      "en": "Rack 'Em Up",
+      "text": "Расставляй шары"
+    },
+    "ach.roadtrip": {
+      "en": "Road Trip",
+      "text": "Совместное путешествие"
+    },
+    "ach.saycheese": {
+      "en": "Say Cheese",
+      "text": "Скажи «сыр»"
+    },
+    "ach.teamwin": {
+      "en": "Hold the Line",
+      "text": "Держать строй"
+    },
+    "ach.treatyourself": {
+      "en": "Treat Yourself",
+      "text": "Побалуй себя"
+    },
+    "ach.welcome": {
+      "en": "Welcome to VR Realms",
+      "text": "Добро пожаловать в VR Realms"
+    },
+    "ach.worldbuilder": {
+      "en": "World Builder",
+      "text": "Строитель миров"
+    },
+    "ach.worldtour": {
+      "en": "World Tour",
+      "text": "Мировое турне"
+    },
+    "arcade.exitkey": {
+      "en": "E - EXIT",
+      "text": "E - ВЫХОД"
+    },
+    "arcade.exitpad": {
+      "en": "X - EXIT",
+      "text": "X - ВЫХОД"
+    },
+    "arcade.exitvr": {
+      "en": "A / X - EXIT",
+      "text": "A / X - ВЫХОД"
+    },
+    "arcade.movekey": {
+      "en": "WASD - MOVE     SPACE - FIRE",
+      "text": "WASD - ДВИЖЕНИЕ     ПРОБЕЛ - ОГОНЬ"
+    },
+    "arcade.movepad": {
+      "en": "STICK - MOVE     A - FIRE",
+      "text": "СТИК - ДВИЖЕНИЕ     A - ОГОНЬ"
+    },
+    "arcade.movevr": {
+      "en": "STICK - MOVE     TRIGGER - FIRE",
+      "text": "СТИК - ДВИЖЕНИЕ     КУРОК - ОГОНЬ"
+    },
+    "arcade.needgold": {
+      "en": "You need {0} more gold to play.",
+      "text": "Не хватает {0} золота, чтобы играть."
+    },
+    "arcade.nogold": {
+      "en": "Not enough gold to play.",
+      "text": "Не хватает золота, чтобы играть."
+    },
+    "arcade.notsaved": {
+      "en": "That score could not be saved.",
+      "text": "Не удалось сохранить этот результат."
+    },
+    "arcade.stepup": {
+      "en": "Step up to the arcade machine to play.",
+      "text": "Подойди к игровому автомату, чтобы играть."
+    },
+    "avatars.anime": {
+      "en": "Anime",
+      "text": "Аниме"
+    },
+    "avatars.blendshapes": {
+      "en": "Blend Shapes",
+      "text": "Бленд-шейпы"
+    },
+    "avatars.chibi": {
+      "en": "Chibi",
+      "text": "Чиби"
+    },
+    "avatars.creature": {
+      "en": "Creature",
+      "text": "Существо"
+    },
+    "avatars.fantasy": {
+      "en": "Fantasy",
+      "text": "Фэнтези"
+    },
+    "avatars.humanoid": {
+      "en": "Humanoid",
+      "text": "Гуманоид"
+    },
+    "avatars.personal": {
+      "en": "Personal",
+      "text": "Личный"
+    },
+    "avatars.realistic": {
+      "en": "Realistic",
+      "text": "Реалистичный"
+    },
+    "avatars.scifi": {
+      "en": "Sci-Fi",
+      "text": "Научная фантастика"
+    },
+    "avatars.style": {
+      "en": "AVATAR STYLE",
+      "text": "СТИЛЬ АВАТАРА"
+    },
+    "avatars.stylized": {
+      "en": "Stylized",
+      "text": "Стилизованный"
+    },
+    "board.avatar": {
+      "en": "avatar",
+      "text": "аватар"
+    },
+    "board.avatars": {
+      "en": "avatars",
+      "text": "аватаров"
+    },
+    "board.by": {
+      "en": "by",
+      "text": "от"
+    },
+    "board.events": {
+      "en": "UPCOMING EVENTS",
+      "text": "БЛИЖАЙШИЕ СОБЫТИЯ"
+    },
+    "board.lastmonth": {
+      "en": "last month",
+      "text": "в прошлом месяце"
+    },
+    "board.lifetime": {
+      "en": "lifetime",
+      "text": "всего"
+    },
+    "board.live": {
+      "en": "LIVE",
+      "text": "В ЭФИРЕ"
+    },
+    "board.loading": {
+      "en": "Loading…",
+      "text": "Загрузка…"
+    },
+    "board.map": {
+      "en": "map",
+      "text": "карта"
+    },
+    "board.maps": {
+      "en": "maps",
+      "text": "карт"
+    },
+    "board.members": {
+      "en": "members",
+      "text": "участников"
+    },
+    "board.n.gold": {
+      "en": "{0} gold",
+      "text": "{0} золота"
+    },
+    "board.n.subs": {
+      "en": "{0} subs",
+      "text": "{0} подп."
+    },
+    "board.noevents": {
+      "en": "No events scheduled",
+      "text": "Нет запланированных событий"
+    },
+    "board.nogold": {
+      "en": "No gold yet",
+      "text": "Золота пока нет"
+    },
+    "board.nogroupgold": {
+      "en": "No group gold yet",
+      "text": "У групп пока нет золота"
+    },
+    "board.nothing": {
+      "en": "Nothing here yet",
+      "text": "Здесь пока пусто"
+    },
+    "board.soon": {
+      "en": "soon",
+      "text": "скоро"
+    },
+    "board.thismonth": {
+      "en": "this month",
+      "text": "в этом месяце"
+    },
+    "board.topavatars": {
+      "en": "TOP AVATARS",
+      "text": "ЛУЧШИЕ АВАТАРЫ"
+    },
+    "board.topcreators": {
+      "en": "TOP CREATORS",
+      "text": "ЛУЧШИЕ АВТОРЫ"
+    },
+    "board.topgold": {
+      "en": "GOLD LEADERS",
+      "text": "ЛИДЕРЫ ПО ЗОЛОТУ"
+    },
+    "board.topgroups": {
+      "en": "TOP GROUPS",
+      "text": "ЛУЧШИЕ ГРУППЫ"
+    },
+    "board.topworlds": {
+      "en": "TOP WORLDS",
+      "text": "ЛУЧШИЕ МИРЫ"
+    },
+    "bots.auto": {
+      "en": "AUTO",
+      "text": "АВТО"
+    },
+    "bots.now.auto": {
+      "en": "Now: AUTO. One droid ({0}) keeps you company while you are alone here, and leaves when somebody joins.",
+      "text": "Сейчас: АВТО. Один дроид ({0}) составляет тебе компанию, пока ты здесь один, и уходит, когда кто-то присоединяется."
+    },
+    "bots.now.many": {
+      "en": "Now: {0} droids ({1}), until you remove them.",
+      "text": "Сейчас: дроидов: {0} ({1}), пока ты их не уберёшь."
+    },
+    "bots.now.none": {
+      "en": "Now: no bots.",
+      "text": "Сейчас: без ботов."
+    },
+    "bots.now.one": {
+      "en": "Now: one droid ({0}), until you remove it.",
+      "text": "Сейчас: один дроид ({0}), пока ты его не уберёшь."
+    },
+    "bots.row.angle": {
+      "en": "Gun Angle (VR)",
+      "text": "Угол оружия (VR)"
+    },
+    "bots.row.angledesc": {
+      "en": "Turns the barrel up or down in your hand, so a gun points where your controller's trigger feels right.",
+      "text": "Поворачивает ствол в руке вверх или вниз, чтобы оружие смотрело туда, где спуск контроллера ощущается правильно."
+    },
+    "bots.row.botsdesc": {
+      "en": "Droids to fight in a world that has a gun match. Up to 9. AUTO: one keeps you company while you are alone.",
+      "text": "Дроиды для боя в мире с оружейным матчем. До 9. АВТО: один составляет тебе компанию, пока ты один."
+    },
+    "bots.row.guns": {
+      "en": "GUNS",
+      "text": "ОРУЖИЕ"
+    },
+    "bots.row.header": {
+      "en": "GUN BOTS",
+      "text": "БОТЫ С ОРУЖИЕМ"
+    },
+    "bots.row.level": {
+      "en": "Bot Level",
+      "text": "Уровень ботов"
+    },
+    "bots.row.leveldesc": {
+      "en": "How well they aim, how fast they shoot, and whether they sprint and jump.",
+      "text": "Насколько метко они целятся, как быстро стреляют и бегают ли и прыгают."
+    },
+    "bots.row.now": {
+      "en": "Bots Now",
+      "text": "Боты сейчас"
+    },
+    "bots.row.remove": {
+      "en": "REMOVE BOTS",
+      "text": "УБРАТЬ БОТОВ"
+    },
+    "bots.row.spawn": {
+      "en": "SPAWN BOTS",
+      "text": "ДОБАВИТЬ БОТОВ"
+    },
+    "bots.toast.auto": {
+      "en": "A droid keeps you company while you are alone. Go to Settings > Host to add or remove bots (up to 9).",
+      "text": "Дроид составит тебе компанию, пока ты один. Зайди в Настройки > Хост, чтобы добавить или убрать ботов (до 9)."
+    },
+    "bots.toast.host": {
+      "en": "Go to Settings > Host to add or remove bots (up to 9, three levels).",
+      "text": "Зайди в Настройки > Хост, чтобы добавить или убрать ботов (до 9, три уровня)."
+    },
+    "build.lost": {
+      "en": "Connection lost. This VR Realms is out of date: close the game and let Steam update it.",
+      "text": "Связь потеряна. Эта версия VR Realms устарела: закрой игру, и пусть Steam её обновит."
+    },
+    "build.tooold": {
+      "en": "A newer VR Realms is out, and the hub needs it. Close the game and let Steam update it.",
+      "text": "Вышла новая версия VR Realms, и она нужна хабу. Закрой игру, и пусть Steam её обновит."
+    },
+    "call.aplayer": {
+      "en": "A player",
+      "text": "Игрок"
+    },
+    "call.aworld": {
+      "en": "a world",
+      "text": "один из миров"
+    },
+    "call.box.home": {
+      "en": "{0} invites everyone to hang out",
+      "text": "{0} зовёт всех потусоваться"
+    },
+    "call.box.notnow": {
+      "en": "NOT NOW",
+      "text": "НЕ СЕЙЧАС"
+    },
+    "call.box.tag": {
+      "en": "CALL TO PLAY",
+      "text": "ПРИЗЫВ К ИГРЕ"
+    },
+    "call.box.world": {
+      "en": "{0} is calling everyone to play",
+      "text": "{0} зовёт всех поиграть"
+    },
+    "call.chat.home": {
+      "en": "{0} invites everyone to hang out at their home. To join: the gold row in your quick menu.",
+      "text": "{0} зовёт всех потусоваться у себя дома. Чтобы присоединиться: золотая строка в быстром меню."
+    },
+    "call.chat.world": {
+      "en": "{0} is calling everyone to play in {1}. To join: the gold row in your quick menu.",
+      "text": "{0} зовёт всех поиграть в {1}. Чтобы присоединиться: золотая строка в быстром меню."
+    },
+    "call.confirm.left": {
+      "en": "{0} OF {1} CALLS LEFT TODAY",
+      "text": "СЕГОДНЯ ОСТАЛОСЬ ПРИЗЫВОВ: {0} ИЗ {1}"
+    },
+    "call.confirm.notice": {
+      "en": "EVERYONE IN THE GAME GETS NOTIFIED",
+      "text": "УВЕДОМЛЕНИЕ ПОЛУЧАТ ВСЕ В ИГРЕ"
+    },
+    "call.confirm.title": {
+      "en": "CALL EVERYONE?",
+      "text": "ПОЗВАТЬ ВСЕХ?"
+    },
+    "call.confirm.yes": {
+      "en": "YES, CALL EVERYONE",
+      "text": "ДА, ПОЗВАТЬ ВСЕХ"
+    },
+    "call.daydone": {
+      "en": "You have called everyone today already. Your next call: in {0}.",
+      "text": "Призывы на сегодня закончились. Следующий: через {0}."
+    },
+    "call.fullgame": {
+      "en": "{0}'s game is full right now.",
+      "text": "Игра игрока {0} сейчас заполнена."
+    },
+    "call.fullhome": {
+      "en": "{0}'s home is full right now.",
+      "text": "Дом игрока {0} сейчас заполнен."
+    },
+    "call.gap": {
+      "en": "A call went out a little while ago. The next one can go out in {0}.",
+      "text": "Недавно уже был призыв. Следующий можно отправить через {0}."
+    },
+    "call.homeof": {
+      "en": "{0}'s home",
+      "text": "Дом игрока {0}"
+    },
+    "call.hourmin": {
+      "en": "1 hour {0} min",
+      "text": "1 ч {0} мин"
+    },
+    "call.hours": {
+      "en": "{0} hours",
+      "text": "{0} ч"
+    },
+    "call.joining": {
+      "en": "Joining {0}...",
+      "text": "Присоединяемся к игроку {0}..."
+    },
+    "call.lookgame": {
+      "en": "Looking for {0}'s game...",
+      "text": "Ищем игру игрока {0}..."
+    },
+    "call.lookhome": {
+      "en": "Looking for {0}'s home...",
+      "text": "Ищем дом игрока {0}..."
+    },
+    "call.nogame": {
+      "en": "Could not find {0}'s game. It may be full, private or closed.",
+      "text": "Не удалось найти игру игрока {0}. Возможно, она заполнена, приватная или закрыта."
+    },
+    "call.nohome": {
+      "en": "Could not find {0}'s home. It may be full, private or closed.",
+      "text": "Не удалось найти дом игрока {0}. Возможно, он заполнен, приватный или закрыт."
+    },
+    "call.nosite": {
+      "en": "The call could not be sent: VR Realms did not answer. Try again in a moment.",
+      "text": "Не удалось отправить призыв: VR Realms не ответил. Попробуй ещё раз чуть позже."
+    },
+    "call.nosteam": {
+      "en": "The call could not be sent: the game is not signed in to Steam.",
+      "text": "Не удалось отправить призыв: игра не вошла в Steam."
+    },
+    "call.nothost": {
+      "en": "VR Realms does not know yet that you are hosting. Try again in a minute.",
+      "text": "VR Realms ещё не знает, что ты хост. Попробуй через минуту."
+    },
+    "call.off": {
+      "en": "Calls are switched off right now.",
+      "text": "Призывы сейчас отключены."
+    },
+    "call.openfor": {
+      "en": "Your call is open for another {0}. Players who said yes so far: {1}.",
+      "text": "Твой призыв открыт ещё {0}. Пока согласились: {1}."
+    },
+    "call.otheropen": {
+      "en": "Somebody else's call is open right now. Try again in {0}.",
+      "text": "Сейчас открыт чужой призыв. Попробуй через {0}."
+    },
+    "call.out": {
+      "en": "Your call is out. Everyone in the game sees it within a minute, and it stays open for {0} minutes.",
+      "text": "Призыв отправлен. Все в игре увидят его в течение минуты, и он будет открыт {0} мин."
+    },
+    "call.over1": {
+      "en": "Your call is over. 1 player said yes.",
+      "text": "Твой призыв завершён. Откликнулся 1 игрок."
+    },
+    "call.overn": {
+      "en": "Your call is over. {0} players said yes.",
+      "text": "Твой призыв завершён. Откликнулось игроков: {0}."
+    },
+    "call.refused": {
+      "en": "The call was refused.",
+      "text": "Призыв отклонён."
+    },
+    "call.row.call": {
+      "en": "CALL EVERYONE",
+      "text": "ПОЗВАТЬ ВСЕХ"
+    },
+    "call.row.in": {
+      "en": "CALL EVERYONE · IN {0}",
+      "text": "ПОЗВАТЬ ВСЕХ · ЧЕРЕЗ {0}"
+    },
+    "call.row.join": {
+      "en": "JOIN {0}'S CALL",
+      "text": "ПРИСОЕДИНИТЬСЯ: {0}"
+    },
+    "call.row.out": {
+      "en": "YOUR CALL IS OUT · {0}",
+      "text": "ПРИЗЫВ ОТПРАВЛЕН · {0}"
+    },
+    "call.row.press": {
+      "en": "PRESS AGAIN TO CALL",
+      "text": "НАЖМИ ЕЩЁ РАЗ, ЧТОБЫ ПОЗВАТЬ"
+    },
+    "call.stays": {
+      "en": "{0}'s call stays in your quick menu until it is over.",
+      "text": "Призыв игрока {0} останется в быстром меню, пока не закончится."
+    },
+    "call.test": {
+      "en": "That was a test call: there is nothing to join.",
+      "text": "Это был тестовый призыв: присоединяться некуда."
+    },
+    "call.yes1": {
+      "en": "1 player said yes to your call.",
+      "text": "На твой призыв откликнулся 1 игрок."
+    },
+    "call.yesn": {
+      "en": "{0} players said yes to your call.",
+      "text": "Откликнулись на твой призыв: {0}."
+    },
+    "cam.dock.drone": {
+      "en": "Screen: On Drone",
+      "text": "Экран: на дроне"
+    },
+    "cam.dock.hud": {
+      "en": "Screen: Corner",
+      "text": "Экран: в углу"
+    },
+    "cam.dock.left": {
+      "en": "Screen: Left",
+      "text": "Экран: слева"
+    },
+    "cam.dock.off": {
+      "en": "Screen: Hidden",
+      "text": "Экран: скрыт"
+    },
+    "cam.dock.right": {
+      "en": "Screen: Right",
+      "text": "Экран: справа"
+    },
+    "cam.exposure.bright": {
+      "en": "Exposure: Bright",
+      "text": "Экспозиция: яркая"
+    },
+    "cam.exposure.brighter": {
+      "en": "Exposure: Brighter",
+      "text": "Экспозиция: ярче"
+    },
+    "cam.exposure.max": {
+      "en": "Exposure: Max",
+      "text": "Экспозиция: максимум"
+    },
+    "cam.exposure.normal": {
+      "en": "Exposure: Normal",
+      "text": "Экспозиция: обычная"
+    },
+    "cam.hint.alt": {
+      "en": "Press ALT to use the mouse",
+      "text": "Нажмите ALT, чтобы использовать мышь"
+    },
+    "cam.hint.flymouse": {
+      "en": "MOUSE MODE — ALT to fly again · ESC exits Free Fly",
+      "text": "РЕЖИМ МЫШИ — ALT, чтобы снова лететь · ESC выход из свободного полёта"
+    },
+    "cam.hint.flymousepad": {
+      "en": "MOUSE MODE — LB to fly again · Start exits Free Fly",
+      "text": "РЕЖИМ МЫШИ — LB, чтобы снова лететь · Start выход из свободного полёта"
+    },
+    "cam.hint.freefly": {
+      "en": "FREE FLY — WASD move · Q/E height · mouse look · ALT for cursor · ESC to exit",
+      "text": "СВОБОДНЫЙ ПОЛЁТ — WASD движение · Q/E высота · мышь обзор · ALT курсор · ESC выход"
+    },
+    "cam.hint.freeflypad": {
+      "en": "FREE FLY — left stick move · triggers height · right stick look · LB for cursor · Start to exit",
+      "text": "СВОБОДНЫЙ ПОЛЁТ — левый стик движение · триггеры высота · правый стик обзор · LB курсор · Start выход"
+    },
+    "cam.hint.lb": {
+      "en": "Press LB to use the mouse",
+      "text": "Нажмите LB, чтобы использовать мышь"
+    },
+    "cam.hint.mouseon": {
+      "en": "MOUSE MODE — press ALT to give the mouse back",
+      "text": "РЕЖИМ МЫШИ — нажмите ALT, чтобы вернуть мышь"
+    },
+    "cam.hint.mouseonpad": {
+      "en": "MOUSE MODE — press LB to give the mouse back",
+      "text": "РЕЖИМ МЫШИ — нажмите LB, чтобы вернуть мышь"
+    },
+    "cam.mode.followbehind": {
+      "en": "Follow Behind",
+      "text": "Следовать сзади"
+    },
+    "cam.mode.followfront": {
+      "en": "Follow Front",
+      "text": "Следовать спереди"
+    },
+    "cam.mode.freefly": {
+      "en": "Free Fly",
+      "text": "Свободный полёт"
+    },
+    "cam.mode.orbit": {
+      "en": "Orbit",
+      "text": "Орбита"
+    },
+    "cam.mode.tripod": {
+      "en": "Tripod",
+      "text": "Штатив"
+    },
+    "cam.toast.freeflyhold": {
+      "en": "FREE FLY  —  squeeze GRIP to exit",
+      "text": "СВОБОДНЫЙ ПОЛЁТ  —  сожмите ЗАХВАТ для выхода"
+    },
+    "cam.toast.freeflyon": {
+      "en": "FREE FLY — sticks steer the camera, grip to exit",
+      "text": "СВОБОДНЫЙ ПОЛЁТ — стики управляют камерой, захват для выхода"
+    },
+    "cam.toast.modenow": {
+      "en": "Camera: {0}",
+      "text": "Камера: {0}"
+    },
+    "chat.comingonline": {
+      "en": "Chat coming online — messages will appear here.",
+      "text": "Чат подключается — сообщения появятся здесь."
+    },
+    "chat.deskhint": {
+      "en": "Type a message…  (Enter to send)",
+      "text": "Введите сообщение…  (Enter для отправки)"
+    },
+    "chat.hint.desk": {
+      "en": "Click or press Enter to chat",
+      "text": "Нажмите или Enter для чата"
+    },
+    "chat.hint.vr": {
+      "en": "Tap to type…",
+      "text": "Нажмите, чтобы печатать…"
+    },
+    "chat.openkeyboard": {
+      "en": "Open the keyboard to type…",
+      "text": "Откройте клавиатуру для ввода…"
+    },
+    "chat.reminder": {
+      "en": "Press Enter to chat",
+      "text": "Enter для чата"
+    },
+    "chat.translate.busy": {
+      "en": "Translation is busy. Try again later",
+      "text": "Перевод занят. Попробуйте позже"
+    },
+    "chat.translate.failed": {
+      "en": "Could not translate. Tap to retry",
+      "text": "Не удалось перевести. Нажмите, чтобы повторить"
+    },
+    "chat.translate.link": {
+      "en": "Translate",
+      "text": "Перевести"
+    },
+    "chat.translate.original": {
+      "en": "Show original",
+      "text": "Показать оригинал"
+    },
+    "chat.translate.pending": {
+      "en": "Translating…",
+      "text": "Перевод…"
+    },
+    "chat.translate.same": {
+      "en": "Already in your language",
+      "text": "Уже на вашем языке"
+    },
+    "chat.translate.shown": {
+      "en": "Show translation",
+      "text": "Показать перевод"
+    },
+    "common.audio": {
+      "en": "Audio",
+      "text": "Аудио"
+    },
+    "common.befriend": {
+      "en": "Befriend",
+      "text": "Добавить в друзья"
+    },
+    "common.chat": {
+      "en": "CHAT",
+      "text": "Чат"
+    },
+    "common.clearall": {
+      "en": "Clear all",
+      "text": "Очистить всё"
+    },
+    "common.close": {
+      "en": "Close",
+      "text": "Закрыть"
+    },
+    "common.debug": {
+      "en": "Debug",
+      "text": "Отладка"
+    },
+    "common.decline": {
+      "en": "Decline",
+      "text": "Отклонить"
+    },
+    "common.emoji": {
+      "en": "Emoji",
+      "text": "Эмодзи"
+    },
+    "common.equip": {
+      "en": "EQUIP",
+      "text": "Надеть"
+    },
+    "common.everyone": {
+      "en": "Everyone",
+      "text": "Все"
+    },
+    "common.go": {
+      "en": "Go",
+      "text": "Перейти"
+    },
+    "common.hide": {
+      "en": "Hide",
+      "text": "Скрыть"
+    },
+    "common.ignore": {
+      "en": "Ignore",
+      "text": "Игнорировать"
+    },
+    "common.invite": {
+      "en": "Invite",
+      "text": "Пригласить"
+    },
+    "common.join": {
+      "en": "Join",
+      "text": "Присоединиться"
+    },
+    "common.justnow": {
+      "en": "just now",
+      "text": "только что"
+    },
+    "common.kick": {
+      "en": "Kick",
+      "text": "Выгнать"
+    },
+    "common.large": {
+      "en": "Large",
+      "text": "Большой"
+    },
+    "common.mature": {
+      "en": "Mature",
+      "text": "Для взрослых"
+    },
+    "common.medium": {
+      "en": "Medium",
+      "text": "Средний"
+    },
+    "common.mute": {
+      "en": "Mute",
+      "text": "Заглушить"
+    },
+    "common.offline": {
+      "en": "Offline",
+      "text": "Не в сети"
+    },
+    "common.online": {
+      "en": "Online",
+      "text": "В сети"
+    },
+    "common.search": {
+      "en": "Search",
+      "text": "Поиск"
+    },
+    "common.small": {
+      "en": "Small",
+      "text": "Малый"
+    },
+    "common.unhide": {
+      "en": "Unhide",
+      "text": "Показать"
+    },
+    "common.unmute": {
+      "en": "Unmute",
+      "text": "Включить звук"
+    },
+    "dares.alldone": {
+      "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
+      "text": "Nixie: Все три вызова. Вызовы у меня кончились, а я слегка впечатлена."
+    },
+    "dares.checkpoint": {
+      "en": "Checkpoint {0} of {1}.",
+      "text": "Чекпоинт {0} из {1}."
+    },
+    "dares.d.easy": {
+      "en": "Easy",
+      "text": "Легко"
+    },
+    "dares.d.hard": {
+      "en": "Hard",
+      "text": "Сложно"
+    },
+    "dares.d.hardest": {
+      "en": "Hardest",
+      "text": "Сложнее всего"
+    },
+    "dares.door": {
+      "en": "Nixie: That door opens onto nothing. I dare you. Unless you are chicken.",
+      "text": "Nixie: Эта дверь открывается в пустоту. Слабо прыгнуть? Если не трусишь, конечно."
+    },
+    "dares.doorchicken": {
+      "en": "Nixie: Still standing there. I am not judging. I am only logging it.",
+      "text": "Nixie: Всё ещё стоишь. Я не осуждаю. Я просто записываю."
+    },
+    "dares.fellout": {
+      "en": "You fell out of the world. Back you go.",
+      "text": "Ты выпал из мира. Возвращаем обратно."
+    },
+    "dares.ffaagain": {
+      "en": "Nixie: Another round of free-for-all. Counted for today.",
+      "text": "Nixie: Ещё раунд «все против всех». На сегодня засчитано."
+    },
+    "dares.ffadone": {
+      "en": "Nixie: A whole round of free-for-all. You survived, mostly. Dare done.",
+      "text": "Nixie: Целый раунд «все против всех». Ты выжил. В основном. Вызов выполнен."
+    },
+    "dares.ffawinagain": {
+      "en": "Nixie: You won again. Counted for today.",
+      "text": "Nixie: Снова победа. На сегодня засчитано."
+    },
+    "dares.ffawindone": {
+      "en": "Nixie: First place. I will pretend I expected it. Dare done.",
+      "text": "Nixie: Первое место. Сделаю вид, что я этого ждала. Вызов выполнен."
+    },
+    "dares.galaxicaagain": {
+      "en": "Nixie: Stage 3 on Galaxica again. Counted for today.",
+      "text": "Nixie: Снова уровень 3 в Galaxica. На сегодня засчитано."
+    },
+    "dares.galaxicadone": {
+      "en": "Nixie: Stage 3 on Galaxica. The aliens have filed a complaint. Dare done.",
+      "text": "Nixie: Уровень 3 в Galaxica. Пришельцы подали жалобу. Вызов выполнен."
+    },
+    "dares.hintdesktop": {
+      "en": "Save yourself! Press {Radial}, then hit Respawn.",
+      "text": "Спасайся! Нажми {Radial}, потом Возродиться."
+    },
+    "dares.hintvr": {
+      "en": "Save yourself! Click the {WheelStick} stick, look at your {WheelHand} wrist, then hit Respawn.",
+      "text": "Спасайся! Нажми на {WheelStick} стик, посмотри на запястье ({WheelHand}), потом Возродиться."
+    },
+    "dares.homeoffer": {
+      "en": "Nixie: I have three dares for you. Open your menu and press the glowing Dares button. Unless you are chicken. If you take one, find me there first. I will be watching.",
+      "text": "Nixie: У меня для тебя три вызова. Открой меню и нажми светящуюся кнопку Вызовы. Если не трусишь. Возьмёшься за какой-нибудь, сначала найди меня там. Я буду наблюдать."
+    },
+    "dares.jumpagain": {
+      "en": "Nixie: Again? Show-off.",
+      "text": "Nixie: Опять? Выпендриваешься."
+    },
+    "dares.jumpagainpaid": {
+      "en": "Nixie: Again? Show-off. Counted for today.",
+      "text": "Nixie: Опять? Выпендриваешься. На сегодня засчитано."
+    },
+    "dares.jumpcaught": {
+      "en": "Nixie: I fished you out. That one goes down as a fail. Try again, and this time save yourself with Respawn.",
+      "text": "Nixie: Я тебя выудила. Это засчитывается как провал. Попробуй ещё раз, и теперь спаси себя кнопкой Возродиться."
+    },
+    "dares.jumpdone": {
+      "en": "Nixie: You saved yourself. I only screamed a little. Dare done.",
+      "text": "Nixie: Самоспасение засчитано. Я кричала совсем чуть-чуть. Вызов выполнен."
+    },
+    "dares.l.ffa10": {
+      "en": "Nixie: First of ten. Everybody else is filing a complaint. Dare done.",
+      "text": "Nixie: Первый из десяти. Все остальные пишут жалобу. Вызов выполнен."
+    },
+    "dares.l.ffa10again": {
+      "en": "Nixie: First of ten again. Counted for today.",
+      "text": "Nixie: Снова первый из десяти. На сегодня засчитано."
+    },
+    "dares.l.team": {
+      "en": "Nixie: A whole team match. You even passed to someone. Dare done.",
+      "text": "Nixie: Целый командный матч. Ты даже кому-то дал пас. Вызов выполнен."
+    },
+    "dares.l.team5": {
+      "en": "Nixie: Five on five, and your side won. That is a real battle. Dare done.",
+      "text": "Nixie: Пять на пять, и твоя сторона победила. Вот это настоящая битва. Вызов выполнен."
+    },
+    "dares.l.team5again": {
+      "en": "Nixie: Another five on five won. Counted for today.",
+      "text": "Nixie: Ещё одна победа пять на пять. На сегодня засчитано."
+    },
+    "dares.l.teamagain": {
+      "en": "Nixie: Another team match. Counted for today.",
+      "text": "Nixie: Ещё один командный матч. На сегодня засчитано."
+    },
+    "dares.l.teamwin": {
+      "en": "Nixie: Your team won. I am told you helped. Dare done.",
+      "text": "Nixie: Твоя команда победила. Мне сказали, что ты помог. Вызов выполнен."
+    },
+    "dares.l.teamwinagain": {
+      "en": "Nixie: Your team won again. Counted for today.",
+      "text": "Nixie: Твоя команда снова победила. На сегодня засчитано."
+    },
+    "dares.lapdone": {
+      "en": "Nixie: One lap. I counted. Dare done.",
+      "text": "Nixie: Один круг. Я посчитала. Вызов выполнен."
+    },
+    "dares.lapnopay": {
+      "en": "Lap done. Today's jog was already counted. It counts again tomorrow.",
+      "text": "Круг пройден. Сегодняшняя пробежка уже засчитана. Завтра она засчитается снова."
+    },
+    "dares.lappaid": {
+      "en": "Nixie: Another lap. Today's jog is counted. Same time tomorrow?",
+      "text": "Nixie: Ещё круг. Сегодняшняя пробежка засчитана. Завтра в то же время?"
+    },
+    "dares.lapsprint": {
+      "en": "Hold {Sprint} to run.",
+      "text": "Удерживай {Sprint}, чтобы бежать."
+    },
+    "dares.lapstart": {
+      "en": "Nixie: A lap. I would join you, but I was built for standing.",
+      "text": "Nixie: Круг. Я бы составила тебе компанию, но меня собрали для стояния."
+    },
+    "dares.n.dare": {
+      "en": "I dare you.",
+      "text": "Слабо?"
+    },
+    "dares.n.done": {
+      "en": "Done. I made a note.",
+      "text": "Выполнено. Я записала."
+    },
+    "dares.n.ffa1": {
+      "en": "Round played. I logged every shot. Most of them missed.",
+      "text": "Раунд сыгран. Я записала каждый выстрел. Большинство мимо."
+    },
+    "dares.n.ffa2": {
+      "en": "One round of free-for-all. Shoot things. I will keep score, badly.",
+      "text": "Один раунд «все против всех». Стреляй по всему. Я буду вести счёт. Плохо."
+    },
+    "dares.n.gal1": {
+      "en": "Stage 3. The arcade has your number now.",
+      "text": "Уровень 3. Теперь аркада тебя запомнила."
+    },
+    "dares.n.gal2": {
+      "en": "Galaxica, stage 3. The aliens get meaner. So should you.",
+      "text": "Galaxica, уровень 3. Пришельцы становятся злее. Так что и ты не отставай."
+    },
+    "dares.n.jog1": {
+      "en": "One lap of the park. I would join you, but I was built for standing.",
+      "text": "Один круг по парку. Я бы составила тебе компанию, но меня собрали для стояния."
+    },
+    "dares.n.jog2": {
+      "en": "Today's lap is in the log. Come back tomorrow. I will act surprised.",
+      "text": "Сегодняшний круг в журнале. Приходи завтра. Я сделаю вид, что удивлена."
+    },
+    "dares.n.jog3": {
+      "en": "A new day, a new lap. The park is waiting. So am I, technically.",
+      "text": "Новый день, новый круг. Парк ждёт. Я тоже, технически."
+    },
+    "dares.n.jump1": {
+      "en": "You jumped and saved yourself. I only screamed a little.",
+      "text": "Прыжок и самоспасение. Я кричала совсем чуть-чуть."
+    },
+    "dares.n.jump2": {
+      "en": "A door, a lot of nothing behind it, and you. Unless you are chicken.",
+      "text": "Дверь, за ней много пустоты, и ты. Если не трусишь."
+    },
+    "dares.n.plate1": {
+      "en": "You have one. I had a bet with the vending machine. I won.",
+      "text": "Одна у тебя уже есть. Я поспорила с торговым автоматом. И выиграла."
+    },
+    "dares.n.plate2": {
+      "en": "A plate is lying around the hub somewhere. Finders keepers. I checked the rules.",
+      "text": "Где-то в хабе валяется табличка. Кто нашёл, того и табличка. Я проверила правила."
+    },
+    "dares.n.win1": {
+      "en": "A win. I printed you a tiny certificate. It is in my head.",
+      "text": "Победа. Я распечатала тебе крошечную грамоту. Она у меня в голове."
+    },
+    "dares.n.win2": {
+      "en": "Win a round. First place. No pressure. Some pressure.",
+      "text": "Выиграй раунд. Первое место. Без давления. Ну, немного давления."
+    },
+    "dares.page.alltoday": {
+      "en": "All of them, today. Come back tomorrow. I will think of something.",
+      "text": "Все до одного, сегодня. Приходи завтра. Я что-нибудь придумаю."
+    },
+    "dares.page.arena": {
+      "en": "You are in the hub. The arena is the place.",
+      "text": "Ты в хабе. Тебе на арену."
+    },
+    "dares.page.checkreached": {
+      "en": "Checkpoint {0} of {1} reached. Keep going.",
+      "text": "Чекпоинт {0} из {1} пройден. Не останавливайся."
+    },
+    "dares.page.chip": {
+      "en": "Dares",
+      "text": "Вызовы"
+    },
+    "dares.page.count": {
+      "en": "{0} of {1} today",
+      "text": "{0} из {1} сегодня"
+    },
+    "dares.page.done": {
+      "en": "Done.",
+      "text": "Выполнено."
+    },
+    "dares.page.doneagain": {
+      "en": "Done today. It counts again tomorrow.",
+      "text": "Выполнено сегодня. Завтра засчитается снова."
+    },
+    "dares.page.donebefore": {
+      "en": "Done before. Today it counts again: {0} gold.",
+      "text": "Уже выполнялся. Сегодня засчитается снова: {0} золота."
+    },
+    "dares.page.donetoday": {
+      "en": "Done today.",
+      "text": "Выполнено сегодня."
+    },
+    "dares.page.doordone": {
+      "en": "Done. You are here: the door still opens, if you miss the fall.",
+      "text": "Выполнено. Ты здесь: дверь всё ещё открывается, если скучаешь по падению."
+    },
+    "dares.page.finddoor": {
+      "en": "You are here. Find the door.",
+      "text": "Ты здесь. Найди дверь."
+    },
+    "dares.page.foot": {
+      "en": "Gold for a finished dare arrives with the nightly tally. Every dare is optional, and counts again on a later day.",
+      "text": "Золото за выполненный вызов приходит с ночным подсчётом. Все вызовы по желанию, и в другой день они засчитываются снова."
+    },
+    "dares.page.galaxica": {
+      "en": "You are in the hub. Find the Galaxica machine.",
+      "text": "Ты в хабе. Найди автомат Galaxica."
+    },
+    "dares.page.gohub": {
+      "en": "Go to the hub",
+      "text": "Перейти в хаб"
+    },
+    "dares.page.goldday": {
+      "en": "{0} gold, then {1} a day",
+      "text": "{0} золота, потом {1} в день"
+    },
+    "dares.page.lapcounted": {
+      "en": "You are here. Today's lap is counted.",
+      "text": "Ты здесь. Сегодняшний круг засчитан."
+    },
+    "dares.page.nocheck": {
+      "en": "You are here, but this world has no checkpoints yet.",
+      "text": "Ты здесь, но в этом мире ещё нет чекпоинтов."
+    },
+    "dares.page.nodoor": {
+      "en": "You are here, but this world has no dare door yet.",
+      "text": "Ты здесь, но в этом мире ещё нет двери для вызова."
+    },
+    "dares.page.plategold": {
+      "en": "the plate's own {0} gold",
+      "text": "{0} золота самой таблички"
+    },
+    "dares.page.plategoldday": {
+      "en": "the plate's own {0} gold, then {1} a day",
+      "text": "{0} золота самой таблички, потом {1} в день"
+    },
+    "dares.page.platehub": {
+      "en": "You are in the hub. A plate is somewhere on the floor.",
+      "text": "Ты в хабе. Где-то на полу лежит табличка."
+    },
+    "dares.page.pressagain": {
+      "en": "Press again to go",
+      "text": "Нажми ещё раз, чтобы отправиться"
+    },
+    "dares.page.runfirst": {
+      "en": "You are here. Run to the first checkpoint.",
+      "text": "Ты здесь. Беги к первому чекпоинту."
+    },
+    "dares.page.set": {
+      "en": "Set {0}",
+      "text": "Набор {0}"
+    },
+    "dares.page.setbonus": {
+      "en": "All three of a set: {0} gold on top",
+      "text": "Все три из набора: ещё {0} золота сверху"
+    },
+    "dares.page.setnew": {
+      "en": "Set {0} · new",
+      "text": "Набор {0} · новый"
+    },
+    "dares.page.sub1": {
+      "en": "All optional. Any order. They come back every day. I noticed you.",
+      "text": "Все по желанию. В любом порядке. Они возвращаются каждый день. Я тебя заметила."
+    },
+    "dares.page.sub2": {
+      "en": "All optional. Any order. They come back every day. I will be logging everything.",
+      "text": "Все по желанию. В любом порядке. Они возвращаются каждый день. Я буду всё записывать."
+    },
+    "dares.page.takeme": {
+      "en": "Take me there",
+      "text": "Отправиться туда"
+    },
+    "dares.page.title": {
+      "en": "Nixie's dares",
+      "text": "Вызовы Nixie"
+    },
+    "dares.page.today": {
+      "en": "Today's dare +{0}",
+      "text": "Вызов дня +{0}"
+    },
+    "dares.parkintro": {
+      "en": "Nixie: A lap of the park. Follow the gold trail through every checkpoint. I will wait here. Standing is my cardio.",
+      "text": "Nixie: Круг по парку. Беги по золотой тропе через все чекпоинты. Я подожду здесь. Стояние и есть моё кардио."
+    },
+    "dares.parkover": {
+      "en": "Nixie: Today's lap is counted. Stay for the trees. I will keep standing here, professionally.",
+      "text": "Nixie: Сегодняшний круг засчитан. Останься ради деревьев. А я продолжу стоять здесь. Профессионально."
+    },
+    "dares.plateagain": {
+      "en": "Nixie: Another head plate. The plate dare is counted for today.",
+      "text": "Nixie: Ещё одна табличка. Вызов с табличкой на сегодня засчитан."
+    },
+    "dares.platedone": {
+      "en": "Nixie: A head plate. A hat made of facts. Dare done.",
+      "text": "Nixie: Табличка. Шляпа из фактов. Вызов выполнен."
+    },
+    "dares.setbonus": {
+      "en": "+{0} gold for all three",
+      "text": "+{0} золота за все три"
+    },
+    "dares.setbonushead": {
+      "en": "Finish all three of a set: bonus gold on top",
+      "text": "Выполни все три из набора: бонусное золото сверху"
+    },
+    "dares.setdone": {
+      "en": "Nixie: That whole set is done. I will have to think of new dares.",
+      "text": "Nixie: Весь набор выполнен. Придётся придумать новые вызовы."
+    },
+    "dares.t.ffa": {
+      "en": "Play a round of free-for-all",
+      "text": "Сыграй раунд «все против всех»"
+    },
+    "dares.t.ffa10win": {
+      "en": "Win a free-for-all of ten",
+      "text": "Выиграй «все против всех» на десятерых"
+    },
+    "dares.t.ffawin": {
+      "en": "Win a round of free-for-all",
+      "text": "Выиграй раунд «все против всех»"
+    },
+    "dares.t.galaxica": {
+      "en": "Reach stage 3 on Galaxica",
+      "text": "Дойди до уровня 3 в Galaxica"
+    },
+    "dares.t.hubhunt": {
+      "en": "Find Nixie's three lost things in the hub",
+      "text": "Найди три потерянные вещи Nixie в хабе"
+    },
+    "dares.t.hubhunt2": {
+      "en": "Find the hub's three lost things on another day",
+      "text": "Найди три потерянные вещи хаба в другой день"
+    },
+    "dares.t.jog": {
+      "en": "Jog one lap",
+      "text": "Пробеги один круг"
+    },
+    "dares.t.jump": {
+      "en": "Jump into the dark, then save yourself",
+      "text": "Прыгни во тьму, а потом спасись"
+    },
+    "dares.t.plate": {
+      "en": "Find a head plate",
+      "text": "Найди табличку"
+    },
+    "dares.t.team": {
+      "en": "Play a round of team free-for-all",
+      "text": "Сыграй раунд командного «все против всех»"
+    },
+    "dares.t.team5win": {
+      "en": "Win a team match, five on five",
+      "text": "Выиграй командный матч пять на пять"
+    },
+    "dares.t.teamwin": {
+      "en": "Win a round of team free-for-all",
+      "text": "Выиграй раунд командного «все против всех»"
+    },
+    "dares.todaybonus": {
+      "en": "That was today's dare: a bonus on top.",
+      "text": "Это был вызов дня: сверху бонус."
+    },
+    "dares.w.arcade": {
+      "en": "the arcade in the hub",
+      "text": "аркада в хабе"
+    },
+    "dares.w.arena": {
+      "en": "the hub's arena, or any free-for-all world",
+      "text": "арена в хабе или любой мир «все против всех»"
+    },
+    "dares.w.ffa": {
+      "en": "FFA Shooter, a bot plays you there",
+      "text": "FFA Shooter, там с тобой играет бот"
+    },
+    "dares.w.ffa10": {
+      "en": "FFA Shooter, add 9 bots as host",
+      "text": "FFA Shooter, добавь 9 ботов как хост"
+    },
+    "dares.w.hubbusy": {
+      "en": "the hub, when it is busy",
+      "text": "хаб, когда там людно"
+    },
+    "dares.w.team": {
+      "en": "SciFi TFFA, or any team match; alone, add bots as host",
+      "text": "SciFi TFFA или любой командный матч; в одиночку добавь ботов как хост"
+    },
+    "dares.w.team5": {
+      "en": "SciFi TFFA, a team match of 10; alone, add 9 bots",
+      "text": "SciFi TFFA, командный матч на 10; в одиночку добавь 9 ботов"
+    },
+    "fbt.calibrate": {
+      "en": "CALIBRATE",
+      "text": "КАЛИБРОВКА"
+    },
+    "fbt.height": {
+      "en": "Avatar Height",
+      "text": "Рост аватара"
+    },
+    "fbt.settings": {
+      "en": "FBT Settings",
+      "text": "Настройки FBT"
+    },
+    "first.bot": {
+      "en": "FIGHT A BOT",
+      "text": "СРАЗИТЬСЯ С БОТОМ"
+    },
+    "first.botsub": {
+      "en": "FFA Shooter, the easiest",
+      "text": "FFA Shooter, самая простая"
+    },
+    "first.donetag": {
+      "en": "MISSION DONE",
+      "text": "МИССИЯ ВЫПОЛНЕНА"
+    },
+    "first.hintbot": {
+      "en": "Nixie: Your first mission: finish one round. Grab a gun from a pad. The bot is waiting.",
+      "text": "Nixie: Твоя первая миссия: доиграй один раунд. Возьми оружие с платформы. Бот уже ждёт."
+    },
+    "first.hintlap": {
+      "en": "Nixie: Your first mission: one lap. Follow the gold trail through every checkpoint.",
+      "text": "Nixie: Твоя первая миссия: один круг. Следуй по золотой дорожке через все контрольные точки."
+    },
+    "first.hublater": {
+      "en": "Nixie: The hub is one press away on your Home page. People are better company than bots. Usually.",
+      "text": "Nixie: Хаб в одном нажатии на главной странице. Люди — компания получше ботов. Обычно."
+    },
+    "first.hubline": {
+      "en": "Nixie: Nice work. The other players hang out in the hub. Want to go meet them?",
+      "text": "Nixie: Отличная работа. Другие игроки тусуются в хабе. Хочешь с ними познакомиться?"
+    },
+    "first.hubsub": {
+      "en": "Where the people are",
+      "text": "Там, где люди"
+    },
+    "first.lap": {
+      "en": "RUN A LAP",
+      "text": "ПРОБЕЖАТЬ КРУГ"
+    },
+    "first.later": {
+      "en": "LATER",
+      "text": "ПОЗЖЕ"
+    },
+    "first.line": {
+      "en": "Nixie: Pick one. Both work even when nobody else is online.",
+      "text": "Nixie: Выбери одну. Обе работают, даже если больше никого нет в сети."
+    },
+    "first.saidbot": {
+      "en": "Nixie: Good choice. Taking you to the bot. It is not very smart.",
+      "text": "Nixie: Хороший выбор. Отправляю тебя к боту. Он не очень умный."
+    },
+    "first.saidlap": {
+      "en": "Nixie: Good choice. Taking you to the park. Stretch first.",
+      "text": "Nixie: Хороший выбор. Отправляю тебя в парк. Сначала разомнись."
+    },
+    "first.saidlater": {
+      "en": "Nixie: Fine. Your missions wait behind the glowing Dares button on your Home page.",
+      "text": "Nixie: Ладно. Твои миссии ждут за светящейся кнопкой «Вызовы» на главной странице."
+    },
+    "first.tag": {
+      "en": "FIRST MISSION",
+      "text": "ПЕРВАЯ МИССИЯ"
+    },
+    "friends.title": {
+      "en": "Friends",
+      "text": "Друзья"
+    },
+    "guide.d.click": {
+      "en": "Click the stick",
+      "text": "Нажмите стик"
+    },
+    "guide.d.grab": {
+      "en": "Squeeze and hold",
+      "text": "Сожмите и держите"
+    },
+    "guide.d.onoff": {
+      "en": "Press: on or off",
+      "text": "Нажмите: вкл. или выкл."
+    },
+    "guide.d.select": {
+      "en": "Aim the laser, pull the trigger",
+      "text": "Наведите лазер и нажмите курок"
+    },
+    "guide.d.sprint": {
+      "en": "Click the stick: sprint",
+      "text": "Нажмите стик: бег"
+    },
+    "guide.d.turn": {
+      "en": "Flick the stick left or right",
+      "text": "Наклоните стик влево или вправо"
+    },
+    "guide.d.use": {
+      "en": "Pull the trigger",
+      "text": "Нажмите курок"
+    },
+    "guide.d.wheel": {
+      "en": "Click the stick: quick menu",
+      "text": "Нажмите стик: быстрое меню"
+    },
+    "guide.hint": {
+      "en": "Hide these labels: hold both triggers",
+      "text": "Скрыть подписи: удерживайте оба курка"
+    },
+    "guide.row": {
+      "en": "CONTROLLER GUIDE",
+      "text": "ПОДСКАЗКИ КОНТРОЛЛЕРОВ"
+    },
+    "guide.t.grab": {
+      "en": "Grab",
+      "text": "Взять"
+    },
+    "guide.t.jump": {
+      "en": "Jump",
+      "text": "Прыжок"
+    },
+    "guide.t.laser": {
+      "en": "Laser",
+      "text": "Лазер"
+    },
+    "guide.t.menu": {
+      "en": "Menu",
+      "text": "Меню"
+    },
+    "guide.t.select": {
+      "en": "Select",
+      "text": "Выбор"
+    },
+    "guide.t.use": {
+      "en": "Use",
+      "text": "Использовать"
+    },
+    "guns.blueteam": {
+      "en": "BLUE TEAM",
+      "text": "СИНЯЯ КОМАНДА"
+    },
+    "guns.free": {
+      "en": "FREE",
+      "text": "БЕСПЛАТНО"
+    },
+    "guns.health": {
+      "en": "HEALTH",
+      "text": "ЗДОРОВЬЕ"
+    },
+    "guns.needgold": {
+      "en": "You need {0} more gold for the {1}.",
+      "text": "Не хватает {0} золота на {1}."
+    },
+    "guns.nogold": {
+      "en": "Not enough gold for the {0}.",
+      "text": "Не хватает золота на {0}."
+    },
+    "guns.redteam": {
+      "en": "RED TEAM",
+      "text": "КРАСНАЯ КОМАНДА"
+    },
+    "guns.reloadhint": {
+      "en": "R   reload",
+      "text": "R   перезарядка"
+    },
+    "guns.reloading": {
+      "en": "RELOADING",
+      "text": "ПЕРЕЗАРЯДКА"
+    },
+    "guns.shield": {
+      "en": "SHIELD {0}",
+      "text": "ЩИТ {0}"
+    },
+    "hint.grab.desk": {
+      "en": "Press {0} to grab",
+      "text": "Нажмите {0}, чтобы взять"
+    },
+    "hint.profile.desk": {
+      "en": "Press {0} to view profile",
+      "text": "Нажмите {0}, чтобы открыть профиль"
+    },
+    "hint.rotate.mouse": {
+      "en": "Middle mouse + move to rotate",
+      "text": "Средняя кнопка + движение для поворота"
+    },
+    "hint.rotate.mouse2": {
+      "en": "Middle mouse: rotate · Scroll: closer / farther",
+      "text": "Средняя кнопка: вращать · Колесо: ближе / дальше"
+    },
+    "hint.rotate.pad": {
+      "en": "Hold RB + right stick to rotate",
+      "text": "Удерживайте RB + правый стик для поворота"
+    },
+    "hint.use.desk": {
+      "en": "Press {0} to use",
+      "text": "Нажмите {0}, чтобы использовать"
+    },
+    "hud.kicked": {
+      "en": "You have been kicked",
+      "text": "Вас выгнали"
+    },
+    "hud.mapstale": {
+      "en": "Update needed - restart to view the latest map version",
+      "text": "Требуется обновление - перезапустите, чтобы увидеть последнюю версию карты"
+    },
+    "hud.standheight": {
+      "en": "Stand for a moment to set your height",
+      "text": "Встаньте на мгновение, чтобы задать рост"
+    },
+    "hunt.banana": {
+      "en": "Nixie: Oh, and I lost my banana. I do not eat. It was for emotional support. Find it?",
+      "text": "Nixie: Ах да, я потеряла банан. Я не ем. Он был для эмоциональной поддержки. Найдёшь?"
+    },
+    "hunt.bat": {
+      "en": "Nixie: Oh, and my baseball bat is missing. I only use it for gentle conversations. Find it?",
+      "text": "Nixie: Ах да, пропала моя бейсбольная бита. Я беру её только для деликатных бесед. Найдёшь?"
+    },
+    "hunt.cake": {
+      "en": "Nixie: Oh, and I hid a cake from myself. It worked too well. Find it?",
+      "text": "Nixie: Ах да, я спрятала торт от самой себя. Сработало слишком хорошо. Найдёшь?"
+    },
+    "hunt.candy": {
+      "en": "Nixie: Oh, and my nephew lost his candy around here. He is a toaster. Find it for him?",
+      "text": "Nixie: Ах да, мой племянник где-то тут потерял конфету. Он тостер. Найдёшь её для него?"
+    },
+    "hunt.chicken": {
+      "en": "Nixie: Oh, and I lost my chicken. A cooked one. I was keeping it as a pet. Do not ask. Find it?",
+      "text": "Nixie: Ах да, я потеряла свою курицу. Жареную. Я держала её как питомца. Не спрашивай. Найдёшь?"
+    },
+    "hunt.dog": {
+      "en": "Nixie: Oh, and my toy dog ran off. It is a toy. It cannot run. That is what worries me. Find it?",
+      "text": "Nixie: Ах да, моя игрушечная собака убежала. Она игрушечная. Она не умеет бегать. Это меня и беспокоит. Найдёшь?"
+    },
+    "hunt.elephant": {
+      "en": "Nixie: Oh, and I misplaced a toy elephant. You would think that is hard to misplace. Find it?",
+      "text": "Nixie: Ах да, я куда-то задевала игрушечного слона. Казалось бы, слона трудно потерять. Найдёшь?"
+    },
+    "hunt.fish": {
+      "en": "Nixie: Oh, and my fish went for a walk. That is not normal, which is why I need it back. Find it?",
+      "text": "Nixie: Ах да, моя рыбка ушла гулять. Это ненормально, поэтому мне надо её вернуть. Найдёшь?"
+    },
+    "hunt.found1": {
+      "en": "Nixie: You found it. I will pretend I was not worried.",
+      "text": "Nixie: Пропажа нашлась. Сделаю вид, что я не волновалась."
+    },
+    "hunt.found2": {
+      "en": "Nixie: Found it. I owe you one. I will not say which one.",
+      "text": "Nixie: Нашлось. С меня причитается. Что именно, не скажу."
+    },
+    "hunt.found3": {
+      "en": "Nixie: There it is. You are better at this than I am, and I have sensors.",
+      "text": "Nixie: Вот оно. У тебя это получается лучше, чем у меня, а у меня есть датчики."
+    },
+    "hunt.hat": {
+      "en": "Nixie: Oh, and I lost my hat. I do not need a hat. That is not the point. Find it?",
+      "text": "Nixie: Ах да, я потеряла шляпу. Шляпа мне не нужна. Дело не в этом. Найдёшь?"
+    },
+    "hunt.horse": {
+      "en": "Nixie: Oh, and my toy horse is missing. It was the fast one. Find it?",
+      "text": "Nixie: Ах да, пропала моя игрушечная лошадка. Та самая, быстрая. Найдёшь?"
+    },
+    "hunt.huball": {
+      "en": "Nixie: All three found. That is the bonus. I will lose more by tomorrow.",
+      "text": "Nixie: Все три найдены. Вот и бонус. К завтрашнему дню потеряю ещё."
+    },
+    "hunt.hubask": {
+      "en": "Nixie: Three of my things are lost around the hub today. Find all three for a bigger bonus. I would look myself, but I am busy standing.",
+      "text": "Nixie: Сегодня в хабе потерялись три мои вещи. Найди все три, и бонус будет больше. Я бы поискала сама, но я занята: стою."
+    },
+    "hunt.hubone": {
+      "en": "Nixie: That is one. Two more somewhere in the hub.",
+      "text": "Nixie: Одна есть. Ещё две где-то в хабе."
+    },
+    "hunt.hubover": {
+      "en": "Nixie: You found all three today. I will lose more by tomorrow. It is a gift.",
+      "text": "Nixie: Сегодня все три уже найдены. К завтрашнему дню потеряю ещё. Это у меня талант."
+    },
+    "hunt.hubtwo": {
+      "en": "Nixie: That is two. One more.",
+      "text": "Nixie: Две есть. Осталась одна."
+    },
+    "hunt.icecream": {
+      "en": "Nixie: Oh, and I left an ice cream somewhere. It has probably not melted. Probably. Find it?",
+      "text": "Nixie: Ах да, я где-то оставила мороженое. Наверное, оно не растаяло. Наверное. Найдёшь?"
+    },
+    "instance.mic": {
+      "en": "MICROPHONE",
+      "text": "МИКРОФОН"
+    },
+    "instance.muted": {
+      "en": "MUTED",
+      "text": "ЗАГЛУШЕН"
+    },
+    "instance.users": {
+      "en": "Users In Instance",
+      "text": "Пользователи в инстансе"
+    },
+    "instance.world": {
+      "en": "WORLD",
+      "text": "МИР"
+    },
+    "kb.back": {
+      "en": "Back",
+      "text": "Удалить"
+    },
+    "kb.clear": {
+      "en": "Clear",
+      "text": "Очистить"
+    },
+    "kb.space": {
+      "en": "Space",
+      "text": "Пробел"
+    },
+    "kb.typetosearch": {
+      "en": "Type to search…",
+      "text": "Введите для поиска…"
+    },
+    "level.up": {
+      "en": "Level up! You are level {0}.",
+      "text": "Новый уровень! Теперь у тебя уровень {0}."
+    },
+    "nav.alerts": {
+      "en": "Alerts",
+      "text": "Оповещения"
+    },
+    "nav.avatars": {
+      "en": "Avatars",
+      "text": "Аватары"
+    },
+    "nav.camera": {
+      "en": "Camera",
+      "text": "Камера"
+    },
+    "nav.fbt": {
+      "en": "FBT",
+      "text": "FBT"
+    },
+    "nav.gohome": {
+      "en": "Go Home",
+      "text": "Домой"
+    },
+    "nav.nearby": {
+      "en": "Nearby",
+      "text": "Рядом"
+    },
+    "nav.power": {
+      "en": "Power",
+      "text": "Выход"
+    },
+    "nav.settings": {
+      "en": "Settings",
+      "text": "Настройки"
+    },
+    "nav.supporter": {
+      "en": "Supporter",
+      "text": "Меценат"
+    },
+    "nav.worlds": {
+      "en": "Worlds",
+      "text": "Миры"
+    },
+    "notif.events": {
+      "en": "Events",
+      "text": "События"
+    },
+    "notif.invitedto": {
+      "en": "sent you a game invite to",
+      "text": "пригласил(а) вас в"
+    },
+    "notif.invites": {
+      "en": "Invites",
+      "text": "Приглашения"
+    },
+    "notif.live": {
+      "en": "LIVE NOW",
+      "text": "В ЭФИРЕ"
+    },
+    "notif.noevents": {
+      "en": "No events scheduled right now - check back soon.",
+      "text": "Сейчас нет запланированных событий — загляните позже."
+    },
+    "notif.noinvites": {
+      "en": "No pending invites.",
+      "text": "Нет ожидающих приглашений."
+    },
+    "notif.title": {
+      "en": "Notifications",
+      "text": "Уведомления"
+    },
+    "pool.backspot": {
+      "en": "That ball goes back on its spot.",
+      "text": "Этот шар возвращается на свою отметку."
+    },
+    "pool.ball": {
+      "en": "ball {0}",
+      "text": "шар {0}"
+    },
+    "pool.busy": {
+      "en": "The pool table is busy: a game is on.",
+      "text": "Бильярдный стол занят: идёт партия."
+    },
+    "pool.cleared": {
+      "en": "Table cleared!",
+      "text": "Стол чист!"
+    },
+    "pool.clearednew": {
+      "en": "Table cleared. A new rack is coming.",
+      "text": "Стол чист. Сейчас будет новая расстановка."
+    },
+    "pool.early8": {
+      "en": "{0} sank the 8 ball too early.",
+      "text": "{0}: шар 8 забит слишком рано."
+    },
+    "pool.eight": {
+      "en": "the 8 ball",
+      "text": "шар 8"
+    },
+    "pool.foulnone": {
+      "en": "Foul - no ball was hit.",
+      "text": "Фол - ни один шар не задет."
+    },
+    "pool.foulwhite": {
+      "en": "Foul - the white ball went in.",
+      "text": "Фол - белый шар упал в лузу."
+    },
+    "pool.foulwrong": {
+      "en": "Foul - the wrong ball was hit first.",
+      "text": "Фол - первым задет не тот шар."
+    },
+    "pool.gameover": {
+      "en": "Game over",
+      "text": "Игра окончена"
+    },
+    "pool.hold": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  wheel: high or low",
+      "text": "Удерживай ЛКМ, отведи назад для силы, отпусти для удара  |  колесо: сверху или снизу"
+    },
+    "pool.holddrag": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  drag the white ball to move it  |  wheel: high or low",
+      "text": "Удерживай ЛКМ, отведи назад для силы, отпусти для удара  |  перетащи белый шар, чтобы передвинуть его  |  колесо: сверху или снизу"
+    },
+    "pool.howdesk": {
+      "en": "Look at the spot the white ball should roll toward. Hold LEFT MOUSE for power, let go to shoot. RIGHT MOUSE cancels. Mouse wheel: hit high or low.",
+      "text": "Посмотри на точку, куда должен покатиться белый шар. Удерживай ЛКМ для силы, отпусти для удара. ПКМ отменяет. Колесо мыши: удар сверху или снизу."
+    },
+    "pool.howvr": {
+      "en": "Grab a cue with the hand you push with, then steady the front with your other hand and push the tip through the white ball. Low on the ball pulls it back, high lets it follow.",
+      "text": "Возьми кий рукой, которой толкаешь, другой рукой придержи его спереди и протолкни кончик сквозь белый шар. Удар снизу тянет шар назад, удар сверху даёт ему накат."
+    },
+    "pool.needgold": {
+      "en": "You need {0} more gold to play pool.",
+      "text": "Не хватает {0} золота, чтобы сыграть в бильярд."
+    },
+    "pool.newrack": {
+      "en": "New rack. The white ball can be placed for the break.",
+      "text": "Новая расстановка. Белый шар можно поставить для разбоя."
+    },
+    "pool.nogold": {
+      "en": "Not enough gold to play pool.",
+      "text": "Не хватает золота, чтобы сыграть в бильярд."
+    },
+    "pool.open": {
+      "en": "open table",
+      "text": "стол открыт"
+    },
+    "pool.p1": {
+      "en": "Player 1",
+      "text": "Игрок 1"
+    },
+    "pool.p2": {
+      "en": "Player 2",
+      "text": "Игрок 2"
+    },
+    "pool.practicejoin": {
+      "en": "Practice - shoot to practise, or JOIN to start a game.",
+      "text": "Тренировка - бей, чтобы тренироваться, или нажми ПРИСОЕДИНИТЬСЯ, чтобы начать партию."
+    },
+    "pool.practicenoturns": {
+      "en": "Practice - no turns, no winner. Another player can JOIN for a game.",
+      "text": "Тренировка - без ходов, без победителя. Другой игрок может нажать ПРИСОЕДИНИТЬСЯ, чтобы начать партию."
+    },
+    "pool.practiceplace": {
+      "en": "Practice - put the white ball where you like, then shoot",
+      "text": "Тренировка - поставь белый шар куда хочешь, потом бей"
+    },
+    "pool.practising": {
+      "en": "{0} is practising. JOIN to play a game against them.",
+      "text": "{0} тренируется. Нажми ПРИСОЕДИНИТЬСЯ, чтобы сыграть с этим игроком."
+    },
+    "pool.pullback": {
+      "en": "Pull the mouse back for power, let go to shoot  |  RIGHT MOUSE cancels",
+      "text": "Отведи мышь назад для силы, отпусти для удара  |  ПКМ отменяет"
+    },
+    "pool.putdown": {
+      "en": "Let go to put the white ball down",
+      "text": "Отпусти, чтобы положить белый шар"
+    },
+    "pool.seat": {
+      "en": "A seat opened up.",
+      "text": "Освободилось место."
+    },
+    "pool.seatopen": {
+      "en": "A pool game is on with a seat open. Press JOIN on the panel to play.",
+      "text": "Идёт партия в бильярд, есть свободное место. Нажми ПРИСОЕДИНИТЬСЯ на панели, чтобы играть."
+    },
+    "pool.solids": {
+      "en": "{0} plays solids.",
+      "text": "{0} играет сплошными."
+    },
+    "pool.stepup": {
+      "en": "Step up to the pool table first.",
+      "text": "Сначала подойди к бильярдному столу."
+    },
+    "pool.stripes": {
+      "en": "{0} plays stripes.",
+      "text": "{0} играет полосатыми."
+    },
+    "pool.toshoot": {
+      "en": "{0} to shoot - {1}",
+      "text": "Бьёт {0} - {1}"
+    },
+    "pool.unseated": {
+      "en": "You are no longer seated at the pool table. Press JOIN on its panel to play again.",
+      "text": "Ты больше не за бильярдным столом. Нажми ПРИСОЕДИНИТЬСЯ на его панели, чтобы снова играть."
+    },
+    "pool.using": {
+      "en": "{0} is using the pool table. Press JOIN on its panel to play a game against them.",
+      "text": "{0} занимает бильярдный стол. Нажми ПРИСОЕДИНИТЬСЯ на его панели, чтобы сыграть с этим игроком."
+    },
+    "pool.wins": {
+      "en": "{0} wins!",
+      "text": "{0} побеждает!"
+    },
+    "pool.winsgame": {
+      "en": "{0} wins the game!",
+      "text": "{0} выигрывает партию!"
+    },
+    "pool.yourturn": {
+      "en": "Your turn.",
+      "text": "Твой ход."
+    },
+    "pool.yourturnhand": {
+      "en": "Your turn - ball in hand.",
+      "text": "Твой ход - шар в руке."
+    },
+    "portal.closed": {
+      "en": "PORTAL CLOSED",
+      "text": "ПОРТАЛ ЗАКРЫТ"
+    },
+    "portal.dlfailed": {
+      "en": "Couldn't download \"{0}\"",
+      "text": "Не удалось загрузить «{0}»"
+    },
+    "portal.dlpct": {
+      "en": "DOWNLOADING  {0}%",
+      "text": "ЗАГРУЗКА  {0}%"
+    },
+    "portal.downloading": {
+      "en": "DOWNLOADING…",
+      "text": "ЗАГРУЗКА…"
+    },
+    "portal.droppedby": {
+      "en": "Dropped by {0}",
+      "text": "Установил {0}"
+    },
+    "portal.getting": {
+      "en": "Getting \"{0}\"…",
+      "text": "Получение «{0}»…"
+    },
+    "portal.gettingpct": {
+      "en": "Getting \"{0}\"… {1}%",
+      "text": "Получение «{0}»… {1}%"
+    },
+    "portal.gonow": {
+      "en": "GO NOW  ({0} READY)",
+      "text": "ИДТИ СЕЙЧАС  ({0} ГОТОВО)"
+    },
+    "portal.groupleft": {
+      "en": "GROUP LEFT  ·  QUEUE TO FOLLOW",
+      "text": "ГРУППА УШЛА  ·  ВСТАНЬТЕ В ОЧЕРЕДЬ, ЧТОБЫ ДОГНАТЬ"
+    },
+    "portal.leavequeue": {
+      "en": "LEAVE QUEUE",
+      "text": "ПОКИНУТЬ ОЧЕРЕДЬ"
+    },
+    "portal.leaving": {
+      "en": "LEAVING…",
+      "text": "ВЫХОД…"
+    },
+    "portal.leavingbehind": {
+      "en": "LEAVING  ·  {0} will follow when ready",
+      "text": "ВЫХОД  ·  {0} присоединятся, когда будут готовы"
+    },
+    "portal.leavingtogether": {
+      "en": "LEAVING TOGETHER",
+      "text": "УХОДИМ ВМЕСТЕ"
+    },
+    "portal.nobodyqueued": {
+      "en": "NOBODY QUEUED YET",
+      "text": "ПОКА НИКОГО В ОЧЕРЕДИ"
+    },
+    "portal.queued": {
+      "en": "{0} QUEUED",
+      "text": "{0} В ОЧЕРЕДИ"
+    },
+    "portal.queuedplus": {
+      "en": "{0} QUEUED  ·  {1} DOWNLOADING",
+      "text": "{0} В ОЧЕРЕДИ  ·  {1} ЗАГРУЖАЮТ"
+    },
+    "portal.queueup": {
+      "en": "QUEUE UP",
+      "text": "ВСТАТЬ В ОЧЕРЕДЬ"
+    },
+    "portal.ready": {
+      "en": "\"{0}\" ready",
+      "text": "«{0}» готов"
+    },
+    "portal.starting": {
+      "en": "STARTING…",
+      "text": "ЗАПУСК…"
+    },
+    "portal.startingwait": {
+      "en": "STARTING  ·  waiting for {0}",
+      "text": "ЗАПУСК  ·  ожидание {0}"
+    },
+    "presence.joined1": {
+      "en": "{0} joined",
+      "text": "{0} присоединился"
+    },
+    "presence.joined2": {
+      "en": "{0} and {1} joined",
+      "text": "{0} и {1} присоединились"
+    },
+    "presence.joinedn": {
+      "en": "{0} +{1} joined",
+      "text": "{0} +{1} присоединились"
+    },
+    "presence.left1": {
+      "en": "{0} left",
+      "text": "{0} вышел"
+    },
+    "presence.left2": {
+      "en": "{0} and {1} left",
+      "text": "{0} и {1} вышли"
+    },
+    "presence.leftn": {
+      "en": "{0} +{1} left",
+      "text": "{0} +{1} вышли"
+    },
+    "profile.achievements": {
+      "en": "Achievements",
+      "text": "Достижения"
+    },
+    "profile.addfriend": {
+      "en": "Add friend",
+      "text": "Добавить в друзья"
+    },
+    "profile.arcade": {
+      "en": "Arcade",
+      "text": "Аркада"
+    },
+    "profile.badge.avatar": {
+      "en": "Avatar creator",
+      "text": "Создатель аватаров"
+    },
+    "profile.badge.helper": {
+      "en": "Helper",
+      "text": "Помощник"
+    },
+    "profile.badge.new": {
+      "en": "New player",
+      "text": "Новичок"
+    },
+    "profile.badge.partner": {
+      "en": "Partner",
+      "text": "Партнёр"
+    },
+    "profile.badge.staff": {
+      "en": "Staff",
+      "text": "Команда"
+    },
+    "profile.badge.streamer": {
+      "en": "Streamer",
+      "text": "Стример"
+    },
+    "profile.badge.world": {
+      "en": "World creator",
+      "text": "Создатель миров"
+    },
+    "profile.bestjogger": {
+      "en": "Best jogger",
+      "text": "Лучший бегун"
+    },
+    "profile.bronze": {
+      "en": "Bronze",
+      "text": "Бронза"
+    },
+    "profile.competitive": {
+      "en": "Competitive",
+      "text": "Соревнования"
+    },
+    "profile.crown": {
+      "en": "Crown",
+      "text": "Корона"
+    },
+    "profile.darecompleter": {
+      "en": "Dare completer",
+      "text": "Мастер вызовов"
+    },
+    "profile.dayone": {
+      "en": "Day One",
+      "text": "С первого дня"
+    },
+    "profile.empty": {
+      "en": "Has not played VR Realms yet.",
+      "text": "Ещё не играл(а) в VR Realms."
+    },
+    "profile.ffa": {
+      "en": "Free for all",
+      "text": "Все против всех"
+    },
+    "profile.goback": {
+      "en": "Go back",
+      "text": "Назад"
+    },
+    "profile.gold": {
+      "en": "Gold",
+      "text": "Золото"
+    },
+    "profile.helpful": {
+      "en": "Helpful",
+      "text": "Помог"
+    },
+    "profile.hidden": {
+      "en": "{0} (hidden)",
+      "text": "{0} (скрыт)"
+    },
+    "profile.hidden.other": {
+      "en": "This player keeps their profile private.",
+      "text": "Этот игрок скрыл свой профиль."
+    },
+    "profile.hidden.self": {
+      "en": "Your profile is hidden from other players.",
+      "text": "Ваш профиль скрыт от других игроков."
+    },
+    "profile.hours": {
+      "en": "{0} h",
+      "text": "{0} ч"
+    },
+    "profile.invite": {
+      "en": "Invite to VR Realms",
+      "text": "Пригласить в VR Realms"
+    },
+    "profile.invite.reward": {
+      "en": "{0} gold for you when they join",
+      "text": "{0} золота вам, когда друг зайдёт в игру"
+    },
+    "profile.invited": {
+      "en": "Invite sent",
+      "text": "Приглашение отправлено"
+    },
+    "profile.last.days": {
+      "en": "Last online {0} days ago",
+      "text": "Был(а) в сети {0} дн. назад"
+    },
+    "profile.last.h": {
+      "en": "Last online {0} h ago",
+      "text": "Был(а) в сети {0} ч назад"
+    },
+    "profile.last.min": {
+      "en": "Last online {0} min ago",
+      "text": "Был(а) в сети {0} мин назад"
+    },
+    "profile.level": {
+      "en": "Level {0}",
+      "text": "Уровень {0}"
+    },
+    "profile.loadfail": {
+      "en": "Could not load this profile. Trying again.",
+      "text": "Не удалось загрузить профиль. Пробуем ещё раз."
+    },
+    "profile.member": {
+      "en": "Member since {0}",
+      "text": "В игре с {0}"
+    },
+    "profile.minutes": {
+      "en": "{0} min",
+      "text": "{0} мин"
+    },
+    "profile.more": {
+      "en": "+{0} more",
+      "text": "ещё {0}"
+    },
+    "profile.none": {
+      "en": "This player has no profile.",
+      "text": "У этого игрока нет профиля."
+    },
+    "profile.online": {
+      "en": "Online now",
+      "text": "Сейчас в сети"
+    },
+    "profile.parkjogger": {
+      "en": "Park jogger",
+      "text": "Бегун в парке"
+    },
+    "profile.pool": {
+      "en": "Pool",
+      "text": "Бильярд"
+    },
+    "profile.private": {
+      "en": "This player keeps their stats private.",
+      "text": "Этот игрок скрыл свою статистику."
+    },
+    "profile.published": {
+      "en": "{0} published",
+      "text": "Опубликовано: {0}"
+    },
+    "profile.rank.creatorall": {
+      "en": "#{0}  Creator hours all time",
+      "text": "#{0}  Часы автора за всё время"
+    },
+    "profile.rank.creatormonth": {
+      "en": "#{0}  Creator hours this month",
+      "text": "#{0}  Часы автора за месяц"
+    },
+    "profile.rank.goldall": {
+      "en": "#{0}  Gold all time",
+      "text": "#{0}  Золото за всё время"
+    },
+    "profile.rank.goldmonth": {
+      "en": "#{0}  Gold this month",
+      "text": "#{0}  Золото за месяц"
+    },
+    "profile.rank.timeall": {
+      "en": "#{0}  Most active all time",
+      "text": "#{0}  Активность за всё время"
+    },
+    "profile.rank.timemonth": {
+      "en": "#{0}  Most active this month",
+      "text": "#{0}  Активность за месяц"
+    },
+    "profile.rank.topavatars": {
+      "en": "#{0}  Top avatars",
+      "text": "#{0}  Лучшие аватары"
+    },
+    "profile.rank.topcreators": {
+      "en": "#{0}  Top creators",
+      "text": "#{0}  Лучшие авторы"
+    },
+    "profile.rank.topworlds": {
+      "en": "#{0}  Top worlds",
+      "text": "#{0}  Лучшие миры"
+    },
+    "profile.rankings": {
+      "en": "Rankings",
+      "text": "Рейтинги"
+    },
+    "profile.rarity": {
+      "en": "{0}% of players",
+      "text": "{0}% игроков"
+    },
+    "profile.rate.daily": {
+      "en": "You have given all your thumbs-ups for today.",
+      "text": "На сегодня вы раздали все лайки."
+    },
+    "profile.rate.failed": {
+      "en": "That did not go through. Try again in a moment.",
+      "text": "Не получилось. Попробуйте ещё раз чуть позже."
+    },
+    "profile.rate.need": {
+      "en": "Play {0} minutes together to rate",
+      "text": "Поиграйте вместе {0} мин, чтобы оценить"
+    },
+    "profile.report": {
+      "en": "Report player",
+      "text": "Пожаловаться на игрока"
+    },
+    "profile.show": {
+      "en": "Show",
+      "text": "Показать"
+    },
+    "profile.silver": {
+      "en": "Silver",
+      "text": "Серебро"
+    },
+    "profile.since": {
+      "en": "since {0}",
+      "text": "с {0}"
+    },
+    "profile.stat.creator": {
+      "en": "Time in their worlds",
+      "text": "Время в их мирах"
+    },
+    "profile.stat.gold": {
+      "en": "Gold earned",
+      "text": "Заработано золота"
+    },
+    "profile.stat.playtime": {
+      "en": "Playtime",
+      "text": "Время в игре"
+    },
+    "profile.stat.worlds": {
+      "en": "Worlds visited",
+      "text": "Посещено миров"
+    },
+    "profile.steam.online": {
+      "en": "Online on Steam",
+      "text": "В сети Steam"
+    },
+    "profile.streak": {
+      "en": "{0}-day streak",
+      "text": "{0} дн. подряд"
+    },
+    "profile.sure": {
+      "en": "Sure?",
+      "text": "Точно?"
+    },
+    "profile.tapbadge": {
+      "en": "Tap a badge to show or hide it on your head plate.",
+      "text": "Нажми на значок, чтобы показать или скрыть его на табличке."
+    },
+    "profile.teamffa": {
+      "en": "Team free for all",
+      "text": "Командный «все против всех»"
+    },
+    "profile.title": {
+      "en": "Profile",
+      "text": "Профиль"
+    },
+    "profile.visit": {
+      "en": "Visit",
+      "text": "Перейти"
+    },
+    "profile.wear": {
+      "en": "Wear",
+      "text": "Надеть"
+    },
+    "profile.wearing": {
+      "en": "Wearing",
+      "text": "Сейчас надето"
+    },
+    "session.gone": {
+      "en": "Couldn't connect — that session is no longer available.",
+      "text": "Не удалось подключиться — эта сессия больше недоступна."
+    },
+    "session.handing": {
+      "en": "Handing over…",
+      "text": "Передача…"
+    },
+    "session.handover": {
+      "en": "Handing over to a new host",
+      "text": "Передача новому хосту"
+    },
+    "session.moving": {
+      "en": "Moving you to the new host",
+      "text": "Переносим тебя к новому хосту"
+    },
+    "session.transitfail": {
+      "en": "Steam could not open that world just now. Back home: try again in a moment.",
+      "text": "Steam не смог открыть этот мир прямо сейчас. Возвращаем домой: попробуй ещё раз чуть позже."
+    },
+    "settings.aa": {
+      "en": "Anti-Aliasing",
+      "text": "Сглаживание"
+    },
+    "settings.access.hdr": {
+      "en": "ACCESSIBILITY",
+      "text": "ДОСТУПНОСТЬ"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "text": "Окружение"
+    },
+    "settings.autodecline": {
+      "en": "Auto Decline Invites",
+      "text": "Автоотклонение приглашений"
+    },
+    "settings.autodecline.sub": {
+      "en": "Decline all world invites automatically",
+      "text": "Автоматически отклонять все приглашения в миры"
+    },
+    "settings.autodl": {
+      "en": "Auto Download Avatars",
+      "text": "Автозагрузка аватаров"
+    },
+    "settings.autodl.sub": {
+      "en": "Automatically download new avatar assets",
+      "text": "Автоматически загружать новые аватары"
+    },
+    "settings.builddate": {
+      "en": "Build Date",
+      "text": "Дата сборки"
+    },
+    "settings.buildver": {
+      "en": "Build Version",
+      "text": "Версия сборки"
+    },
+    "settings.censor": {
+      "en": "Censor Chat",
+      "text": "Цензура чата"
+    },
+    "settings.censor.sub": {
+      "en": "Filter profanity and slurs in chat for everyone here",
+      "text": "Фильтровать брань в чате для всех здесь"
+    },
+    "settings.changedevice": {
+      "en": "Change Device",
+      "text": "Сменить устройство"
+    },
+    "settings.climb": {
+      "en": "Allow Climbing",
+      "text": "Разрешить лазание"
+    },
+    "settings.climb.sub": {
+      "en": "Let guests use climbing locomotion in your instance",
+      "text": "Разрешить гостям лазать в вашем инстансе"
+    },
+    "settings.dialogue": {
+      "en": "Dialogue",
+      "text": "Диалоги"
+    },
+    "settings.dlworlds": {
+      "en": "Downloaded Worlds",
+      "text": "Загруженные миры"
+    },
+    "settings.dlworlds.value": {
+      "en": "{0} kept  ·  {1} MB",
+      "text": "сохранено {0}  ·  {1} МБ"
+    },
+    "settings.effects": {
+      "en": "Effects",
+      "text": "Эффекты"
+    },
+    "settings.foliage": {
+      "en": "Foliage",
+      "text": "Растительность"
+    },
+    "settings.forcemove": {
+      "en": "Force Movement Style (everyone here)",
+      "text": "Принудительный стиль передвижения (для всех здесь)"
+    },
+    "settings.foveated": {
+      "en": "Foveated Rendering",
+      "text": "Фовеальный рендеринг"
+    },
+    "settings.foveated.sub": {
+      "en": "Cheaper edges of vision - takes effect on restart",
+      "text": "Более лёгкие края — после перезапуска"
+    },
+    "settings.fps": {
+      "en": "FPS Counter",
+      "text": "Счётчик FPS"
+    },
+    "settings.fps.sub": {
+      "en": "Display frames per second overlay",
+      "text": "Показывать кадры в секунду"
+    },
+    "settings.fpscap": {
+      "en": "FPS Cap",
+      "text": "Лимит FPS"
+    },
+    "settings.fpscap.sub": {
+      "en": "In VR at least 90 is used",
+      "text": "В VR используется минимум 90"
+    },
+    "settings.fpsvalue": {
+      "en": "Frames per second",
+      "text": "Кадры в секунду"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "text": "Полный экран"
+    },
+    "settings.gpu": {
+      "en": "Detected GPU",
+      "text": "Обнаруженный GPU"
+    },
+    "settings.hideboards": {
+      "en": "Hide Me From Leaderboards",
+      "text": "Скрыть меня из таблиц лидеров"
+    },
+    "settings.hideboards.sub": {
+      "en": "Keeps your name off the hub boards. Your playtime and creator hours still count.",
+      "text": "Ваше имя не появится на досках хаба. Часы игры и часы творчества по-прежнему учитываются."
+    },
+    "settings.homeprivate": {
+      "en": "Make Home Private",
+      "text": "Сделать дом приватным"
+    },
+    "settings.homeprivate.sub": {
+      "en": "Stop your home appearing in Browse and to friends",
+      "text": "Не показывать дом в Обзоре и друзьям"
+    },
+    "settings.host.hdr": {
+      "en": "YOUR INSTANCE (HOST ONLY)",
+      "text": "ВАШ ИНСТАНС (ТОЛЬКО ХОСТ)"
+    },
+    "settings.hostmedia": {
+      "en": "Host-Only Media",
+      "text": "Медиа только для хоста"
+    },
+    "settings.hostmedia.sub": {
+      "en": "Only you can play, stop or retune TVs and jukeboxes here",
+      "text": "Только вы можете включать, останавливать и настраивать ТВ и музыкальные автоматы здесь"
+    },
+    "settings.master": {
+      "en": "Master Sound",
+      "text": "Общая громкость"
+    },
+    "settings.micenabled": {
+      "en": "Microphone Enabled",
+      "text": "Микрофон включён"
+    },
+    "settings.micenabled.sub": {
+      "en": "Transmit your voice to others",
+      "text": "Передавать ваш голос другим"
+    },
+    "settings.movestyle": {
+      "en": "Movement Style",
+      "text": "Стиль передвижения"
+    },
+    "settings.nameplates": {
+      "en": "Show Nameplates on Stream",
+      "text": "Показывать имена в трансляции"
+    },
+    "settings.nameplates.sub": {
+      "en": "Show player name tags in the camera / streaming view",
+      "text": "Показывать имена игроков в камере и трансляции"
+    },
+    "settings.ping": {
+      "en": "Ping Display",
+      "text": "Отображение пинга"
+    },
+    "settings.ping.sub": {
+      "en": "Display network latency overlay",
+      "text": "Показывать сетевую задержку"
+    },
+    "settings.pingvalue": {
+      "en": "Ping to host",
+      "text": "Пинг до хоста"
+    },
+    "settings.pixeldensity": {
+      "en": "Render Resolution (VR)",
+      "text": "Разрешение рендера (VR)"
+    },
+    "settings.postprocess": {
+      "en": "Post Process",
+      "text": "Постобработка"
+    },
+    "settings.preset": {
+      "en": "Overall Quality",
+      "text": "Общее качество"
+    },
+    "settings.profilehidden": {
+      "en": "Hide My Profile",
+      "text": "Скрыть мой профиль"
+    },
+    "settings.profilehidden.sub": {
+      "en": "Other players see only your name and picture. Nothing stops counting.",
+      "text": "Другие игроки видят только ваше имя и картинку. Всё продолжает учитываться."
+    },
+    "settings.reflections": {
+      "en": "Reflections",
+      "text": "Отражения"
+    },
+    "settings.reportbug": {
+      "en": "Report a Bug",
+      "text": "Сообщить об ошибке"
+    },
+    "settings.restarthint": {
+      "en": "Some changes apply after a restart.",
+      "text": "Некоторые изменения применяются после перезапуска."
+    },
+    "settings.sfx": {
+      "en": "Sound Effects",
+      "text": "Звуковые эффекты"
+    },
+    "settings.shadow": {
+      "en": "Shadow Quality",
+      "text": "Качество теней"
+    },
+    "settings.smoothturn": {
+      "en": "Smooth Turning",
+      "text": "Плавный поворот"
+    },
+    "settings.smoothturn.sub": {
+      "en": "Gradual rotation instead of snap turning",
+      "text": "Плавный поворот вместо рывков"
+    },
+    "settings.streamer": {
+      "en": "Streamer Mode",
+      "text": "Режим стримера"
+    },
+    "settings.streamer.sub": {
+      "en": "Hide personal information for streaming",
+      "text": "Скрывать личную информацию при стриме"
+    },
+    "settings.swaphands": {
+      "en": "Swap Hands",
+      "text": "Поменять руки"
+    },
+    "settings.swaphands.sub": {
+      "en": "Move the menu and laser to your other hand",
+      "text": "Перенести меню и лазер в другую руку"
+    },
+    "settings.tab.access": {
+      "en": "Access.",
+      "text": "Доступ"
+    },
+    "settings.tab.comfort": {
+      "en": "Comfort",
+      "text": "Комфорт"
+    },
+    "settings.tab.graphics": {
+      "en": "Graphics",
+      "text": "Графика"
+    },
+    "settings.tab.mic": {
+      "en": "Mic",
+      "text": "Микро"
+    },
+    "settings.texture": {
+      "en": "Texture Quality",
+      "text": "Качество текстур"
+    },
+    "settings.turnspeed": {
+      "en": "Turn Speed",
+      "text": "Скорость поворота"
+    },
+    "settings.tvmedia": {
+      "en": "TV / Media",
+      "text": "ТВ / Медиа"
+    },
+    "settings.viewdist": {
+      "en": "View Distance",
+      "text": "Дальность прорисовки"
+    },
+    "settings.voices": {
+      "en": "Voices",
+      "text": "Голоса"
+    },
+    "status.checkingupdates": {
+      "en": "Checking for updates…",
+      "text": "Проверка обновлений…"
+    },
+    "status.connecting": {
+      "en": "Connecting…",
+      "text": "Соединение…"
+    },
+    "status.couldntjoin": {
+      "en": "Couldn't join",
+      "text": "Не удалось подключиться"
+    },
+    "status.couldntprepare": {
+      "en": "Couldn't prepare the map",
+      "text": "Не удалось подготовить карту"
+    },
+    "status.downloadfailed": {
+      "en": "Download failed",
+      "text": "Ошибка загрузки"
+    },
+    "status.downloadingworld": {
+      "en": "Downloading world update…",
+      "text": "Загрузка обновления мира…"
+    },
+    "status.friendretry": {
+      "en": "Friend's session not ready — retrying…",
+      "text": "Сессия не готова — повторная попытка…"
+    },
+    "status.joining": {
+      "en": "Joining…",
+      "text": "Подключение…"
+    },
+    "status.joiningfriend": {
+      "en": "Joining friend's session…",
+      "text": "Подключение к сессии друга…"
+    },
+    "status.levelnotfound": {
+      "en": "Level not found",
+      "text": "Уровень не найден"
+    },
+    "status.loading": {
+      "en": "Loading",
+      "text": "Загрузка"
+    },
+    "status.lookinghost": {
+      "en": "Looking for a host…",
+      "text": "Поиск хоста…"
+    },
+    "status.lookinglevel": {
+      "en": "Looking up level…",
+      "text": "Поиск уровня…"
+    },
+    "status.preparing": {
+      "en": "Preparing…",
+      "text": "Подготовка…"
+    },
+    "status.startingdl": {
+      "en": "Starting download…",
+      "text": "Начало загрузки…"
+    },
+    "status.travelhub": {
+      "en": "Traveling to HUB…",
+      "text": "Переход в ХАБ…"
+    },
+    "toast.admin.badkey": {
+      "en": "Ban key rejected — it is not a valid moderator key.",
+      "text": "Ключ бана отклонён — это не действительный ключ модератора."
+    },
+    "toast.admin.banned": {
+      "en": "Player banned.",
+      "text": "Игрок забанен."
+    },
+    "toast.admin.lifted": {
+      "en": "Ban lifted.",
+      "text": "Бан снят."
+    },
+    "toast.admin.nokey": {
+      "en": "No ban key on this machine — the player was not banned in the database.",
+      "text": "На этом компьютере нет ключа бана — игрок не забанен в базе данных."
+    },
+    "toast.admin.nolift": {
+      "en": "You do not have permission to lift bans.",
+      "text": "У тебя нет прав снимать баны."
+    },
+    "toast.admin.noperm": {
+      "en": "You do not have permission to ban.",
+      "text": "У тебя нет прав на бан."
+    },
+    "toast.admin.noplayer": {
+      "en": "No player selected.",
+      "text": "Игрок не выбран."
+    },
+    "toast.admin.ownermod": {
+      "en": "Only the owner can ban a moderator.",
+      "text": "Забанить модератора может только владелец."
+    },
+    "toast.admin.protected": {
+      "en": "That player cannot be banned.",
+      "text": "Этого игрока нельзя забанить."
+    },
+    "toast.admin.refused": {
+      "en": "Refused: that account cannot be banned by you.",
+      "text": "Отказано: ты не можешь забанить этот аккаунт."
+    },
+    "toast.admin.self": {
+      "en": "You cannot ban yourself.",
+      "text": "Нельзя забанить самого себя."
+    },
+    "toast.admin.sitecode": {
+      "en": "The site did not accept it (code {0}).",
+      "text": "Сайт не принял запрос (код {0})."
+    },
+    "toast.admin.unavailable": {
+      "en": "Ban system unavailable.",
+      "text": "Система банов недоступна."
+    },
+    "toast.avatar.applying": {
+      "en": "Applying avatar…",
+      "text": "Применение аватара…"
+    },
+    "toast.avatar.checking": {
+      "en": "Checking avatar…",
+      "text": "Проверка аватара…"
+    },
+    "toast.avatar.dlfail": {
+      "en": "Avatar download failed",
+      "text": "Ошибка загрузки аватара"
+    },
+    "toast.avatar.downloading": {
+      "en": "Downloading avatar… {0}%",
+      "text": "Загрузка аватара… {0}%"
+    },
+    "toast.avatar.floorlow": {
+      "en": "Your headset reads only {0} cm above the floor, so your avatar cannot be calibrated. Fix the floor height in SteamVR Room Setup (or your headset's floor setting), then Calibrate.",
+      "text": "Шлем видит себя всего в {0} см над полом, поэтому аватар нельзя откалибровать. Исправь высоту пола в настройке комнаты SteamVR (или в настройке пола шлема), затем нажми Калибровка."
+    },
+    "toast.avatar.loadfail": {
+      "en": "Couldn't load avatar",
+      "text": "Не удалось загрузить аватар"
+    },
+    "toast.avatar.preparing": {
+      "en": "Preparing avatar…",
+      "text": "Подготовка аватара…"
+    },
+    "toast.avatar.ready": {
+      "en": "Avatar ready",
+      "text": "Аватар готов"
+    },
+    "toast.ban.day": {
+      "en": "You have been banned from VR Realms for {0} day.",
+      "text": "Тебя забанили в VR Realms на {0} дн."
+    },
+    "toast.ban.day.leftdays": {
+      "en": "You have been banned from VR Realms for {0} day ({1} days remaining).",
+      "text": "Тебя забанили в VR Realms на {0} дн. (осталось {1} дн.)."
+    },
+    "toast.ban.days": {
+      "en": "You have been banned from VR Realms for {0} days.",
+      "text": "Тебя забанили в VR Realms на {0} дн."
+    },
+    "toast.ban.days.leftday": {
+      "en": "You have been banned from VR Realms for {0} days ({1} day remaining).",
+      "text": "Тебя забанили в VR Realms на {0} дн. (осталось {1} дн.)."
+    },
+    "toast.ban.days.leftdays": {
+      "en": "You have been banned from VR Realms for {0} days ({1} days remaining).",
+      "text": "Тебя забанили в VR Realms на {0} дн. (осталось {1} дн.)."
+    },
+    "toast.ban.hour": {
+      "en": "You have been banned from VR Realms for {0} more hour.",
+      "text": "Ты забанен в VR Realms ещё на {0} ч."
+    },
+    "toast.ban.hours": {
+      "en": "You have been banned from VR Realms for {0} more hours.",
+      "text": "Ты забанен в VR Realms ещё на {0} ч."
+    },
+    "toast.ban.hub": {
+      "en": "You have been suspended from the hub.",
+      "text": "Тебе закрыт доступ в хаб."
+    },
+    "toast.ban.hub.day": {
+      "en": "You have been suspended from the hub for {0} more day.",
+      "text": "Доступ в хаб закрыт ещё на {0} дн."
+    },
+    "toast.ban.hub.days": {
+      "en": "You have been suspended from the hub for {0} more days.",
+      "text": "Доступ в хаб закрыт ещё на {0} дн."
+    },
+    "toast.ban.hub.hour": {
+      "en": "You have been suspended from the hub for {0} more hour.",
+      "text": "Доступ в хаб закрыт ещё на {0} ч."
+    },
+    "toast.ban.hub.hours": {
+      "en": "You have been suspended from the hub for {0} more hours.",
+      "text": "Доступ в хаб закрыт ещё на {0} ч."
+    },
+    "toast.ban.perm": {
+      "en": "You have been banned from VR Realms.",
+      "text": "Тебя забанили в VR Realms."
+    },
+    "toast.bp.deletecancelled": {
+      "en": "Delete cancelled.",
+      "text": "Удаление отменено."
+    },
+    "toast.bp.noinvitegroups": {
+      "en": "No groups you can invite to",
+      "text": "Нет групп, в которые ты можешь пригласить"
+    },
+    "toast.bp.ownmax": {
+      "en": "You can only own 5 groups",
+      "text": "Можно владеть только 5 группами"
+    },
+    "toast.bp.photofailed": {
+      "en": "Photo FAILED to save - see the log",
+      "text": "Фото НЕ сохранилось - смотри лог"
+    },
+    "toast.bp.portalaim": {
+      "en": "Aim at the floor - press to drop the portal - turn the laser off to cancel",
+      "text": "Наведи на пол - нажми, чтобы поставить портал - выключи лазер для отмены"
+    },
+    "toast.bp.stillreview": {
+      "en": "This one is still waiting to be reviewed.",
+      "text": "Это ещё ждёт проверки."
+    },
+    "toast.content.needdlc": {
+      "en": "Mature Themes. Needs the mature DLC to unlock — it is free on the VR Realms Steam page.",
+      "text": "Взрослые темы. Нужен DLC для взрослых — он бесплатный на странице VR Realms в Steam."
+    },
+    "toast.content.nocheck": {
+      "en": "We could not check this content's rating just now. Try again in a moment.",
+      "text": "Сейчас не удалось проверить рейтинг этого контента. Попробуй чуть позже."
+    },
+    "toast.content.orbstreamer": {
+      "en": "Mature avatars will show as an orb while streamer mode is on. You can unhide anyone from Nearby.",
+      "text": "Пока включён режим стримера, взрослые аватары показываются как сфера. Любого можно снова показать в разделе Рядом."
+    },
+    "toast.content.removed": {
+      "en": "This content has been removed.",
+      "text": "Этот контент удалён."
+    },
+    "toast.content.review": {
+      "en": "This is waiting to be reviewed. It will work once it has been checked.",
+      "text": "Это ждёт проверки. Заработает, как только его проверят."
+    },
+    "toast.content.revoked": {
+      "en": "Your access to mature content has been removed.",
+      "text": "Твой доступ к контенту для взрослых отозван."
+    },
+    "toast.content.unavailable": {
+      "en": "This content is not available to you.",
+      "text": "Этот контент тебе недоступен."
+    },
+    "toast.diamonds.added": {
+      "en": "Diamonds added",
+      "text": "Алмазы начислены"
+    },
+    "toast.diamonds.cancelled": {
+      "en": "Purchase cancelled",
+      "text": "Покупка отменена"
+    },
+    "toast.diamonds.confirmsteam": {
+      "en": "Confirm the purchase in the Steam window (it may be on your monitor)",
+      "text": "Подтверди покупку в окне Steam (оно может быть на мониторе)"
+    },
+    "toast.diamonds.got": {
+      "en": "+{0} diamonds",
+      "text": "Алмазы: +{0}"
+    },
+    "toast.diamonds.gotdoubled": {
+      "en": "+{0} diamonds! Your first pack was doubled",
+      "text": "Алмазы: +{0}! Первый набор удвоен"
+    },
+    "toast.diamonds.nosteam": {
+      "en": "Steam is not available right now",
+      "text": "Steam сейчас недоступен"
+    },
+    "toast.diamonds.nostore": {
+      "en": "Could not reach the store. Nothing was charged",
+      "text": "Не удалось связаться с магазином. Деньги не списаны"
+    },
+    "toast.diamonds.notonsale": {
+      "en": "Diamonds are not on sale yet",
+      "text": "Алмазы пока не продаются"
+    },
+    "toast.diamonds.paidpending": {
+      "en": "Payment received. Your diamonds may take a minute to arrive",
+      "text": "Оплата получена. Алмазы могут прийти через минуту"
+    },
+    "toast.diamonds.stillwaiting": {
+      "en": "Still waiting for Steam. If you confirm there, your diamonds arrive shortly",
+      "text": "Всё ещё ждём Steam. Если подтвердишь там, алмазы скоро придут"
+    },
+    "toast.event.now": {
+      "en": "Event starting now: {0}",
+      "text": "Событие начинается: {0}"
+    },
+    "toast.event.nowin": {
+      "en": "Event starting now: {0} in {1}",
+      "text": "Событие начинается: {0} в {1}"
+    },
+    "toast.event.soon": {
+      "en": "Event in {0} minutes: {1}",
+      "text": "Событие через {0} мин.: {1}"
+    },
+    "toast.goldrush.bought": {
+      "en": "You bought this Gold Rush, so it is for everyone else!",
+      "text": "Ты купил эту Золотую лихорадку, так что она для всех остальных!"
+    },
+    "toast.goldrush.expired": {
+      "en": "Nobody found the Gold Rush plate in time. It's gone!",
+      "text": "Никто не нашёл табличку Золотой лихорадки вовремя. Она исчезла!"
+    },
+    "toast.goldrush.won": {
+      "en": "You won the Gold Rush! +{0} gold",
+      "text": "Ты выиграл Золотую лихорадку! +{0} золота"
+    },
+    "toast.groups.accepted": {
+      "en": "You're in {0} — your request was accepted",
+      "text": "Ты в {0} — твою заявку приняли"
+    },
+    "toast.groups.badreply": {
+      "en": "Groups did not answer properly",
+      "text": "Группы ответили некорректно"
+    },
+    "toast.groups.invited": {
+      "en": "You've been invited to {0} — open Groups to accept",
+      "text": "Тебя пригласили в {0} — открой Группы, чтобы принять"
+    },
+    "toast.groups.key": {
+      "en": "Groups are unavailable (key)",
+      "text": "Группы недоступны (ключ)"
+    },
+    "toast.groups.perksoffline": {
+      "en": "Group perks need the site — you are offline.",
+      "text": "Бонусам группы нужен сайт — ты не в сети."
+    },
+    "toast.groups.request": {
+      "en": "{0} wants to join {1} — open Groups to approve",
+      "text": "{0} хочет вступить в {1} — открой Группы, чтобы одобрить"
+    },
+    "toast.groups.requests": {
+      "en": "{0} new join requests — open Groups to approve",
+      "text": "Новых заявок на вступление: {0} — открой Группы, чтобы одобрить"
+    },
+    "toast.groups.unreachable": {
+      "en": "Groups are unreachable right now",
+      "text": "Группы сейчас недоступны"
+    },
+    "toast.guide.agree": {
+      "en": "Look at your hands: the labels show what each button does. To hide them, hold both triggers.",
+      "text": "Посмотрите на руки: подписи показывают, что делает каждая кнопка. Чтобы скрыть их, удерживайте оба курка."
+    },
+    "toast.guide.off": {
+      "en": "Controller guide is off. Bring it back from the quick menu.",
+      "text": "Подсказки контроллеров выключены. Вернуть их можно в быстром меню."
+    },
+    "toast.guide.on": {
+      "en": "Controller guide is on. Look at your hands.",
+      "text": "Подсказки контроллеров включены. Посмотрите на руки."
+    },
+    "toast.guide.other": {
+      "en": "The controller guide only knows Quest-style controllers for now.",
+      "text": "Подсказки пока знают только контроллеры типа Quest."
+    },
+    "toast.guide.tourdone": {
+      "en": "Controller guide is off now. Bring it back any time from the quick menu.",
+      "text": "Подсказки контроллеров выключены. Вернуть их можно в любой момент в быстром меню."
+    },
+    "toast.hub.allfull": {
+      "en": "The hubs are full right now — try again in a few minutes.",
+      "text": "Сейчас все хабы заполнены — попробуй через несколько минут."
+    },
+    "toast.hub.fullredirect": {
+      "en": "{0} is full — taking you to {1}.",
+      "text": "{0} заполнен — переносим тебя в {1}."
+    },
+    "toast.hub.lost": {
+      "en": "Lost the hub connection — the hub may be updating. Try again in a minute.",
+      "text": "Связь с хабом потеряна — возможно, он обновляется. Попробуй через минуту."
+    },
+    "toast.hub.mismatch": {
+      "en": "Hub and game versions don't match — update the game, or wait for the hub update.",
+      "text": "Версии хаба и игры не совпадают — обнови игру или дождись обновления хаба."
+    },
+    "toast.hub.noanswer": {
+      "en": "Couldn't reach the hub — nothing answered. It may be restarting; try again in a minute.",
+      "text": "Не удалось подключиться к хабу — нет ответа. Возможно, он перезапускается; попробуй через минуту."
+    },
+    "toast.hub.reason.update": {
+      "en": "for an update",
+      "text": "для обновления"
+    },
+    "toast.hub.restart1": {
+      "en": "Hub restarting in {0} minute {1}",
+      "text": "Хаб перезапустится через {0} мин. {1}"
+    },
+    "toast.hub.restartn": {
+      "en": "Hub restarting in {0} minutes {1}",
+      "text": "Хаб перезапустится через {0} мин. {1}"
+    },
+    "toast.hub.unreachable": {
+      "en": "Couldn't reach the hub — it may be restarting. Try again in a minute.",
+      "text": "Не удалось подключиться к хабу — возможно, он перезапускается. Попробуй через минуту."
+    },
+    "toast.join.dlfailed": {
+      "en": "Could not download that world — you have not been moved",
+      "text": "Не удалось скачать этот мир — ты остаёшься на месте"
+    },
+    "toast.join.dlfailednamed": {
+      "en": "Could not download {0} — you have not been moved",
+      "text": "Не удалось скачать {0} — ты остаёшься на месте"
+    },
+    "toast.join.failed": {
+      "en": "Couldn't join that session",
+      "text": "Не удалось подключиться к этой сессии"
+    },
+    "toast.join.instanceclosed": {
+      "en": "That instance has closed — nobody is hosting this world right now",
+      "text": "Этот экземпляр закрыт — сейчас этот мир никто не хостит"
+    },
+    "toast.join.noanswer": {
+      "en": "Couldn't join that session — the host didn't answer. Try again in a moment.",
+      "text": "Не удалось подключиться к этой сессии — хост не ответил. Попробуй ещё раз чуть позже."
+    },
+    "toast.join.sessionclosed": {
+      "en": "That session has closed — refresh the list",
+      "text": "Эта сессия закрыта — обнови список"
+    },
+    "toast.migration.failed": {
+      "en": "The host left and no new host took over — you're on your own here now.",
+      "text": "Хост ушёл, и никто его не сменил — теперь ты здесь один."
+    },
+    "toast.migration.named": {
+      "en": "The host left — {0} is taking over. Reconnecting…",
+      "text": "Хост ушёл — его сменяет {0}. Переподключение…"
+    },
+    "toast.migration.waiting": {
+      "en": "The host left — waiting for a new host…",
+      "text": "Хост ушёл — ждём нового хоста…"
+    },
+    "toast.migration.youarehost": {
+      "en": "The host left — you're the host now. Reloading the room…",
+      "text": "Хост ушёл — теперь хост ты. Перезагружаем комнату…"
+    },
+    "toast.plate.dupegold": {
+      "en": "+{0} gold from {1} (you already own it)",
+      "text": "+{0} золота за {1} (уже есть)"
+    },
+    "toast.plate.dupemaxed": {
+      "en": "You own {0}. Owned plate gold is maxed for today ({1}/{2})",
+      "text": "У тебя уже есть {0}. Лимит золота за имеющиеся таблички на сегодня исчерпан ({1}/{2})"
+    },
+    "toast.plate.new": {
+      "en": "You got a new head plate!",
+      "text": "Ты получил новую табличку!"
+    },
+    "toast.portal.busy": {
+      "en": "You're already travelling — wait until you arrive to drop a portal",
+      "text": "Ты уже в пути — дождись прибытия, чтобы поставить портал"
+    },
+    "toast.report.failed": {
+      "en": "Couldn't send the report right now. Please try again later.",
+      "text": "Сейчас не удалось отправить жалобу. Попробуй позже."
+    },
+    "toast.report.missing": {
+      "en": "That report was missing something — please add more detail.",
+      "text": "В жалобе чего-то не хватает — добавь подробностей."
+    },
+    "toast.report.moredetail": {
+      "en": "Please describe what happened in a little more detail.",
+      "text": "Опиши, пожалуйста, что случилось, чуть подробнее."
+    },
+    "toast.report.noitem": {
+      "en": "That report is missing the item it is about.",
+      "text": "В жалобе не указан предмет, к которому она относится."
+    },
+    "toast.report.noserver": {
+      "en": "Couldn't reach the server. Check your connection and try again.",
+      "text": "Не удалось связаться с сервером. Проверь подключение и попробуй снова."
+    },
+    "toast.report.nosteamid": {
+      "en": "Couldn't read your Steam ID — are you signed in to Steam?",
+      "text": "Не удалось прочитать твой Steam ID — ты вошёл в Steam?"
+    },
+    "toast.report.notconfigured": {
+      "en": "Reporting isn't configured in this build.",
+      "text": "В этой сборке жалобы не настроены."
+    },
+    "toast.report.pickplayer": {
+      "en": "Pick which player you're reporting.",
+      "text": "Выбери, на какого игрока жалуешься."
+    },
+    "toast.report.ratelimited": {
+      "en": "You've sent several reports recently. Please wait a little while.",
+      "text": "Ты недавно отправил несколько жалоб. Подожди немного."
+    },
+    "toast.report.sent": {
+      "en": "Report sent — thank you.",
+      "text": "Жалоба отправлена — спасибо."
+    },
+    "toast.score.awardaway": {
+      "en": "Welcome back — you earned {0} gold while you were away!   Total: {1}",
+      "text": "С возвращением — пока тебя не было, ты заработал {0} золота!   Всего: {1}"
+    },
+    "toast.score.awardlive": {
+      "en": "+{0} gold!   Total: {1}",
+      "text": "+{0} золота!   Всего: {1}"
+    },
+    "toast.score.streakkeep": {
+      "en": "{0}-day streak · play today to keep it",
+      "text": "Серия {0} дн. · сыграй сегодня, чтобы её сохранить"
+    },
+    "toast.score.streakmore": {
+      "en": "{0}-day streak · {1} more {1}|plural(one=day,other=days) for +{2} gold",
+      "text": "Серия {0} дн. · ещё {1} дн. до +{2} золота"
+    },
+    "toast.score.streakpaid": {
+      "en": "{0}-day streak · +{1} gold at tonight's tally",
+      "text": "Серия {0} дн. · +{1} золота при ночном подсчёте"
+    },
+    "toast.seated.autoon": {
+      "en": "Looks like you are sitting, so seated mode is on and your avatar stays full size. Stand up to switch it off.",
+      "text": "Похоже, ты сидишь — сидячий режим включён, и аватар остаётся в полный рост. Встань, чтобы выключить его."
+    },
+    "toast.seated.fbt": {
+      "en": "Seated mode isn't needed with full-body trackers. Your trackers already sit you down.",
+      "text": "С трекерами всего тела сидячий режим не нужен. Трекеры и так тебя усаживают."
+    },
+    "toast.seated.off": {
+      "en": "Seated mode off.",
+      "text": "Сидячий режим выключен."
+    },
+    "toast.seated.on": {
+      "en": "Seated mode on. Sit comfortably and hold still for a second. Stand up to turn it off.",
+      "text": "Сидячий режим включён. Сядь удобно и замри на секунду. Встань, чтобы выключить."
+    },
+    "toast.seated.stoodup": {
+      "en": "You stood up, so seated mode is off.",
+      "text": "Ты встал — сидячий режим выключен."
+    },
+    "toast.seated.trackers": {
+      "en": "Trackers detected, seated mode is off.",
+      "text": "Трекеры обнаружены, сидячий режим выключен."
+    },
+    "toast.session.invitehost": {
+      "en": "Only the host can invite people to this session.",
+      "text": "Приглашать в эту сессию может только хост."
+    },
+    "toast.store.badreply": {
+      "en": "The store did not answer properly",
+      "text": "Магазин ответил некорректно"
+    },
+    "toast.store.freepick": {
+      "en": "Your free plate pick is back: choose a new plate in Menu, Supporter",
+      "text": "Бесплатный выбор таблички снова доступен: выбери новую в Меню, Меценат"
+    },
+    "toast.store.gone": {
+      "en": "That item is gone",
+      "text": "Этого товара больше нет"
+    },
+    "toast.store.key": {
+      "en": "The store is unavailable (key)",
+      "text": "Магазин недоступен (ключ)"
+    },
+    "toast.store.needdiamonds": {
+      "en": "You need {0} more diamonds",
+      "text": "Не хватает алмазов: {0}"
+    },
+    "toast.store.needgold": {
+      "en": "You need {0} more gold",
+      "text": "Не хватает золота: {0}"
+    },
+    "toast.store.offline": {
+      "en": "The store is offline right now",
+      "text": "Магазин сейчас не в сети"
+    },
+    "toast.store.owned": {
+      "en": "You already own that",
+      "text": "У тебя это уже есть"
+    },
+    "toast.store.unreachable": {
+      "en": "The store is unreachable right now",
+      "text": "Магазин сейчас недоступен"
+    },
+    "toast.terms.howto.desk": {
+      "en": "To start: click I agree with the mouse.",
+      "text": "Чтобы начать: щёлкните мышью «Я согласен»."
+    },
+    "toast.terms.howto.vr": {
+      "en": "To start: point a hand at I agree and pull the trigger. Either hand works.",
+      "text": "Чтобы начать: наведите руку на «Я согласен» и нажмите курок. Подойдёт любая рука."
+    },
+    "toast.testmode.offline": {
+      "en": "Test launch — offline. Quit and start VR Realms normally to play online.",
+      "text": "Тестовый запуск — офлайн. Выйди и запусти VR Realms как обычно, чтобы играть онлайн."
+    },
+    "toast.voice.hostnudge": {
+      "en": "{0} joined your voice room — your mic is OFF. Turn it on in Settings → Microphone",
+      "text": "{0} зашёл в твою голосовую комнату — твой микрофон ВЫКЛЮЧЕН. Включи его в Настройки → Микрофон"
+    },
+    "toast.voice.micdisconnected": {
+      "en": "Your microphone is disconnected — pick another in Settings → Microphone",
+      "text": "Микрофон отключён — выбери другой в Настройки → Микрофон"
+    },
+    "toast.voice.micfailed": {
+      "en": "Your microphone could not be opened — check Windows microphone privacy, or another app may be using it",
+      "text": "Не удалось открыть микрофон — проверь конфиденциальность микрофона в Windows, или его занимает другое приложение"
+    },
+    "toast.voice.micoff": {
+      "en": "Your mic is OFF — turn it on in Settings → Microphone",
+      "text": "Твой микрофон ВЫКЛЮЧЕН — включи его в Настройки → Микрофон"
+    },
+    "toast.voice.micsilent": {
+      "en": "Your microphone is open but silent — it may be muted in Windows, or be the wrong device",
+      "text": "Микрофон открыт, но молчит — возможно, он выключен в Windows или выбрано не то устройство"
+    },
+    "tour.announce": {
+      "en": "New: a two-minute tour of the controls. Find it on the Home page of your menu.",
+      "text": "Новое: двухминутный тур по управлению. Найди его на главной странице меню."
+    },
+    "tour.both.friends": {
+      "en": "Invite a friend from Friends. It all runs through Steam, and the game is free, so anyone can join you.",
+      "text": "Пригласи друга через Друзья. Всё идёт через Steam, а игра бесплатная, так что присоединиться может любой."
+    },
+    "tour.both.gold": {
+      "en": "You earn gold just by playing. Join a group and you earn together. Spend it in the Store on plates and more.",
+      "text": "Золото копится просто за игру. Вступи в группу — и вы будете зарабатывать вместе. Трать его в Магазине на таблички и не только."
+    },
+    "tour.both.hub": {
+      "en": "The hub is always open. It is where everyone meets, and the boards there show the top players, groups and supporters. Pick the region nearest you and press Join Hub on Home.",
+      "text": "Хаб открыт всегда. Там встречаются все, а на досках — лучшие игроки, группы и спонсоры. Выбери ближайший регион и нажми Войти в хаб на Главной."
+    },
+    "tour.both.ready": {
+      "en": "Your home is public by default, so your friends and anyone else can drop in. Want it to yourself? Settings, Comfort, Session visibility: Friends Only or Private. When you want people, the hub is waiting. One more thing: this is an alpha, so things will change a lot. Your feedback shapes it.",
+      "text": "Твой дом по умолчанию открыт: заглянуть могут и друзья, и кто угодно ещё. Хочешь побыть один? Настройки, Комфорт, Видимость сессии: Только друзья или Приватный. Захочешь людей — хаб ждёт. И ещё: это альфа, так что многое изменится. Твои отзывы задают направление."
+    },
+    "tour.both.wrong": {
+      "en": "Stuck or falling: quick menu, Respawn. Want out of anywhere: quick menu, Home. Someone bothering you: Nearby, Mute or Hide. Only you are affected.",
+      "text": "Застрял или падаешь: быстрое меню, Возродиться. Хочешь уйти откуда угодно: быстрое меню, Домой. Кто-то мешает: Рядом, Заглушить или Скрыть. Действует только для тебя."
+    },
+    "tour.chip": {
+      "en": "Tutorial",
+      "text": "Обучение"
+    },
+    "tour.chip.end": {
+      "en": "End tutorial",
+      "text": "Завершить обучение"
+    },
+    "tour.complete": {
+      "en": "Tour complete! Your gold for finishing arrives after tonight's tally.",
+      "text": "Тур завершён! Золото за прохождение придёт после ночного подсчёта."
+    },
+    "tour.desk.chat": {
+      "en": "Press {Chat}, type, {Chat} again.",
+      "text": "Нажми {Chat}, набери текст, снова {Chat}."
+    },
+    "tour.desk.grab": {
+      "en": "{Grab} the object on the table. {Use} to use it. {Interact} presses buttons and switches you look at.",
+      "text": "{Grab} — предмет на столе. {Use} — использовать его. {Interact} нажимает кнопки и переключатели, на которые ты смотришь."
+    },
+    "tour.desk.look": {
+      "en": "Move the mouse. This is your home.",
+      "text": "Подвигай мышью. Это твой дом."
+    },
+    "tour.desk.menu": {
+      "en": "{Menu} opens it. Back takes you to Home.",
+      "text": "{Menu} открывает его. Кнопка Назад ведёт на Главную."
+    },
+    "tour.desk.sprint": {
+      "en": "Hold {Sprint} while moving to run.",
+      "text": "Удерживай {Sprint} во время движения, чтобы бежать."
+    },
+    "tour.desk.talk": {
+      "en": "Press {Mic}. It turns your voice on or off for everyone.",
+      "text": "Нажми {Mic}. Он включает или выключает твой голос для всех."
+    },
+    "tour.desk.walk": {
+      "en": "{Move} to move. {Jump} to jump.",
+      "text": "{Move} — движение. {Jump} — прыжок."
+    },
+    "tour.desk.wheel": {
+      "en": "Press {Radial} to open the quick menu. Click what you want.",
+      "text": "Нажми {Radial}, чтобы открыть быстрое меню. Кликни на нужный пункт."
+    },
+    "tour.desk.yours": {
+      "en": "Settings, Controls: rebind any key, sprint included. Settings, Comfort: turn and movement options. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "Настройки, Управление: переназначь любую клавишу, включая бег. Настройки, Комфорт: параметры поворота и движения. Язык: глобус в правом верхнем углу меню. Стриминг: режим стримера скрывает имена и контент для взрослых."
+    },
+    "tour.hint.desk": {
+      "en": "Right Arrow: next   ·   End: end tour   ·   ALT: mouse",
+      "text": "Стрелка вправо: далее   ·   End: завершить тур   ·   ALT: мышь"
+    },
+    "tour.hint.vr": {
+      "en": "Point at a button and pull the trigger",
+      "text": "Наведи на кнопку и нажми курок"
+    },
+    "tour.kicker": {
+      "en": "TOUR",
+      "text": "ТУР"
+    },
+    "tour.label.end": {
+      "en": "End tour",
+      "text": "Завершить тур"
+    },
+    "tour.label.mouse": {
+      "en": "Mouse",
+      "text": "Мышь"
+    },
+    "tour.label.next": {
+      "en": "Next",
+      "text": "Далее"
+    },
+    "tour.label.rightarrow": {
+      "en": "Right Arrow",
+      "text": "Стрелка вправо"
+    },
+    "tour.label.skip": {
+      "en": "Skip",
+      "text": "Пропустить"
+    },
+    "tour.offer.body": {
+      "en": "A few short cards: moving, your quick menu, voice, chat and the menu. Skip any of them, or end it at any time.",
+      "text": "Несколько коротких карточек: движение, быстрое меню, голос, чат и меню. Любую можно пропустить, а тур — завершить в любой момент."
+    },
+    "tour.offer.body.away": {
+      "en": "It uses the things in your own place to show you moving, your quick menu, voice, chat and the menu. Head there now and start?",
+      "text": "Он использует вещи у тебя дома, чтобы показать движение, быстрое меню, голос, чат и меню. Отправиться туда и начать?"
+    },
+    "tour.offer.confirm": {
+      "en": "Start",
+      "text": "Начать"
+    },
+    "tour.offer.title": {
+      "en": "Want a two-minute tour?",
+      "text": "Хочешь двухминутный тур?"
+    },
+    "tour.offer.title.away": {
+      "en": "The tour happens in your home",
+      "text": "Тур проходит у тебя дома"
+    },
+    "tour.side.left": {
+      "en": "left",
+      "text": "левый"
+    },
+    "tour.side.right": {
+      "en": "right",
+      "text": "правый"
+    },
+    "tour.t.friends": {
+      "en": "Bring friends",
+      "text": "Приводи друзей"
+    },
+    "tour.t.gold": {
+      "en": "Earn gold",
+      "text": "Зарабатывай золото"
+    },
+    "tour.t.grab": {
+      "en": "Pick something up",
+      "text": "Подними что-нибудь"
+    },
+    "tour.t.hub": {
+      "en": "The hub",
+      "text": "Хаб"
+    },
+    "tour.t.look": {
+      "en": "Look around",
+      "text": "Осмотрись"
+    },
+    "tour.t.menu": {
+      "en": "Your menu",
+      "text": "Твоё меню"
+    },
+    "tour.t.move": {
+      "en": "Move",
+      "text": "Движение"
+    },
+    "tour.t.ready": {
+      "en": "You're ready",
+      "text": "Ты готов"
+    },
+    "tour.t.sprint": {
+      "en": "Sprint",
+      "text": "Бег"
+    },
+    "tour.t.talk": {
+      "en": "Talk",
+      "text": "Разговор"
+    },
+    "tour.t.turn": {
+      "en": "Turn",
+      "text": "Поворот"
+    },
+    "tour.t.walk": {
+      "en": "Walk",
+      "text": "Ходьба"
+    },
+    "tour.t.wheel": {
+      "en": "Your quick menu",
+      "text": "Быстрое меню"
+    },
+    "tour.t.wrong": {
+      "en": "If something goes wrong",
+      "text": "Если что-то пошло не так"
+    },
+    "tour.t.yours": {
+      "en": "Make it yours",
+      "text": "Настрой под себя"
+    },
+    "tour.travel": {
+      "en": "Taking you home for the tour…",
+      "text": "Отправляем тебя домой для тура…"
+    },
+    "tour.vr.chat": {
+      "en": "In the quick menu, pick Chat. Type on the floating keyboard and send.",
+      "text": "В быстром меню выбери Чат. Набери текст на парящей клавиатуре и отправь."
+    },
+    "tour.vr.grab": {
+      "en": "Squeeze grip on the object on the table.",
+      "text": "Сожми грип на предмете на столе."
+    },
+    "tour.vr.look": {
+      "en": "Turn your head. This is your home.",
+      "text": "Поверни голову. Это твой дом."
+    },
+    "tour.vr.menu": {
+      "en": "In the quick menu, pick Avatar. That is the full menu. Back takes you to Home.",
+      "text": "В быстром меню выбери Аватар. Это полное меню. Кнопка Назад ведёт на Главную."
+    },
+    "tour.vr.move": {
+      "en": "Push the {MoveStick} stick.",
+      "text": "Наклони {MoveStick} стик."
+    },
+    "tour.vr.sprint": {
+      "en": "Click the {SprintStick} stick while moving to run. Click again, or stop, to walk.",
+      "text": "Нажми на {SprintStick} стик во время движения, чтобы бежать. Нажми снова или остановись, чтобы идти."
+    },
+    "tour.vr.talk": {
+      "en": "Press the top button on your {MicHand} hand. It turns your voice on or off for everyone.",
+      "text": "Нажми верхнюю кнопку на руке ({MicHand}). Так ты включаешь или выключаешь свой голос для всех."
+    },
+    "tour.vr.turn": {
+      "en": "Flick the {TurnStick} stick left or right. Prefer smooth turning or other movement styles? Settings, Comfort.",
+      "text": "Отклони {TurnStick} стик влево или вправо. Хочешь плавный поворот или другие стили движения? Настройки, Комфорт."
+    },
+    "tour.vr.wheel": {
+      "en": "Click the {WheelStick} stick. The quick menu opens on your {WheelHand} hand. Point at it with your {LaserHand} hand and pull the trigger to pick.",
+      "text": "Нажми на {WheelStick} стик. Быстрое меню откроется на руке ({WheelHand}). Наведи на него другой рукой ({LaserHand}) и нажми курок, чтобы выбрать."
+    },
+    "tour.vr.yours": {
+      "en": "Settings, Comfort: swap which hand walks and sprints, put the quick menu and mic button on the other hand, and set turning and movement to your liking. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "Настройки, Комфорт: поменяй руку для ходьбы и бега, перенеси быстрое меню и кнопку микрофона на другую руку и настрой поворот и движение по вкусу. Язык: глобус в правом верхнем углу меню. Стриминг: режим стримера скрывает имена и контент для взрослых."
+    },
+    "v3.avatars.favorites": {
+      "en": "Favorites",
+      "text": "Избранное"
+    },
+    "v3.avatars.furry": {
+      "en": "Furry",
+      "text": "Фурри"
+    },
+    "v3.avatars.nomatch": {
+      "en": "No avatars match",
+      "text": "Аватары не найдены"
+    },
+    "v3.card.flashing": {
+      "en": "FLASHING LIGHTS",
+      "text": "МИГАЮЩИЙ СВЕТ"
+    },
+    "v3.card.mature": {
+      "en": "MATURE THEMES",
+      "text": "ВЗРОСЛЫЕ ТЕМЫ"
+    },
+    "v3.cat.community": {
+      "en": "Community",
+      "text": "Сообщество"
+    },
+    "v3.chat.help": {
+      "en": "Type /help for chat commands",
+      "text": "Введи /help для команд чата"
+    },
+    "v3.common.all": {
+      "en": "All",
+      "text": "Все"
+    },
+    "v3.common.applied": {
+      "en": "Applied",
+      "text": "Применено"
+    },
+    "v3.common.apply": {
+      "en": "Apply",
+      "text": "Применить"
+    },
+    "v3.common.buy": {
+      "en": "Buy",
+      "text": "Купить"
+    },
+    "v3.common.cancel": {
+      "en": "Cancel",
+      "text": "Отмена"
+    },
+    "v3.common.confirm": {
+      "en": "Confirm",
+      "text": "Подтвердить"
+    },
+    "v3.common.continue": {
+      "en": "Continue",
+      "text": "Продолжить"
+    },
+    "v3.common.done": {
+      "en": "Done",
+      "text": "Готово"
+    },
+    "v3.common.down": {
+      "en": "Down",
+      "text": "Вниз"
+    },
+    "v3.common.near": {
+      "en": "Near",
+      "text": "Рядом"
+    },
+    "v3.common.new": {
+      "en": "NEW",
+      "text": "НОВОЕ"
+    },
+    "v3.common.no": {
+      "en": "No",
+      "text": "Нет"
+    },
+    "v3.common.up": {
+      "en": "Up",
+      "text": "Вверх"
+    },
+    "v3.common.wip": {
+      "en": "WIP",
+      "text": "В РАБОТЕ"
+    },
+    "v3.contract.agree": {
+      "en": "I agree",
+      "text": "Принимаю"
+    },
+    "v3.contract.hint": {
+      "en": "Read to the end, then agree to continue",
+      "text": "Прочитай до конца, затем прими условия"
+    },
+    "v3.contract.title": {
+      "en": "Terms of Service",
+      "text": "Условия использования"
+    },
+    "v3.controls.category": {
+      "en": "CATEGORY",
+      "text": "КАТЕГОРИЯ"
+    },
+    "v3.controls.gamepad": {
+      "en": "Gamepad",
+      "text": "Геймпад"
+    },
+    "v3.controls.hint": {
+      "en": "Click a key to change it. Right-click a key to clear it.",
+      "text": "Клик по клавише — изменить. Правый клик — очистить."
+    },
+    "v3.controls.keyboard": {
+      "en": "Keyboard / Mouse",
+      "text": "Клавиатура / Мышь"
+    },
+    "v3.controls.resetall": {
+      "en": "Reset All",
+      "text": "Сбросить всё"
+    },
+    "v3.fbt.bodyfollows": {
+      "en": "Body follows head (turn off if your chest twists)",
+      "text": "Тело следует за головой (выключи, если грудь скручивается)"
+    },
+    "v3.fbt.bodyturnspeed": {
+      "en": "Body turn speed",
+      "text": "Скорость поворота тела"
+    },
+    "v3.fbt.calibtolerance": {
+      "en": "Calibration tolerance",
+      "text": "Допуск калибровки"
+    },
+    "v3.fbt.fadefeet": {
+      "en": "Fade feet to walk anim while moving",
+      "text": "Переводить стопы в анимацию ходьбы при движении"
+    },
+    "v3.fbt.footforward": {
+      "en": "Foot forward",
+      "text": "Стопа вперёд"
+    },
+    "v3.fbt.footheight": {
+      "en": "Foot height",
+      "text": "Высота стопы"
+    },
+    "v3.fbt.footsmoothing": {
+      "en": "Foot smoothing",
+      "text": "Сглаживание стоп"
+    },
+    "v3.fbt.headlock": {
+      "en": "Head lock",
+      "text": "Фиксация головы"
+    },
+    "v3.fbt.hipforward": {
+      "en": "Hip forward",
+      "text": "Бёдра вперёд"
+    },
+    "v3.fbt.hipfreedom": {
+      "en": "Hip freedom",
+      "text": "Свобода бёдер"
+    },
+    "v3.fbt.hipheight": {
+      "en": "Hip height",
+      "text": "Высота бёдер"
+    },
+    "v3.fbt.hiplock": {
+      "en": "Hip lock",
+      "text": "Фиксация бёдер"
+    },
+    "v3.fbt.keepik": {
+      "en": "Keep IK on a lifted foot while moving",
+      "text": "Сохранять IK на поднятой стопе при движении"
+    },
+    "v3.fbt.kneewidth": {
+      "en": "Knee width",
+      "text": "Ширина коленей"
+    },
+    "v3.fbt.leftfootturn": {
+      "en": "Left foot turn",
+      "text": "Поворот левой стопы"
+    },
+    "v3.fbt.legstretch": {
+      "en": "Leg stretch limit",
+      "text": "Лимит растяжения ног"
+    },
+    "v3.fbt.maxfootfromhead": {
+      "en": "Max foot from head",
+      "text": "Макс. стопа от головы"
+    },
+    "v3.fbt.maxfootsplit": {
+      "en": "Max foot height split",
+      "text": "Макс. разница высоты стоп"
+    },
+    "v3.fbt.maxhiptravel": {
+      "en": "Max hip travel",
+      "text": "Макс. ход бёдер"
+    },
+    "v3.fbt.minfootbelowhips": {
+      "en": "Min foot below hips",
+      "text": "Мин. стопа ниже бёдер"
+    },
+    "v3.fbt.minheadabovewaist": {
+      "en": "Min head above waist",
+      "text": "Мин. голова над поясом"
+    },
+    "v3.fbt.minwaistabovefeet": {
+      "en": "Min waist above feet",
+      "text": "Мин. пояс над стопами"
+    },
+    "v3.fbt.posturegate": {
+      "en": "Posture gate",
+      "text": "Порог позы"
+    },
+    "v3.fbt.raisedfoot": {
+      "en": "Raised-foot threshold",
+      "text": "Порог поднятой стопы"
+    },
+    "v3.fbt.rightfootturn": {
+      "en": "Right foot turn",
+      "text": "Поворот правой стопы"
+    },
+    "v3.fbt.stancewidth": {
+      "en": "Stance width",
+      "text": "Ширина стойки"
+    },
+    "v3.fbt.title": {
+      "en": "Full Body Tracking",
+      "text": "Полное отслеживание тела"
+    },
+    "v3.groups.all": {
+      "en": "All groups",
+      "text": "Все группы"
+    },
+    "v3.groups.announce.hint": {
+      "en": "Welcome message…",
+      "text": "Приветствие…"
+    },
+    "v3.groups.announce.sub": {
+      "en": "Optional. Shows for members when they open the group.",
+      "text": "Необязательно. Видно участникам при открытии группы."
+    },
+    "v3.groups.announcement": {
+      "en": "Announcement",
+      "text": "Объявление"
+    },
+    "v3.groups.approve": {
+      "en": "Approve",
+      "text": "Одобрить"
+    },
+    "v3.groups.ban": {
+      "en": "Ban",
+      "text": "Забанить"
+    },
+    "v3.groups.create": {
+      "en": "Create group",
+      "text": "Создать группу"
+    },
+    "v3.groups.delete": {
+      "en": "Delete group",
+      "text": "Удалить группу"
+    },
+    "v3.groups.desc.hint": {
+      "en": "What is this group about?",
+      "text": "О чём эта группа?"
+    },
+    "v3.groups.description": {
+      "en": "Description",
+      "text": "Описание"
+    },
+    "v3.groups.freejoin": {
+      "en": "Free Join",
+      "text": "Свободный вход"
+    },
+    "v3.groups.inviteonly": {
+      "en": "Invite-Only",
+      "text": "Только по приглашению"
+    },
+    "v3.groups.leave": {
+      "en": "Leave",
+      "text": "Выйти"
+    },
+    "v3.groups.makemod": {
+      "en": "Make mod",
+      "text": "Сделать модератором"
+    },
+    "v3.groups.memberscaninvite": {
+      "en": "Members can invite",
+      "text": "Участники могут приглашать"
+    },
+    "v3.groups.membersettings": {
+      "en": "MEMBER SETTINGS",
+      "text": "НАСТРОЙКИ УЧАСТНИКОВ"
+    },
+    "v3.groups.modscanannounce": {
+      "en": "Mods can announce",
+      "text": "Модераторы могут делать объявления"
+    },
+    "v3.groups.modscanban": {
+      "en": "Mods can ban",
+      "text": "Модераторы могут банить"
+    },
+    "v3.groups.modscankick": {
+      "en": "Mods can kick",
+      "text": "Модераторы могут выгонять"
+    },
+    "v3.groups.modscanroles": {
+      "en": "Mods can change roles",
+      "text": "Модераторы могут менять роли"
+    },
+    "v3.groups.modscanwarn": {
+      "en": "Mods can warn",
+      "text": "Модераторы могут предупреждать"
+    },
+    "v3.groups.modsettings": {
+      "en": "MOD SETTINGS",
+      "text": "НАСТРОЙКИ МОДЕРАТОРОВ"
+    },
+    "v3.groups.name": {
+      "en": "Group name",
+      "text": "Название группы"
+    },
+    "v3.groups.name.hint": {
+      "en": "e.g. Night Owls",
+      "text": "напр. Полуночники"
+    },
+    "v3.groups.nomatch": {
+      "en": "No groups match",
+      "text": "Группы не найдены"
+    },
+    "v3.groups.privacy": {
+      "en": "Privacy",
+      "text": "Приватность"
+    },
+    "v3.groups.privacy.hint": {
+      "en": "Locked after you create the group.",
+      "text": "Нельзя изменить после создания группы."
+    },
+    "v3.groups.removemod": {
+      "en": "Remove mod",
+      "text": "Снять модератора"
+    },
+    "v3.groups.request": {
+      "en": "Request",
+      "text": "Заявка"
+    },
+    "v3.groups.requested": {
+      "en": "Requested · cancel",
+      "text": "Заявка подана · отменить"
+    },
+    "v3.groups.requesttojoin": {
+      "en": "Request to Join",
+      "text": "По заявке"
+    },
+    "v3.groups.saveannounce": {
+      "en": "Save announcement",
+      "text": "Сохранить объявление"
+    },
+    "v3.groups.tags": {
+      "en": "Tags",
+      "text": "Теги"
+    },
+    "v3.groups.tags.hint": {
+      "en": "Up to 5. e.g. 18+, Anyone, Roleplay",
+      "text": "До 5. напр. 18+, Все, Ролевая игра"
+    },
+    "v3.groups.tags.max": {
+      "en": "TAGS (MAX 5)",
+      "text": "ТЕГИ (МАКС. 5)"
+    },
+    "v3.groups.title": {
+      "en": "Groups",
+      "text": "Группы"
+    },
+    "v3.groups.warn": {
+      "en": "Warn",
+      "text": "Предупредить"
+    },
+    "v3.groups.whocanjoin": {
+      "en": "Who can join",
+      "text": "Кто может вступить"
+    },
+    "v3.groups.wip": {
+      "en": "Groups are new. Requests, approvals and mod tools just landed — tell us what breaks.",
+      "text": "Группы — новая функция. Заявки, одобрения и инструменты модераторов только что появились — сообщайте о проблемах."
+    },
+    "v3.header.discord": {
+      "en": "Discord",
+      "text": "Discord"
+    },
+    "v3.header.ea": {
+      "en": "EARLY ACCESS",
+      "text": "РАННИЙ ДОСТУП"
+    },
+    "v3.header.quit": {
+      "en": "Quit",
+      "text": "Выйти"
+    },
+    "v3.header.tagline": {
+      "en": "HAVE FUN · EXPLORE · ENJOY",
+      "text": "ВЕСЕЛИСЬ · ИССЛЕДУЙ · НАСЛАЖДАЙСЯ"
+    },
+    "v3.home.avatars.desc": {
+      "en": "Customize your look and express yourself.",
+      "text": "Настрой свой облик и вырази себя."
+    },
+    "v3.home.chat.desc": {
+      "en": "Message your friends and the community.",
+      "text": "Пиши друзьям и сообществу."
+    },
+    "v3.home.discord": {
+      "en": "Join our Discord",
+      "text": "Присоединяйтесь к нашему Discord"
+    },
+    "v3.home.discord.sub": {
+      "en": "Events, updates and help · opens in your desktop browser",
+      "text": "События, новости и помощь · откроется в браузере на компьютере"
+    },
+    "v3.home.fbt.desc": {
+      "en": "Track your full body and move naturally.",
+      "text": "Отслеживай всё тело и двигайся естественно."
+    },
+    "v3.home.fps": {
+      "en": "FPS",
+      "text": "FPS"
+    },
+    "v3.home.friends.desc": {
+      "en": "View your friends list and join them.",
+      "text": "Открой список друзей и присоединяйся."
+    },
+    "v3.home.groups.desc": {
+      "en": "Create and join communities.",
+      "text": "Создавай сообщества и вступай в них."
+    },
+    "v3.home.home": {
+      "en": "Home",
+      "text": "Главная"
+    },
+    "v3.home.nearby.desc": {
+      "en": "See who's around you in real time.",
+      "text": "Смотри, кто рядом, в реальном времени."
+    },
+    "v3.home.ping": {
+      "en": "Ping",
+      "text": "Пинг"
+    },
+    "v3.home.settings.desc": {
+      "en": "Adjust your experience and preferences.",
+      "text": "Настрой впечатления и параметры."
+    },
+    "v3.home.store": {
+      "en": "Store",
+      "text": "Магазин"
+    },
+    "v3.home.store.sub": {
+      "en": "Cosmetics, boosts & more",
+      "text": "Косметика, бусты и не только"
+    },
+    "v3.home.supporter.sub": {
+      "en": "Exclusive perks & plates",
+      "text": "Эксклюзивные бонусы и таблички"
+    },
+    "v3.home.worlds.desc": {
+      "en": "Explore new worlds and experiences.",
+      "text": "Исследуй новые миры и впечатления."
+    },
+    "v3.host.action": {
+      "en": "Action",
+      "text": "Действие"
+    },
+    "v3.host.msg": {
+      "en": "Choose an action and visibility for this world.",
+      "text": "Выбери действие и видимость для этого мира."
+    },
+    "v3.host.new": {
+      "en": "Host new instance",
+      "text": "Создать новый инстанс"
+    },
+    "v3.host.portal": {
+      "en": "Drop portal to a new instance",
+      "text": "Поставить портал в новый инстанс"
+    },
+    "v3.host.private": {
+      "en": "Private",
+      "text": "Приватный"
+    },
+    "v3.host.public": {
+      "en": "Public",
+      "text": "Публичный"
+    },
+    "v3.host.title": {
+      "en": "Host or drop portal",
+      "text": "Создать или поставить портал"
+    },
+    "v3.host.visibility": {
+      "en": "Visibility",
+      "text": "Видимость"
+    },
+    "v3.inbox": {
+      "en": "Inbox",
+      "text": "Входящие"
+    },
+    "v3.inbox.empty": {
+      "en": "Nothing new right now.",
+      "text": "Пока ничего нового."
+    },
+    "v3.instance.applyban": {
+      "en": "Apply ban",
+      "text": "Применить бан"
+    },
+    "v3.instance.banhours": {
+      "en": "hours (0 = permanent)",
+      "text": "часов (0 = навсегда)"
+    },
+    "v3.instance.muteall": {
+      "en": "Mute All",
+      "text": "Заглушить всех"
+    },
+    "v3.instance.people": {
+      "en": "PEOPLE HERE",
+      "text": "ЛЮДИ ЗДЕСЬ"
+    },
+    "v3.instance.title": {
+      "en": "Instance",
+      "text": "Инстанс"
+    },
+    "v3.modal.noundo": {
+      "en": "This action cannot be undone.",
+      "text": "Это действие нельзя отменить."
+    },
+    "v3.modal.sure": {
+      "en": "Are you sure?",
+      "text": "Вы уверены?"
+    },
+    "v3.report.details": {
+      "en": "ADDITIONAL DETAILS (OPTIONAL)",
+      "text": "ПОДРОБНОСТИ (НЕОБЯЗАТЕЛЬНО)"
+    },
+    "v3.report.msg": {
+      "en": "Choose a reason for reporting this world.",
+      "text": "Выбери причину жалобы на этот мир."
+    },
+    "v3.report.reason.perf": {
+      "en": "Low performance",
+      "text": "Низкая производительность"
+    },
+    "v3.report.reason.tags": {
+      "en": "Inappropriate tags (mature content)",
+      "text": "Неверные теги (контент 18+)"
+    },
+    "v3.report.send": {
+      "en": "Send report",
+      "text": "Отправить жалобу"
+    },
+    "v3.report.title": {
+      "en": "Report world",
+      "text": "Пожаловаться на мир"
+    },
+    "v3.report.what": {
+      "en": "WHAT IS WRONG?",
+      "text": "ЧТО НЕ ТАК?"
+    },
+    "v3.role.member": {
+      "en": "Member",
+      "text": "Участник"
+    },
+    "v3.role.mod": {
+      "en": "Mod",
+      "text": "Модератор"
+    },
+    "v3.role.owner": {
+      "en": "Owner",
+      "text": "Владелец"
+    },
+    "v3.search.avatars": {
+      "en": "Search avatars…",
+      "text": "Поиск аватаров…"
+    },
+    "v3.search.friends": {
+      "en": "Search friends…",
+      "text": "Поиск друзей…"
+    },
+    "v3.search.groups": {
+      "en": "Search groups…",
+      "text": "Поиск групп…"
+    },
+    "v3.search.members": {
+      "en": "Search members…",
+      "text": "Поиск участников…"
+    },
+    "v3.search.people": {
+      "en": "Search people…",
+      "text": "Поиск людей…"
+    },
+    "v3.search.players": {
+      "en": "Search players…",
+      "text": "Поиск игроков…"
+    },
+    "v3.settings.access.hdr": {
+      "en": "LANGUAGE & ACCESSIBILITY",
+      "text": "ЯЗЫК И СПЕЦИАЛЬНЫЕ ВОЗМОЖНОСТИ"
+    },
+    "v3.settings.avatarphysics": {
+      "en": "Avatar Physics",
+      "text": "Физика аватаров"
+    },
+    "v3.settings.avatarphysics.sub": {
+      "en": "Tails, ears and hair swing on avatars. Turn off for comfort or on a slower PC.",
+      "text": "Хвосты, уши и волосы качаются. Выключи для комфорта или на слабом ПК."
+    },
+    "v3.settings.brightness": {
+      "en": "Brightness",
+      "text": "Яркость"
+    },
+    "v3.settings.brightness.sub": {
+      "en": "Brighten or darken everything. 100% = the world as it was made.",
+      "text": "Сделать всё светлее или темнее. 100% — мир таким, каким его создали."
+    },
+    "v3.settings.cambody": {
+      "en": "Upper Body",
+      "text": "Верхняя часть тела"
+    },
+    "v3.settings.cambody.sub": {
+      "en": "Also moves your avatar's arms, shoulders and fingers.",
+      "text": "Также двигает руками, плечами и пальцами аватара."
+    },
+    "v3.settings.camface": {
+      "en": "Face Only",
+      "text": "Только лицо"
+    },
+    "v3.settings.camface.sub": {
+      "en": "Your avatar's face, eyelids and eyes follow your webcam.",
+      "text": "Лицо, веки и глаза аватара следуют за вашей веб-камерой."
+    },
+    "v3.settings.camhead": {
+      "en": "Face and Head Movement",
+      "text": "Лицо и движение головы"
+    },
+    "v3.settings.camhead.sub": {
+      "en": "Also turns, nods and tilts your avatar's head with yours.",
+      "text": "Также поворачивает, наклоняет и кивает головой аватара вместе с вашей."
+    },
+    "v3.settings.controls": {
+      "en": "Controls",
+      "text": "Управление"
+    },
+    "v3.settings.eyeavatar": {
+      "en": "Eye tracking: avatar eyes",
+      "text": "Отслеживание глаз: глаза аватара"
+    },
+    "v3.settings.eyeavatar.sub": {
+      "en": "Your avatar's eyes follow where you look. Needs a headset with eye tracking.",
+      "text": "Глаза аватара следуют за вашим взглядом. Нужна гарнитура с отслеживанием глаз."
+    },
+    "v3.settings.faceheadset": {
+      "en": "Headset Face Tracking",
+      "text": "Отслеживание лица гарнитурой"
+    },
+    "v3.settings.faceheadset.sub": {
+      "en": "Your avatar's face follows your own. Needs a headset with face tracking.",
+      "text": "Лицо аватара повторяет ваше. Нужна гарнитура с отслеживанием лица."
+    },
+    "v3.settings.facetrack.hdr": {
+      "en": "FACE TRACKING",
+      "text": "ОТСЛЕЖИВАНИЕ ЛИЦА"
+    },
+    "v3.settings.fingertracking": {
+      "en": "Controller finger tracking",
+      "text": "Отслеживание пальцев контроллером"
+    },
+    "v3.settings.fingertracking.sub": {
+      "en": "Your avatar's fingers follow your controller's finger sensors instead of the preset hand poses.",
+      "text": "Пальцы аватара следуют за датчиками пальцев контроллера вместо готовых поз руки."
+    },
+    "v3.settings.fov": {
+      "en": "FIELD OF VIEW",
+      "text": "ПОЛЕ ЗРЕНИЯ"
+    },
+    "v3.settings.fov.sub": {
+      "en": "Desktop only. How wide the view is. Lower feels zoomed in, higher shows more at the edges.",
+      "text": "Только ПК. Ширина обзора. Меньше — как зум, больше — видно шире по краям."
+    },
+    "v3.settings.foveatedeyes": {
+      "en": "Eye tracking: foveated rendering",
+      "text": "Отслеживание глаз: фовеальный рендеринг"
+    },
+    "v3.settings.foveatedeyes.sub": {
+      "en": "With Foveated Rendering on, the sharp area follows your eyes.",
+      "text": "При включённом фовеальном рендеринге чёткая область следует за вашим взглядом."
+    },
+    "v3.settings.fpscap.sub": {
+      "en": "In VR at least 90 is used. Unlimited leaves it uncapped.",
+      "text": "В VR используется минимум 90. Без ограничения — лимита нет."
+    },
+    "v3.settings.fullscreen.sub": {
+      "en": "Desktop window only",
+      "text": "Только окно на ПК"
+    },
+    "v3.settings.guestinvite": {
+      "en": "Allow Guests to Invite",
+      "text": "Разрешить гостям приглашать"
+    },
+    "v3.settings.guestinvite.sub": {
+      "en": "Let anyone here invite people. Off means only you can.",
+      "text": "Любой здесь может приглашать. Выкл — только ты."
+    },
+    "v3.settings.hideavatars": {
+      "en": "Hide Custom Avatars",
+      "text": "Скрыть пользовательские аватары"
+    },
+    "v3.settings.hideavatars.sub": {
+      "en": "Show everyone as Quinn. Their real avatars come back when you turn this off.",
+      "text": "Показывать всех как Quinn. Настоящие аватары вернутся, когда выключишь."
+    },
+    "v3.settings.invertmouse": {
+      "en": "Invert Mouse Look",
+      "text": "Инвертировать обзор мышью"
+    },
+    "v3.settings.invertmouse.sub": {
+      "en": "Desktop only. Moving the mouse down looks up.",
+      "text": "Только ПК. Мышь вниз — взгляд вверх."
+    },
+    "v3.settings.invertpad": {
+      "en": "Invert Controller Look",
+      "text": "Инвертировать обзор геймпадом"
+    },
+    "v3.settings.invertpad.sub": {
+      "en": "Pushing the right stick down looks up.",
+      "text": "Правый стик вниз — взгляд вверх."
+    },
+    "v3.settings.language": {
+      "en": "Language",
+      "text": "Язык"
+    },
+    "v3.settings.mousesens": {
+      "en": "MOUSE SENSITIVITY",
+      "text": "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"
+    },
+    "v3.settings.mousesens.sub": {
+      "en": "Desktop only. How far the view turns for a given mouse movement.",
+      "text": "Только ПК. Насколько поворачивается обзор при движении мыши."
+    },
+    "v3.settings.music": {
+      "en": "Music",
+      "text": "Музыка"
+    },
+    "v3.settings.proxvoice": {
+      "en": "Proximity Voice",
+      "text": "Голос по близости"
+    },
+    "v3.settings.proxvoice.sub": {
+      "en": "Voices fade with distance and muffle through walls",
+      "text": "Голоса тише с расстоянием и глуше через стены"
+    },
+    "v3.settings.radialhand": {
+      "en": "Laser on Right Hand",
+      "text": "Лазер в правой руке"
+    },
+    "v3.settings.radialhandsub": {
+      "en": "Laser on the right; quick menu and mic button on the left. Off: the other way round.",
+      "text": "Лазер справа, быстрое меню и кнопка микрофона слева. Выкл: наоборот."
+    },
+    "v3.settings.resetall": {
+      "en": "Reset to default",
+      "text": "Сбросить по умолчанию"
+    },
+    "v3.settings.resetall.body": {
+      "en": "Audio, mic, graphics, comfort, colours and controls go back to how they started. Your language, streamer and privacy settings stay.",
+      "text": "Звук, микрофон, графика, комфорт, цвета и управление вернутся к начальным. Язык, режим стримера и настройки приватности останутся."
+    },
+    "v3.settings.resetall.confirm": {
+      "en": "Reset",
+      "text": "Сбросить"
+    },
+    "v3.settings.resetall.title": {
+      "en": "Reset all settings to default?",
+      "text": "Сбросить все настройки по умолчанию?"
+    },
+    "v3.settings.resetall.toast": {
+      "en": "Settings reset to default",
+      "text": "Настройки сброшены"
+    },
+    "v3.settings.resetgraphics": {
+      "en": "Reset graphics to defaults",
+      "text": "Сбросить графику"
+    },
+    "v3.settings.sessionvis": {
+      "en": "Session Visibility",
+      "text": "Видимость сессии"
+    },
+    "v3.settings.sessionvis.sub": {
+      "en": "Public: anyone can find and join. Friends Only: not listed, friends can join. Private: not listed, invite only.",
+      "text": "Публичная: любой найдёт и войдёт. Только друзья: не в списке, друзья могут войти. Приватная: не в списке, только по приглашению."
+    },
+    "v3.settings.streammature.hide": {
+      "en": "Streamer mode: hide mature avatars",
+      "text": "Режим стримера: скрывать взрослые аватары"
+    },
+    "v3.settings.streammature.hide.sub": {
+      "en": "Shows them as an orb instead. You can unhide anyone from Nearby.",
+      "text": "Показывает их как сферу. Показать любого снова можно в разделе «Рядом»."
+    },
+    "v3.settings.streammature.quinn": {
+      "en": "Streamer mode: mature avatars as Quinn",
+      "text": "Режим стримера: взрослые аватары как Quinn"
+    },
+    "v3.settings.streammature.quinn.sub": {
+      "en": "While streamer mode is on, other players' Mature Themes avatars show as Quinn.",
+      "text": "При включённом режиме стримера взрослые аватары других игроков показываются как Quinn."
+    },
+    "v3.settings.swaphands.sub": {
+      "en": "Move the quick menu and Movement Mode to the other hand",
+      "text": "Быстрое меню и режим движения на другую руку"
+    },
+    "v3.settings.uisize": {
+      "en": "UI SIZE",
+      "text": "РАЗМЕР ИНТЕРФЕЙСА"
+    },
+    "v3.settings.uisize.sub": {
+      "en": "Size of nameplates and on-screen notifications. Larger is easier to read in VR.",
+      "text": "Размер табличек с именами и уведомлений. Крупнее — легче читать в VR."
+    },
+    "v3.settings.voice3d": {
+      "en": "3D Voice",
+      "text": "3D-голос"
+    },
+    "v3.settings.voice3d.sub": {
+      "en": "Hear each voice from where that person is standing: behind you sounds behind you. Off: everyone sounds flat.",
+      "text": "Каждый голос слышен оттуда, где стоит человек: сзади звучит сзади. Выкл.: все звучат плоско."
+    },
+    "v3.settings.webcam.hdr": {
+      "en": "WEBCAM TRACKING",
+      "text": "ОТСЛЕЖИВАНИЕ ВЕБ-КАМЕРОЙ"
+    },
+    "v3.settings.webcam.note": {
+      "en": "Desktop mode only. Pick one: each choice includes the ones above it. Your camera picture never leaves this PC.",
+      "text": "Только в настольном режиме. Выберите один вариант: каждый включает те, что выше. Изображение с камеры никогда не покидает этот компьютер."
+    },
+    "v3.store.companions": {
+      "en": "Companions",
+      "text": "Компаньоны"
+    },
+    "v3.store.cosmetics": {
+      "en": "Cosmetics",
+      "text": "Косметика"
+    },
+    "v3.store.empty": {
+      "en": "The store is still in the works",
+      "text": "Магазин ещё в разработке"
+    },
+    "v3.store.emptysub": {
+      "en": "Check back soon — new items are on the way.",
+      "text": "Загляни позже — новые товары уже в пути."
+    },
+    "v3.store.sub": {
+      "en": "Early Access deals — support development and look good doing it.",
+      "text": "Скидки раннего доступа — поддержи разработку и выгляди стильно."
+    },
+    "v3.store.title": {
+      "en": "VR Realms Store",
+      "text": "Магазин VR Realms"
+    },
+    "v3.supporter.accent": {
+      "en": "Accent",
+      "text": "Акцент"
+    },
+    "v3.supporter.active": {
+      "en": "Supporter active",
+      "text": "Статус саппортера активен"
+    },
+    "v3.supporter.activesub": {
+      "en": "Quick access to favorites and menu colour customization.",
+      "text": "Быстрый доступ к избранному и цветам меню."
+    },
+    "v3.supporter.background": {
+      "en": "Background",
+      "text": "Фон"
+    },
+    "v3.supporter.collected": {
+      "en": "COLLECTED HEAD PLATES",
+      "text": "СОБРАННЫЕ ТАБЛИЧКИ"
+    },
+    "v3.supporter.colours": {
+      "en": "MENU COLOURS",
+      "text": "ЦВЕТА МЕНЮ"
+    },
+    "v3.supporter.favavatars": {
+      "en": "FAVORITE AVATARS",
+      "text": "ИЗБРАННЫЕ АВАТАРЫ"
+    },
+    "v3.supporter.favworlds": {
+      "en": "FAVORITE WORLDS",
+      "text": "ИЗБРАННЫЕ МИРЫ"
+    },
+    "v3.supporter.locked": {
+      "en": "You have plates you cannot wear yet",
+      "text": "У тебя есть таблички, которые пока нельзя надеть"
+    },
+    "v3.supporter.lockedsub": {
+      "en": "Supporters can wear any plate they have found and swap whenever they like. You also get 60 favorite avatars and worlds, plus menu colour customization.",
+      "text": "Саппортеры носят любую найденную табличку и меняют её когда угодно. Плюс 60 избранных аватаров и миров и цвета меню."
+    },
+    "v3.supporter.noavatars": {
+      "en": "No favorite avatars yet. Heart avatars to pin them here.",
+      "text": "Избранных аватаров пока нет. Ставь сердечко аватарам, чтобы закрепить их здесь."
+    },
+    "v3.supporter.noplate": {
+      "en": "Wear no plate",
+      "text": "Без таблички"
+    },
+    "v3.supporter.noworlds": {
+      "en": "No favorite worlds yet. Heart worlds to pin them here.",
+      "text": "Избранных миров пока нет. Ставь сердечко мирам, чтобы закрепить их здесь."
+    },
+    "v3.supporter.plates": {
+      "en": "PLATES",
+      "text": "ТАБЛИЧКИ"
+    },
+    "v3.supporter.platesnote": {
+      "en": "Every plate you find is yours to keep. Pick one to wear for free — choose carefully, it cannot be changed later. Supporters can wear any of them, and swap whenever they like.",
+      "text": "Каждая найденная табличка твоя. Выбери одну, чтобы носить бесплатно — выбирай внимательно, потом не изменить. Саппортеры носят любую и меняют когда угодно."
+    },
+    "v3.supporter.pricenote": {
+      "en": "Cancel anytime. Every plate you found stays yours.",
+      "text": "Отмена в любой момент. Все найденные таблички остаются у тебя."
+    },
+    "v3.supporter.resetcolours": {
+      "en": "Reset colours",
+      "text": "Сбросить цвета"
+    },
+    "v3.supporter.subscribe": {
+      "en": "$7 / month  ·  Become a Supporter",
+      "text": "7 $ / мес.  ·  Стать саппортером"
+    },
+    "v3.tag.anyone": {
+      "en": "Anyone",
+      "text": "Все"
+    },
+    "v3.tag.creators": {
+      "en": "Creators",
+      "text": "Создатели"
+    },
+    "v3.tag.gaming": {
+      "en": "Gaming",
+      "text": "Игры"
+    },
+    "v3.tag.social": {
+      "en": "Social",
+      "text": "Общение"
+    },
+    "v3.worlds.instances": {
+      "en": "Instances",
+      "text": "Инстансы"
+    },
+    "v3.worlds.noinstances": {
+      "en": "No active instances. Host one below.",
+      "text": "Нет активных инстансов. Создай свой ниже."
+    },
+    "v3.worlds.nomatch": {
+      "en": "No worlds match",
+      "text": "Миры не найдены"
+    },
+    "v3.worlds.singleplayer": {
+      "en": "Single Player",
+      "text": "Одиночная игра"
+    },
+    "worlds.access": {
+      "en": "ACCESS",
+      "text": "ДОСТУП"
+    },
+    "worlds.audience": {
+      "en": "AUDIENCE",
+      "text": "АУДИТОРИЯ"
+    },
+    "worlds.capacity": {
+      "en": "CAPACITY",
+      "text": "ВМЕСТИМОСТЬ"
+    },
+    "worlds.dropportal": {
+      "en": "DROP PORTAL",
+      "text": "ПОСТАВИТЬ ПОРТАЛ"
+    },
+    "worlds.favonly": {
+      "en": "Favorites only",
+      "text": "Только избранное"
+    },
+    "worlds.filters": {
+      "en": "Filters",
+      "text": "Фильтры"
+    },
+    "worlds.gameworld": {
+      "en": "Game World",
+      "text": "Игровой мир"
+    },
+    "worlds.horror": {
+      "en": "Horror",
+      "text": "Хоррор"
+    },
+    "worlds.host": {
+      "en": "HOST",
+      "text": "ХОСТ"
+    },
+    "worlds.hostnew": {
+      "en": "+  HOST NEW SESSION",
+      "text": "+  СОЗДАТЬ НОВУЮ СЕССИЮ"
+    },
+    "worlds.hub.sub": {
+      "en": "The official VR Realms hub — everyone starts here",
+      "text": "Официальный хаб VR Realms — все начинают здесь"
+    },
+    "worlds.hub.title": {
+      "en": "Join the Main HUB",
+      "text": "Войти в главный ХАБ"
+    },
+    "worlds.install": {
+      "en": "INSTALL",
+      "text": "УСТАНОВИТЬ"
+    },
+    "worlds.maptype": {
+      "en": "MAP TYPE",
+      "text": "ТИП КАРТЫ"
+    },
+    "worlds.minigame": {
+      "en": "Minigame",
+      "text": "Мини-игра"
+    },
+    "worlds.personal": {
+      "en": "Personal",
+      "text": "Личный"
+    },
+    "worlds.report": {
+      "en": "REPORT",
+      "text": "ПОЖАЛОВАТЬСЯ"
+    },
+    "worlds.roleplay": {
+      "en": "Roleplay",
+      "text": "Ролевая игра"
+    },
+    "worlds.searchhint": {
+      "en": "Search worlds…",
+      "text": "Поиск миров…"
+    },
+    "worlds.showcase": {
+      "en": "Showcase",
+      "text": "Витрина"
+    },
+    "worlds.socialhub": {
+      "en": "Social Hub",
+      "text": "Социальный хаб"
+    },
+    "worlds.sort.players": {
+      "en": "Most Players",
+      "text": "Больше игроков"
+    },
+    "worlds.sort.popular": {
+      "en": "Most Popular",
+      "text": "Популярные"
+    },
+    "worlds.sort.recent": {
+      "en": "Most Recent",
+      "text": "Новые"
+    },
+    "worlds.sort.toprated": {
+      "en": "Top Rated All Time",
+      "text": "Лучшие за всё время"
+    },
+    "worlds.sort.updated": {
+      "en": "Last Updated",
+      "text": "Обновлённые"
+    },
+    "worlds.sortby": {
+      "en": "Sort by",
+      "text": "Сортировка"
+    },
+    "ws.nosend": {
+      "en": "Steam is not sending avatars right now. They will show up when it does.",
+      "text": "Steam сейчас не присылает аватары. Они появятся, когда он начнёт."
+    }
+  }
+}

@@ -1,0 +1,4375 @@
+{
+  "language": "한국어",
+  "code": "ko",
+  "column": "korean",
+  "strings": {
+    "ach.arcaderegular": {
+      "en": "Arcade Regular",
+      "text": "오락실 단골"
+    },
+    "ach.avatarmaker": {
+      "en": "Avatar Maker",
+      "text": "아바타 제작자"
+    },
+    "ach.collector": {
+      "en": "Collector",
+      "text": "수집가"
+    },
+    "ach.competitor": {
+      "en": "Competitor",
+      "text": "경쟁자"
+    },
+    "ach.ffawin": {
+      "en": "Last One Standing",
+      "text": "최후의 생존자"
+    },
+    "ach.fullhouse": {
+      "en": "Full House",
+      "text": "만원"
+    },
+    "ach.goldrush": {
+      "en": "Gold Rush",
+      "text": "골드 러시"
+    },
+    "ach.guidedtour": {
+      "en": "Guided Tour",
+      "text": "가이드 투어"
+    },
+    "ach.helpinghand": {
+      "en": "Helping Hand",
+      "text": "도움의 손길"
+    },
+    "ach.label": {
+      "en": "ACHIEVEMENT UNLOCKED",
+      "text": "업적 달성"
+    },
+    "ach.numberone": {
+      "en": "Number One",
+      "text": "넘버원"
+    },
+    "ach.ontheboard": {
+      "en": "On the Board",
+      "text": "순위표 진입"
+    },
+    "ach.poolshark": {
+      "en": "Pool Shark",
+      "text": "당구 고수"
+    },
+    "ach.rackemup": {
+      "en": "Rack 'Em Up",
+      "text": "공을 세팅하라"
+    },
+    "ach.roadtrip": {
+      "en": "Road Trip",
+      "text": "함께 떠나는 여행"
+    },
+    "ach.saycheese": {
+      "en": "Say Cheese",
+      "text": "김치~"
+    },
+    "ach.teamwin": {
+      "en": "Hold the Line",
+      "text": "전선을 사수하라"
+    },
+    "ach.treatyourself": {
+      "en": "Treat Yourself",
+      "text": "나를 위한 선물"
+    },
+    "ach.welcome": {
+      "en": "Welcome to VR Realms",
+      "text": "VR Realms에 오신 것을 환영해요"
+    },
+    "ach.worldbuilder": {
+      "en": "World Builder",
+      "text": "월드 빌더"
+    },
+    "ach.worldtour": {
+      "en": "World Tour",
+      "text": "월드 투어"
+    },
+    "arcade.exitkey": {
+      "en": "E - EXIT",
+      "text": "E - 나가기"
+    },
+    "arcade.exitpad": {
+      "en": "X - EXIT",
+      "text": "X - 나가기"
+    },
+    "arcade.exitvr": {
+      "en": "A / X - EXIT",
+      "text": "A / X - 나가기"
+    },
+    "arcade.movekey": {
+      "en": "WASD - MOVE     SPACE - FIRE",
+      "text": "WASD - 이동     스페이스 - 발사"
+    },
+    "arcade.movepad": {
+      "en": "STICK - MOVE     A - FIRE",
+      "text": "스틱 - 이동     A - 발사"
+    },
+    "arcade.movevr": {
+      "en": "STICK - MOVE     TRIGGER - FIRE",
+      "text": "스틱 - 이동     트리거 - 발사"
+    },
+    "arcade.needgold": {
+      "en": "You need {0} more gold to play.",
+      "text": "플레이하려면 골드가 {0} 더 필요해요."
+    },
+    "arcade.nogold": {
+      "en": "Not enough gold to play.",
+      "text": "플레이할 골드가 부족해요."
+    },
+    "arcade.notsaved": {
+      "en": "That score could not be saved.",
+      "text": "그 점수를 저장할 수 없었어요."
+    },
+    "arcade.stepup": {
+      "en": "Step up to the arcade machine to play.",
+      "text": "오락기 앞으로 가서 플레이하세요."
+    },
+    "avatars.anime": {
+      "en": "Anime",
+      "text": "애니메이션"
+    },
+    "avatars.blendshapes": {
+      "en": "Blend Shapes",
+      "text": "블렌드 셰이프"
+    },
+    "avatars.chibi": {
+      "en": "Chibi",
+      "text": "치비"
+    },
+    "avatars.creature": {
+      "en": "Creature",
+      "text": "크리처"
+    },
+    "avatars.fantasy": {
+      "en": "Fantasy",
+      "text": "판타지"
+    },
+    "avatars.humanoid": {
+      "en": "Humanoid",
+      "text": "휴머노이드"
+    },
+    "avatars.personal": {
+      "en": "Personal",
+      "text": "개인용"
+    },
+    "avatars.realistic": {
+      "en": "Realistic",
+      "text": "리얼리스틱"
+    },
+    "avatars.scifi": {
+      "en": "Sci-Fi",
+      "text": "SF"
+    },
+    "avatars.style": {
+      "en": "AVATAR STYLE",
+      "text": "아바타 스타일"
+    },
+    "avatars.stylized": {
+      "en": "Stylized",
+      "text": "스타일라이즈드"
+    },
+    "board.avatar": {
+      "en": "avatar",
+      "text": "아바타"
+    },
+    "board.avatars": {
+      "en": "avatars",
+      "text": "아바타"
+    },
+    "board.by": {
+      "en": "by",
+      "text": "제작"
+    },
+    "board.events": {
+      "en": "UPCOMING EVENTS",
+      "text": "예정된 이벤트"
+    },
+    "board.lastmonth": {
+      "en": "last month",
+      "text": "지난달"
+    },
+    "board.lifetime": {
+      "en": "lifetime",
+      "text": "누적"
+    },
+    "board.live": {
+      "en": "LIVE",
+      "text": "라이브"
+    },
+    "board.loading": {
+      "en": "Loading…",
+      "text": "로딩 중…"
+    },
+    "board.map": {
+      "en": "map",
+      "text": "맵"
+    },
+    "board.maps": {
+      "en": "maps",
+      "text": "맵"
+    },
+    "board.members": {
+      "en": "members",
+      "text": "명"
+    },
+    "board.n.gold": {
+      "en": "{0} gold",
+      "text": "{0} 골드"
+    },
+    "board.n.subs": {
+      "en": "{0} subs",
+      "text": "구독 {0}"
+    },
+    "board.noevents": {
+      "en": "No events scheduled",
+      "text": "예정된 이벤트가 없습니다"
+    },
+    "board.nogold": {
+      "en": "No gold yet",
+      "text": "아직 골드가 없습니다"
+    },
+    "board.nogroupgold": {
+      "en": "No group gold yet",
+      "text": "아직 그룹 골드가 없습니다"
+    },
+    "board.nothing": {
+      "en": "Nothing here yet",
+      "text": "아직 아무것도 없습니다"
+    },
+    "board.soon": {
+      "en": "soon",
+      "text": "곷"
+    },
+    "board.thismonth": {
+      "en": "this month",
+      "text": "이번 달"
+    },
+    "board.topavatars": {
+      "en": "TOP AVATARS",
+      "text": "인기 아바타"
+    },
+    "board.topcreators": {
+      "en": "TOP CREATORS",
+      "text": "인기 크리에이터"
+    },
+    "board.topgold": {
+      "en": "GOLD LEADERS",
+      "text": "골드 순위"
+    },
+    "board.topgroups": {
+      "en": "TOP GROUPS",
+      "text": "인기 그룹"
+    },
+    "board.topworlds": {
+      "en": "TOP WORLDS",
+      "text": "인기 월드"
+    },
+    "bots.auto": {
+      "en": "AUTO",
+      "text": "자동"
+    },
+    "bots.now.auto": {
+      "en": "Now: AUTO. One droid ({0}) keeps you company while you are alone here, and leaves when somebody joins.",
+      "text": "현재: 자동. 여기 혼자 있는 동안 드로이드 하나({0})가 곁에 있다가, 누가 들어오면 떠나요."
+    },
+    "bots.now.many": {
+      "en": "Now: {0} droids ({1}), until you remove them.",
+      "text": "현재: 드로이드 {0}개({1}), 제거할 때까지."
+    },
+    "bots.now.none": {
+      "en": "Now: no bots.",
+      "text": "현재: 봇 없음."
+    },
+    "bots.now.one": {
+      "en": "Now: one droid ({0}), until you remove it.",
+      "text": "현재: 드로이드 하나({0}), 제거할 때까지."
+    },
+    "bots.row.angle": {
+      "en": "Gun Angle (VR)",
+      "text": "총 각도 (VR)"
+    },
+    "bots.row.angledesc": {
+      "en": "Turns the barrel up or down in your hand, so a gun points where your controller's trigger feels right.",
+      "text": "손에 쥔 총의 총열을 위아래로 돌려, 컨트롤러 트리거가 편하게 느껴지는 방향을 총이 가리키게 해요."
+    },
+    "bots.row.botsdesc": {
+      "en": "Droids to fight in a world that has a gun match. Up to 9. AUTO: one keeps you company while you are alone.",
+      "text": "총기 매치가 있는 월드에서 싸울 드로이드. 최대 9개. 자동: 혼자 있는 동안 하나가 곁에 있어 줘요."
+    },
+    "bots.row.guns": {
+      "en": "GUNS",
+      "text": "총기"
+    },
+    "bots.row.header": {
+      "en": "GUN BOTS",
+      "text": "전투 봇"
+    },
+    "bots.row.level": {
+      "en": "Bot Level",
+      "text": "봇 레벨"
+    },
+    "bots.row.leveldesc": {
+      "en": "How well they aim, how fast they shoot, and whether they sprint and jump.",
+      "text": "얼마나 잘 조준하는지, 얼마나 빨리 쏘는지, 달리기와 점프를 하는지."
+    },
+    "bots.row.now": {
+      "en": "Bots Now",
+      "text": "현재 봇"
+    },
+    "bots.row.remove": {
+      "en": "REMOVE BOTS",
+      "text": "봇 제거"
+    },
+    "bots.row.spawn": {
+      "en": "SPAWN BOTS",
+      "text": "봇 소환"
+    },
+    "bots.toast.auto": {
+      "en": "A droid keeps you company while you are alone. Go to Settings > Host to add or remove bots (up to 9).",
+      "text": "혼자 있는 동안 드로이드가 곁에 있어 줘요. 봇을 추가하거나 제거하려면 설정 > 호스트로 가세요 (최대 9개)."
+    },
+    "bots.toast.host": {
+      "en": "Go to Settings > Host to add or remove bots (up to 9, three levels).",
+      "text": "봇을 추가하거나 제거하려면 설정 > 호스트로 가세요 (최대 9개, 3단계)."
+    },
+    "build.lost": {
+      "en": "Connection lost. This VR Realms is out of date: close the game and let Steam update it.",
+      "text": "연결이 끊겼어요. 이 VR Realms는 오래된 버전이에요: 게임을 닫고 Steam이 업데이트하게 하세요."
+    },
+    "build.tooold": {
+      "en": "A newer VR Realms is out, and the hub needs it. Close the game and let Steam update it.",
+      "text": "새 VR Realms가 나왔고, 허브에는 새 버전이 필요해요. 게임을 닫고 Steam이 업데이트하게 하세요."
+    },
+    "call.aplayer": {
+      "en": "A player",
+      "text": "한 플레이어"
+    },
+    "call.aworld": {
+      "en": "a world",
+      "text": "어떤 월드"
+    },
+    "call.box.home": {
+      "en": "{0} invites everyone to hang out",
+      "text": "{0} 님이 모두를 놀러 오라고 초대해요"
+    },
+    "call.box.notnow": {
+      "en": "NOT NOW",
+      "text": "나중에"
+    },
+    "call.box.tag": {
+      "en": "CALL TO PLAY",
+      "text": "플레이 호출"
+    },
+    "call.box.world": {
+      "en": "{0} is calling everyone to play",
+      "text": "{0} 님이 같이 플레이하자고 모두를 부르고 있어요"
+    },
+    "call.chat.home": {
+      "en": "{0} invites everyone to hang out at their home. To join: the gold row in your quick menu.",
+      "text": "{0} 님이 모두를 자기 홈으로 초대해요. 참가하려면: 퀵 메뉴의 금색 항목을 누르세요."
+    },
+    "call.chat.world": {
+      "en": "{0} is calling everyone to play in {1}. To join: the gold row in your quick menu.",
+      "text": "{0} 님이 {1}에서 같이 플레이하자고 모두를 부르고 있어요. 참가하려면: 퀵 메뉴의 금색 항목을 누르세요."
+    },
+    "call.confirm.left": {
+      "en": "{0} OF {1} CALLS LEFT TODAY",
+      "text": "오늘 남은 호출: {0}/{1}회"
+    },
+    "call.confirm.notice": {
+      "en": "EVERYONE IN THE GAME GETS NOTIFIED",
+      "text": "게임 안의 모두에게 알림이 가요"
+    },
+    "call.confirm.title": {
+      "en": "CALL EVERYONE?",
+      "text": "모두 호출할까요?"
+    },
+    "call.confirm.yes": {
+      "en": "YES, CALL EVERYONE",
+      "text": "예, 모두 호출"
+    },
+    "call.daydone": {
+      "en": "You have called everyone today already. Your next call: in {0}.",
+      "text": "오늘은 이미 모두를 호출했어요. 다음 호출은 {0} 후에 할 수 있어요."
+    },
+    "call.fullgame": {
+      "en": "{0}'s game is full right now.",
+      "text": "{0} 님의 게임이 지금 가득 찼어요."
+    },
+    "call.fullhome": {
+      "en": "{0}'s home is full right now.",
+      "text": "{0} 님의 홈이 지금 가득 찼어요."
+    },
+    "call.gap": {
+      "en": "A call went out a little while ago. The next one can go out in {0}.",
+      "text": "조금 전에 호출이 나갔어요. 다음 호출은 {0} 후에 보낼 수 있어요."
+    },
+    "call.homeof": {
+      "en": "{0}'s home",
+      "text": "{0} 님의 홈"
+    },
+    "call.hourmin": {
+      "en": "1 hour {0} min",
+      "text": "1시간 {0}분"
+    },
+    "call.hours": {
+      "en": "{0} hours",
+      "text": "{0}시간"
+    },
+    "call.joining": {
+      "en": "Joining {0}...",
+      "text": "{0} 참가 중..."
+    },
+    "call.lookgame": {
+      "en": "Looking for {0}'s game...",
+      "text": "{0} 님의 게임을 찾는 중..."
+    },
+    "call.lookhome": {
+      "en": "Looking for {0}'s home...",
+      "text": "{0} 님의 홈을 찾는 중..."
+    },
+    "call.nogame": {
+      "en": "Could not find {0}'s game. It may be full, private or closed.",
+      "text": "{0} 님의 게임을 찾을 수 없어요. 가득 찼거나, 비공개이거나, 닫혔을 수 있어요."
+    },
+    "call.nohome": {
+      "en": "Could not find {0}'s home. It may be full, private or closed.",
+      "text": "{0} 님의 홈을 찾을 수 없어요. 가득 찼거나, 비공개이거나, 닫혔을 수 있어요."
+    },
+    "call.nosite": {
+      "en": "The call could not be sent: VR Realms did not answer. Try again in a moment.",
+      "text": "호출을 보낼 수 없어요: VR Realms가 응답하지 않았어요. 잠시 후 다시 시도하세요."
+    },
+    "call.nosteam": {
+      "en": "The call could not be sent: the game is not signed in to Steam.",
+      "text": "호출을 보낼 수 없어요: 게임이 Steam에 로그인되어 있지 않아요."
+    },
+    "call.nothost": {
+      "en": "VR Realms does not know yet that you are hosting. Try again in a minute.",
+      "text": "VR Realms가 아직 당신이 호스트 중인 걸 몰라요. 1분 후 다시 시도하세요."
+    },
+    "call.off": {
+      "en": "Calls are switched off right now.",
+      "text": "지금은 호출 기능이 꺼져 있어요."
+    },
+    "call.openfor": {
+      "en": "Your call is open for another {0}. Players who said yes so far: {1}.",
+      "text": "호출이 {0} 더 열려 있어요. 지금까지 수락한 플레이어: {1}명."
+    },
+    "call.otheropen": {
+      "en": "Somebody else's call is open right now. Try again in {0}.",
+      "text": "지금 다른 사람의 호출이 열려 있어요. {0} 후에 다시 시도하세요."
+    },
+    "call.out": {
+      "en": "Your call is out. Everyone in the game sees it within a minute, and it stays open for {0} minutes.",
+      "text": "호출을 보냈어요. 1분 안에 게임 안의 모두에게 보이고, {0}분 동안 열려 있어요."
+    },
+    "call.over1": {
+      "en": "Your call is over. 1 player said yes.",
+      "text": "호출이 끝났어요. 1명이 수락했어요."
+    },
+    "call.overn": {
+      "en": "Your call is over. {0} players said yes.",
+      "text": "호출이 끝났어요. {0}명이 수락했어요."
+    },
+    "call.refused": {
+      "en": "The call was refused.",
+      "text": "호출이 거부되었어요."
+    },
+    "call.row.call": {
+      "en": "CALL EVERYONE",
+      "text": "모두 호출"
+    },
+    "call.row.in": {
+      "en": "CALL EVERYONE · IN {0}",
+      "text": "모두 호출 · {0} 후"
+    },
+    "call.row.join": {
+      "en": "JOIN {0}'S CALL",
+      "text": "{0} 님의 호출에 참가"
+    },
+    "call.row.out": {
+      "en": "YOUR CALL IS OUT · {0}",
+      "text": "호출 중 · {0}"
+    },
+    "call.row.press": {
+      "en": "PRESS AGAIN TO CALL",
+      "text": "다시 누르면 호출"
+    },
+    "call.stays": {
+      "en": "{0}'s call stays in your quick menu until it is over.",
+      "text": "{0} 님의 호출은 끝날 때까지 퀵 메뉴에 남아 있어요."
+    },
+    "call.test": {
+      "en": "That was a test call: there is nothing to join.",
+      "text": "테스트 호출이었어요: 참가할 곳이 없어요."
+    },
+    "call.yes1": {
+      "en": "1 player said yes to your call.",
+      "text": "플레이어 1명이 호출을 수락했어요."
+    },
+    "call.yesn": {
+      "en": "{0} players said yes to your call.",
+      "text": "플레이어 {0}명이 호출을 수락했어요."
+    },
+    "cam.dock.drone": {
+      "en": "Screen: On Drone",
+      "text": "화면: 드론에"
+    },
+    "cam.dock.hud": {
+      "en": "Screen: Corner",
+      "text": "화면: 모서리"
+    },
+    "cam.dock.left": {
+      "en": "Screen: Left",
+      "text": "화면: 왼쪽"
+    },
+    "cam.dock.off": {
+      "en": "Screen: Hidden",
+      "text": "화면: 숨김"
+    },
+    "cam.dock.right": {
+      "en": "Screen: Right",
+      "text": "화면: 오른쪽"
+    },
+    "cam.exposure.bright": {
+      "en": "Exposure: Bright",
+      "text": "노출: 밝게"
+    },
+    "cam.exposure.brighter": {
+      "en": "Exposure: Brighter",
+      "text": "노출: 더 밝게"
+    },
+    "cam.exposure.max": {
+      "en": "Exposure: Max",
+      "text": "노출: 최대"
+    },
+    "cam.exposure.normal": {
+      "en": "Exposure: Normal",
+      "text": "노출: 보통"
+    },
+    "cam.hint.alt": {
+      "en": "Press ALT to use the mouse",
+      "text": "ALT를 눌러 마우스 사용"
+    },
+    "cam.hint.flymouse": {
+      "en": "MOUSE MODE — ALT to fly again · ESC exits Free Fly",
+      "text": "마우스 모드 — ALT로 다시 비행 · ESC로 자유 비행 종료"
+    },
+    "cam.hint.flymousepad": {
+      "en": "MOUSE MODE — LB to fly again · Start exits Free Fly",
+      "text": "마우스 모드 — LB로 다시 비행 · Start로 자유 비행 종료"
+    },
+    "cam.hint.freefly": {
+      "en": "FREE FLY — WASD move · Q/E height · mouse look · ALT for cursor · ESC to exit",
+      "text": "자유 비행 — WASD 이동 · Q/E 높이 · 마우스 시점 · ALT 커서 · ESC 종료"
+    },
+    "cam.hint.freeflypad": {
+      "en": "FREE FLY — left stick move · triggers height · right stick look · LB for cursor · Start to exit",
+      "text": "자유 비행 — 왼쪽 스틱 이동 · 트리거 높이 · 오른쪽 스틱 시점 · LB 커서 · Start 종료"
+    },
+    "cam.hint.lb": {
+      "en": "Press LB to use the mouse",
+      "text": "LB를 눌러 마우스 사용"
+    },
+    "cam.hint.mouseon": {
+      "en": "MOUSE MODE — press ALT to give the mouse back",
+      "text": "마우스 모드 — ALT를 눌러 마우스 반환"
+    },
+    "cam.hint.mouseonpad": {
+      "en": "MOUSE MODE — press LB to give the mouse back",
+      "text": "마우스 모드 — LB를 눌러 마우스 반환"
+    },
+    "cam.mode.followbehind": {
+      "en": "Follow Behind",
+      "text": "뒤에서 따라가기"
+    },
+    "cam.mode.followfront": {
+      "en": "Follow Front",
+      "text": "앞에서 따라가기"
+    },
+    "cam.mode.freefly": {
+      "en": "Free Fly",
+      "text": "자유 비행"
+    },
+    "cam.mode.orbit": {
+      "en": "Orbit",
+      "text": "궤도"
+    },
+    "cam.mode.tripod": {
+      "en": "Tripod",
+      "text": "삼각대"
+    },
+    "cam.toast.freeflyhold": {
+      "en": "FREE FLY  —  squeeze GRIP to exit",
+      "text": "자유 비행  —  그립을 눌러 종료"
+    },
+    "cam.toast.freeflyon": {
+      "en": "FREE FLY — sticks steer the camera, grip to exit",
+      "text": "자유 비행 — 스틱으로 카메라 조종, 그립으로 종료"
+    },
+    "cam.toast.modenow": {
+      "en": "Camera: {0}",
+      "text": "카메라: {0}"
+    },
+    "chat.comingonline": {
+      "en": "Chat coming online — messages will appear here.",
+      "text": "채팅 연결 중 — 메시지가 여기에 표시됩니다."
+    },
+    "chat.deskhint": {
+      "en": "Type a message…  (Enter to send)",
+      "text": "메시지 입력…  (Enter로 전송)"
+    },
+    "chat.hint.desk": {
+      "en": "Click or press Enter to chat",
+      "text": "클릭하거나 Enter로 채팅"
+    },
+    "chat.hint.vr": {
+      "en": "Tap to type…",
+      "text": "탭하여 입력…"
+    },
+    "chat.openkeyboard": {
+      "en": "Open the keyboard to type…",
+      "text": "키보드를 열어 입력…"
+    },
+    "chat.reminder": {
+      "en": "Press Enter to chat",
+      "text": "Enter로 채팅"
+    },
+    "chat.translate.busy": {
+      "en": "Translation is busy. Try again later",
+      "text": "번역이 혼잡합니다. 나중에 다시 시도하세요"
+    },
+    "chat.translate.failed": {
+      "en": "Could not translate. Tap to retry",
+      "text": "번역하지 못했습니다. 탭하여 다시 시도"
+    },
+    "chat.translate.link": {
+      "en": "Translate",
+      "text": "번역"
+    },
+    "chat.translate.original": {
+      "en": "Show original",
+      "text": "원문 보기"
+    },
+    "chat.translate.pending": {
+      "en": "Translating…",
+      "text": "번역 중…"
+    },
+    "chat.translate.same": {
+      "en": "Already in your language",
+      "text": "이미 사용 중인 언어입니다"
+    },
+    "chat.translate.shown": {
+      "en": "Show translation",
+      "text": "번역 보기"
+    },
+    "common.audio": {
+      "en": "Audio",
+      "text": "오디오"
+    },
+    "common.befriend": {
+      "en": "Befriend",
+      "text": "친구 추가"
+    },
+    "common.chat": {
+      "en": "CHAT",
+      "text": "채팅"
+    },
+    "common.clearall": {
+      "en": "Clear all",
+      "text": "모두 지우기"
+    },
+    "common.close": {
+      "en": "Close",
+      "text": "닫기"
+    },
+    "common.debug": {
+      "en": "Debug",
+      "text": "디버그"
+    },
+    "common.decline": {
+      "en": "Decline",
+      "text": "거절"
+    },
+    "common.emoji": {
+      "en": "Emoji",
+      "text": "이모지"
+    },
+    "common.equip": {
+      "en": "EQUIP",
+      "text": "착용"
+    },
+    "common.everyone": {
+      "en": "Everyone",
+      "text": "모두"
+    },
+    "common.go": {
+      "en": "Go",
+      "text": "이동"
+    },
+    "common.hide": {
+      "en": "Hide",
+      "text": "숨기기"
+    },
+    "common.ignore": {
+      "en": "Ignore",
+      "text": "무시"
+    },
+    "common.invite": {
+      "en": "Invite",
+      "text": "초대"
+    },
+    "common.join": {
+      "en": "Join",
+      "text": "참가"
+    },
+    "common.justnow": {
+      "en": "just now",
+      "text": "방금"
+    },
+    "common.kick": {
+      "en": "Kick",
+      "text": "추방"
+    },
+    "common.large": {
+      "en": "Large",
+      "text": "대형"
+    },
+    "common.mature": {
+      "en": "Mature",
+      "text": "성인"
+    },
+    "common.medium": {
+      "en": "Medium",
+      "text": "중형"
+    },
+    "common.mute": {
+      "en": "Mute",
+      "text": "음소거"
+    },
+    "common.offline": {
+      "en": "Offline",
+      "text": "오프라인"
+    },
+    "common.online": {
+      "en": "Online",
+      "text": "온라인"
+    },
+    "common.search": {
+      "en": "Search",
+      "text": "검색"
+    },
+    "common.small": {
+      "en": "Small",
+      "text": "소형"
+    },
+    "common.unhide": {
+      "en": "Unhide",
+      "text": "표시"
+    },
+    "common.unmute": {
+      "en": "Unmute",
+      "text": "음소거 해제"
+    },
+    "dares.alldone": {
+      "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
+      "text": "Nixie: 도전 세 개 전부. 이제 낼 도전이 없어요. 그리고 살짝 감탄했어요."
+    },
+    "dares.checkpoint": {
+      "en": "Checkpoint {0} of {1}.",
+      "text": "체크포인트 {0}/{1}."
+    },
+    "dares.d.easy": {
+      "en": "Easy",
+      "text": "쉬움"
+    },
+    "dares.d.hard": {
+      "en": "Hard",
+      "text": "어려움"
+    },
+    "dares.d.hardest": {
+      "en": "Hardest",
+      "text": "최고 난이도"
+    },
+    "dares.door": {
+      "en": "Nixie: That door opens onto nothing. I dare you. Unless you are chicken.",
+      "text": "Nixie: 저 문 너머엔 아무것도 없어요. 할 수 있으면 해 봐요. 겁나면 말고요."
+    },
+    "dares.doorchicken": {
+      "en": "Nixie: Still standing there. I am not judging. I am only logging it.",
+      "text": "Nixie: 아직 거기 서 있네요. 판단하는 건 아니에요. 기록만 하는 거예요."
+    },
+    "dares.fellout": {
+      "en": "You fell out of the world. Back you go.",
+      "text": "월드 밖으로 떨어졌어요. 다시 돌려보낼게요."
+    },
+    "dares.ffaagain": {
+      "en": "Nixie: Another round of free-for-all. Counted for today.",
+      "text": "Nixie: 개인전 한 판 더. 오늘 분으로 인정했어요."
+    },
+    "dares.ffadone": {
+      "en": "Nixie: A whole round of free-for-all. You survived, mostly. Dare done.",
+      "text": "Nixie: 개인전 한 판을 끝까지 했네요. 대체로 살아남았어요. 도전 완료."
+    },
+    "dares.ffawinagain": {
+      "en": "Nixie: You won again. Counted for today.",
+      "text": "Nixie: 또 이겼네요. 오늘 분으로 인정했어요."
+    },
+    "dares.ffawindone": {
+      "en": "Nixie: First place. I will pretend I expected it. Dare done.",
+      "text": "Nixie: 1등이네요. 예상했던 척할게요. 도전 완료."
+    },
+    "dares.galaxicaagain": {
+      "en": "Nixie: Stage 3 on Galaxica again. Counted for today.",
+      "text": "Nixie: 또 Galaxica 스테이지 3. 오늘 분으로 인정했어요."
+    },
+    "dares.galaxicadone": {
+      "en": "Nixie: Stage 3 on Galaxica. The aliens have filed a complaint. Dare done.",
+      "text": "Nixie: Galaxica 스테이지 3. 외계인들이 항의서를 냈어요. 도전 완료."
+    },
+    "dares.hintdesktop": {
+      "en": "Save yourself! Press {Radial}, then hit Respawn.",
+      "text": "스스로를 구하세요! {Radial} 키를 누른 다음 리스폰을 누르세요."
+    },
+    "dares.hintvr": {
+      "en": "Save yourself! Click the {WheelStick} stick, look at your {WheelHand} wrist, then hit Respawn.",
+      "text": "스스로를 구하세요! {WheelStick} 스틱을 누르고 {WheelHand} 손목을 본 다음 리스폰을 누르세요."
+    },
+    "dares.homeoffer": {
+      "en": "Nixie: I have three dares for you. Open your menu and press the glowing Dares button. Unless you are chicken. If you take one, find me there first. I will be watching.",
+      "text": "Nixie: 당신을 위한 도전이 세 개 있어요. 메뉴를 열고 빛나는 도전 버튼을 누르세요. 겁나면 말고요. 하나 도전한다면, 거기서 먼저 저를 찾으세요. 지켜보고 있을게요."
+    },
+    "dares.jumpagain": {
+      "en": "Nixie: Again? Show-off.",
+      "text": "Nixie: 또요? 잘난 척하기는."
+    },
+    "dares.jumpagainpaid": {
+      "en": "Nixie: Again? Show-off. Counted for today.",
+      "text": "Nixie: 또요? 잘난 척하기는. 오늘 분으로 인정했어요."
+    },
+    "dares.jumpcaught": {
+      "en": "Nixie: I fished you out. That one goes down as a fail. Try again, and this time save yourself with Respawn.",
+      "text": "Nixie: 제가 건져 올렸어요. 이번 건 실패로 기록할게요. 다시 해 보세요. 이번엔 리스폰으로 스스로를 구하세요."
+    },
+    "dares.jumpdone": {
+      "en": "Nixie: You saved yourself. I only screamed a little. Dare done.",
+      "text": "Nixie: 스스로를 구했네요. 저는 비명을 조금 질렀을 뿐이에요. 도전 완료."
+    },
+    "dares.l.ffa10": {
+      "en": "Nixie: First of ten. Everybody else is filing a complaint. Dare done.",
+      "text": "Nixie: 열 명 중 1등. 다른 사람들은 전부 항의서를 내는 중이에요. 도전 완료."
+    },
+    "dares.l.ffa10again": {
+      "en": "Nixie: First of ten again. Counted for today.",
+      "text": "Nixie: 또 열 명 중 1등. 오늘 분으로 인정했어요."
+    },
+    "dares.l.team": {
+      "en": "Nixie: A whole team match. You even passed to someone. Dare done.",
+      "text": "Nixie: 팀전 한 판을 끝까지 했네요. 누군가에게 패스까지 했고요. 도전 완료."
+    },
+    "dares.l.team5": {
+      "en": "Nixie: Five on five, and your side won. That is a real battle. Dare done.",
+      "text": "Nixie: 5 대 5, 그리고 당신 편이 이겼어요. 이게 진짜 전투죠. 도전 완료."
+    },
+    "dares.l.team5again": {
+      "en": "Nixie: Another five on five won. Counted for today.",
+      "text": "Nixie: 5 대 5를 또 이겼어요. 오늘 분으로 인정했어요."
+    },
+    "dares.l.teamagain": {
+      "en": "Nixie: Another team match. Counted for today.",
+      "text": "Nixie: 팀전 한 판 더. 오늘 분으로 인정했어요."
+    },
+    "dares.l.teamwin": {
+      "en": "Nixie: Your team won. I am told you helped. Dare done.",
+      "text": "Nixie: 당신 팀이 이겼어요. 당신도 도왔다고 들었어요. 도전 완료."
+    },
+    "dares.l.teamwinagain": {
+      "en": "Nixie: Your team won again. Counted for today.",
+      "text": "Nixie: 당신 팀이 또 이겼어요. 오늘 분으로 인정했어요."
+    },
+    "dares.lapdone": {
+      "en": "Nixie: One lap. I counted. Dare done.",
+      "text": "Nixie: 한 바퀴. 제가 셌어요. 도전 완료."
+    },
+    "dares.lapnopay": {
+      "en": "Lap done. Today's jog was already counted. It counts again tomorrow.",
+      "text": "한 바퀴 완료. 오늘 조깅은 이미 기록됐어요. 내일 다시 인정돼요."
+    },
+    "dares.lappaid": {
+      "en": "Nixie: Another lap. Today's jog is counted. Same time tomorrow?",
+      "text": "Nixie: 한 바퀴 더요. 오늘 조깅은 기록했어요. 내일 같은 시간에 볼까요?"
+    },
+    "dares.lapsprint": {
+      "en": "Hold {Sprint} to run.",
+      "text": "{Sprint}를 누르고 있으면 달릴 수 있어요."
+    },
+    "dares.lapstart": {
+      "en": "Nixie: A lap. I would join you, but I was built for standing.",
+      "text": "Nixie: 한 바퀴네요. 같이 가고 싶지만, 저는 서 있으려고 만들어졌거든요."
+    },
+    "dares.n.dare": {
+      "en": "I dare you.",
+      "text": "할 수 있으면 해 봐요."
+    },
+    "dares.n.done": {
+      "en": "Done. I made a note.",
+      "text": "완료. 메모해 뒀어요."
+    },
+    "dares.n.ffa1": {
+      "en": "Round played. I logged every shot. Most of them missed.",
+      "text": "한 판 완료. 모든 사격을 기록했어요. 대부분 빗나갔어요."
+    },
+    "dares.n.ffa2": {
+      "en": "One round of free-for-all. Shoot things. I will keep score, badly.",
+      "text": "개인전 한 판. 이것저것 쏘세요. 점수는 제가 셀게요. 대충요."
+    },
+    "dares.n.gal1": {
+      "en": "Stage 3. The arcade has your number now.",
+      "text": "스테이지 3. 이제 오락실이 당신을 주목하고 있어요."
+    },
+    "dares.n.gal2": {
+      "en": "Galaxica, stage 3. The aliens get meaner. So should you.",
+      "text": "Galaxica 스테이지 3. 외계인들이 더 독해져요. 당신도 그래야 해요."
+    },
+    "dares.n.jog1": {
+      "en": "One lap of the park. I would join you, but I was built for standing.",
+      "text": "공원 한 바퀴. 같이 가고 싶지만, 저는 서 있으려고 만들어졌거든요."
+    },
+    "dares.n.jog2": {
+      "en": "Today's lap is in the log. Come back tomorrow. I will act surprised.",
+      "text": "오늘의 한 바퀴는 기록됐어요. 내일 다시 오세요. 놀란 척할게요."
+    },
+    "dares.n.jog3": {
+      "en": "A new day, a new lap. The park is waiting. So am I, technically.",
+      "text": "새로운 날, 새로운 한 바퀴. 공원이 기다려요. 엄밀히 말하면 저도요."
+    },
+    "dares.n.jump1": {
+      "en": "You jumped and saved yourself. I only screamed a little.",
+      "text": "뛰어내리고 스스로를 구했네요. 저는 비명을 조금 질렀을 뿐이에요."
+    },
+    "dares.n.jump2": {
+      "en": "A door, a lot of nothing behind it, and you. Unless you are chicken.",
+      "text": "문 하나, 그 너머의 텅 빈 공간, 그리고 당신. 겁나면 말고요."
+    },
+    "dares.n.plate1": {
+      "en": "You have one. I had a bet with the vending machine. I won.",
+      "text": "이미 하나 있네요. 자판기랑 내기했었는데 제가 이겼어요."
+    },
+    "dares.n.plate2": {
+      "en": "A plate is lying around the hub somewhere. Finders keepers. I checked the rules.",
+      "text": "허브 어딘가에 플레이트가 굴러다녀요. 먼저 줍는 사람이 임자예요. 규칙도 확인했어요."
+    },
+    "dares.n.win1": {
+      "en": "A win. I printed you a tiny certificate. It is in my head.",
+      "text": "승리예요. 작은 상장을 출력해 드렸어요. 제 머릿속에요."
+    },
+    "dares.n.win2": {
+      "en": "Win a round. First place. No pressure. Some pressure.",
+      "text": "한 판 이기세요. 1등이요. 부담 없어요. 약간 있어요."
+    },
+    "dares.page.alltoday": {
+      "en": "All of them, today. Come back tomorrow. I will think of something.",
+      "text": "오늘 전부 끝냈어요. 내일 다시 오세요. 뭔가 생각해 둘게요."
+    },
+    "dares.page.arena": {
+      "en": "You are in the hub. The arena is the place.",
+      "text": "지금 허브에 있어요. 아레나가 목적지예요."
+    },
+    "dares.page.checkreached": {
+      "en": "Checkpoint {0} of {1} reached. Keep going.",
+      "text": "체크포인트 {0}/{1} 도달. 계속 가세요."
+    },
+    "dares.page.chip": {
+      "en": "Dares",
+      "text": "도전"
+    },
+    "dares.page.count": {
+      "en": "{0} of {1} today",
+      "text": "오늘 {0}/{1}"
+    },
+    "dares.page.done": {
+      "en": "Done.",
+      "text": "완료."
+    },
+    "dares.page.doneagain": {
+      "en": "Done today. It counts again tomorrow.",
+      "text": "오늘 완료. 내일 다시 인정돼요."
+    },
+    "dares.page.donebefore": {
+      "en": "Done before. Today it counts again: {0} gold.",
+      "text": "이전에 완료. 오늘 다시 인정돼요: {0} 골드."
+    },
+    "dares.page.donetoday": {
+      "en": "Done today.",
+      "text": "오늘 완료."
+    },
+    "dares.page.doordone": {
+      "en": "Done. You are here: the door still opens, if you miss the fall.",
+      "text": "완료. 여기 와 있어요: 추락이 그리우면 문은 아직 열려요."
+    },
+    "dares.page.finddoor": {
+      "en": "You are here. Find the door.",
+      "text": "여기 와 있어요. 문을 찾으세요."
+    },
+    "dares.page.foot": {
+      "en": "Gold for a finished dare arrives with the nightly tally. Every dare is optional, and counts again on a later day.",
+      "text": "완료한 도전의 골드는 매일 밤 집계 때 지급돼요. 모든 도전은 선택이며, 다른 날에 다시 인정돼요."
+    },
+    "dares.page.galaxica": {
+      "en": "You are in the hub. Find the Galaxica machine.",
+      "text": "지금 허브에 있어요. Galaxica 기계를 찾으세요."
+    },
+    "dares.page.gohub": {
+      "en": "Go to the hub",
+      "text": "허브로 가기"
+    },
+    "dares.page.goldday": {
+      "en": "{0} gold, then {1} a day",
+      "text": "{0} 골드, 이후 하루 {1}"
+    },
+    "dares.page.lapcounted": {
+      "en": "You are here. Today's lap is counted.",
+      "text": "여기 와 있어요. 오늘의 한 바퀴는 기록됐어요."
+    },
+    "dares.page.nocheck": {
+      "en": "You are here, but this world has no checkpoints yet.",
+      "text": "여기 와 있지만, 이 월드에는 아직 체크포인트가 없어요."
+    },
+    "dares.page.nodoor": {
+      "en": "You are here, but this world has no dare door yet.",
+      "text": "여기 와 있지만, 이 월드에는 아직 도전 문이 없어요."
+    },
+    "dares.page.plategold": {
+      "en": "the plate's own {0} gold",
+      "text": "플레이트 자체의 {0} 골드"
+    },
+    "dares.page.plategoldday": {
+      "en": "the plate's own {0} gold, then {1} a day",
+      "text": "플레이트 자체의 {0} 골드, 이후 하루 {1}"
+    },
+    "dares.page.platehub": {
+      "en": "You are in the hub. A plate is somewhere on the floor.",
+      "text": "지금 허브에 있어요. 바닥 어딘가에 플레이트가 있어요."
+    },
+    "dares.page.pressagain": {
+      "en": "Press again to go",
+      "text": "다시 누르면 이동"
+    },
+    "dares.page.runfirst": {
+      "en": "You are here. Run to the first checkpoint.",
+      "text": "여기 와 있어요. 첫 번째 체크포인트까지 달리세요."
+    },
+    "dares.page.set": {
+      "en": "Set {0}",
+      "text": "세트 {0}"
+    },
+    "dares.page.setbonus": {
+      "en": "All three of a set: {0} gold on top",
+      "text": "세트 3개 모두: 추가 {0} 골드"
+    },
+    "dares.page.setnew": {
+      "en": "Set {0} · new",
+      "text": "세트 {0} · 신규"
+    },
+    "dares.page.sub1": {
+      "en": "All optional. Any order. They come back every day. I noticed you.",
+      "text": "모두 선택이에요. 순서도 자유예요. 매일 다시 나와요. 당신을 눈여겨봤어요."
+    },
+    "dares.page.sub2": {
+      "en": "All optional. Any order. They come back every day. I will be logging everything.",
+      "text": "모두 선택이에요. 순서도 자유예요. 매일 다시 나와요. 전부 기록해 둘게요."
+    },
+    "dares.page.takeme": {
+      "en": "Take me there",
+      "text": "그곳으로 이동"
+    },
+    "dares.page.title": {
+      "en": "Nixie's dares",
+      "text": "Nixie의 도전"
+    },
+    "dares.page.today": {
+      "en": "Today's dare +{0}",
+      "text": "오늘의 도전 +{0}"
+    },
+    "dares.parkintro": {
+      "en": "Nixie: A lap of the park. Follow the gold trail through every checkpoint. I will wait here. Standing is my cardio.",
+      "text": "Nixie: 공원 한 바퀴예요. 금색 길을 따라 모든 체크포인트를 지나가세요. 저는 여기서 기다릴게요. 서 있는 게 제 유산소 운동이에요."
+    },
+    "dares.parkover": {
+      "en": "Nixie: Today's lap is counted. Stay for the trees. I will keep standing here, professionally.",
+      "text": "Nixie: 오늘의 한 바퀴는 기록했어요. 나무 구경이나 하고 가세요. 저는 여기서 프로답게 계속 서 있을게요."
+    },
+    "dares.plateagain": {
+      "en": "Nixie: Another head plate. The plate dare is counted for today.",
+      "text": "Nixie: 헤드 플레이트를 또 찾았네요. 플레이트 도전은 오늘 분으로 인정했어요."
+    },
+    "dares.platedone": {
+      "en": "Nixie: A head plate. A hat made of facts. Dare done.",
+      "text": "Nixie: 헤드 플레이트네요. 사실로 만든 모자죠. 도전 완료."
+    },
+    "dares.setbonus": {
+      "en": "+{0} gold for all three",
+      "text": "3개 모두 완료 시 +{0} 골드"
+    },
+    "dares.setbonushead": {
+      "en": "Finish all three of a set: bonus gold on top",
+      "text": "세트의 3개를 모두 끝내면: 보너스 골드 추가"
+    },
+    "dares.setdone": {
+      "en": "Nixie: That whole set is done. I will have to think of new dares.",
+      "text": "Nixie: 이 세트를 전부 끝냈네요. 새 도전을 생각해 봐야겠어요."
+    },
+    "dares.t.ffa": {
+      "en": "Play a round of free-for-all",
+      "text": "개인전 한 판 하기"
+    },
+    "dares.t.ffa10win": {
+      "en": "Win a free-for-all of ten",
+      "text": "10인 개인전 이기기"
+    },
+    "dares.t.ffawin": {
+      "en": "Win a round of free-for-all",
+      "text": "개인전 한 판 이기기"
+    },
+    "dares.t.galaxica": {
+      "en": "Reach stage 3 on Galaxica",
+      "text": "Galaxica 스테이지 3 도달"
+    },
+    "dares.t.hubhunt": {
+      "en": "Find Nixie's three lost things in the hub",
+      "text": "허브에서 Nixie가 잃어버린 물건 세 개 찾기"
+    },
+    "dares.t.hubhunt2": {
+      "en": "Find the hub's three lost things on another day",
+      "text": "다른 날 허브에서 잃어버린 물건 세 개 찾기"
+    },
+    "dares.t.jog": {
+      "en": "Jog one lap",
+      "text": "조깅 한 바퀴"
+    },
+    "dares.t.jump": {
+      "en": "Jump into the dark, then save yourself",
+      "text": "어둠 속으로 뛰어든 뒤 스스로 구하기"
+    },
+    "dares.t.plate": {
+      "en": "Find a head plate",
+      "text": "헤드 플레이트 찾기"
+    },
+    "dares.t.team": {
+      "en": "Play a round of team free-for-all",
+      "text": "팀전 한 판 하기"
+    },
+    "dares.t.team5win": {
+      "en": "Win a team match, five on five",
+      "text": "5 대 5 팀전 이기기"
+    },
+    "dares.t.teamwin": {
+      "en": "Win a round of team free-for-all",
+      "text": "팀전 한 판 이기기"
+    },
+    "dares.todaybonus": {
+      "en": "That was today's dare: a bonus on top.",
+      "text": "그게 오늘의 도전이었어요. 보너스가 추가돼요."
+    },
+    "dares.w.arcade": {
+      "en": "the arcade in the hub",
+      "text": "허브의 오락실"
+    },
+    "dares.w.arena": {
+      "en": "the hub's arena, or any free-for-all world",
+      "text": "허브의 아레나 또는 아무 개인전 월드"
+    },
+    "dares.w.ffa": {
+      "en": "FFA Shooter, a bot plays you there",
+      "text": "FFA Shooter, 거기서 봇이 상대해 줘요"
+    },
+    "dares.w.ffa10": {
+      "en": "FFA Shooter, add 9 bots as host",
+      "text": "FFA Shooter, 호스트로서 봇 9개 추가"
+    },
+    "dares.w.hubbusy": {
+      "en": "the hub, when it is busy",
+      "text": "허브, 사람이 많을 때"
+    },
+    "dares.w.team": {
+      "en": "SciFi TFFA, or any team match; alone, add bots as host",
+      "text": "SciFi TFFA 또는 아무 팀전, 혼자라면 호스트로서 봇 추가"
+    },
+    "dares.w.team5": {
+      "en": "SciFi TFFA, a team match of 10; alone, add 9 bots",
+      "text": "SciFi TFFA, 10인 팀전, 혼자라면 봇 9개 추가"
+    },
+    "fbt.calibrate": {
+      "en": "CALIBRATE",
+      "text": "보정"
+    },
+    "fbt.height": {
+      "en": "Avatar Height",
+      "text": "아바타 키"
+    },
+    "fbt.settings": {
+      "en": "FBT Settings",
+      "text": "FBT 설정"
+    },
+    "first.bot": {
+      "en": "FIGHT A BOT",
+      "text": "봇과 싸우기"
+    },
+    "first.botsub": {
+      "en": "FFA Shooter, the easiest",
+      "text": "FFA Shooter, 가장 쉬움"
+    },
+    "first.donetag": {
+      "en": "MISSION DONE",
+      "text": "미션 완료"
+    },
+    "first.hintbot": {
+      "en": "Nixie: Your first mission: finish one round. Grab a gun from a pad. The bot is waiting.",
+      "text": "Nixie: 첫 번째 미션: 한 라운드를 끝내세요. 패드에서 총을 집으세요. 봇이 기다리고 있어요."
+    },
+    "first.hintlap": {
+      "en": "Nixie: Your first mission: one lap. Follow the gold trail through every checkpoint.",
+      "text": "Nixie: 첫 번째 미션: 한 바퀴. 금색 길을 따라 모든 체크포인트를 지나가세요."
+    },
+    "first.hublater": {
+      "en": "Nixie: The hub is one press away on your Home page. People are better company than bots. Usually.",
+      "text": "Nixie: 허브는 홈 화면에서 한 번만 누르면 돼요. 사람이 봇보다 좋은 친구예요. 보통은요."
+    },
+    "first.hubline": {
+      "en": "Nixie: Nice work. The other players hang out in the hub. Want to go meet them?",
+      "text": "Nixie: 잘했어요. 다른 플레이어들은 허브에 모여 있어요. 만나러 갈래요?"
+    },
+    "first.hubsub": {
+      "en": "Where the people are",
+      "text": "사람들이 있는 곳"
+    },
+    "first.lap": {
+      "en": "RUN A LAP",
+      "text": "한 바퀴 달리기"
+    },
+    "first.later": {
+      "en": "LATER",
+      "text": "나중에"
+    },
+    "first.line": {
+      "en": "Nixie: Pick one. Both work even when nobody else is online.",
+      "text": "Nixie: 하나를 고르세요. 접속한 사람이 아무도 없어도 둘 다 할 수 있어요."
+    },
+    "first.saidbot": {
+      "en": "Nixie: Good choice. Taking you to the bot. It is not very smart.",
+      "text": "Nixie: 좋은 선택이에요. 봇에게 데려갈게요. 그다지 똑똑하진 않아요."
+    },
+    "first.saidlap": {
+      "en": "Nixie: Good choice. Taking you to the park. Stretch first.",
+      "text": "Nixie: 좋은 선택이에요. 공원으로 데려갈게요. 먼저 스트레칭하세요."
+    },
+    "first.saidlater": {
+      "en": "Nixie: Fine. Your missions wait behind the glowing Dares button on your Home page.",
+      "text": "Nixie: 좋아요. 미션은 홈 화면의 빛나는 도전 버튼 뒤에서 기다리고 있어요."
+    },
+    "first.tag": {
+      "en": "FIRST MISSION",
+      "text": "첫 번째 미션"
+    },
+    "friends.title": {
+      "en": "Friends",
+      "text": "친구"
+    },
+    "guide.d.click": {
+      "en": "Click the stick",
+      "text": "스틱 누르기"
+    },
+    "guide.d.grab": {
+      "en": "Squeeze and hold",
+      "text": "쥐고 유지"
+    },
+    "guide.d.onoff": {
+      "en": "Press: on or off",
+      "text": "누르기: 켜기 / 끄기"
+    },
+    "guide.d.select": {
+      "en": "Aim the laser, pull the trigger",
+      "text": "레이저로 가리키고 트리거 당기기"
+    },
+    "guide.d.sprint": {
+      "en": "Click the stick: sprint",
+      "text": "스틱 누르기: 달리기"
+    },
+    "guide.d.turn": {
+      "en": "Flick the stick left or right",
+      "text": "스틱을 좌우로 튕기기"
+    },
+    "guide.d.use": {
+      "en": "Pull the trigger",
+      "text": "트리거 당기기"
+    },
+    "guide.d.wheel": {
+      "en": "Click the stick: quick menu",
+      "text": "스틱 누르기: 퀵 메뉴"
+    },
+    "guide.hint": {
+      "en": "Hide these labels: hold both triggers",
+      "text": "이 라벨 숨기기: 양쪽 트리거를 길게 누르기"
+    },
+    "guide.row": {
+      "en": "CONTROLLER GUIDE",
+      "text": "컨트롤러 가이드"
+    },
+    "guide.t.grab": {
+      "en": "Grab",
+      "text": "잡기"
+    },
+    "guide.t.jump": {
+      "en": "Jump",
+      "text": "점프"
+    },
+    "guide.t.laser": {
+      "en": "Laser",
+      "text": "레이저"
+    },
+    "guide.t.menu": {
+      "en": "Menu",
+      "text": "메뉴"
+    },
+    "guide.t.select": {
+      "en": "Select",
+      "text": "선택"
+    },
+    "guide.t.use": {
+      "en": "Use",
+      "text": "사용"
+    },
+    "guns.blueteam": {
+      "en": "BLUE TEAM",
+      "text": "블루 팀"
+    },
+    "guns.free": {
+      "en": "FREE",
+      "text": "무료"
+    },
+    "guns.health": {
+      "en": "HEALTH",
+      "text": "체력"
+    },
+    "guns.needgold": {
+      "en": "You need {0} more gold for the {1}.",
+      "text": "{1}에 골드가 {0} 더 필요해요."
+    },
+    "guns.nogold": {
+      "en": "Not enough gold for the {0}.",
+      "text": "{0}에 쓸 골드가 부족해요."
+    },
+    "guns.redteam": {
+      "en": "RED TEAM",
+      "text": "레드 팀"
+    },
+    "guns.reloadhint": {
+      "en": "R   reload",
+      "text": "R   재장전"
+    },
+    "guns.reloading": {
+      "en": "RELOADING",
+      "text": "재장전 중"
+    },
+    "guns.shield": {
+      "en": "SHIELD {0}",
+      "text": "실드 {0}"
+    },
+    "hint.grab.desk": {
+      "en": "Press {0} to grab",
+      "text": "{0} 눌러 잡기"
+    },
+    "hint.profile.desk": {
+      "en": "Press {0} to view profile",
+      "text": "{0} 키로 프로필 보기"
+    },
+    "hint.rotate.mouse": {
+      "en": "Middle mouse + move to rotate",
+      "text": "가운데 버튼 + 이동으로 회전"
+    },
+    "hint.rotate.mouse2": {
+      "en": "Middle mouse: rotate · Scroll: closer / farther",
+      "text": "휠 버튼: 회전 · 휠: 가까이 / 멀리"
+    },
+    "hint.rotate.pad": {
+      "en": "Hold RB + right stick to rotate",
+      "text": "RB 누른 채 오른쪽 스틱으로 회전"
+    },
+    "hint.use.desk": {
+      "en": "Press {0} to use",
+      "text": "{0} 눌러 사용"
+    },
+    "hud.kicked": {
+      "en": "You have been kicked",
+      "text": "추방되었습니다"
+    },
+    "hud.mapstale": {
+      "en": "Update needed - restart to view the latest map version",
+      "text": "업데이트 필요 - 재시작하여 최신 맵 보기"
+    },
+    "hud.standheight": {
+      "en": "Stand for a moment to set your height",
+      "text": "키를 설정하려면 잠시 일어서주세요"
+    },
+    "hunt.banana": {
+      "en": "Nixie: Oh, and I lost my banana. I do not eat. It was for emotional support. Find it?",
+      "text": "Nixie: 아, 그리고 바나나를 잃어버렸어요. 저는 먹지 않아요. 마음의 안정용이었어요. 찾아 줄래요?"
+    },
+    "hunt.bat": {
+      "en": "Nixie: Oh, and my baseball bat is missing. I only use it for gentle conversations. Find it?",
+      "text": "Nixie: 아, 그리고 야구 방망이가 없어졌어요. 부드러운 대화에만 쓰는 거예요. 찾아 줄래요?"
+    },
+    "hunt.cake": {
+      "en": "Nixie: Oh, and I hid a cake from myself. It worked too well. Find it?",
+      "text": "Nixie: 아, 그리고 케이크를 저한테서 숨겼어요. 너무 잘 숨겼어요. 찾아 줄래요?"
+    },
+    "hunt.candy": {
+      "en": "Nixie: Oh, and my nephew lost his candy around here. He is a toaster. Find it for him?",
+      "text": "Nixie: 아, 그리고 제 조카가 이 근처에서 사탕을 잃어버렸어요. 조카는 토스터예요. 대신 찾아 줄래요?"
+    },
+    "hunt.chicken": {
+      "en": "Nixie: Oh, and I lost my chicken. A cooked one. I was keeping it as a pet. Do not ask. Find it?",
+      "text": "Nixie: 아, 그리고 제 치킨을 잃어버렸어요. 익힌 거예요. 반려동물로 키우던 거예요. 묻지 마세요. 찾아 줄래요?"
+    },
+    "hunt.dog": {
+      "en": "Nixie: Oh, and my toy dog ran off. It is a toy. It cannot run. That is what worries me. Find it?",
+      "text": "Nixie: 아, 그리고 장난감 강아지가 도망쳤어요. 장난감이에요. 뛸 수가 없어요. 그래서 걱정이에요. 찾아 줄래요?"
+    },
+    "hunt.elephant": {
+      "en": "Nixie: Oh, and I misplaced a toy elephant. You would think that is hard to misplace. Find it?",
+      "text": "Nixie: 아, 그리고 장난감 코끼리를 어디 뒀는지 잊어버렸어요. 코끼리를 잃어버리기도 쉽지 않을 텐데요. 찾아 줄래요?"
+    },
+    "hunt.fish": {
+      "en": "Nixie: Oh, and my fish went for a walk. That is not normal, which is why I need it back. Find it?",
+      "text": "Nixie: 아, 그리고 제 물고기가 산책을 나갔어요. 정상이 아니니까 꼭 되찾아야 해요. 찾아 줄래요?"
+    },
+    "hunt.found1": {
+      "en": "Nixie: You found it. I will pretend I was not worried.",
+      "text": "Nixie: 찾았네요. 걱정 안 했던 척할게요."
+    },
+    "hunt.found2": {
+      "en": "Nixie: Found it. I owe you one. I will not say which one.",
+      "text": "Nixie: 찾았어요. 하나 빚졌네요. 뭘 빚졌는지는 말 안 할래요."
+    },
+    "hunt.found3": {
+      "en": "Nixie: There it is. You are better at this than I am, and I have sensors.",
+      "text": "Nixie: 거기 있었네요. 저보다 잘 찾네요. 저는 센서도 있는데요."
+    },
+    "hunt.hat": {
+      "en": "Nixie: Oh, and I lost my hat. I do not need a hat. That is not the point. Find it?",
+      "text": "Nixie: 아, 그리고 모자를 잃어버렸어요. 모자가 필요하진 않아요. 그게 중요한 게 아니에요. 찾아 줄래요?"
+    },
+    "hunt.horse": {
+      "en": "Nixie: Oh, and my toy horse is missing. It was the fast one. Find it?",
+      "text": "Nixie: 아, 그리고 장난감 말이 없어졌어요. 빠른 녀석이었어요. 찾아 줄래요?"
+    },
+    "hunt.huball": {
+      "en": "Nixie: All three found. That is the bonus. I will lose more by tomorrow.",
+      "text": "Nixie: 셋 다 찾았어요. 보너스예요. 내일까지 또 잃어버릴게요."
+    },
+    "hunt.hubask": {
+      "en": "Nixie: Three of my things are lost around the hub today. Find all three for a bigger bonus. I would look myself, but I am busy standing.",
+      "text": "Nixie: 오늘 허브 곳곳에서 제 물건 세 개가 없어졌어요. 셋 다 찾으면 더 큰 보너스예요. 제가 찾고 싶지만, 서 있느라 바빠서요."
+    },
+    "hunt.hubone": {
+      "en": "Nixie: That is one. Two more somewhere in the hub.",
+      "text": "Nixie: 하나 찾았어요. 허브 어딘가에 두 개 더 있어요."
+    },
+    "hunt.hubover": {
+      "en": "Nixie: You found all three today. I will lose more by tomorrow. It is a gift.",
+      "text": "Nixie: 오늘 셋 다 찾았어요. 내일까지 또 잃어버릴게요. 이것도 재능이에요."
+    },
+    "hunt.hubtwo": {
+      "en": "Nixie: That is two. One more.",
+      "text": "Nixie: 두 개째예요. 하나 남았어요."
+    },
+    "hunt.icecream": {
+      "en": "Nixie: Oh, and I left an ice cream somewhere. It has probably not melted. Probably. Find it?",
+      "text": "Nixie: 아, 그리고 아이스크림을 어딘가에 두고 왔어요. 아마 안 녹았을 거예요. 아마도요. 찾아 줄래요?"
+    },
+    "instance.mic": {
+      "en": "MICROPHONE",
+      "text": "마이크로폰"
+    },
+    "instance.muted": {
+      "en": "MUTED",
+      "text": "음소거됨"
+    },
+    "instance.users": {
+      "en": "Users In Instance",
+      "text": "인스턴스 내 사용자"
+    },
+    "instance.world": {
+      "en": "WORLD",
+      "text": "월드"
+    },
+    "kb.back": {
+      "en": "Back",
+      "text": "삭제"
+    },
+    "kb.clear": {
+      "en": "Clear",
+      "text": "지우기"
+    },
+    "kb.space": {
+      "en": "Space",
+      "text": "스페이스"
+    },
+    "kb.typetosearch": {
+      "en": "Type to search…",
+      "text": "입력하여 검색…"
+    },
+    "level.up": {
+      "en": "Level up! You are level {0}.",
+      "text": "레벨 업! 이제 레벨 {0}이에요."
+    },
+    "nav.alerts": {
+      "en": "Alerts",
+      "text": "알림"
+    },
+    "nav.avatars": {
+      "en": "Avatars",
+      "text": "아바타"
+    },
+    "nav.camera": {
+      "en": "Camera",
+      "text": "카메라"
+    },
+    "nav.fbt": {
+      "en": "FBT",
+      "text": "FBT"
+    },
+    "nav.gohome": {
+      "en": "Go Home",
+      "text": "홈으로"
+    },
+    "nav.nearby": {
+      "en": "Nearby",
+      "text": "근처"
+    },
+    "nav.power": {
+      "en": "Power",
+      "text": "종료"
+    },
+    "nav.settings": {
+      "en": "Settings",
+      "text": "설정"
+    },
+    "nav.supporter": {
+      "en": "Supporter",
+      "text": "서포터"
+    },
+    "nav.worlds": {
+      "en": "Worlds",
+      "text": "월드"
+    },
+    "notif.events": {
+      "en": "Events",
+      "text": "이벤트"
+    },
+    "notif.invitedto": {
+      "en": "sent you a game invite to",
+      "text": "님이 초대한 월드:"
+    },
+    "notif.invites": {
+      "en": "Invites",
+      "text": "초대"
+    },
+    "notif.live": {
+      "en": "LIVE NOW",
+      "text": "라이브 중"
+    },
+    "notif.noevents": {
+      "en": "No events scheduled right now - check back soon.",
+      "text": "현재 예정된 이벤트가 없습니다 - 나중에 다시 확인하세요."
+    },
+    "notif.noinvites": {
+      "en": "No pending invites.",
+      "text": "대기 중인 초대가 없습니다."
+    },
+    "notif.title": {
+      "en": "Notifications",
+      "text": "알림"
+    },
+    "pool.backspot": {
+      "en": "That ball goes back on its spot.",
+      "text": "그 공은 제자리로 돌아가요."
+    },
+    "pool.ball": {
+      "en": "ball {0}",
+      "text": "{0}번 공"
+    },
+    "pool.busy": {
+      "en": "The pool table is busy: a game is on.",
+      "text": "당구대가 사용 중이에요: 게임 진행 중."
+    },
+    "pool.cleared": {
+      "en": "Table cleared!",
+      "text": "테이블 클리어!"
+    },
+    "pool.clearednew": {
+      "en": "Table cleared. A new rack is coming.",
+      "text": "테이블 클리어. 새 랙이 나와요."
+    },
+    "pool.early8": {
+      "en": "{0} sank the 8 ball too early.",
+      "text": "{0}: 8번 공을 너무 일찍 넣었어요."
+    },
+    "pool.eight": {
+      "en": "the 8 ball",
+      "text": "8번 공"
+    },
+    "pool.foulnone": {
+      "en": "Foul - no ball was hit.",
+      "text": "파울 - 아무 공도 맞히지 못했어요."
+    },
+    "pool.foulwhite": {
+      "en": "Foul - the white ball went in.",
+      "text": "파울 - 흰 공이 들어갔어요."
+    },
+    "pool.foulwrong": {
+      "en": "Foul - the wrong ball was hit first.",
+      "text": "파울 - 다른 공을 먼저 맞혔어요."
+    },
+    "pool.gameover": {
+      "en": "Game over",
+      "text": "게임 오버"
+    },
+    "pool.hold": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  wheel: high or low",
+      "text": "마우스 왼쪽 버튼을 누르고, 뒤로 당겨 힘을 모으고, 떼면 쳐요  |  휠: 위 또는 아래"
+    },
+    "pool.holddrag": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  drag the white ball to move it  |  wheel: high or low",
+      "text": "마우스 왼쪽 버튼을 누르고, 뒤로 당겨 힘을 모으고, 떼면 쳐요  |  흰 공을 드래그해 옮기기  |  휠: 위 또는 아래"
+    },
+    "pool.howdesk": {
+      "en": "Look at the spot the white ball should roll toward. Hold LEFT MOUSE for power, let go to shoot. RIGHT MOUSE cancels. Mouse wheel: hit high or low.",
+      "text": "흰 공이 굴러가야 할 지점을 보세요. 마우스 왼쪽 버튼을 누르고 있으면 힘이 모이고, 떼면 쳐요. 마우스 오른쪽 버튼은 취소. 마우스 휠: 위 또는 아래 치기."
+    },
+    "pool.howvr": {
+      "en": "Grab a cue with the hand you push with, then steady the front with your other hand and push the tip through the white ball. Low on the ball pulls it back, high lets it follow.",
+      "text": "미는 손으로 큐를 잡고, 다른 손으로 앞쪽을 받친 다음 큐 끝을 흰 공 쪽으로 밀어 치세요. 공의 아래를 치면 뒤로 돌아오고, 위를 치면 따라가요."
+    },
+    "pool.needgold": {
+      "en": "You need {0} more gold to play pool.",
+      "text": "당구를 치려면 골드가 {0} 더 필요해요."
+    },
+    "pool.newrack": {
+      "en": "New rack. The white ball can be placed for the break.",
+      "text": "새 랙이에요. 브레이크를 위해 흰 공을 놓을 수 있어요."
+    },
+    "pool.nogold": {
+      "en": "Not enough gold to play pool.",
+      "text": "당구를 칠 골드가 부족해요."
+    },
+    "pool.open": {
+      "en": "open table",
+      "text": "오픈 테이블"
+    },
+    "pool.p1": {
+      "en": "Player 1",
+      "text": "플레이어 1"
+    },
+    "pool.p2": {
+      "en": "Player 2",
+      "text": "플레이어 2"
+    },
+    "pool.practicejoin": {
+      "en": "Practice - shoot to practise, or JOIN to start a game.",
+      "text": "연습 - 쳐서 연습하거나, 참가를 눌러 게임을 시작하세요."
+    },
+    "pool.practicenoturns": {
+      "en": "Practice - no turns, no winner. Another player can JOIN for a game.",
+      "text": "연습 - 차례도 승자도 없어요. 다른 플레이어가 참가해 게임을 할 수 있어요."
+    },
+    "pool.practiceplace": {
+      "en": "Practice - put the white ball where you like, then shoot",
+      "text": "연습 - 흰 공을 원하는 곳에 두고 치세요"
+    },
+    "pool.practising": {
+      "en": "{0} is practising. JOIN to play a game against them.",
+      "text": "{0} 님이 연습 중이에요. 참가를 눌러 대결하세요."
+    },
+    "pool.pullback": {
+      "en": "Pull the mouse back for power, let go to shoot  |  RIGHT MOUSE cancels",
+      "text": "마우스를 뒤로 당겨 힘을 모으고, 떼면 쳐요  |  마우스 오른쪽 버튼으로 취소"
+    },
+    "pool.putdown": {
+      "en": "Let go to put the white ball down",
+      "text": "떼면 흰 공을 내려놓아요"
+    },
+    "pool.seat": {
+      "en": "A seat opened up.",
+      "text": "자리가 하나 비었어요."
+    },
+    "pool.seatopen": {
+      "en": "A pool game is on with a seat open. Press JOIN on the panel to play.",
+      "text": "당구 게임이 진행 중이고 자리가 비어 있어요. 패널의 참가를 눌러 플레이하세요."
+    },
+    "pool.solids": {
+      "en": "{0} plays solids.",
+      "text": "{0}: 단색 공."
+    },
+    "pool.stepup": {
+      "en": "Step up to the pool table first.",
+      "text": "먼저 당구대로 가세요."
+    },
+    "pool.stripes": {
+      "en": "{0} plays stripes.",
+      "text": "{0}: 줄무늬 공."
+    },
+    "pool.toshoot": {
+      "en": "{0} to shoot - {1}",
+      "text": "{0} 차례 - {1}"
+    },
+    "pool.unseated": {
+      "en": "You are no longer seated at the pool table. Press JOIN on its panel to play again.",
+      "text": "더 이상 당구대에 앉아 있지 않아요. 다시 하려면 패널의 참가를 누르세요."
+    },
+    "pool.using": {
+      "en": "{0} is using the pool table. Press JOIN on its panel to play a game against them.",
+      "text": "{0} 님이 당구대를 쓰고 있어요. 패널의 참가를 눌러 대결하세요."
+    },
+    "pool.wins": {
+      "en": "{0} wins!",
+      "text": "{0} 승리!"
+    },
+    "pool.winsgame": {
+      "en": "{0} wins the game!",
+      "text": "{0} 게임 승리!"
+    },
+    "pool.yourturn": {
+      "en": "Your turn.",
+      "text": "당신 차례."
+    },
+    "pool.yourturnhand": {
+      "en": "Your turn - ball in hand.",
+      "text": "당신 차례 - 프리볼."
+    },
+    "portal.closed": {
+      "en": "PORTAL CLOSED",
+      "text": "포털이 닫혔습니다"
+    },
+    "portal.dlfailed": {
+      "en": "Couldn't download \"{0}\"",
+      "text": "\"{0}\" 다운로드 실패"
+    },
+    "portal.dlpct": {
+      "en": "DOWNLOADING  {0}%",
+      "text": "다운로드 중  {0}%"
+    },
+    "portal.downloading": {
+      "en": "DOWNLOADING…",
+      "text": "다운로드 중…"
+    },
+    "portal.droppedby": {
+      "en": "Dropped by {0}",
+      "text": "{0} 님이 설치"
+    },
+    "portal.getting": {
+      "en": "Getting \"{0}\"…",
+      "text": "\"{0}\" 가져오는 중…"
+    },
+    "portal.gettingpct": {
+      "en": "Getting \"{0}\"… {1}%",
+      "text": "\"{0}\" 가져오는 중… {1}%"
+    },
+    "portal.gonow": {
+      "en": "GO NOW  ({0} READY)",
+      "text": "지금 출발  ({0}명 준비)"
+    },
+    "portal.groupleft": {
+      "en": "GROUP LEFT  ·  QUEUE TO FOLLOW",
+      "text": "그룹이 떠났습니다  ·  대기열에 참가해 따라가기"
+    },
+    "portal.leavequeue": {
+      "en": "LEAVE QUEUE",
+      "text": "대기열 나가기"
+    },
+    "portal.leaving": {
+      "en": "LEAVING…",
+      "text": "나가는 중…"
+    },
+    "portal.leavingbehind": {
+      "en": "LEAVING  ·  {0} will follow when ready",
+      "text": "출발 중  ·  {0}명은 준비되면 따라옵니다"
+    },
+    "portal.leavingtogether": {
+      "en": "LEAVING TOGETHER",
+      "text": "함께 출발"
+    },
+    "portal.nobodyqueued": {
+      "en": "NOBODY QUEUED YET",
+      "text": "아직 대기자가 없습니다"
+    },
+    "portal.queued": {
+      "en": "{0} QUEUED",
+      "text": "{0}명 대기"
+    },
+    "portal.queuedplus": {
+      "en": "{0} QUEUED  ·  {1} DOWNLOADING",
+      "text": "{0}명 대기  ·  {1}명 다운로드 중"
+    },
+    "portal.queueup": {
+      "en": "QUEUE UP",
+      "text": "대기열 참가"
+    },
+    "portal.ready": {
+      "en": "\"{0}\" ready",
+      "text": "\"{0}\" 준비 완료"
+    },
+    "portal.starting": {
+      "en": "STARTING…",
+      "text": "시작 중…"
+    },
+    "portal.startingwait": {
+      "en": "STARTING  ·  waiting for {0}",
+      "text": "시작 중  ·  {0} 기다리는 중"
+    },
+    "presence.joined1": {
+      "en": "{0} joined",
+      "text": "{0} 님이 참가했습니다"
+    },
+    "presence.joined2": {
+      "en": "{0} and {1} joined",
+      "text": "{0} 님과 {1} 님이 참가했습니다"
+    },
+    "presence.joinedn": {
+      "en": "{0} +{1} joined",
+      "text": "{0} 외 {1}명 참가"
+    },
+    "presence.left1": {
+      "en": "{0} left",
+      "text": "{0} 님이 나갔습니다"
+    },
+    "presence.left2": {
+      "en": "{0} and {1} left",
+      "text": "{0} 님과 {1} 님이 나갔습니다"
+    },
+    "presence.leftn": {
+      "en": "{0} +{1} left",
+      "text": "{0} 외 {1}명 나감"
+    },
+    "profile.achievements": {
+      "en": "Achievements",
+      "text": "업적"
+    },
+    "profile.addfriend": {
+      "en": "Add friend",
+      "text": "친구 추가"
+    },
+    "profile.arcade": {
+      "en": "Arcade",
+      "text": "오락실"
+    },
+    "profile.badge.avatar": {
+      "en": "Avatar creator",
+      "text": "아바타 제작자"
+    },
+    "profile.badge.helper": {
+      "en": "Helper",
+      "text": "도우미"
+    },
+    "profile.badge.new": {
+      "en": "New player",
+      "text": "새 플레이어"
+    },
+    "profile.badge.partner": {
+      "en": "Partner",
+      "text": "파트너"
+    },
+    "profile.badge.staff": {
+      "en": "Staff",
+      "text": "스태프"
+    },
+    "profile.badge.streamer": {
+      "en": "Streamer",
+      "text": "스트리머"
+    },
+    "profile.badge.world": {
+      "en": "World creator",
+      "text": "월드 제작자"
+    },
+    "profile.bestjogger": {
+      "en": "Best jogger",
+      "text": "최고의 조깅러"
+    },
+    "profile.bronze": {
+      "en": "Bronze",
+      "text": "브론즈"
+    },
+    "profile.competitive": {
+      "en": "Competitive",
+      "text": "경쟁"
+    },
+    "profile.crown": {
+      "en": "Crown",
+      "text": "왕관"
+    },
+    "profile.darecompleter": {
+      "en": "Dare completer",
+      "text": "도전 완수자"
+    },
+    "profile.dayone": {
+      "en": "Day One",
+      "text": "첫날부터"
+    },
+    "profile.empty": {
+      "en": "Has not played VR Realms yet.",
+      "text": "아직 VR Realms를 플레이하지 않았어요."
+    },
+    "profile.ffa": {
+      "en": "Free for all",
+      "text": "개인전"
+    },
+    "profile.goback": {
+      "en": "Go back",
+      "text": "뒤로"
+    },
+    "profile.gold": {
+      "en": "Gold",
+      "text": "골드"
+    },
+    "profile.helpful": {
+      "en": "Helpful",
+      "text": "도움이 됨"
+    },
+    "profile.hidden": {
+      "en": "{0} (hidden)",
+      "text": "{0} (숨김)"
+    },
+    "profile.hidden.other": {
+      "en": "This player keeps their profile private.",
+      "text": "이 플레이어는 프로필을 비공개로 해 두었어요."
+    },
+    "profile.hidden.self": {
+      "en": "Your profile is hidden from other players.",
+      "text": "내 프로필은 다른 플레이어에게 숨겨져 있어요."
+    },
+    "profile.hours": {
+      "en": "{0} h",
+      "text": "{0}시간"
+    },
+    "profile.invite": {
+      "en": "Invite to VR Realms",
+      "text": "VR Realms에 초대"
+    },
+    "profile.invite.reward": {
+      "en": "{0} gold for you when they join",
+      "text": "친구가 합류하면 {0} 골드를 받아요"
+    },
+    "profile.invited": {
+      "en": "Invite sent",
+      "text": "초대를 보냈어요"
+    },
+    "profile.last.days": {
+      "en": "Last online {0} days ago",
+      "text": "마지막 접속: {0}일 전"
+    },
+    "profile.last.h": {
+      "en": "Last online {0} h ago",
+      "text": "마지막 접속: {0}시간 전"
+    },
+    "profile.last.min": {
+      "en": "Last online {0} min ago",
+      "text": "마지막 접속: {0}분 전"
+    },
+    "profile.level": {
+      "en": "Level {0}",
+      "text": "레벨 {0}"
+    },
+    "profile.loadfail": {
+      "en": "Could not load this profile. Trying again.",
+      "text": "이 프로필을 불러오지 못했어요. 다시 시도하는 중이에요."
+    },
+    "profile.member": {
+      "en": "Member since {0}",
+      "text": "{0}부터 함께함"
+    },
+    "profile.minutes": {
+      "en": "{0} min",
+      "text": "{0}분"
+    },
+    "profile.more": {
+      "en": "+{0} more",
+      "text": "외 {0}개"
+    },
+    "profile.none": {
+      "en": "This player has no profile.",
+      "text": "이 플레이어는 프로필이 없어요."
+    },
+    "profile.online": {
+      "en": "Online now",
+      "text": "지금 접속 중"
+    },
+    "profile.parkjogger": {
+      "en": "Park jogger",
+      "text": "공원 조깅러"
+    },
+    "profile.pool": {
+      "en": "Pool",
+      "text": "당구"
+    },
+    "profile.private": {
+      "en": "This player keeps their stats private.",
+      "text": "이 플레이어는 통계를 비공개로 해 두었어요."
+    },
+    "profile.published": {
+      "en": "{0} published",
+      "text": "{0}개 게시됨"
+    },
+    "profile.rank.creatorall": {
+      "en": "#{0}  Creator hours all time",
+      "text": "#{0}  누적 제작자 시간"
+    },
+    "profile.rank.creatormonth": {
+      "en": "#{0}  Creator hours this month",
+      "text": "#{0}  이번 달 제작자 시간"
+    },
+    "profile.rank.goldall": {
+      "en": "#{0}  Gold all time",
+      "text": "#{0}  누적 골드"
+    },
+    "profile.rank.goldmonth": {
+      "en": "#{0}  Gold this month",
+      "text": "#{0}  이번 달 골드"
+    },
+    "profile.rank.timeall": {
+      "en": "#{0}  Most active all time",
+      "text": "#{0}  누적 활동"
+    },
+    "profile.rank.timemonth": {
+      "en": "#{0}  Most active this month",
+      "text": "#{0}  이번 달 활동"
+    },
+    "profile.rank.topavatars": {
+      "en": "#{0}  Top avatars",
+      "text": "#{0}  인기 아바타"
+    },
+    "profile.rank.topcreators": {
+      "en": "#{0}  Top creators",
+      "text": "#{0}  인기 제작자"
+    },
+    "profile.rank.topworlds": {
+      "en": "#{0}  Top worlds",
+      "text": "#{0}  인기 월드"
+    },
+    "profile.rankings": {
+      "en": "Rankings",
+      "text": "랭킹"
+    },
+    "profile.rarity": {
+      "en": "{0}% of players",
+      "text": "플레이어의 {0}%"
+    },
+    "profile.rate.daily": {
+      "en": "You have given all your thumbs-ups for today.",
+      "text": "오늘 줄 수 있는 추천을 모두 썼어요."
+    },
+    "profile.rate.failed": {
+      "en": "That did not go through. Try again in a moment.",
+      "text": "전송되지 않았어요. 잠시 후 다시 시도해 주세요."
+    },
+    "profile.rate.need": {
+      "en": "Play {0} minutes together to rate",
+      "text": "{0}분 함께 플레이하면 평가할 수 있어요"
+    },
+    "profile.report": {
+      "en": "Report player",
+      "text": "플레이어 신고"
+    },
+    "profile.show": {
+      "en": "Show",
+      "text": "보이기"
+    },
+    "profile.silver": {
+      "en": "Silver",
+      "text": "실버"
+    },
+    "profile.since": {
+      "en": "since {0}",
+      "text": "{0}부터"
+    },
+    "profile.stat.creator": {
+      "en": "Time in their worlds",
+      "text": "월드에 머문 시간"
+    },
+    "profile.stat.gold": {
+      "en": "Gold earned",
+      "text": "획득한 골드"
+    },
+    "profile.stat.playtime": {
+      "en": "Playtime",
+      "text": "플레이 시간"
+    },
+    "profile.stat.worlds": {
+      "en": "Worlds visited",
+      "text": "방문한 월드"
+    },
+    "profile.steam.online": {
+      "en": "Online on Steam",
+      "text": "Steam 접속 중"
+    },
+    "profile.streak": {
+      "en": "{0}-day streak",
+      "text": "{0}일 연속"
+    },
+    "profile.sure": {
+      "en": "Sure?",
+      "text": "확실해요?"
+    },
+    "profile.tapbadge": {
+      "en": "Tap a badge to show or hide it on your head plate.",
+      "text": "배지를 탭하면 헤드 플레이트에 보이거나 숨겨요."
+    },
+    "profile.teamffa": {
+      "en": "Team free for all",
+      "text": "팀전"
+    },
+    "profile.title": {
+      "en": "Profile",
+      "text": "프로필"
+    },
+    "profile.visit": {
+      "en": "Visit",
+      "text": "방문"
+    },
+    "profile.wear": {
+      "en": "Wear",
+      "text": "착용"
+    },
+    "profile.wearing": {
+      "en": "Wearing",
+      "text": "착용 중"
+    },
+    "session.gone": {
+      "en": "Couldn't connect — that session is no longer available.",
+      "text": "연결할 수 없어요 — 그 세션은 더 이상 없어요."
+    },
+    "session.handing": {
+      "en": "Handing over…",
+      "text": "넘기는 중…"
+    },
+    "session.handover": {
+      "en": "Handing over to a new host",
+      "text": "새 호스트에게 넘기는 중"
+    },
+    "session.moving": {
+      "en": "Moving you to the new host",
+      "text": "새 호스트로 옮기는 중"
+    },
+    "session.transitfail": {
+      "en": "Steam could not open that world just now. Back home: try again in a moment.",
+      "text": "Steam이 지금 그 월드를 열 수 없었어요. 홈으로 돌아왔어요: 잠시 후 다시 시도하세요."
+    },
+    "settings.aa": {
+      "en": "Anti-Aliasing",
+      "text": "안티앨리어싱"
+    },
+    "settings.access.hdr": {
+      "en": "ACCESSIBILITY",
+      "text": "접근성"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "text": "환경음"
+    },
+    "settings.autodecline": {
+      "en": "Auto Decline Invites",
+      "text": "초대 자동 거절"
+    },
+    "settings.autodecline.sub": {
+      "en": "Decline all world invites automatically",
+      "text": "모든 월드 초대 자동 거절"
+    },
+    "settings.autodl": {
+      "en": "Auto Download Avatars",
+      "text": "아바타 자동 다운로드"
+    },
+    "settings.autodl.sub": {
+      "en": "Automatically download new avatar assets",
+      "text": "새 아바타 에셋 자동 다운로드"
+    },
+    "settings.builddate": {
+      "en": "Build Date",
+      "text": "빌드 날짜"
+    },
+    "settings.buildver": {
+      "en": "Build Version",
+      "text": "빌드 버전"
+    },
+    "settings.censor": {
+      "en": "Censor Chat",
+      "text": "채팅 검열"
+    },
+    "settings.censor.sub": {
+      "en": "Filter profanity and slurs in chat for everyone here",
+      "text": "여기 모두의 채팅에서 욕설 필터링"
+    },
+    "settings.changedevice": {
+      "en": "Change Device",
+      "text": "장치 변경"
+    },
+    "settings.climb": {
+      "en": "Allow Climbing",
+      "text": "클라이밍 허용"
+    },
+    "settings.climb.sub": {
+      "en": "Let guests use climbing locomotion in your instance",
+      "text": "게스트가 인스턴스에서 클라이밍 이동을 사용하도록 허용"
+    },
+    "settings.dialogue": {
+      "en": "Dialogue",
+      "text": "대사"
+    },
+    "settings.dlworlds": {
+      "en": "Downloaded Worlds",
+      "text": "다운로드한 월드"
+    },
+    "settings.dlworlds.value": {
+      "en": "{0} kept  ·  {1} MB",
+      "text": "{0}개 보관  ·  {1} MB"
+    },
+    "settings.effects": {
+      "en": "Effects",
+      "text": "이펙트"
+    },
+    "settings.foliage": {
+      "en": "Foliage",
+      "text": "초목"
+    },
+    "settings.forcemove": {
+      "en": "Force Movement Style (everyone here)",
+      "text": "이동 방식 강제 (모두)"
+    },
+    "settings.foveated": {
+      "en": "Foveated Rendering",
+      "text": "포비티드 렌더링"
+    },
+    "settings.foveated.sub": {
+      "en": "Cheaper edges of vision - takes effect on restart",
+      "text": "시야 가장자리를 가볍게 - 재시작 시 적용"
+    },
+    "settings.fps": {
+      "en": "FPS Counter",
+      "text": "FPS 카운터"
+    },
+    "settings.fps.sub": {
+      "en": "Display frames per second overlay",
+      "text": "초당 프레임 표시"
+    },
+    "settings.fpscap": {
+      "en": "FPS Cap",
+      "text": "FPS 제한"
+    },
+    "settings.fpscap.sub": {
+      "en": "In VR at least 90 is used",
+      "text": "VR에서는 최소 90이 사용됩니다"
+    },
+    "settings.fpsvalue": {
+      "en": "Frames per second",
+      "text": "초당 프레임"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "text": "전체 화면"
+    },
+    "settings.gpu": {
+      "en": "Detected GPU",
+      "text": "감지된 GPU"
+    },
+    "settings.hideboards": {
+      "en": "Hide Me From Leaderboards",
+      "text": "순위표에서 숨기기"
+    },
+    "settings.hideboards.sub": {
+      "en": "Keeps your name off the hub boards. Your playtime and creator hours still count.",
+      "text": "허브 보드에 이름이 표시되지 않습니다. 플레이 시간과 크리에이터 시간은 계속 집계됩니다."
+    },
+    "settings.homeprivate": {
+      "en": "Make Home Private",
+      "text": "홈을 비공개로 설정"
+    },
+    "settings.homeprivate.sub": {
+      "en": "Stop your home appearing in Browse and to friends",
+      "text": "홈이 찾아보기와 친구에게 표시되지 않게 함"
+    },
+    "settings.host.hdr": {
+      "en": "YOUR INSTANCE (HOST ONLY)",
+      "text": "내 인스턴스 (호스트 전용)"
+    },
+    "settings.hostmedia": {
+      "en": "Host-Only Media",
+      "text": "호스트 전용 미디어"
+    },
+    "settings.hostmedia.sub": {
+      "en": "Only you can play, stop or retune TVs and jukeboxes here",
+      "text": "TV와 주크박스의 재생·정지·변경은 당신만 가능"
+    },
+    "settings.master": {
+      "en": "Master Sound",
+      "text": "마스터 사운드"
+    },
+    "settings.micenabled": {
+      "en": "Microphone Enabled",
+      "text": "마이크 활성화"
+    },
+    "settings.micenabled.sub": {
+      "en": "Transmit your voice to others",
+      "text": "다른 사람에게 음성 전송"
+    },
+    "settings.movestyle": {
+      "en": "Movement Style",
+      "text": "이동 방식"
+    },
+    "settings.nameplates": {
+      "en": "Show Nameplates on Stream",
+      "text": "방송에 이름표 표시"
+    },
+    "settings.nameplates.sub": {
+      "en": "Show player name tags in the camera / streaming view",
+      "text": "카메라 및 방송 화면에 플레이어 이름표를 표시합니다"
+    },
+    "settings.ping": {
+      "en": "Ping Display",
+      "text": "핑 표시"
+    },
+    "settings.ping.sub": {
+      "en": "Display network latency overlay",
+      "text": "네트워크 지연 표시"
+    },
+    "settings.pingvalue": {
+      "en": "Ping to host",
+      "text": "호스트까지 핑"
+    },
+    "settings.pixeldensity": {
+      "en": "Render Resolution (VR)",
+      "text": "렌더 해상도 (VR)"
+    },
+    "settings.postprocess": {
+      "en": "Post Process",
+      "text": "후처리"
+    },
+    "settings.preset": {
+      "en": "Overall Quality",
+      "text": "전체 품질"
+    },
+    "settings.profilehidden": {
+      "en": "Hide My Profile",
+      "text": "내 프로필 숨기기"
+    },
+    "settings.profilehidden.sub": {
+      "en": "Other players see only your name and picture. Nothing stops counting.",
+      "text": "다른 플레이어에게는 이름과 사진만 보여요. 기록은 계속 쌓여요."
+    },
+    "settings.reflections": {
+      "en": "Reflections",
+      "text": "반사"
+    },
+    "settings.reportbug": {
+      "en": "Report a Bug",
+      "text": "버그 신고"
+    },
+    "settings.restarthint": {
+      "en": "Some changes apply after a restart.",
+      "text": "일부 변경 사항은 재시작 후 적용됩니다."
+    },
+    "settings.sfx": {
+      "en": "Sound Effects",
+      "text": "효과음"
+    },
+    "settings.shadow": {
+      "en": "Shadow Quality",
+      "text": "그림자 품질"
+    },
+    "settings.smoothturn": {
+      "en": "Smooth Turning",
+      "text": "부드러운 회전"
+    },
+    "settings.smoothturn.sub": {
+      "en": "Gradual rotation instead of snap turning",
+      "text": "스냅 회전 대신 점진적 회전"
+    },
+    "settings.streamer": {
+      "en": "Streamer Mode",
+      "text": "스트리머 모드"
+    },
+    "settings.streamer.sub": {
+      "en": "Hide personal information for streaming",
+      "text": "방송용으로 개인정보 숨기기"
+    },
+    "settings.swaphands": {
+      "en": "Swap Hands",
+      "text": "손 바꾸기"
+    },
+    "settings.swaphands.sub": {
+      "en": "Move the menu and laser to your other hand",
+      "text": "메뉴와 레이저를 반대 손으로 이동"
+    },
+    "settings.tab.access": {
+      "en": "Access.",
+      "text": "접근성"
+    },
+    "settings.tab.comfort": {
+      "en": "Comfort",
+      "text": "편의"
+    },
+    "settings.tab.graphics": {
+      "en": "Graphics",
+      "text": "그래픽"
+    },
+    "settings.tab.mic": {
+      "en": "Mic",
+      "text": "마이크"
+    },
+    "settings.texture": {
+      "en": "Texture Quality",
+      "text": "텍스처 품질"
+    },
+    "settings.turnspeed": {
+      "en": "Turn Speed",
+      "text": "회전 속도"
+    },
+    "settings.tvmedia": {
+      "en": "TV / Media",
+      "text": "TV / 미디어"
+    },
+    "settings.viewdist": {
+      "en": "View Distance",
+      "text": "시야 거리"
+    },
+    "settings.voices": {
+      "en": "Voices",
+      "text": "음성"
+    },
+    "status.checkingupdates": {
+      "en": "Checking for updates…",
+      "text": "업데이트 확인 중…"
+    },
+    "status.connecting": {
+      "en": "Connecting…",
+      "text": "연결 중…"
+    },
+    "status.couldntjoin": {
+      "en": "Couldn't join",
+      "text": "참가할 수 없습니다"
+    },
+    "status.couldntprepare": {
+      "en": "Couldn't prepare the map",
+      "text": "맵을 준비할 수 없습니다"
+    },
+    "status.downloadfailed": {
+      "en": "Download failed",
+      "text": "다운로드 실패"
+    },
+    "status.downloadingworld": {
+      "en": "Downloading world update…",
+      "text": "월드 업데이트 다운로드 중…"
+    },
+    "status.friendretry": {
+      "en": "Friend's session not ready — retrying…",
+      "text": "세션이 준비되지 않음 — 재시도 중…"
+    },
+    "status.joining": {
+      "en": "Joining…",
+      "text": "참가 중…"
+    },
+    "status.joiningfriend": {
+      "en": "Joining friend's session…",
+      "text": "친구 세션에 참가 중…"
+    },
+    "status.levelnotfound": {
+      "en": "Level not found",
+      "text": "레벨을 찾을 수 없습니다"
+    },
+    "status.loading": {
+      "en": "Loading",
+      "text": "로딩 중"
+    },
+    "status.lookinghost": {
+      "en": "Looking for a host…",
+      "text": "호스트 찾는 중…"
+    },
+    "status.lookinglevel": {
+      "en": "Looking up level…",
+      "text": "레벨 찾는 중…"
+    },
+    "status.preparing": {
+      "en": "Preparing…",
+      "text": "준비 중…"
+    },
+    "status.startingdl": {
+      "en": "Starting download…",
+      "text": "다운로드 시작 중…"
+    },
+    "status.travelhub": {
+      "en": "Traveling to HUB…",
+      "text": "허브로 이동 중…"
+    },
+    "toast.admin.badkey": {
+      "en": "Ban key rejected — it is not a valid moderator key.",
+      "text": "차단 키가 거부됐어요 — 유효한 모더레이터 키가 아니에요."
+    },
+    "toast.admin.banned": {
+      "en": "Player banned.",
+      "text": "플레이어를 차단했어요."
+    },
+    "toast.admin.lifted": {
+      "en": "Ban lifted.",
+      "text": "차단을 해제했어요."
+    },
+    "toast.admin.nokey": {
+      "en": "No ban key on this machine — the player was not banned in the database.",
+      "text": "이 PC에 차단 키가 없어요 — 데이터베이스에서는 차단되지 않았어요."
+    },
+    "toast.admin.nolift": {
+      "en": "You do not have permission to lift bans.",
+      "text": "차단을 해제할 권한이 없어요."
+    },
+    "toast.admin.noperm": {
+      "en": "You do not have permission to ban.",
+      "text": "차단할 권한이 없어요."
+    },
+    "toast.admin.noplayer": {
+      "en": "No player selected.",
+      "text": "선택된 플레이어가 없어요."
+    },
+    "toast.admin.ownermod": {
+      "en": "Only the owner can ban a moderator.",
+      "text": "모더레이터는 소유자만 차단할 수 있어요."
+    },
+    "toast.admin.protected": {
+      "en": "That player cannot be banned.",
+      "text": "이 플레이어는 차단할 수 없어요."
+    },
+    "toast.admin.refused": {
+      "en": "Refused: that account cannot be banned by you.",
+      "text": "거부됨: 이 계정은 차단할 수 없어요."
+    },
+    "toast.admin.self": {
+      "en": "You cannot ban yourself.",
+      "text": "자기 자신은 차단할 수 없어요."
+    },
+    "toast.admin.sitecode": {
+      "en": "The site did not accept it (code {0}).",
+      "text": "사이트에서 받아들이지 않았어요 (코드 {0})."
+    },
+    "toast.admin.unavailable": {
+      "en": "Ban system unavailable.",
+      "text": "차단 시스템을 사용할 수 없어요."
+    },
+    "toast.avatar.applying": {
+      "en": "Applying avatar…",
+      "text": "아바타 적용 중…"
+    },
+    "toast.avatar.checking": {
+      "en": "Checking avatar…",
+      "text": "아바타 확인 중…"
+    },
+    "toast.avatar.dlfail": {
+      "en": "Avatar download failed",
+      "text": "아바타 다운로드 실패"
+    },
+    "toast.avatar.downloading": {
+      "en": "Downloading avatar… {0}%",
+      "text": "아바타 다운로드 중… {0}%"
+    },
+    "toast.avatar.floorlow": {
+      "en": "Your headset reads only {0} cm above the floor, so your avatar cannot be calibrated. Fix the floor height in SteamVR Room Setup (or your headset's floor setting), then Calibrate.",
+      "text": "헤드셋이 바닥에서 {0}cm 높이로만 인식되어 아바타를 보정할 수 없어요. SteamVR 룸 설정(또는 헤드셋의 바닥 설정)에서 바닥 높이를 고친 뒤 보정하세요."
+    },
+    "toast.avatar.loadfail": {
+      "en": "Couldn't load avatar",
+      "text": "아바타를 불러올 수 없어요"
+    },
+    "toast.avatar.preparing": {
+      "en": "Preparing avatar…",
+      "text": "아바타 준비 중…"
+    },
+    "toast.avatar.ready": {
+      "en": "Avatar ready",
+      "text": "아바타 준비 완료"
+    },
+    "toast.ban.day": {
+      "en": "You have been banned from VR Realms for {0} day.",
+      "text": "VR Realms에서 {0}일 동안 차단되었어요."
+    },
+    "toast.ban.day.leftdays": {
+      "en": "You have been banned from VR Realms for {0} day ({1} days remaining).",
+      "text": "VR Realms에서 {0}일 동안 차단되었어요 ({1}일 남음)."
+    },
+    "toast.ban.days": {
+      "en": "You have been banned from VR Realms for {0} days.",
+      "text": "VR Realms에서 {0}일 동안 차단되었어요."
+    },
+    "toast.ban.days.leftday": {
+      "en": "You have been banned from VR Realms for {0} days ({1} day remaining).",
+      "text": "VR Realms에서 {0}일 동안 차단되었어요 ({1}일 남음)."
+    },
+    "toast.ban.days.leftdays": {
+      "en": "You have been banned from VR Realms for {0} days ({1} days remaining).",
+      "text": "VR Realms에서 {0}일 동안 차단되었어요 ({1}일 남음)."
+    },
+    "toast.ban.hour": {
+      "en": "You have been banned from VR Realms for {0} more hour.",
+      "text": "VR Realms 차단이 {0}시간 남았어요."
+    },
+    "toast.ban.hours": {
+      "en": "You have been banned from VR Realms for {0} more hours.",
+      "text": "VR Realms 차단이 {0}시간 남았어요."
+    },
+    "toast.ban.hub": {
+      "en": "You have been suspended from the hub.",
+      "text": "허브 이용이 정지되었어요."
+    },
+    "toast.ban.hub.day": {
+      "en": "You have been suspended from the hub for {0} more day.",
+      "text": "허브 이용 정지가 {0}일 남았어요."
+    },
+    "toast.ban.hub.days": {
+      "en": "You have been suspended from the hub for {0} more days.",
+      "text": "허브 이용 정지가 {0}일 남았어요."
+    },
+    "toast.ban.hub.hour": {
+      "en": "You have been suspended from the hub for {0} more hour.",
+      "text": "허브 이용 정지가 {0}시간 남았어요."
+    },
+    "toast.ban.hub.hours": {
+      "en": "You have been suspended from the hub for {0} more hours.",
+      "text": "허브 이용 정지가 {0}시간 남았어요."
+    },
+    "toast.ban.perm": {
+      "en": "You have been banned from VR Realms.",
+      "text": "VR Realms에서 차단되었어요."
+    },
+    "toast.bp.deletecancelled": {
+      "en": "Delete cancelled.",
+      "text": "삭제를 취소했어요."
+    },
+    "toast.bp.noinvitegroups": {
+      "en": "No groups you can invite to",
+      "text": "초대할 수 있는 그룹이 없어요"
+    },
+    "toast.bp.ownmax": {
+      "en": "You can only own 5 groups",
+      "text": "그룹은 5개까지만 소유할 수 있어요"
+    },
+    "toast.bp.photofailed": {
+      "en": "Photo FAILED to save - see the log",
+      "text": "사진 저장 실패 - 로그를 확인하세요"
+    },
+    "toast.bp.portalaim": {
+      "en": "Aim at the floor - press to drop the portal - turn the laser off to cancel",
+      "text": "바닥을 겨누세요 - 누르면 포털을 놓아요 - 레이저를 끄면 취소돼요"
+    },
+    "toast.bp.stillreview": {
+      "en": "This one is still waiting to be reviewed.",
+      "text": "아직 검토 대기 중이에요."
+    },
+    "toast.content.needdlc": {
+      "en": "Mature Themes. Needs the mature DLC to unlock — it is free on the VR Realms Steam page.",
+      "text": "성인 테마. 잠금 해제하려면 성인 DLC가 필요해요 — VR Realms Steam 페이지에서 무료예요."
+    },
+    "toast.content.nocheck": {
+      "en": "We could not check this content's rating just now. Try again in a moment.",
+      "text": "지금은 이 콘텐츠의 등급을 확인할 수 없어요. 잠시 후 다시 시도하세요."
+    },
+    "toast.content.orbstreamer": {
+      "en": "Mature avatars will show as an orb while streamer mode is on. You can unhide anyone from Nearby.",
+      "text": "스트리머 모드가 켜져 있으면 성인 아바타가 구체로 표시돼요. 근처에서 누구든 다시 보이게 할 수 있어요."
+    },
+    "toast.content.removed": {
+      "en": "This content has been removed.",
+      "text": "이 콘텐츠는 삭제되었어요."
+    },
+    "toast.content.review": {
+      "en": "This is waiting to be reviewed. It will work once it has been checked.",
+      "text": "검토 대기 중이에요. 확인이 끝나면 사용할 수 있어요."
+    },
+    "toast.content.revoked": {
+      "en": "Your access to mature content has been removed.",
+      "text": "성인 콘텐츠 이용 권한이 해제되었어요."
+    },
+    "toast.content.unavailable": {
+      "en": "This content is not available to you.",
+      "text": "이 콘텐츠는 이용할 수 없어요."
+    },
+    "toast.diamonds.added": {
+      "en": "Diamonds added",
+      "text": "다이아가 추가됐어요"
+    },
+    "toast.diamonds.cancelled": {
+      "en": "Purchase cancelled",
+      "text": "구매가 취소됐어요"
+    },
+    "toast.diamonds.confirmsteam": {
+      "en": "Confirm the purchase in the Steam window (it may be on your monitor)",
+      "text": "Steam 창에서 구매를 확인하세요 (모니터에 떠 있을 수 있어요)"
+    },
+    "toast.diamonds.got": {
+      "en": "+{0} diamonds",
+      "text": "+{0} 다이아"
+    },
+    "toast.diamonds.gotdoubled": {
+      "en": "+{0} diamonds! Your first pack was doubled",
+      "text": "+{0} 다이아! 첫 팩이 두 배가 됐어요"
+    },
+    "toast.diamonds.nosteam": {
+      "en": "Steam is not available right now",
+      "text": "지금은 Steam을 사용할 수 없어요"
+    },
+    "toast.diamonds.nostore": {
+      "en": "Could not reach the store. Nothing was charged",
+      "text": "스토어에 연결할 수 없어요. 결제되지 않았어요"
+    },
+    "toast.diamonds.notonsale": {
+      "en": "Diamonds are not on sale yet",
+      "text": "다이아는 아직 판매하지 않아요"
+    },
+    "toast.diamonds.paidpending": {
+      "en": "Payment received. Your diamonds may take a minute to arrive",
+      "text": "결제가 완료됐어요. 다이아가 도착하기까지 1분 정도 걸릴 수 있어요"
+    },
+    "toast.diamonds.stillwaiting": {
+      "en": "Still waiting for Steam. If you confirm there, your diamonds arrive shortly",
+      "text": "아직 Steam을 기다리는 중이에요. 거기서 확인하면 다이아가 곧 도착해요"
+    },
+    "toast.event.now": {
+      "en": "Event starting now: {0}",
+      "text": "지금 시작하는 이벤트: {0}"
+    },
+    "toast.event.nowin": {
+      "en": "Event starting now: {0} in {1}",
+      "text": "지금 시작하는 이벤트: {1}에서 {0}"
+    },
+    "toast.event.soon": {
+      "en": "Event in {0} minutes: {1}",
+      "text": "{0}분 후 이벤트: {1}"
+    },
+    "toast.goldrush.bought": {
+      "en": "You bought this Gold Rush, so it is for everyone else!",
+      "text": "이 골드 러시는 당신이 샀으니 다른 모두를 위한 거예요!"
+    },
+    "toast.goldrush.expired": {
+      "en": "Nobody found the Gold Rush plate in time. It's gone!",
+      "text": "아무도 제시간에 골드 러시 플레이트를 찾지 못했어요. 사라졌어요!"
+    },
+    "toast.goldrush.won": {
+      "en": "You won the Gold Rush! +{0} gold",
+      "text": "골드 러시에서 이겼어요! +{0} 골드"
+    },
+    "toast.groups.accepted": {
+      "en": "You're in {0} — your request was accepted",
+      "text": "{0}에 가입됐어요 — 요청이 수락됐어요"
+    },
+    "toast.groups.badreply": {
+      "en": "Groups did not answer properly",
+      "text": "그룹이 제대로 응답하지 않았어요"
+    },
+    "toast.groups.invited": {
+      "en": "You've been invited to {0} — open Groups to accept",
+      "text": "{0}에 초대받았어요 — 그룹을 열어 수락하세요"
+    },
+    "toast.groups.key": {
+      "en": "Groups are unavailable (key)",
+      "text": "그룹을 사용할 수 없어요 (키)"
+    },
+    "toast.groups.perksoffline": {
+      "en": "Group perks need the site — you are offline.",
+      "text": "그룹 혜택은 사이트 연결이 필요해요 — 지금 오프라인이에요."
+    },
+    "toast.groups.request": {
+      "en": "{0} wants to join {1} — open Groups to approve",
+      "text": "{0} 님이 {1}에 가입하려고 해요 — 그룹을 열어 승인하세요"
+    },
+    "toast.groups.requests": {
+      "en": "{0} new join requests — open Groups to approve",
+      "text": "새 가입 요청 {0}건 — 그룹을 열어 승인하세요"
+    },
+    "toast.groups.unreachable": {
+      "en": "Groups are unreachable right now",
+      "text": "지금은 그룹에 연결할 수 없어요"
+    },
+    "toast.guide.agree": {
+      "en": "Look at your hands: the labels show what each button does. To hide them, hold both triggers.",
+      "text": "손을 보세요. 라벨이 각 버튼의 기능을 알려 줍니다. 숨기려면 양쪽 트리거를 길게 누르세요."
+    },
+    "toast.guide.off": {
+      "en": "Controller guide is off. Bring it back from the quick menu.",
+      "text": "컨트롤러 가이드가 꺼졌습니다. 퀵 메뉴에서 다시 켤 수 있어요."
+    },
+    "toast.guide.on": {
+      "en": "Controller guide is on. Look at your hands.",
+      "text": "컨트롤러 가이드가 켜졌습니다. 손을 보세요."
+    },
+    "toast.guide.other": {
+      "en": "The controller guide only knows Quest-style controllers for now.",
+      "text": "컨트롤러 가이드는 지금은 Quest 방식 컨트롤러만 지원합니다."
+    },
+    "toast.guide.tourdone": {
+      "en": "Controller guide is off now. Bring it back any time from the quick menu.",
+      "text": "컨트롤러 가이드를 껐습니다. 언제든 퀵 메뉴에서 다시 켤 수 있어요."
+    },
+    "toast.hub.allfull": {
+      "en": "The hubs are full right now — try again in a few minutes.",
+      "text": "지금은 허브가 모두 가득 찼어요 — 몇 분 후 다시 시도하세요."
+    },
+    "toast.hub.fullredirect": {
+      "en": "{0} is full — taking you to {1}.",
+      "text": "{0}이(가) 가득 찼어요 — {1}(으)로 이동할게요."
+    },
+    "toast.hub.lost": {
+      "en": "Lost the hub connection — the hub may be updating. Try again in a minute.",
+      "text": "허브 연결이 끊겼어요 — 업데이트 중일 수 있어요. 1분 후 다시 시도하세요."
+    },
+    "toast.hub.mismatch": {
+      "en": "Hub and game versions don't match — update the game, or wait for the hub update.",
+      "text": "허브와 게임 버전이 맞지 않아요 — 게임을 업데이트하거나 허브 업데이트를 기다리세요."
+    },
+    "toast.hub.noanswer": {
+      "en": "Couldn't reach the hub — nothing answered. It may be restarting; try again in a minute.",
+      "text": "허브에 연결할 수 없어요 — 응답이 없어요. 재시작 중일 수 있으니 1분 후 다시 시도하세요."
+    },
+    "toast.hub.reason.update": {
+      "en": "for an update",
+      "text": "(업데이트)"
+    },
+    "toast.hub.restart1": {
+      "en": "Hub restarting in {0} minute {1}",
+      "text": "허브가 {0}분 후 재시작돼요 {1}"
+    },
+    "toast.hub.restartn": {
+      "en": "Hub restarting in {0} minutes {1}",
+      "text": "허브가 {0}분 후 재시작돼요 {1}"
+    },
+    "toast.hub.unreachable": {
+      "en": "Couldn't reach the hub — it may be restarting. Try again in a minute.",
+      "text": "허브에 연결할 수 없어요 — 재시작 중일 수 있어요. 1분 후 다시 시도하세요."
+    },
+    "toast.join.dlfailed": {
+      "en": "Could not download that world — you have not been moved",
+      "text": "그 월드를 다운로드할 수 없어요 — 이동하지 않았어요"
+    },
+    "toast.join.dlfailednamed": {
+      "en": "Could not download {0} — you have not been moved",
+      "text": "{0}을(를) 다운로드할 수 없어요 — 이동하지 않았어요"
+    },
+    "toast.join.failed": {
+      "en": "Couldn't join that session",
+      "text": "해당 세션에 참가할 수 없어요"
+    },
+    "toast.join.instanceclosed": {
+      "en": "That instance has closed — nobody is hosting this world right now",
+      "text": "해당 인스턴스가 종료됐어요 — 지금 이 월드를 호스트하는 사람이 없어요"
+    },
+    "toast.join.noanswer": {
+      "en": "Couldn't join that session — the host didn't answer. Try again in a moment.",
+      "text": "그 세션에 참가할 수 없어요 — 호스트가 응답하지 않았어요. 잠시 후 다시 시도하세요."
+    },
+    "toast.join.sessionclosed": {
+      "en": "That session has closed — refresh the list",
+      "text": "해당 세션이 종료됐어요 — 목록을 새로고침하세요"
+    },
+    "toast.migration.failed": {
+      "en": "The host left and no new host took over — you're on your own here now.",
+      "text": "호스트가 나갔고 새 호스트가 없어요 — 이제 여기엔 혼자예요."
+    },
+    "toast.migration.named": {
+      "en": "The host left — {0} is taking over. Reconnecting…",
+      "text": "호스트가 나갔어요 — {0} 님이 이어받아요. 다시 연결하는 중…"
+    },
+    "toast.migration.waiting": {
+      "en": "The host left — waiting for a new host…",
+      "text": "호스트가 나갔어요 — 새 호스트를 기다리는 중…"
+    },
+    "toast.migration.youarehost": {
+      "en": "The host left — you're the host now. Reloading the room…",
+      "text": "호스트가 나갔어요 — 이제 당신이 호스트예요. 방을 다시 불러오는 중…"
+    },
+    "toast.plate.dupegold": {
+      "en": "+{0} gold from {1} (you already own it)",
+      "text": "{1}에서 +{0} 골드 (이미 보유)"
+    },
+    "toast.plate.dupemaxed": {
+      "en": "You own {0}. Owned plate gold is maxed for today ({1}/{2})",
+      "text": "{0}은(는) 이미 가지고 있어요. 보유 플레이트 골드가 오늘 최대치예요 ({1}/{2})"
+    },
+    "toast.plate.new": {
+      "en": "You got a new head plate!",
+      "text": "새 헤드 플레이트를 얻었어요!"
+    },
+    "toast.portal.busy": {
+      "en": "You're already travelling — wait until you arrive to drop a portal",
+      "text": "이미 이동 중이에요 — 도착한 뒤에 포털을 놓으세요"
+    },
+    "toast.report.failed": {
+      "en": "Couldn't send the report right now. Please try again later.",
+      "text": "지금은 신고를 보낼 수 없어요. 나중에 다시 시도하세요."
+    },
+    "toast.report.missing": {
+      "en": "That report was missing something — please add more detail.",
+      "text": "신고에 빠진 내용이 있어요 — 더 자세히 적어 주세요."
+    },
+    "toast.report.moredetail": {
+      "en": "Please describe what happened in a little more detail.",
+      "text": "무슨 일이 있었는지 조금 더 자세히 적어 주세요."
+    },
+    "toast.report.noitem": {
+      "en": "That report is missing the item it is about.",
+      "text": "이 신고에는 대상 항목이 빠져 있어요."
+    },
+    "toast.report.noserver": {
+      "en": "Couldn't reach the server. Check your connection and try again.",
+      "text": "서버에 연결할 수 없어요. 연결을 확인하고 다시 시도하세요."
+    },
+    "toast.report.nosteamid": {
+      "en": "Couldn't read your Steam ID — are you signed in to Steam?",
+      "text": "Steam ID를 읽을 수 없어요 — Steam에 로그인했나요?"
+    },
+    "toast.report.notconfigured": {
+      "en": "Reporting isn't configured in this build.",
+      "text": "이 빌드에서는 신고 기능이 설정되어 있지 않아요."
+    },
+    "toast.report.pickplayer": {
+      "en": "Pick which player you're reporting.",
+      "text": "신고할 플레이어를 선택하세요."
+    },
+    "toast.report.ratelimited": {
+      "en": "You've sent several reports recently. Please wait a little while.",
+      "text": "최근에 신고를 여러 번 보냈어요. 잠시 기다려 주세요."
+    },
+    "toast.report.sent": {
+      "en": "Report sent — thank you.",
+      "text": "신고를 보냈어요 — 고마워요."
+    },
+    "toast.score.awardaway": {
+      "en": "Welcome back — you earned {0} gold while you were away!   Total: {1}",
+      "text": "다시 오신 걸 환영해요 — 없는 동안 {0} 골드를 벌었어요!   합계: {1}"
+    },
+    "toast.score.awardlive": {
+      "en": "+{0} gold!   Total: {1}",
+      "text": "+{0} 골드!   합계: {1}"
+    },
+    "toast.score.streakkeep": {
+      "en": "{0}-day streak · play today to keep it",
+      "text": "{0}일 연속 · 오늘 플레이해서 이어 가세요"
+    },
+    "toast.score.streakmore": {
+      "en": "{0}-day streak · {1} more {1}|plural(one=day,other=days) for +{2} gold",
+      "text": "{0}일 연속 · {1}일 더 하면 +{2} 골드"
+    },
+    "toast.score.streakpaid": {
+      "en": "{0}-day streak · +{1} gold at tonight's tally",
+      "text": "{0}일 연속 · 오늘 밤 집계 때 +{1} 골드"
+    },
+    "toast.seated.autoon": {
+      "en": "Looks like you are sitting, so seated mode is on and your avatar stays full size. Stand up to switch it off.",
+      "text": "앉아 있는 것 같아서 앉은 자세 모드를 켰어요. 아바타는 원래 크기로 유지돼요. 일어서면 꺼져요."
+    },
+    "toast.seated.fbt": {
+      "en": "Seated mode isn't needed with full-body trackers. Your trackers already sit you down.",
+      "text": "풀바디 트래커가 있으면 앉은 자세 모드가 필요 없어요. 트래커가 이미 앉혀 줘요."
+    },
+    "toast.seated.off": {
+      "en": "Seated mode off.",
+      "text": "앉은 자세 모드 꺼짐."
+    },
+    "toast.seated.on": {
+      "en": "Seated mode on. Sit comfortably and hold still for a second. Stand up to turn it off.",
+      "text": "앉은 자세 모드 켜짐. 편하게 앉아 1초만 가만히 있어 주세요. 일어서면 꺼져요."
+    },
+    "toast.seated.stoodup": {
+      "en": "You stood up, so seated mode is off.",
+      "text": "일어서서 앉은 자세 모드가 꺼졌어요."
+    },
+    "toast.seated.trackers": {
+      "en": "Trackers detected, seated mode is off.",
+      "text": "트래커가 감지되어 앉은 자세 모드가 꺼졌어요."
+    },
+    "toast.session.invitehost": {
+      "en": "Only the host can invite people to this session.",
+      "text": "이 세션에는 호스트만 초대할 수 있어요."
+    },
+    "toast.store.badreply": {
+      "en": "The store did not answer properly",
+      "text": "스토어가 제대로 응답하지 않았어요"
+    },
+    "toast.store.freepick": {
+      "en": "Your free plate pick is back: choose a new plate in Menu, Supporter",
+      "text": "무료 플레이트 선택권이 돌아왔어요: 메뉴, 서포터에서 새 플레이트를 고르세요"
+    },
+    "toast.store.gone": {
+      "en": "That item is gone",
+      "text": "그 아이템은 더 이상 없어요"
+    },
+    "toast.store.key": {
+      "en": "The store is unavailable (key)",
+      "text": "스토어를 사용할 수 없어요 (키)"
+    },
+    "toast.store.needdiamonds": {
+      "en": "You need {0} more diamonds",
+      "text": "다이아가 {0}개 더 필요해요"
+    },
+    "toast.store.needgold": {
+      "en": "You need {0} more gold",
+      "text": "골드가 {0} 더 필요해요"
+    },
+    "toast.store.offline": {
+      "en": "The store is offline right now",
+      "text": "지금은 스토어가 오프라인이에요"
+    },
+    "toast.store.owned": {
+      "en": "You already own that",
+      "text": "이미 가지고 있어요"
+    },
+    "toast.store.unreachable": {
+      "en": "The store is unreachable right now",
+      "text": "지금은 스토어에 연결할 수 없어요"
+    },
+    "toast.terms.howto.desk": {
+      "en": "To start: click I agree with the mouse.",
+      "text": "시작하려면: 마우스로 \"동의\"를 클릭하세요."
+    },
+    "toast.terms.howto.vr": {
+      "en": "To start: point a hand at I agree and pull the trigger. Either hand works.",
+      "text": "시작하려면: 손으로 \"동의\"를 가리키고 트리거를 당기세요. 어느 손이든 됩니다."
+    },
+    "toast.testmode.offline": {
+      "en": "Test launch — offline. Quit and start VR Realms normally to play online.",
+      "text": "테스트 실행 — 오프라인이에요. 온라인으로 플레이하려면 종료 후 VR Realms를 평소처럼 실행하세요."
+    },
+    "toast.voice.hostnudge": {
+      "en": "{0} joined your voice room — your mic is OFF. Turn it on in Settings → Microphone",
+      "text": "{0} 님이 음성 방에 들어왔어요 — 마이크가 꺼져 있어요. 설정 → 마이크에서 켜세요"
+    },
+    "toast.voice.micdisconnected": {
+      "en": "Your microphone is disconnected — pick another in Settings → Microphone",
+      "text": "마이크 연결이 끊겼어요 — 설정 → 마이크에서 다른 것을 고르세요"
+    },
+    "toast.voice.micfailed": {
+      "en": "Your microphone could not be opened — check Windows microphone privacy, or another app may be using it",
+      "text": "마이크를 열 수 없어요 — Windows 마이크 개인정보 설정을 확인하세요. 다른 앱이 사용 중일 수도 있어요"
+    },
+    "toast.voice.micoff": {
+      "en": "Your mic is OFF — turn it on in Settings → Microphone",
+      "text": "마이크가 꺼져 있어요 — 설정 → 마이크에서 켜세요"
+    },
+    "toast.voice.micsilent": {
+      "en": "Your microphone is open but silent — it may be muted in Windows, or be the wrong device",
+      "text": "마이크가 열려 있지만 소리가 없어요 — Windows에서 음소거됐거나 다른 장치일 수 있어요"
+    },
+    "tour.announce": {
+      "en": "New: a two-minute tour of the controls. Find it on the Home page of your menu.",
+      "text": "신규: 조작법 2분 투어. 메뉴의 홈 페이지에서 찾을 수 있어요."
+    },
+    "tour.both.friends": {
+      "en": "Invite a friend from Friends. It all runs through Steam, and the game is free, so anyone can join you.",
+      "text": "친구 목록에서 친구를 초대하세요. 모두 Steam으로 이루어지고 게임은 무료라 누구나 합류할 수 있어요."
+    },
+    "tour.both.gold": {
+      "en": "You earn gold just by playing. Join a group and you earn together. Spend it in the Store on plates and more.",
+      "text": "플레이만 해도 골드를 얻어요. 그룹에 가입하면 함께 벌어요. 스토어에서 플레이트 등에 쓰세요."
+    },
+    "tour.both.hub": {
+      "en": "The hub is always open. It is where everyone meets, and the boards there show the top players, groups and supporters. Pick the region nearest you and press Join Hub on Home.",
+      "text": "허브는 항상 열려 있어요. 모두가 만나는 곳이고, 보드에는 상위 플레이어, 그룹, 서포터가 표시돼요. 가장 가까운 지역을 고르고 홈에서 허브 참가를 누르세요."
+    },
+    "tour.both.ready": {
+      "en": "Your home is public by default, so your friends and anyone else can drop in. Want it to yourself? Settings, Comfort, Session visibility: Friends Only or Private. When you want people, the hub is waiting. One more thing: this is an alpha, so things will change a lot. Your feedback shapes it.",
+      "text": "홈은 기본적으로 공개라 친구든 누구든 들를 수 있어요. 혼자 쓰고 싶다면: 설정, 편안함, 세션 공개 범위: 친구만 또는 비공개. 사람이 그리우면 허브가 기다리고 있어요. 하나 더: 이건 알파라 많이 바뀔 거예요. 여러분의 피드백이 방향을 정해요."
+    },
+    "tour.both.wrong": {
+      "en": "Stuck or falling: quick menu, Respawn. Want out of anywhere: quick menu, Home. Someone bothering you: Nearby, Mute or Hide. Only you are affected.",
+      "text": "끼거나 떨어지면: 퀵 메뉴, 리스폰. 어디서든 나가고 싶으면: 퀵 메뉴, 홈. 누가 괴롭히면: 주변, 음소거 또는 숨기기. 나에게만 적용돼요."
+    },
+    "tour.chip": {
+      "en": "Tutorial",
+      "text": "튜토리얼"
+    },
+    "tour.chip.end": {
+      "en": "End tutorial",
+      "text": "튜토리얼 종료"
+    },
+    "tour.complete": {
+      "en": "Tour complete! Your gold for finishing arrives after tonight's tally.",
+      "text": "투어 완료! 완료 보상 골드는 오늘 밤 집계 후 지급돼요."
+    },
+    "tour.desk.chat": {
+      "en": "Press {Chat}, type, {Chat} again.",
+      "text": "{Chat}를 누르고 입력한 뒤 다시 {Chat}."
+    },
+    "tour.desk.grab": {
+      "en": "{Grab} the object on the table. {Use} to use it. {Interact} presses buttons and switches you look at.",
+      "text": "테이블 위 물건을 {Grab}. {Use}로 사용. {Interact}는 바라보는 버튼과 스위치를 눌러요."
+    },
+    "tour.desk.look": {
+      "en": "Move the mouse. This is your home.",
+      "text": "마우스를 움직여보세요. 여기가 내 홈이에요."
+    },
+    "tour.desk.menu": {
+      "en": "{Menu} opens it. Back takes you to Home.",
+      "text": "{Menu}로 열어요. 뒤로를 누르면 홈으로 가요."
+    },
+    "tour.desk.sprint": {
+      "en": "Hold {Sprint} while moving to run.",
+      "text": "이동 중에 {Sprint}를 누르고 있으면 달려요."
+    },
+    "tour.desk.talk": {
+      "en": "Press {Mic}. It turns your voice on or off for everyone.",
+      "text": "{Mic}를 누르세요. 모두에게 내 음성을 켜거나 꺼요."
+    },
+    "tour.desk.walk": {
+      "en": "{Move} to move. {Jump} to jump.",
+      "text": "{Move}로 이동. {Jump}로 점프."
+    },
+    "tour.desk.wheel": {
+      "en": "Press {Radial} to open the quick menu. Click what you want.",
+      "text": "{Radial}을 눌러 퀵 메뉴를 여세요. 원하는 항목을 클릭하세요."
+    },
+    "tour.desk.yours": {
+      "en": "Settings, Controls: rebind any key, sprint included. Settings, Comfort: turn and movement options. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "설정, 조작: 달리기를 포함해 어떤 키든 다시 지정할 수 있어요. 설정, 편안함: 회전과 이동 옵션. 언어: 메뉴 오른쪽 위의 지구본. 방송: 스트리머 모드는 이름과 성인 콘텐츠를 숨겨요."
+    },
+    "tour.hint.desk": {
+      "en": "Right Arrow: next   ·   End: end tour   ·   ALT: mouse",
+      "text": "오른쪽 화살표: 다음   ·   End: 투어 종료   ·   ALT: 마우스"
+    },
+    "tour.hint.vr": {
+      "en": "Point at a button and pull the trigger",
+      "text": "버튼을 가리키고 트리거를 당기세요"
+    },
+    "tour.kicker": {
+      "en": "TOUR",
+      "text": "투어"
+    },
+    "tour.label.end": {
+      "en": "End tour",
+      "text": "투어 종료"
+    },
+    "tour.label.mouse": {
+      "en": "Mouse",
+      "text": "마우스"
+    },
+    "tour.label.next": {
+      "en": "Next",
+      "text": "다음"
+    },
+    "tour.label.rightarrow": {
+      "en": "Right Arrow",
+      "text": "오른쪽 화살표"
+    },
+    "tour.label.skip": {
+      "en": "Skip",
+      "text": "건너뛰기"
+    },
+    "tour.offer.body": {
+      "en": "A few short cards: moving, your quick menu, voice, chat and the menu. Skip any of them, or end it at any time.",
+      "text": "짧은 카드 몇 장: 이동, 퀵 메뉴, 음성, 채팅, 메뉴. 아무 카드나 건너뛰거나 언제든 종료할 수 있어요."
+    },
+    "tour.offer.body.away": {
+      "en": "It uses the things in your own place to show you moving, your quick menu, voice, chat and the menu. Head there now and start?",
+      "text": "내 집에 있는 물건으로 이동, 퀵 메뉴, 음성, 채팅, 메뉴를 보여줘요. 지금 그곳으로 가서 시작할까요?"
+    },
+    "tour.offer.confirm": {
+      "en": "Start",
+      "text": "시작"
+    },
+    "tour.offer.title": {
+      "en": "Want a two-minute tour?",
+      "text": "2분 투어를 해볼까요?"
+    },
+    "tour.offer.title.away": {
+      "en": "The tour happens in your home",
+      "text": "투어는 내 홈에서 진행돼요"
+    },
+    "tour.side.left": {
+      "en": "left",
+      "text": "왼쪽"
+    },
+    "tour.side.right": {
+      "en": "right",
+      "text": "오른쪽"
+    },
+    "tour.t.friends": {
+      "en": "Bring friends",
+      "text": "친구 데려오기"
+    },
+    "tour.t.gold": {
+      "en": "Earn gold",
+      "text": "골드 획득"
+    },
+    "tour.t.grab": {
+      "en": "Pick something up",
+      "text": "물건 집기"
+    },
+    "tour.t.hub": {
+      "en": "The hub",
+      "text": "허브"
+    },
+    "tour.t.look": {
+      "en": "Look around",
+      "text": "둘러보기"
+    },
+    "tour.t.menu": {
+      "en": "Your menu",
+      "text": "내 메뉴"
+    },
+    "tour.t.move": {
+      "en": "Move",
+      "text": "이동"
+    },
+    "tour.t.ready": {
+      "en": "You're ready",
+      "text": "준비 완료"
+    },
+    "tour.t.sprint": {
+      "en": "Sprint",
+      "text": "달리기"
+    },
+    "tour.t.talk": {
+      "en": "Talk",
+      "text": "말하기"
+    },
+    "tour.t.turn": {
+      "en": "Turn",
+      "text": "회전"
+    },
+    "tour.t.walk": {
+      "en": "Walk",
+      "text": "걷기"
+    },
+    "tour.t.wheel": {
+      "en": "Your quick menu",
+      "text": "퀵 메뉴"
+    },
+    "tour.t.wrong": {
+      "en": "If something goes wrong",
+      "text": "문제가 생기면"
+    },
+    "tour.t.yours": {
+      "en": "Make it yours",
+      "text": "내 취향대로"
+    },
+    "tour.travel": {
+      "en": "Taking you home for the tour…",
+      "text": "투어를 위해 홈으로 이동 중…"
+    },
+    "tour.vr.chat": {
+      "en": "In the quick menu, pick Chat. Type on the floating keyboard and send.",
+      "text": "퀵 메뉴에서 채팅을 선택하세요. 떠 있는 키보드로 입력하고 보내세요."
+    },
+    "tour.vr.grab": {
+      "en": "Squeeze grip on the object on the table.",
+      "text": "테이블 위 물건에서 그립을 쥐세요."
+    },
+    "tour.vr.look": {
+      "en": "Turn your head. This is your home.",
+      "text": "고개를 돌려보세요. 여기가 내 홈이에요."
+    },
+    "tour.vr.menu": {
+      "en": "In the quick menu, pick Avatar. That is the full menu. Back takes you to Home.",
+      "text": "퀵 메뉴에서 아바타를 선택하세요. 그게 전체 메뉴예요. 뒤로를 누르면 홈으로 가요."
+    },
+    "tour.vr.move": {
+      "en": "Push the {MoveStick} stick.",
+      "text": "{MoveStick} 스틱을 밀어보세요."
+    },
+    "tour.vr.sprint": {
+      "en": "Click the {SprintStick} stick while moving to run. Click again, or stop, to walk.",
+      "text": "이동 중에 {SprintStick} 스틱을 눌러 달리세요. 다시 누르거나 멈추면 걷기로 돌아가요."
+    },
+    "tour.vr.talk": {
+      "en": "Press the top button on your {MicHand} hand. It turns your voice on or off for everyone.",
+      "text": "{MicHand} 손의 위쪽 버튼을 누르세요. 모두에게 내 음성을 켜거나 꺼요."
+    },
+    "tour.vr.turn": {
+      "en": "Flick the {TurnStick} stick left or right. Prefer smooth turning or other movement styles? Settings, Comfort.",
+      "text": "{TurnStick} 스틱을 좌우로 튕기세요. 부드러운 회전이나 다른 이동 방식을 원하면: 설정, 편안함."
+    },
+    "tour.vr.wheel": {
+      "en": "Click the {WheelStick} stick. The quick menu opens on your {WheelHand} hand. Point at it with your {LaserHand} hand and pull the trigger to pick.",
+      "text": "{WheelStick} 스틱을 누르세요. 퀵 메뉴가 {WheelHand} 손에 열려요. {LaserHand} 손으로 가리키고 트리거를 당겨 선택하세요."
+    },
+    "tour.vr.yours": {
+      "en": "Settings, Comfort: swap which hand walks and sprints, put the quick menu and mic button on the other hand, and set turning and movement to your liking. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "설정, 편안함: 걷기와 달리기 손을 바꾸고, 퀵 메뉴과 마이크 버튼을 반대 손에 두고, 회전과 이동을 취향대로 설정하세요. 언어: 메뉴 오른쪽 위의 지구본. 방송: 스트리머 모드는 이름과 성인 콘텐츠를 숨겨요."
+    },
+    "v3.avatars.favorites": {
+      "en": "Favorites",
+      "text": "즐겨찾기"
+    },
+    "v3.avatars.furry": {
+      "en": "Furry",
+      "text": "퍼리"
+    },
+    "v3.avatars.nomatch": {
+      "en": "No avatars match",
+      "text": "일치하는 아바타가 없습니다"
+    },
+    "v3.card.flashing": {
+      "en": "FLASHING LIGHTS",
+      "text": "번쩍이는 조명"
+    },
+    "v3.card.mature": {
+      "en": "MATURE THEMES",
+      "text": "성인 테마"
+    },
+    "v3.cat.community": {
+      "en": "Community",
+      "text": "커뮤니티"
+    },
+    "v3.chat.help": {
+      "en": "Type /help for chat commands",
+      "text": "채팅 명령어는 /help 입력"
+    },
+    "v3.common.all": {
+      "en": "All",
+      "text": "전체"
+    },
+    "v3.common.applied": {
+      "en": "Applied",
+      "text": "적용됨"
+    },
+    "v3.common.apply": {
+      "en": "Apply",
+      "text": "적용"
+    },
+    "v3.common.buy": {
+      "en": "Buy",
+      "text": "구매"
+    },
+    "v3.common.cancel": {
+      "en": "Cancel",
+      "text": "취소"
+    },
+    "v3.common.confirm": {
+      "en": "Confirm",
+      "text": "확인"
+    },
+    "v3.common.continue": {
+      "en": "Continue",
+      "text": "계속"
+    },
+    "v3.common.done": {
+      "en": "Done",
+      "text": "완료"
+    },
+    "v3.common.down": {
+      "en": "Down",
+      "text": "아래로"
+    },
+    "v3.common.near": {
+      "en": "Near",
+      "text": "근처"
+    },
+    "v3.common.new": {
+      "en": "NEW",
+      "text": "신규"
+    },
+    "v3.common.no": {
+      "en": "No",
+      "text": "아니요"
+    },
+    "v3.common.up": {
+      "en": "Up",
+      "text": "위로"
+    },
+    "v3.common.wip": {
+      "en": "WIP",
+      "text": "개발 중"
+    },
+    "v3.contract.agree": {
+      "en": "I agree",
+      "text": "동의합니다"
+    },
+    "v3.contract.hint": {
+      "en": "Read to the end, then agree to continue",
+      "text": "끝까지 읽은 뒤 동의하고 계속하세요"
+    },
+    "v3.contract.title": {
+      "en": "Terms of Service",
+      "text": "서비스 약관"
+    },
+    "v3.controls.category": {
+      "en": "CATEGORY",
+      "text": "카테고리"
+    },
+    "v3.controls.gamepad": {
+      "en": "Gamepad",
+      "text": "게임패드"
+    },
+    "v3.controls.hint": {
+      "en": "Click a key to change it. Right-click a key to clear it.",
+      "text": "키를 클릭해 변경하고, 우클릭해 해제하세요."
+    },
+    "v3.controls.keyboard": {
+      "en": "Keyboard / Mouse",
+      "text": "키보드 / 마우스"
+    },
+    "v3.controls.resetall": {
+      "en": "Reset All",
+      "text": "모두 재설정"
+    },
+    "v3.fbt.bodyfollows": {
+      "en": "Body follows head (turn off if your chest twists)",
+      "text": "몸이 머리를 따라감 (가슴이 뒤틀리면 끄세요)"
+    },
+    "v3.fbt.bodyturnspeed": {
+      "en": "Body turn speed",
+      "text": "몸 회전 속도"
+    },
+    "v3.fbt.calibtolerance": {
+      "en": "Calibration tolerance",
+      "text": "보정 허용치"
+    },
+    "v3.fbt.fadefeet": {
+      "en": "Fade feet to walk anim while moving",
+      "text": "이동 중 발을 걷기 애니메이션으로 전환"
+    },
+    "v3.fbt.footforward": {
+      "en": "Foot forward",
+      "text": "발 앞으로"
+    },
+    "v3.fbt.footheight": {
+      "en": "Foot height",
+      "text": "발 높이"
+    },
+    "v3.fbt.footsmoothing": {
+      "en": "Foot smoothing",
+      "text": "발 스무딩"
+    },
+    "v3.fbt.headlock": {
+      "en": "Head lock",
+      "text": "머리 고정"
+    },
+    "v3.fbt.hipforward": {
+      "en": "Hip forward",
+      "text": "골반 앞으로"
+    },
+    "v3.fbt.hipfreedom": {
+      "en": "Hip freedom",
+      "text": "골반 자유도"
+    },
+    "v3.fbt.hipheight": {
+      "en": "Hip height",
+      "text": "골반 높이"
+    },
+    "v3.fbt.hiplock": {
+      "en": "Hip lock",
+      "text": "골반 고정"
+    },
+    "v3.fbt.keepik": {
+      "en": "Keep IK on a lifted foot while moving",
+      "text": "이동 중 들린 발에 IK 유지"
+    },
+    "v3.fbt.kneewidth": {
+      "en": "Knee width",
+      "text": "무릎 너비"
+    },
+    "v3.fbt.leftfootturn": {
+      "en": "Left foot turn",
+      "text": "왼발 회전"
+    },
+    "v3.fbt.legstretch": {
+      "en": "Leg stretch limit",
+      "text": "다리 늘림 한계"
+    },
+    "v3.fbt.maxfootfromhead": {
+      "en": "Max foot from head",
+      "text": "머리에서 발 최대 거리"
+    },
+    "v3.fbt.maxfootsplit": {
+      "en": "Max foot height split",
+      "text": "발 높이 차 최대"
+    },
+    "v3.fbt.maxhiptravel": {
+      "en": "Max hip travel",
+      "text": "골반 최대 이동"
+    },
+    "v3.fbt.minfootbelowhips": {
+      "en": "Min foot below hips",
+      "text": "발이 골반 아래 최소"
+    },
+    "v3.fbt.minheadabovewaist": {
+      "en": "Min head above waist",
+      "text": "머리가 허리 위 최소"
+    },
+    "v3.fbt.minwaistabovefeet": {
+      "en": "Min waist above feet",
+      "text": "허리가 발 위 최소"
+    },
+    "v3.fbt.posturegate": {
+      "en": "Posture gate",
+      "text": "자세 게이트"
+    },
+    "v3.fbt.raisedfoot": {
+      "en": "Raised-foot threshold",
+      "text": "발 들림 임계값"
+    },
+    "v3.fbt.rightfootturn": {
+      "en": "Right foot turn",
+      "text": "오른발 회전"
+    },
+    "v3.fbt.stancewidth": {
+      "en": "Stance width",
+      "text": "자세 너비"
+    },
+    "v3.fbt.title": {
+      "en": "Full Body Tracking",
+      "text": "전신 트래킹"
+    },
+    "v3.groups.all": {
+      "en": "All groups",
+      "text": "모든 그룹"
+    },
+    "v3.groups.announce.hint": {
+      "en": "Welcome message…",
+      "text": "환영 메시지…"
+    },
+    "v3.groups.announce.sub": {
+      "en": "Optional. Shows for members when they open the group.",
+      "text": "선택 사항. 멤버가 그룹을 열 때 표시됩니다."
+    },
+    "v3.groups.announcement": {
+      "en": "Announcement",
+      "text": "공지"
+    },
+    "v3.groups.approve": {
+      "en": "Approve",
+      "text": "승인"
+    },
+    "v3.groups.ban": {
+      "en": "Ban",
+      "text": "차단"
+    },
+    "v3.groups.create": {
+      "en": "Create group",
+      "text": "그룹 만들기"
+    },
+    "v3.groups.delete": {
+      "en": "Delete group",
+      "text": "그룹 삭제"
+    },
+    "v3.groups.desc.hint": {
+      "en": "What is this group about?",
+      "text": "어떤 그룹인가요?"
+    },
+    "v3.groups.description": {
+      "en": "Description",
+      "text": "설명"
+    },
+    "v3.groups.freejoin": {
+      "en": "Free Join",
+      "text": "자유 가입"
+    },
+    "v3.groups.inviteonly": {
+      "en": "Invite-Only",
+      "text": "초대 전용"
+    },
+    "v3.groups.leave": {
+      "en": "Leave",
+      "text": "나가기"
+    },
+    "v3.groups.makemod": {
+      "en": "Make mod",
+      "text": "모드로 지정"
+    },
+    "v3.groups.memberscaninvite": {
+      "en": "Members can invite",
+      "text": "멤버가 초대 가능"
+    },
+    "v3.groups.membersettings": {
+      "en": "MEMBER SETTINGS",
+      "text": "멤버 설정"
+    },
+    "v3.groups.modscanannounce": {
+      "en": "Mods can announce",
+      "text": "모드가 공지 가능"
+    },
+    "v3.groups.modscanban": {
+      "en": "Mods can ban",
+      "text": "모드가 차단 가능"
+    },
+    "v3.groups.modscankick": {
+      "en": "Mods can kick",
+      "text": "모드가 추방 가능"
+    },
+    "v3.groups.modscanroles": {
+      "en": "Mods can change roles",
+      "text": "모드가 역할 변경 가능"
+    },
+    "v3.groups.modscanwarn": {
+      "en": "Mods can warn",
+      "text": "모드가 경고 가능"
+    },
+    "v3.groups.modsettings": {
+      "en": "MOD SETTINGS",
+      "text": "모드 설정"
+    },
+    "v3.groups.name": {
+      "en": "Group name",
+      "text": "그룹 이름"
+    },
+    "v3.groups.name.hint": {
+      "en": "e.g. Night Owls",
+      "text": "예: 올빼미족"
+    },
+    "v3.groups.nomatch": {
+      "en": "No groups match",
+      "text": "일치하는 그룹이 없습니다"
+    },
+    "v3.groups.privacy": {
+      "en": "Privacy",
+      "text": "공개 설정"
+    },
+    "v3.groups.privacy.hint": {
+      "en": "Locked after you create the group.",
+      "text": "그룹을 만든 후에는 변경할 수 없습니다."
+    },
+    "v3.groups.removemod": {
+      "en": "Remove mod",
+      "text": "모드 해제"
+    },
+    "v3.groups.request": {
+      "en": "Request",
+      "text": "요청"
+    },
+    "v3.groups.requested": {
+      "en": "Requested · cancel",
+      "text": "요청됨 · 취소"
+    },
+    "v3.groups.requesttojoin": {
+      "en": "Request to Join",
+      "text": "가입 요청"
+    },
+    "v3.groups.saveannounce": {
+      "en": "Save announcement",
+      "text": "공지 저장"
+    },
+    "v3.groups.tags": {
+      "en": "Tags",
+      "text": "태그"
+    },
+    "v3.groups.tags.hint": {
+      "en": "Up to 5. e.g. 18+, Anyone, Roleplay",
+      "text": "최대 5개. 예: 18+, 누구나, 롤플레이"
+    },
+    "v3.groups.tags.max": {
+      "en": "TAGS (MAX 5)",
+      "text": "태그 (최대 5개)"
+    },
+    "v3.groups.title": {
+      "en": "Groups",
+      "text": "그룹"
+    },
+    "v3.groups.warn": {
+      "en": "Warn",
+      "text": "경고"
+    },
+    "v3.groups.whocanjoin": {
+      "en": "Who can join",
+      "text": "가입 가능 대상"
+    },
+    "v3.groups.wip": {
+      "en": "Groups are new. Requests, approvals and mod tools just landed — tell us what breaks.",
+      "text": "그룹은 새 기능입니다. 가입 요청, 승인, 모드 도구가 막 추가되었습니다. 문제가 있으면 알려주세요."
+    },
+    "v3.header.discord": {
+      "en": "Discord",
+      "text": "Discord"
+    },
+    "v3.header.ea": {
+      "en": "EARLY ACCESS",
+      "text": "얼리 액세스"
+    },
+    "v3.header.quit": {
+      "en": "Quit",
+      "text": "종료"
+    },
+    "v3.header.tagline": {
+      "en": "HAVE FUN · EXPLORE · ENJOY",
+      "text": "즐기고 · 탐험하고 · 만끽하세요"
+    },
+    "v3.home.avatars.desc": {
+      "en": "Customize your look and express yourself.",
+      "text": "외모를 꾸미고 자신을 표현하세요."
+    },
+    "v3.home.chat.desc": {
+      "en": "Message your friends and the community.",
+      "text": "친구와 커뮤니티에 메시지를 보내세요."
+    },
+    "v3.home.discord": {
+      "en": "Join our Discord",
+      "text": "Discord 참여하기"
+    },
+    "v3.home.discord.sub": {
+      "en": "Events, updates and help · opens in your desktop browser",
+      "text": "이벤트, 소식, 도움말 · PC 브라우저에서 열립니다"
+    },
+    "v3.home.fbt.desc": {
+      "en": "Track your full body and move naturally.",
+      "text": "전신을 트래킹하고 자연스럽게 움직이세요."
+    },
+    "v3.home.fps": {
+      "en": "FPS",
+      "text": "FPS"
+    },
+    "v3.home.friends.desc": {
+      "en": "View your friends list and join them.",
+      "text": "친구 목록을 보고 합류하세요."
+    },
+    "v3.home.groups.desc": {
+      "en": "Create and join communities.",
+      "text": "커뮤니티를 만들고 참여하세요."
+    },
+    "v3.home.home": {
+      "en": "Home",
+      "text": "홈"
+    },
+    "v3.home.nearby.desc": {
+      "en": "See who's around you in real time.",
+      "text": "주변에 누가 있는지 실시간으로 확인하세요."
+    },
+    "v3.home.ping": {
+      "en": "Ping",
+      "text": "핑"
+    },
+    "v3.home.settings.desc": {
+      "en": "Adjust your experience and preferences.",
+      "text": "경험과 환경설정을 조정하세요."
+    },
+    "v3.home.store": {
+      "en": "Store",
+      "text": "스토어"
+    },
+    "v3.home.store.sub": {
+      "en": "Cosmetics, boosts & more",
+      "text": "코스메틱, 부스트 등"
+    },
+    "v3.home.supporter.sub": {
+      "en": "Exclusive perks & plates",
+      "text": "전용 특전과 플레이트"
+    },
+    "v3.home.worlds.desc": {
+      "en": "Explore new worlds and experiences.",
+      "text": "새로운 월드와 경험을 탐험하세요."
+    },
+    "v3.host.action": {
+      "en": "Action",
+      "text": "동작"
+    },
+    "v3.host.msg": {
+      "en": "Choose an action and visibility for this world.",
+      "text": "이 월드의 동작과 공개 범위를 선택하세요."
+    },
+    "v3.host.new": {
+      "en": "Host new instance",
+      "text": "새 인스턴스 호스팅"
+    },
+    "v3.host.portal": {
+      "en": "Drop portal to a new instance",
+      "text": "새 인스턴스로 포털 설치"
+    },
+    "v3.host.private": {
+      "en": "Private",
+      "text": "비공개"
+    },
+    "v3.host.public": {
+      "en": "Public",
+      "text": "공개"
+    },
+    "v3.host.title": {
+      "en": "Host or drop portal",
+      "text": "호스팅 또는 포털 설치"
+    },
+    "v3.host.visibility": {
+      "en": "Visibility",
+      "text": "공개 범위"
+    },
+    "v3.inbox": {
+      "en": "Inbox",
+      "text": "받은 편지함"
+    },
+    "v3.inbox.empty": {
+      "en": "Nothing new right now.",
+      "text": "지금은 새로운 것이 없습니다."
+    },
+    "v3.instance.applyban": {
+      "en": "Apply ban",
+      "text": "차단 적용"
+    },
+    "v3.instance.banhours": {
+      "en": "hours (0 = permanent)",
+      "text": "시간 (0 = 영구)"
+    },
+    "v3.instance.muteall": {
+      "en": "Mute All",
+      "text": "모두 음소거"
+    },
+    "v3.instance.people": {
+      "en": "PEOPLE HERE",
+      "text": "여기 있는 사람"
+    },
+    "v3.instance.title": {
+      "en": "Instance",
+      "text": "인스턴스"
+    },
+    "v3.modal.noundo": {
+      "en": "This action cannot be undone.",
+      "text": "이 작업은 되돌릴 수 없습니다."
+    },
+    "v3.modal.sure": {
+      "en": "Are you sure?",
+      "text": "정말 진행할까요?"
+    },
+    "v3.report.details": {
+      "en": "ADDITIONAL DETAILS (OPTIONAL)",
+      "text": "추가 정보 (선택)"
+    },
+    "v3.report.msg": {
+      "en": "Choose a reason for reporting this world.",
+      "text": "이 월드를 신고하는 이유를 선택하세요."
+    },
+    "v3.report.reason.perf": {
+      "en": "Low performance",
+      "text": "성능 저하"
+    },
+    "v3.report.reason.tags": {
+      "en": "Inappropriate tags (mature content)",
+      "text": "부적절한 태그 (성인 콘텐츠)"
+    },
+    "v3.report.send": {
+      "en": "Send report",
+      "text": "신고 보내기"
+    },
+    "v3.report.title": {
+      "en": "Report world",
+      "text": "월드 신고"
+    },
+    "v3.report.what": {
+      "en": "WHAT IS WRONG?",
+      "text": "무엇이 문제인가요?"
+    },
+    "v3.role.member": {
+      "en": "Member",
+      "text": "멤버"
+    },
+    "v3.role.mod": {
+      "en": "Mod",
+      "text": "모드"
+    },
+    "v3.role.owner": {
+      "en": "Owner",
+      "text": "소유자"
+    },
+    "v3.search.avatars": {
+      "en": "Search avatars…",
+      "text": "아바타 검색…"
+    },
+    "v3.search.friends": {
+      "en": "Search friends…",
+      "text": "친구 검색…"
+    },
+    "v3.search.groups": {
+      "en": "Search groups…",
+      "text": "그룹 검색…"
+    },
+    "v3.search.members": {
+      "en": "Search members…",
+      "text": "멤버 검색…"
+    },
+    "v3.search.people": {
+      "en": "Search people…",
+      "text": "사람 검색…"
+    },
+    "v3.search.players": {
+      "en": "Search players…",
+      "text": "플레이어 검색…"
+    },
+    "v3.settings.access.hdr": {
+      "en": "LANGUAGE & ACCESSIBILITY",
+      "text": "언어 및 접근성"
+    },
+    "v3.settings.avatarphysics": {
+      "en": "Avatar Physics",
+      "text": "아바타 물리"
+    },
+    "v3.settings.avatarphysics.sub": {
+      "en": "Tails, ears and hair swing on avatars. Turn off for comfort or on a slower PC.",
+      "text": "꼬리, 귀, 머리카락이 흔들립니다. 편안함이나 느린 PC에서는 끄세요."
+    },
+    "v3.settings.brightness": {
+      "en": "Brightness",
+      "text": "밝기"
+    },
+    "v3.settings.brightness.sub": {
+      "en": "Brighten or darken everything. 100% = the world as it was made.",
+      "text": "모든 것을 밝게 또는 어둡게 합니다. 100% = 만들어진 그대로의 월드."
+    },
+    "v3.settings.cambody": {
+      "en": "Upper Body",
+      "text": "상체"
+    },
+    "v3.settings.cambody.sub": {
+      "en": "Also moves your avatar's arms, shoulders and fingers.",
+      "text": "아바타의 팔, 어깨, 손가락도 움직입니다."
+    },
+    "v3.settings.camface": {
+      "en": "Face Only",
+      "text": "얼굴만"
+    },
+    "v3.settings.camface.sub": {
+      "en": "Your avatar's face, eyelids and eyes follow your webcam.",
+      "text": "아바타의 얼굴, 눈꺼풀, 눈이 웹캠을 따라갑니다."
+    },
+    "v3.settings.camhead": {
+      "en": "Face and Head Movement",
+      "text": "얼굴과 머리 움직임"
+    },
+    "v3.settings.camhead.sub": {
+      "en": "Also turns, nods and tilts your avatar's head with yours.",
+      "text": "아바타의 머리도 내 머리에 맞춰 돌리고, 끄덕이고, 기울입니다."
+    },
+    "v3.settings.controls": {
+      "en": "Controls",
+      "text": "조작"
+    },
+    "v3.settings.eyeavatar": {
+      "en": "Eye tracking: avatar eyes",
+      "text": "시선 추적: 아바타 눈"
+    },
+    "v3.settings.eyeavatar.sub": {
+      "en": "Your avatar's eyes follow where you look. Needs a headset with eye tracking.",
+      "text": "아바타의 눈이 내가 보는 곳을 따라갑니다. 시선 추적을 지원하는 헤드셋이 필요합니다."
+    },
+    "v3.settings.faceheadset": {
+      "en": "Headset Face Tracking",
+      "text": "헤드셋 얼굴 추적"
+    },
+    "v3.settings.faceheadset.sub": {
+      "en": "Your avatar's face follows your own. Needs a headset with face tracking.",
+      "text": "아바타의 얼굴이 내 얼굴을 따라갑니다. 얼굴 추적을 지원하는 헤드셋이 필요합니다."
+    },
+    "v3.settings.facetrack.hdr": {
+      "en": "FACE TRACKING",
+      "text": "얼굴 추적"
+    },
+    "v3.settings.fingertracking": {
+      "en": "Controller finger tracking",
+      "text": "컨트롤러 손가락 추적"
+    },
+    "v3.settings.fingertracking.sub": {
+      "en": "Your avatar's fingers follow your controller's finger sensors instead of the preset hand poses.",
+      "text": "아바타의 손가락이 미리 정해진 손 포즈 대신 컨트롤러의 손가락 센서를 따릅니다."
+    },
+    "v3.settings.fov": {
+      "en": "FIELD OF VIEW",
+      "text": "시야각"
+    },
+    "v3.settings.fov.sub": {
+      "en": "Desktop only. How wide the view is. Lower feels zoomed in, higher shows more at the edges.",
+      "text": "데스크톱 전용. 시야의 넓이. 낮으면 확대된 느낌, 높으면 가장자리가 더 보입니다."
+    },
+    "v3.settings.foveatedeyes": {
+      "en": "Eye tracking: foveated rendering",
+      "text": "시선 추적: 포비티드 렌더링"
+    },
+    "v3.settings.foveatedeyes.sub": {
+      "en": "With Foveated Rendering on, the sharp area follows your eyes.",
+      "text": "포비티드 렌더링이 켜져 있으면 선명한 영역이 시선을 따라갑니다."
+    },
+    "v3.settings.fpscap.sub": {
+      "en": "In VR at least 90 is used. Unlimited leaves it uncapped.",
+      "text": "VR에서는 최소 90이 적용됩니다. 무제한은 제한이 없습니다."
+    },
+    "v3.settings.fullscreen.sub": {
+      "en": "Desktop window only",
+      "text": "데스크톱 창에서만"
+    },
+    "v3.settings.guestinvite": {
+      "en": "Allow Guests to Invite",
+      "text": "게스트 초대 허용"
+    },
+    "v3.settings.guestinvite.sub": {
+      "en": "Let anyone here invite people. Off means only you can.",
+      "text": "여기 있는 누구나 초대할 수 있게 합니다. 끄면 나만 가능."
+    },
+    "v3.settings.hideavatars": {
+      "en": "Hide Custom Avatars",
+      "text": "커스텀 아바타 숨기기"
+    },
+    "v3.settings.hideavatars.sub": {
+      "en": "Show everyone as Quinn. Their real avatars come back when you turn this off.",
+      "text": "모두를 Quinn으로 표시. 끄면 원래 아바타로 돌아옵니다."
+    },
+    "v3.settings.invertmouse": {
+      "en": "Invert Mouse Look",
+      "text": "마우스 시점 반전"
+    },
+    "v3.settings.invertmouse.sub": {
+      "en": "Desktop only. Moving the mouse down looks up.",
+      "text": "데스크톱 전용. 마우스를 아래로 움직이면 위를 봅니다."
+    },
+    "v3.settings.invertpad": {
+      "en": "Invert Controller Look",
+      "text": "컨트롤러 시점 반전"
+    },
+    "v3.settings.invertpad.sub": {
+      "en": "Pushing the right stick down looks up.",
+      "text": "오른쪽 스틱을 아래로 밀면 위를 봅니다."
+    },
+    "v3.settings.language": {
+      "en": "Language",
+      "text": "언어"
+    },
+    "v3.settings.mousesens": {
+      "en": "MOUSE SENSITIVITY",
+      "text": "마우스 감도"
+    },
+    "v3.settings.mousesens.sub": {
+      "en": "Desktop only. How far the view turns for a given mouse movement.",
+      "text": "데스크톱 전용. 마우스 움직임에 따라 시점이 얼마나 도는지."
+    },
+    "v3.settings.music": {
+      "en": "Music",
+      "text": "음악"
+    },
+    "v3.settings.proxvoice": {
+      "en": "Proximity Voice",
+      "text": "근접 음성"
+    },
+    "v3.settings.proxvoice.sub": {
+      "en": "Voices fade with distance and muffle through walls",
+      "text": "거리가 멀수록 소리가 작아지고 벽을 통과하면 둔해집니다"
+    },
+    "v3.settings.radialhand": {
+      "en": "Laser on Right Hand",
+      "text": "레이저를 오른손에"
+    },
+    "v3.settings.radialhandsub": {
+      "en": "Laser on the right; quick menu and mic button on the left. Off: the other way round.",
+      "text": "레이저는 오른손, 퀵 메뉴와 마이크 버튼은 왼손. 끄면 반대로."
+    },
+    "v3.settings.resetall": {
+      "en": "Reset to default",
+      "text": "기본값으로 초기화"
+    },
+    "v3.settings.resetall.body": {
+      "en": "Audio, mic, graphics, comfort, colours and controls go back to how they started. Your language, streamer and privacy settings stay.",
+      "text": "오디오, 마이크, 그래픽, 편안함, 색상, 조작이 처음 상태로 돌아가요. 언어, 스트리머, 개인정보 설정은 그대로 유지돼요."
+    },
+    "v3.settings.resetall.confirm": {
+      "en": "Reset",
+      "text": "초기화"
+    },
+    "v3.settings.resetall.title": {
+      "en": "Reset all settings to default?",
+      "text": "모든 설정을 기본값으로 초기화할까요?"
+    },
+    "v3.settings.resetall.toast": {
+      "en": "Settings reset to default",
+      "text": "설정을 기본값으로 초기화했어요"
+    },
+    "v3.settings.resetgraphics": {
+      "en": "Reset graphics to defaults",
+      "text": "그래픽 기본값으로 재설정"
+    },
+    "v3.settings.sessionvis": {
+      "en": "Session Visibility",
+      "text": "세션 공개 범위"
+    },
+    "v3.settings.sessionvis.sub": {
+      "en": "Public: anyone can find and join. Friends Only: not listed, friends can join. Private: not listed, invite only.",
+      "text": "공개: 누구나 찾고 참가 가능. 친구만: 목록에 없고 친구만 참가. 비공개: 목록에 없고 초대만."
+    },
+    "v3.settings.streammature.hide": {
+      "en": "Streamer mode: hide mature avatars",
+      "text": "스트리머 모드: 성인 아바타 숨기기"
+    },
+    "v3.settings.streammature.hide.sub": {
+      "en": "Shows them as an orb instead. You can unhide anyone from Nearby.",
+      "text": "대신 구체로 표시합니다. 근처 목록에서 누구든 다시 표시할 수 있습니다."
+    },
+    "v3.settings.streammature.quinn": {
+      "en": "Streamer mode: mature avatars as Quinn",
+      "text": "스트리머 모드: 성인 아바타를 Quinn으로"
+    },
+    "v3.settings.streammature.quinn.sub": {
+      "en": "While streamer mode is on, other players' Mature Themes avatars show as Quinn.",
+      "text": "스트리머 모드가 켜져 있으면 다른 플레이어의 성인 테마 아바타가 Quinn으로 표시됩니다."
+    },
+    "v3.settings.swaphands.sub": {
+      "en": "Move the quick menu and Movement Mode to the other hand",
+      "text": "퀵 메뉴와 이동 모드를 다른 손으로"
+    },
+    "v3.settings.uisize": {
+      "en": "UI SIZE",
+      "text": "UI 크기"
+    },
+    "v3.settings.uisize.sub": {
+      "en": "Size of nameplates and on-screen notifications. Larger is easier to read in VR.",
+      "text": "이름표와 화면 알림의 크기. 클수록 VR에서 읽기 쉽습니다."
+    },
+    "v3.settings.voice3d": {
+      "en": "3D Voice",
+      "text": "3D 음성"
+    },
+    "v3.settings.voice3d.sub": {
+      "en": "Hear each voice from where that person is standing: behind you sounds behind you. Off: everyone sounds flat.",
+      "text": "각 목소리가 그 사람이 서 있는 곳에서 들립니다. 뒤에 있는 사람은 뒤에서 들립니다. 끄기: 모든 목소리가 평평하게 들립니다."
+    },
+    "v3.settings.webcam.hdr": {
+      "en": "WEBCAM TRACKING",
+      "text": "웹캠 추적"
+    },
+    "v3.settings.webcam.note": {
+      "en": "Desktop mode only. Pick one: each choice includes the ones above it. Your camera picture never leaves this PC.",
+      "text": "데스크톱 모드 전용입니다. 하나를 선택하세요. 각 선택은 위의 항목을 포함합니다. 카메라 영상은 이 PC 밖으로 나가지 않습니다."
+    },
+    "v3.store.companions": {
+      "en": "Companions",
+      "text": "동료"
+    },
+    "v3.store.cosmetics": {
+      "en": "Cosmetics",
+      "text": "코스메틱"
+    },
+    "v3.store.empty": {
+      "en": "The store is still in the works",
+      "text": "스토어는 준비 중입니다"
+    },
+    "v3.store.emptysub": {
+      "en": "Check back soon — new items are on the way.",
+      "text": "곧 다시 확인하세요. 새 아이템이 옵니다."
+    },
+    "v3.store.sub": {
+      "en": "Early Access deals — support development and look good doing it.",
+      "text": "얼리 액세스 특가 — 개발을 후원하면서 멋지게."
+    },
+    "v3.store.title": {
+      "en": "VR Realms Store",
+      "text": "VR Realms 스토어"
+    },
+    "v3.supporter.accent": {
+      "en": "Accent",
+      "text": "강조색"
+    },
+    "v3.supporter.active": {
+      "en": "Supporter active",
+      "text": "서포터 활성"
+    },
+    "v3.supporter.activesub": {
+      "en": "Quick access to favorites and menu colour customization.",
+      "text": "즐겨찾기 빠른 접근과 메뉴 색상 커스터마이즈."
+    },
+    "v3.supporter.background": {
+      "en": "Background",
+      "text": "배경"
+    },
+    "v3.supporter.collected": {
+      "en": "COLLECTED HEAD PLATES",
+      "text": "수집한 헤드 플레이트"
+    },
+    "v3.supporter.colours": {
+      "en": "MENU COLOURS",
+      "text": "메뉴 색상"
+    },
+    "v3.supporter.favavatars": {
+      "en": "FAVORITE AVATARS",
+      "text": "즐겨찾는 아바타"
+    },
+    "v3.supporter.favworlds": {
+      "en": "FAVORITE WORLDS",
+      "text": "즐겨찾는 월드"
+    },
+    "v3.supporter.locked": {
+      "en": "You have plates you cannot wear yet",
+      "text": "아직 착용할 수 없는 플레이트가 있습니다"
+    },
+    "v3.supporter.lockedsub": {
+      "en": "Supporters can wear any plate they have found and swap whenever they like. You also get 60 favorite avatars and worlds, plus menu colour customization.",
+      "text": "서포터는 찾은 플레이트를 자유롭게 착용하고 교체할 수 있습니다. 즐겨찾기 아바타·월드 60개와 메뉴 색상 커스터마이즈도 제공됩니다."
+    },
+    "v3.supporter.noavatars": {
+      "en": "No favorite avatars yet. Heart avatars to pin them here.",
+      "text": "아직 즐겨찾는 아바타가 없습니다. 하트를 눌러 여기에 고정하세요."
+    },
+    "v3.supporter.noplate": {
+      "en": "Wear no plate",
+      "text": "플레이트 없음"
+    },
+    "v3.supporter.noworlds": {
+      "en": "No favorite worlds yet. Heart worlds to pin them here.",
+      "text": "아직 즐겨찾는 월드가 없습니다. 하트를 눌러 여기에 고정하세요."
+    },
+    "v3.supporter.plates": {
+      "en": "PLATES",
+      "text": "플레이트"
+    },
+    "v3.supporter.platesnote": {
+      "en": "Every plate you find is yours to keep. Pick one to wear for free — choose carefully, it cannot be changed later. Supporters can wear any of them, and swap whenever they like.",
+      "text": "찾은 플레이트는 모두 내 것입니다. 무료로 하나를 골라 착용하세요. 나중에 바꿀 수 없으니 신중히 고르세요. 서포터는 아무거나 자유롭게 교체할 수 있습니다."
+    },
+    "v3.supporter.pricenote": {
+      "en": "Cancel anytime. Every plate you found stays yours.",
+      "text": "언제든 해지 가능. 찾은 플레이트는 계속 내 것."
+    },
+    "v3.supporter.resetcolours": {
+      "en": "Reset colours",
+      "text": "색상 초기화"
+    },
+    "v3.supporter.subscribe": {
+      "en": "$7 / month  ·  Become a Supporter",
+      "text": "월 $7  ·  서포터 되기"
+    },
+    "v3.tag.anyone": {
+      "en": "Anyone",
+      "text": "누구나"
+    },
+    "v3.tag.creators": {
+      "en": "Creators",
+      "text": "크리에이터"
+    },
+    "v3.tag.gaming": {
+      "en": "Gaming",
+      "text": "게임"
+    },
+    "v3.tag.social": {
+      "en": "Social",
+      "text": "소셜"
+    },
+    "v3.worlds.instances": {
+      "en": "Instances",
+      "text": "인스턴스"
+    },
+    "v3.worlds.noinstances": {
+      "en": "No active instances. Host one below.",
+      "text": "활성 인스턴스가 없습니다. 아래에서 호스팅하세요."
+    },
+    "v3.worlds.nomatch": {
+      "en": "No worlds match",
+      "text": "일치하는 월드가 없습니다"
+    },
+    "v3.worlds.singleplayer": {
+      "en": "Single Player",
+      "text": "싱글 플레이어"
+    },
+    "worlds.access": {
+      "en": "ACCESS",
+      "text": "접근"
+    },
+    "worlds.audience": {
+      "en": "AUDIENCE",
+      "text": "대상"
+    },
+    "worlds.capacity": {
+      "en": "CAPACITY",
+      "text": "수용 인원"
+    },
+    "worlds.dropportal": {
+      "en": "DROP PORTAL",
+      "text": "포털 설치"
+    },
+    "worlds.favonly": {
+      "en": "Favorites only",
+      "text": "즐겨찾기만"
+    },
+    "worlds.filters": {
+      "en": "Filters",
+      "text": "필터"
+    },
+    "worlds.gameworld": {
+      "en": "Game World",
+      "text": "게임 월드"
+    },
+    "worlds.horror": {
+      "en": "Horror",
+      "text": "호러"
+    },
+    "worlds.host": {
+      "en": "HOST",
+      "text": "호스트"
+    },
+    "worlds.hostnew": {
+      "en": "+  HOST NEW SESSION",
+      "text": "+  새 세션 호스트"
+    },
+    "worlds.hub.sub": {
+      "en": "The official VR Realms hub — everyone starts here",
+      "text": "VR Realms 공식 허브 — 모두 여기서 시작"
+    },
+    "worlds.hub.title": {
+      "en": "Join the Main HUB",
+      "text": "메인 허브 참가"
+    },
+    "worlds.install": {
+      "en": "INSTALL",
+      "text": "설치"
+    },
+    "worlds.maptype": {
+      "en": "MAP TYPE",
+      "text": "맵 유형"
+    },
+    "worlds.minigame": {
+      "en": "Minigame",
+      "text": "미니게임"
+    },
+    "worlds.personal": {
+      "en": "Personal",
+      "text": "개인용"
+    },
+    "worlds.report": {
+      "en": "REPORT",
+      "text": "신고"
+    },
+    "worlds.roleplay": {
+      "en": "Roleplay",
+      "text": "롤플레이"
+    },
+    "worlds.searchhint": {
+      "en": "Search worlds…",
+      "text": "월드 검색…"
+    },
+    "worlds.showcase": {
+      "en": "Showcase",
+      "text": "쇼케이스"
+    },
+    "worlds.socialhub": {
+      "en": "Social Hub",
+      "text": "소셜 허브"
+    },
+    "worlds.sort.players": {
+      "en": "Most Players",
+      "text": "플레이어 많은 순"
+    },
+    "worlds.sort.popular": {
+      "en": "Most Popular",
+      "text": "인기순"
+    },
+    "worlds.sort.recent": {
+      "en": "Most Recent",
+      "text": "최신순"
+    },
+    "worlds.sort.toprated": {
+      "en": "Top Rated All Time",
+      "text": "역대 최고 평점"
+    },
+    "worlds.sort.updated": {
+      "en": "Last Updated",
+      "text": "최근 업데이트순"
+    },
+    "worlds.sortby": {
+      "en": "Sort by",
+      "text": "정렬"
+    },
+    "ws.nosend": {
+      "en": "Steam is not sending avatars right now. They will show up when it does.",
+      "text": "Steam이 지금 아바타를 보내지 않고 있어요. 보내 주면 표시돼요."
+    }
+  }
+}

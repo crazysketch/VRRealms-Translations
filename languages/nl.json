@@ -1,0 +1,4375 @@
+{
+  "language": "Nederlands",
+  "code": "nl",
+  "column": "dutch",
+  "strings": {
+    "ach.arcaderegular": {
+      "en": "Arcade Regular",
+      "text": "Arcade-stamgast"
+    },
+    "ach.avatarmaker": {
+      "en": "Avatar Maker",
+      "text": "Avatarmaker"
+    },
+    "ach.collector": {
+      "en": "Collector",
+      "text": "Verzamelaar"
+    },
+    "ach.competitor": {
+      "en": "Competitor",
+      "text": "Mededinger"
+    },
+    "ach.ffawin": {
+      "en": "Last One Standing",
+      "text": "De laatste die overeind staat"
+    },
+    "ach.fullhouse": {
+      "en": "Full House",
+      "text": "Volle bak"
+    },
+    "ach.goldrush": {
+      "en": "Gold Rush",
+      "text": "Goudkoorts"
+    },
+    "ach.guidedtour": {
+      "en": "Guided Tour",
+      "text": "Rondleiding"
+    },
+    "ach.helpinghand": {
+      "en": "Helping Hand",
+      "text": "Helpende hand"
+    },
+    "ach.label": {
+      "en": "ACHIEVEMENT UNLOCKED",
+      "text": "PRESTATIE ONTGRENDELD"
+    },
+    "ach.numberone": {
+      "en": "Number One",
+      "text": "Nummer één"
+    },
+    "ach.ontheboard": {
+      "en": "On the Board",
+      "text": "Op het scorebord"
+    },
+    "ach.poolshark": {
+      "en": "Pool Shark",
+      "text": "Poolhaai"
+    },
+    "ach.rackemup": {
+      "en": "Rack 'Em Up",
+      "text": "Zet de ballen klaar"
+    },
+    "ach.roadtrip": {
+      "en": "Road Trip",
+      "text": "Samen op reis"
+    },
+    "ach.saycheese": {
+      "en": "Say Cheese",
+      "text": "Zeg cheese"
+    },
+    "ach.teamwin": {
+      "en": "Hold the Line",
+      "text": "Houd de linie"
+    },
+    "ach.treatyourself": {
+      "en": "Treat Yourself",
+      "text": "Verwen jezelf"
+    },
+    "ach.welcome": {
+      "en": "Welcome to VR Realms",
+      "text": "Welkom bij VR Realms"
+    },
+    "ach.worldbuilder": {
+      "en": "World Builder",
+      "text": "Wereldbouwer"
+    },
+    "ach.worldtour": {
+      "en": "World Tour",
+      "text": "Wereldtournee"
+    },
+    "arcade.exitkey": {
+      "en": "E - EXIT",
+      "text": "E - STOPPEN"
+    },
+    "arcade.exitpad": {
+      "en": "X - EXIT",
+      "text": "X - STOPPEN"
+    },
+    "arcade.exitvr": {
+      "en": "A / X - EXIT",
+      "text": "A / X - STOPPEN"
+    },
+    "arcade.movekey": {
+      "en": "WASD - MOVE     SPACE - FIRE",
+      "text": "WASD - BEWEGEN     SPATIE - VUREN"
+    },
+    "arcade.movepad": {
+      "en": "STICK - MOVE     A - FIRE",
+      "text": "STICK - BEWEGEN     A - VUREN"
+    },
+    "arcade.movevr": {
+      "en": "STICK - MOVE     TRIGGER - FIRE",
+      "text": "STICK - BEWEGEN     TREKKER - VUREN"
+    },
+    "arcade.needgold": {
+      "en": "You need {0} more gold to play.",
+      "text": "Je hebt nog {0} goud nodig om te spelen."
+    },
+    "arcade.nogold": {
+      "en": "Not enough gold to play.",
+      "text": "Niet genoeg goud om te spelen."
+    },
+    "arcade.notsaved": {
+      "en": "That score could not be saved.",
+      "text": "Die score kon niet worden opgeslagen."
+    },
+    "arcade.stepup": {
+      "en": "Step up to the arcade machine to play.",
+      "text": "Ga voor de arcadekast staan om te spelen."
+    },
+    "avatars.anime": {
+      "en": "Anime",
+      "text": "Anime"
+    },
+    "avatars.blendshapes": {
+      "en": "Blend Shapes",
+      "text": "Blend shapes"
+    },
+    "avatars.chibi": {
+      "en": "Chibi",
+      "text": "Chibi"
+    },
+    "avatars.creature": {
+      "en": "Creature",
+      "text": "Wezen"
+    },
+    "avatars.fantasy": {
+      "en": "Fantasy",
+      "text": "Fantasy"
+    },
+    "avatars.humanoid": {
+      "en": "Humanoid",
+      "text": "Humanoïde"
+    },
+    "avatars.personal": {
+      "en": "Personal",
+      "text": "Persoonlijk"
+    },
+    "avatars.realistic": {
+      "en": "Realistic",
+      "text": "Realistisch"
+    },
+    "avatars.scifi": {
+      "en": "Sci-Fi",
+      "text": "Sci-Fi"
+    },
+    "avatars.style": {
+      "en": "AVATAR STYLE",
+      "text": "AVATARSTIJL"
+    },
+    "avatars.stylized": {
+      "en": "Stylized",
+      "text": "Gestileerd"
+    },
+    "board.avatar": {
+      "en": "avatar",
+      "text": "avatar"
+    },
+    "board.avatars": {
+      "en": "avatars",
+      "text": "avatars"
+    },
+    "board.by": {
+      "en": "by",
+      "text": "door"
+    },
+    "board.events": {
+      "en": "UPCOMING EVENTS",
+      "text": "AANKOMENDE EVENEMENTEN"
+    },
+    "board.lastmonth": {
+      "en": "last month",
+      "text": "vorige maand"
+    },
+    "board.lifetime": {
+      "en": "lifetime",
+      "text": "totaal"
+    },
+    "board.live": {
+      "en": "LIVE",
+      "text": "LIVE"
+    },
+    "board.loading": {
+      "en": "Loading…",
+      "text": "Laden…"
+    },
+    "board.map": {
+      "en": "map",
+      "text": "kaart"
+    },
+    "board.maps": {
+      "en": "maps",
+      "text": "kaarten"
+    },
+    "board.members": {
+      "en": "members",
+      "text": "leden"
+    },
+    "board.n.gold": {
+      "en": "{0} gold",
+      "text": "{0} goud"
+    },
+    "board.n.subs": {
+      "en": "{0} subs",
+      "text": "{0} abonnees"
+    },
+    "board.noevents": {
+      "en": "No events scheduled",
+      "text": "Geen evenementen gepland"
+    },
+    "board.nogold": {
+      "en": "No gold yet",
+      "text": "Nog geen goud"
+    },
+    "board.nogroupgold": {
+      "en": "No group gold yet",
+      "text": "Nog geen groepsgoud"
+    },
+    "board.nothing": {
+      "en": "Nothing here yet",
+      "text": "Nog niets hier"
+    },
+    "board.soon": {
+      "en": "soon",
+      "text": "binnenkort"
+    },
+    "board.thismonth": {
+      "en": "this month",
+      "text": "deze maand"
+    },
+    "board.topavatars": {
+      "en": "TOP AVATARS",
+      "text": "TOPAVATARS"
+    },
+    "board.topcreators": {
+      "en": "TOP CREATORS",
+      "text": "TOPMAKERS"
+    },
+    "board.topgold": {
+      "en": "GOLD LEADERS",
+      "text": "GOUD-KOPLOPERS"
+    },
+    "board.topgroups": {
+      "en": "TOP GROUPS",
+      "text": "TOPGROEPEN"
+    },
+    "board.topworlds": {
+      "en": "TOP WORLDS",
+      "text": "TOPWERELDEN"
+    },
+    "bots.auto": {
+      "en": "AUTO",
+      "text": "AUTO"
+    },
+    "bots.now.auto": {
+      "en": "Now: AUTO. One droid ({0}) keeps you company while you are alone here, and leaves when somebody joins.",
+      "text": "Nu: AUTO. Eén droid ({0}) houdt je hier gezelschap zolang je alleen bent, en vertrekt zodra er iemand bijkomt."
+    },
+    "bots.now.many": {
+      "en": "Now: {0} droids ({1}), until you remove them.",
+      "text": "Nu: {0} droids ({1}), totdat je ze verwijdert."
+    },
+    "bots.now.none": {
+      "en": "Now: no bots.",
+      "text": "Nu: geen bots."
+    },
+    "bots.now.one": {
+      "en": "Now: one droid ({0}), until you remove it.",
+      "text": "Nu: één droid ({0}), totdat je hem verwijdert."
+    },
+    "bots.row.angle": {
+      "en": "Gun Angle (VR)",
+      "text": "Wapenhoek (VR)"
+    },
+    "bots.row.angledesc": {
+      "en": "Turns the barrel up or down in your hand, so a gun points where your controller's trigger feels right.",
+      "text": "Draait de loop in je hand omhoog of omlaag, zodat een wapen wijst waar de trekker van je controller goed aanvoelt."
+    },
+    "bots.row.botsdesc": {
+      "en": "Droids to fight in a world that has a gun match. Up to 9. AUTO: one keeps you company while you are alone.",
+      "text": "Droids om tegen te vechten in een wereld met een wapenwedstrijd. Tot 9. AUTO: één houdt je gezelschap zolang je alleen bent."
+    },
+    "bots.row.guns": {
+      "en": "GUNS",
+      "text": "WAPENS"
+    },
+    "bots.row.header": {
+      "en": "GUN BOTS",
+      "text": "WAPENBOTS"
+    },
+    "bots.row.level": {
+      "en": "Bot Level",
+      "text": "Botniveau"
+    },
+    "bots.row.leveldesc": {
+      "en": "How well they aim, how fast they shoot, and whether they sprint and jump.",
+      "text": "Hoe goed ze mikken, hoe snel ze schieten en of ze sprinten en springen."
+    },
+    "bots.row.now": {
+      "en": "Bots Now",
+      "text": "Bots nu"
+    },
+    "bots.row.remove": {
+      "en": "REMOVE BOTS",
+      "text": "BOTS VERWIJDEREN"
+    },
+    "bots.row.spawn": {
+      "en": "SPAWN BOTS",
+      "text": "BOTS SPAWNEN"
+    },
+    "bots.toast.auto": {
+      "en": "A droid keeps you company while you are alone. Go to Settings > Host to add or remove bots (up to 9).",
+      "text": "Een droid houdt je gezelschap zolang je alleen bent. Ga naar Instellingen > Host om bots toe te voegen of te verwijderen (tot 9)."
+    },
+    "bots.toast.host": {
+      "en": "Go to Settings > Host to add or remove bots (up to 9, three levels).",
+      "text": "Ga naar Instellingen > Host om bots toe te voegen of te verwijderen (tot 9, drie niveaus)."
+    },
+    "build.lost": {
+      "en": "Connection lost. This VR Realms is out of date: close the game and let Steam update it.",
+      "text": "Verbinding verbroken. Deze versie van VR Realms is verouderd: sluit de game en laat Steam hem bijwerken."
+    },
+    "build.tooold": {
+      "en": "A newer VR Realms is out, and the hub needs it. Close the game and let Steam update it.",
+      "text": "Er is een nieuwere versie van VR Realms uit, en de hub heeft die nodig. Sluit de game en laat Steam hem bijwerken."
+    },
+    "call.aplayer": {
+      "en": "A player",
+      "text": "Een speler"
+    },
+    "call.aworld": {
+      "en": "a world",
+      "text": "een wereld"
+    },
+    "call.box.home": {
+      "en": "{0} invites everyone to hang out",
+      "text": "{0} nodigt iedereen uit om te komen chillen"
+    },
+    "call.box.notnow": {
+      "en": "NOT NOW",
+      "text": "NU NIET"
+    },
+    "call.box.tag": {
+      "en": "CALL TO PLAY",
+      "text": "OPROEP OM TE SPELEN"
+    },
+    "call.box.world": {
+      "en": "{0} is calling everyone to play",
+      "text": "{0} roept iedereen op om te spelen"
+    },
+    "call.chat.home": {
+      "en": "{0} invites everyone to hang out at their home. To join: the gold row in your quick menu.",
+      "text": "{0} nodigt iedereen uit om thuis langs te komen. Meedoen: de gouden regel in je snelmenu."
+    },
+    "call.chat.world": {
+      "en": "{0} is calling everyone to play in {1}. To join: the gold row in your quick menu.",
+      "text": "{0} roept iedereen op om te spelen in {1}. Meedoen: de gouden regel in je snelmenu."
+    },
+    "call.confirm.left": {
+      "en": "{0} OF {1} CALLS LEFT TODAY",
+      "text": "VANDAAG NOG {0} VAN {1} OPROEPEN OVER"
+    },
+    "call.confirm.notice": {
+      "en": "EVERYONE IN THE GAME GETS NOTIFIED",
+      "text": "IEDEREEN IN DE GAME KRIJGT EEN MELDING"
+    },
+    "call.confirm.title": {
+      "en": "CALL EVERYONE?",
+      "text": "IEDEREEN OPROEPEN?"
+    },
+    "call.confirm.yes": {
+      "en": "YES, CALL EVERYONE",
+      "text": "JA, IEDEREEN OPROEPEN"
+    },
+    "call.daydone": {
+      "en": "You have called everyone today already. Your next call: in {0}.",
+      "text": "Je hebt vandaag al iedereen opgeroepen. Je volgende oproep: over {0}."
+    },
+    "call.fullgame": {
+      "en": "{0}'s game is full right now.",
+      "text": "De game van {0} is nu vol."
+    },
+    "call.fullhome": {
+      "en": "{0}'s home is full right now.",
+      "text": "Het huis van {0} is nu vol."
+    },
+    "call.gap": {
+      "en": "A call went out a little while ago. The next one can go out in {0}.",
+      "text": "Er ging net een oproep uit. De volgende kan over {0}."
+    },
+    "call.homeof": {
+      "en": "{0}'s home",
+      "text": "Het huis van {0}"
+    },
+    "call.hourmin": {
+      "en": "1 hour {0} min",
+      "text": "1 uur {0} min"
+    },
+    "call.hours": {
+      "en": "{0} hours",
+      "text": "{0} uur"
+    },
+    "call.joining": {
+      "en": "Joining {0}...",
+      "text": "Meedoen met {0}..."
+    },
+    "call.lookgame": {
+      "en": "Looking for {0}'s game...",
+      "text": "Zoeken naar de game van {0}..."
+    },
+    "call.lookhome": {
+      "en": "Looking for {0}'s home...",
+      "text": "Zoeken naar het huis van {0}..."
+    },
+    "call.nogame": {
+      "en": "Could not find {0}'s game. It may be full, private or closed.",
+      "text": "Kon de game van {0} niet vinden. Die is misschien vol, privé of gesloten."
+    },
+    "call.nohome": {
+      "en": "Could not find {0}'s home. It may be full, private or closed.",
+      "text": "Kon het huis van {0} niet vinden. Het is misschien vol, privé of gesloten."
+    },
+    "call.nosite": {
+      "en": "The call could not be sent: VR Realms did not answer. Try again in a moment.",
+      "text": "De oproep kon niet worden verstuurd: VR Realms gaf geen antwoord. Probeer het zo opnieuw."
+    },
+    "call.nosteam": {
+      "en": "The call could not be sent: the game is not signed in to Steam.",
+      "text": "De oproep kon niet worden verstuurd: de game is niet aangemeld bij Steam."
+    },
+    "call.nothost": {
+      "en": "VR Realms does not know yet that you are hosting. Try again in a minute.",
+      "text": "VR Realms weet nog niet dat je host. Probeer het over een minuut opnieuw."
+    },
+    "call.off": {
+      "en": "Calls are switched off right now.",
+      "text": "Oproepen staan nu uit."
+    },
+    "call.openfor": {
+      "en": "Your call is open for another {0}. Players who said yes so far: {1}.",
+      "text": "Je oproep staat nog {0} open. Spelers die tot nu toe ja zeiden: {1}."
+    },
+    "call.otheropen": {
+      "en": "Somebody else's call is open right now. Try again in {0}.",
+      "text": "De oproep van iemand anders staat nu open. Probeer het over {0} opnieuw."
+    },
+    "call.out": {
+      "en": "Your call is out. Everyone in the game sees it within a minute, and it stays open for {0} minutes.",
+      "text": "Je oproep is verstuurd. Iedereen in de game ziet hem binnen een minuut, en hij blijft {0} minuten open."
+    },
+    "call.over1": {
+      "en": "Your call is over. 1 player said yes.",
+      "text": "Je oproep is voorbij. 1 speler zei ja."
+    },
+    "call.overn": {
+      "en": "Your call is over. {0} players said yes.",
+      "text": "Je oproep is voorbij. {0} spelers zeiden ja."
+    },
+    "call.refused": {
+      "en": "The call was refused.",
+      "text": "De oproep is geweigerd."
+    },
+    "call.row.call": {
+      "en": "CALL EVERYONE",
+      "text": "IEDEREEN OPROEPEN"
+    },
+    "call.row.in": {
+      "en": "CALL EVERYONE · IN {0}",
+      "text": "IEDEREEN OPROEPEN · OVER {0}"
+    },
+    "call.row.join": {
+      "en": "JOIN {0}'S CALL",
+      "text": "OPROEP VAN {0}: MEEDOEN"
+    },
+    "call.row.out": {
+      "en": "YOUR CALL IS OUT · {0}",
+      "text": "JE OPROEP IS VERSTUURD · {0}"
+    },
+    "call.row.press": {
+      "en": "PRESS AGAIN TO CALL",
+      "text": "DRUK NOG EENS OM OP TE ROEPEN"
+    },
+    "call.stays": {
+      "en": "{0}'s call stays in your quick menu until it is over.",
+      "text": "De oproep van {0} blijft in je snelmenu staan tot hij voorbij is."
+    },
+    "call.test": {
+      "en": "That was a test call: there is nothing to join.",
+      "text": "Dat was een testoproep: je kunt nergens aan meedoen."
+    },
+    "call.yes1": {
+      "en": "1 player said yes to your call.",
+      "text": "1 speler zei ja op je oproep."
+    },
+    "call.yesn": {
+      "en": "{0} players said yes to your call.",
+      "text": "{0} spelers zeiden ja op je oproep."
+    },
+    "cam.dock.drone": {
+      "en": "Screen: On Drone",
+      "text": "Scherm: op drone"
+    },
+    "cam.dock.hud": {
+      "en": "Screen: Corner",
+      "text": "Scherm: hoek"
+    },
+    "cam.dock.left": {
+      "en": "Screen: Left",
+      "text": "Scherm: links"
+    },
+    "cam.dock.off": {
+      "en": "Screen: Hidden",
+      "text": "Scherm: verborgen"
+    },
+    "cam.dock.right": {
+      "en": "Screen: Right",
+      "text": "Scherm: rechts"
+    },
+    "cam.exposure.bright": {
+      "en": "Exposure: Bright",
+      "text": "Belichting: helder"
+    },
+    "cam.exposure.brighter": {
+      "en": "Exposure: Brighter",
+      "text": "Belichting: helderder"
+    },
+    "cam.exposure.max": {
+      "en": "Exposure: Max",
+      "text": "Belichting: max"
+    },
+    "cam.exposure.normal": {
+      "en": "Exposure: Normal",
+      "text": "Belichting: normaal"
+    },
+    "cam.hint.alt": {
+      "en": "Press ALT to use the mouse",
+      "text": "Druk op ALT om de muis te gebruiken"
+    },
+    "cam.hint.flymouse": {
+      "en": "MOUSE MODE — ALT to fly again · ESC exits Free Fly",
+      "text": "MUISMODUS — ALT om weer te vliegen · ESC verlaat Vrije Vlucht"
+    },
+    "cam.hint.flymousepad": {
+      "en": "MOUSE MODE — LB to fly again · Start exits Free Fly",
+      "text": "MUISMODUS — LB om weer te vliegen · Start verlaat Vrije Vlucht"
+    },
+    "cam.hint.freefly": {
+      "en": "FREE FLY — WASD move · Q/E height · mouse look · ALT for cursor · ESC to exit",
+      "text": "VRIJE VLUCHT — WASD bewegen · Q/E hoogte · muis kijken · ALT cursor · ESC afsluiten"
+    },
+    "cam.hint.freeflypad": {
+      "en": "FREE FLY — left stick move · triggers height · right stick look · LB for cursor · Start to exit",
+      "text": "VRIJE VLUCHT — linkerstick bewegen · triggers hoogte · rechterstick kijken · LB cursor · Start afsluiten"
+    },
+    "cam.hint.lb": {
+      "en": "Press LB to use the mouse",
+      "text": "Druk op LB om de muis te gebruiken"
+    },
+    "cam.hint.mouseon": {
+      "en": "MOUSE MODE — press ALT to give the mouse back",
+      "text": "MUISMODUS — druk op ALT om de muis terug te geven"
+    },
+    "cam.hint.mouseonpad": {
+      "en": "MOUSE MODE — press LB to give the mouse back",
+      "text": "MUISMODUS — druk op LB om de muis terug te geven"
+    },
+    "cam.mode.followbehind": {
+      "en": "Follow Behind",
+      "text": "Volgen achter"
+    },
+    "cam.mode.followfront": {
+      "en": "Follow Front",
+      "text": "Volgen voor"
+    },
+    "cam.mode.freefly": {
+      "en": "Free Fly",
+      "text": "Vrije vlucht"
+    },
+    "cam.mode.orbit": {
+      "en": "Orbit",
+      "text": "Baan"
+    },
+    "cam.mode.tripod": {
+      "en": "Tripod",
+      "text": "Statief"
+    },
+    "cam.toast.freeflyhold": {
+      "en": "FREE FLY  —  squeeze GRIP to exit",
+      "text": "VRIJE VLUCHT  —  knijp GRIP om te stoppen"
+    },
+    "cam.toast.freeflyon": {
+      "en": "FREE FLY — sticks steer the camera, grip to exit",
+      "text": "VRIJE VLUCHT — sticks sturen de camera, grip om te stoppen"
+    },
+    "cam.toast.modenow": {
+      "en": "Camera: {0}",
+      "text": "Camera: {0}"
+    },
+    "chat.comingonline": {
+      "en": "Chat coming online — messages will appear here.",
+      "text": "Chat komt online – berichten verschijnen hier."
+    },
+    "chat.deskhint": {
+      "en": "Type a message…  (Enter to send)",
+      "text": "Typ een bericht…  (Enter om te verzenden)"
+    },
+    "chat.hint.desk": {
+      "en": "Click or press Enter to chat",
+      "text": "Klik of druk op Enter om te chatten"
+    },
+    "chat.hint.vr": {
+      "en": "Tap to type…",
+      "text": "Tik om te typen…"
+    },
+    "chat.openkeyboard": {
+      "en": "Open the keyboard to type…",
+      "text": "Open het toetsenbord om te typen…"
+    },
+    "chat.reminder": {
+      "en": "Press Enter to chat",
+      "text": "Enter om te chatten"
+    },
+    "chat.translate.busy": {
+      "en": "Translation is busy. Try again later",
+      "text": "Vertalen is druk. Probeer het later opnieuw"
+    },
+    "chat.translate.failed": {
+      "en": "Could not translate. Tap to retry",
+      "text": "Vertalen mislukt. Tik om opnieuw te proberen"
+    },
+    "chat.translate.link": {
+      "en": "Translate",
+      "text": "Vertalen"
+    },
+    "chat.translate.original": {
+      "en": "Show original",
+      "text": "Origineel tonen"
+    },
+    "chat.translate.pending": {
+      "en": "Translating…",
+      "text": "Bezig met vertalen…"
+    },
+    "chat.translate.same": {
+      "en": "Already in your language",
+      "text": "Al in jouw taal"
+    },
+    "chat.translate.shown": {
+      "en": "Show translation",
+      "text": "Vertaling tonen"
+    },
+    "common.audio": {
+      "en": "Audio",
+      "text": "Audio"
+    },
+    "common.befriend": {
+      "en": "Befriend",
+      "text": "Vriend maken"
+    },
+    "common.chat": {
+      "en": "CHAT",
+      "text": "Chat"
+    },
+    "common.clearall": {
+      "en": "Clear all",
+      "text": "Alles wissen"
+    },
+    "common.close": {
+      "en": "Close",
+      "text": "Sluiten"
+    },
+    "common.debug": {
+      "en": "Debug",
+      "text": "Debug"
+    },
+    "common.decline": {
+      "en": "Decline",
+      "text": "Weigeren"
+    },
+    "common.emoji": {
+      "en": "Emoji",
+      "text": "Emoji"
+    },
+    "common.equip": {
+      "en": "EQUIP",
+      "text": "Uitrusten"
+    },
+    "common.everyone": {
+      "en": "Everyone",
+      "text": "Iedereen"
+    },
+    "common.go": {
+      "en": "Go",
+      "text": "Ga"
+    },
+    "common.hide": {
+      "en": "Hide",
+      "text": "Verbergen"
+    },
+    "common.ignore": {
+      "en": "Ignore",
+      "text": "Negeren"
+    },
+    "common.invite": {
+      "en": "Invite",
+      "text": "Uitnodigen"
+    },
+    "common.join": {
+      "en": "Join",
+      "text": "Deelnemen"
+    },
+    "common.justnow": {
+      "en": "just now",
+      "text": "zojuist"
+    },
+    "common.kick": {
+      "en": "Kick",
+      "text": "Verwijderen"
+    },
+    "common.large": {
+      "en": "Large",
+      "text": "Groot"
+    },
+    "common.mature": {
+      "en": "Mature",
+      "text": "Volwassen"
+    },
+    "common.medium": {
+      "en": "Medium",
+      "text": "Middel"
+    },
+    "common.mute": {
+      "en": "Mute",
+      "text": "Dempen"
+    },
+    "common.offline": {
+      "en": "Offline",
+      "text": "Offline"
+    },
+    "common.online": {
+      "en": "Online",
+      "text": "Online"
+    },
+    "common.search": {
+      "en": "Search",
+      "text": "Zoeken"
+    },
+    "common.small": {
+      "en": "Small",
+      "text": "Klein"
+    },
+    "common.unhide": {
+      "en": "Unhide",
+      "text": "Tonen"
+    },
+    "common.unmute": {
+      "en": "Unmute",
+      "text": "Dempen opheffen"
+    },
+    "dares.alldone": {
+      "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
+      "text": "Nixie: Alle drie de uitdagingen. Mijn uitdagingen zijn op, en ik ben een tikje onder de indruk."
+    },
+    "dares.checkpoint": {
+      "en": "Checkpoint {0} of {1}.",
+      "text": "Checkpoint {0} van {1}."
+    },
+    "dares.d.easy": {
+      "en": "Easy",
+      "text": "Makkelijk"
+    },
+    "dares.d.hard": {
+      "en": "Hard",
+      "text": "Moeilijk"
+    },
+    "dares.d.hardest": {
+      "en": "Hardest",
+      "text": "Moeilijkst"
+    },
+    "dares.door": {
+      "en": "Nixie: That door opens onto nothing. I dare you. Unless you are chicken.",
+      "text": "Nixie: Die deur komt uit op niets. Ik daag je uit. Tenzij je een bangerik bent."
+    },
+    "dares.doorchicken": {
+      "en": "Nixie: Still standing there. I am not judging. I am only logging it.",
+      "text": "Nixie: Je staat er nog steeds. Ik oordeel niet. Ik log het alleen."
+    },
+    "dares.fellout": {
+      "en": "You fell out of the world. Back you go.",
+      "text": "Je bent uit de wereld gevallen. Hup, terug."
+    },
+    "dares.ffaagain": {
+      "en": "Nixie: Another round of free-for-all. Counted for today.",
+      "text": "Nixie: Nog een ronde free-for-all. Geteld voor vandaag."
+    },
+    "dares.ffadone": {
+      "en": "Nixie: A whole round of free-for-all. You survived, mostly. Dare done.",
+      "text": "Nixie: Een hele ronde free-for-all. Je hebt het overleefd, grotendeels. Uitdaging voltooid."
+    },
+    "dares.ffawinagain": {
+      "en": "Nixie: You won again. Counted for today.",
+      "text": "Nixie: Weer gewonnen. Geteld voor vandaag."
+    },
+    "dares.ffawindone": {
+      "en": "Nixie: First place. I will pretend I expected it. Dare done.",
+      "text": "Nixie: Eerste plaats. Ik doe alsof ik het verwachtte. Uitdaging voltooid."
+    },
+    "dares.galaxicaagain": {
+      "en": "Nixie: Stage 3 on Galaxica again. Counted for today.",
+      "text": "Nixie: Weer level 3 in Galaxica. Geteld voor vandaag."
+    },
+    "dares.galaxicadone": {
+      "en": "Nixie: Stage 3 on Galaxica. The aliens have filed a complaint. Dare done.",
+      "text": "Nixie: Level 3 in Galaxica. De aliens hebben een klacht ingediend. Uitdaging voltooid."
+    },
+    "dares.hintdesktop": {
+      "en": "Save yourself! Press {Radial}, then hit Respawn.",
+      "text": "Red jezelf! Druk op {Radial} en kies dan Respawn."
+    },
+    "dares.hintvr": {
+      "en": "Save yourself! Click the {WheelStick} stick, look at your {WheelHand} wrist, then hit Respawn.",
+      "text": "Red jezelf! Klik de {WheelStick} stick in, kijk naar je {WheelHand} pols en kies dan Respawn."
+    },
+    "dares.homeoffer": {
+      "en": "Nixie: I have three dares for you. Open your menu and press the glowing Dares button. Unless you are chicken. If you take one, find me there first. I will be watching.",
+      "text": "Nixie: Ik heb drie uitdagingen voor je. Open je menu en druk op de gloeiende knop Uitdagingen. Tenzij je een bangerik bent. Neem je er een aan, zoek mij daar dan eerst op. Ik kijk mee."
+    },
+    "dares.jumpagain": {
+      "en": "Nixie: Again? Show-off.",
+      "text": "Nixie: Nog een keer? Uitslover."
+    },
+    "dares.jumpagainpaid": {
+      "en": "Nixie: Again? Show-off. Counted for today.",
+      "text": "Nixie: Nog een keer? Uitslover. Geteld voor vandaag."
+    },
+    "dares.jumpcaught": {
+      "en": "Nixie: I fished you out. That one goes down as a fail. Try again, and this time save yourself with Respawn.",
+      "text": "Nixie: Ik heb je eruit gevist. Die telt als mislukt. Probeer het opnieuw en red jezelf deze keer met Respawn."
+    },
+    "dares.jumpdone": {
+      "en": "Nixie: You saved yourself. I only screamed a little. Dare done.",
+      "text": "Nixie: Je hebt jezelf gered. Ik gilde maar een klein beetje. Uitdaging voltooid."
+    },
+    "dares.l.ffa10": {
+      "en": "Nixie: First of ten. Everybody else is filing a complaint. Dare done.",
+      "text": "Nixie: Eerste van tien. De rest dient een klacht in. Uitdaging voltooid."
+    },
+    "dares.l.ffa10again": {
+      "en": "Nixie: First of ten again. Counted for today.",
+      "text": "Nixie: Weer eerste van tien. Geteld voor vandaag."
+    },
+    "dares.l.team": {
+      "en": "Nixie: A whole team match. You even passed to someone. Dare done.",
+      "text": "Nixie: Een hele teamwedstrijd. Je hebt zelfs iemand aangespeeld. Uitdaging voltooid."
+    },
+    "dares.l.team5": {
+      "en": "Nixie: Five on five, and your side won. That is a real battle. Dare done.",
+      "text": "Nixie: Vijf tegen vijf, en jouw kant won. Dat is een echte veldslag. Uitdaging voltooid."
+    },
+    "dares.l.team5again": {
+      "en": "Nixie: Another five on five won. Counted for today.",
+      "text": "Nixie: Weer een vijf tegen vijf gewonnen. Geteld voor vandaag."
+    },
+    "dares.l.teamagain": {
+      "en": "Nixie: Another team match. Counted for today.",
+      "text": "Nixie: Nog een teamwedstrijd. Geteld voor vandaag."
+    },
+    "dares.l.teamwin": {
+      "en": "Nixie: Your team won. I am told you helped. Dare done.",
+      "text": "Nixie: Je team heeft gewonnen. Ik hoor dat je hebt geholpen. Uitdaging voltooid."
+    },
+    "dares.l.teamwinagain": {
+      "en": "Nixie: Your team won again. Counted for today.",
+      "text": "Nixie: Je team heeft weer gewonnen. Geteld voor vandaag."
+    },
+    "dares.lapdone": {
+      "en": "Nixie: One lap. I counted. Dare done.",
+      "text": "Nixie: Eén rondje. Ik heb geteld. Uitdaging voltooid."
+    },
+    "dares.lapnopay": {
+      "en": "Lap done. Today's jog was already counted. It counts again tomorrow.",
+      "text": "Rondje klaar. Het joggen van vandaag was al geteld. Morgen telt het weer."
+    },
+    "dares.lappaid": {
+      "en": "Nixie: Another lap. Today's jog is counted. Same time tomorrow?",
+      "text": "Nixie: Nog een rondje. Het joggen van vandaag is geteld. Morgen zelfde tijd?"
+    },
+    "dares.lapsprint": {
+      "en": "Hold {Sprint} to run.",
+      "text": "Houd {Sprint} ingedrukt om te rennen."
+    },
+    "dares.lapstart": {
+      "en": "Nixie: A lap. I would join you, but I was built for standing.",
+      "text": "Nixie: Een rondje. Ik zou meelopen, maar ik ben gebouwd om te staan."
+    },
+    "dares.n.dare": {
+      "en": "I dare you.",
+      "text": "Ik daag je uit."
+    },
+    "dares.n.done": {
+      "en": "Done. I made a note.",
+      "text": "Voltooid. Ik heb het genoteerd."
+    },
+    "dares.n.ffa1": {
+      "en": "Round played. I logged every shot. Most of them missed.",
+      "text": "Ronde gespeeld. Ik heb elk schot gelogd. De meeste misten."
+    },
+    "dares.n.ffa2": {
+      "en": "One round of free-for-all. Shoot things. I will keep score, badly.",
+      "text": "Eén ronde free-for-all. Schiet op dingen. Ik houd de score bij, slecht."
+    },
+    "dares.n.gal1": {
+      "en": "Stage 3. The arcade has your number now.",
+      "text": "Level 3. De arcade heeft je nu door."
+    },
+    "dares.n.gal2": {
+      "en": "Galaxica, stage 3. The aliens get meaner. So should you.",
+      "text": "Galaxica, level 3. De aliens worden gemener. Jij ook, graag."
+    },
+    "dares.n.jog1": {
+      "en": "One lap of the park. I would join you, but I was built for standing.",
+      "text": "Eén rondje door het park. Ik zou meelopen, maar ik ben gebouwd om te staan."
+    },
+    "dares.n.jog2": {
+      "en": "Today's lap is in the log. Come back tomorrow. I will act surprised.",
+      "text": "Het rondje van vandaag staat in het logboek. Kom morgen terug. Ik doe verrast."
+    },
+    "dares.n.jog3": {
+      "en": "A new day, a new lap. The park is waiting. So am I, technically.",
+      "text": "Een nieuwe dag, een nieuw rondje. Het park wacht. Ik ook, technisch gezien."
+    },
+    "dares.n.jump1": {
+      "en": "You jumped and saved yourself. I only screamed a little.",
+      "text": "Je sprong en redde jezelf. Ik gilde maar een klein beetje."
+    },
+    "dares.n.jump2": {
+      "en": "A door, a lot of nothing behind it, and you. Unless you are chicken.",
+      "text": "Een deur, een heleboel niets erachter, en jij. Tenzij je een bangerik bent."
+    },
+    "dares.n.plate1": {
+      "en": "You have one. I had a bet with the vending machine. I won.",
+      "text": "Je hebt er een. Ik had een weddenschap met de snoepautomaat. Ik won."
+    },
+    "dares.n.plate2": {
+      "en": "A plate is lying around the hub somewhere. Finders keepers. I checked the rules.",
+      "text": "Ergens in de hub ligt een plate. Wie hem vindt, mag hem houden. Ik heb de regels gecheckt."
+    },
+    "dares.n.win1": {
+      "en": "A win. I printed you a tiny certificate. It is in my head.",
+      "text": "Een overwinning. Ik heb een piepklein certificaat voor je geprint. Het zit in mijn hoofd."
+    },
+    "dares.n.win2": {
+      "en": "Win a round. First place. No pressure. Some pressure.",
+      "text": "Win een ronde. Eerste plaats. Geen druk. Een beetje druk."
+    },
+    "dares.page.alltoday": {
+      "en": "All of them, today. Come back tomorrow. I will think of something.",
+      "text": "Vandaag allemaal gedaan. Kom morgen terug. Ik verzin wel iets."
+    },
+    "dares.page.arena": {
+      "en": "You are in the hub. The arena is the place.",
+      "text": "Je bent in de hub. De arena is de plek."
+    },
+    "dares.page.checkreached": {
+      "en": "Checkpoint {0} of {1} reached. Keep going.",
+      "text": "Checkpoint {0} van {1} bereikt. Ga zo door."
+    },
+    "dares.page.chip": {
+      "en": "Dares",
+      "text": "Uitdagingen"
+    },
+    "dares.page.count": {
+      "en": "{0} of {1} today",
+      "text": "{0} van {1} vandaag"
+    },
+    "dares.page.done": {
+      "en": "Done.",
+      "text": "Voltooid."
+    },
+    "dares.page.doneagain": {
+      "en": "Done today. It counts again tomorrow.",
+      "text": "Vandaag voltooid. Morgen telt het weer."
+    },
+    "dares.page.donebefore": {
+      "en": "Done before. Today it counts again: {0} gold.",
+      "text": "Eerder voltooid. Vandaag telt het weer: {0} goud."
+    },
+    "dares.page.donetoday": {
+      "en": "Done today.",
+      "text": "Vandaag voltooid."
+    },
+    "dares.page.doordone": {
+      "en": "Done. You are here: the door still opens, if you miss the fall.",
+      "text": "Voltooid. Je bent hier: de deur gaat nog steeds open, als je de val mist."
+    },
+    "dares.page.finddoor": {
+      "en": "You are here. Find the door.",
+      "text": "Je bent hier. Zoek de deur."
+    },
+    "dares.page.foot": {
+      "en": "Gold for a finished dare arrives with the nightly tally. Every dare is optional, and counts again on a later day.",
+      "text": "Goud voor een voltooide uitdaging komt met de telling van vannacht. Elke uitdaging is optioneel en telt op een latere dag weer."
+    },
+    "dares.page.galaxica": {
+      "en": "You are in the hub. Find the Galaxica machine.",
+      "text": "Je bent in de hub. Zoek de Galaxica-kast."
+    },
+    "dares.page.gohub": {
+      "en": "Go to the hub",
+      "text": "Naar de hub"
+    },
+    "dares.page.goldday": {
+      "en": "{0} gold, then {1} a day",
+      "text": "{0} goud, daarna {1} per dag"
+    },
+    "dares.page.lapcounted": {
+      "en": "You are here. Today's lap is counted.",
+      "text": "Je bent hier. Het rondje van vandaag is geteld."
+    },
+    "dares.page.nocheck": {
+      "en": "You are here, but this world has no checkpoints yet.",
+      "text": "Je bent hier, maar deze wereld heeft nog geen checkpoints."
+    },
+    "dares.page.nodoor": {
+      "en": "You are here, but this world has no dare door yet.",
+      "text": "Je bent hier, maar deze wereld heeft nog geen uitdagingsdeur."
+    },
+    "dares.page.plategold": {
+      "en": "the plate's own {0} gold",
+      "text": "de eigen {0} goud van de plate"
+    },
+    "dares.page.plategoldday": {
+      "en": "the plate's own {0} gold, then {1} a day",
+      "text": "de eigen {0} goud van de plate, daarna {1} per dag"
+    },
+    "dares.page.platehub": {
+      "en": "You are in the hub. A plate is somewhere on the floor.",
+      "text": "Je bent in de hub. Ergens op de vloer ligt een plate."
+    },
+    "dares.page.pressagain": {
+      "en": "Press again to go",
+      "text": "Druk nog eens om te gaan"
+    },
+    "dares.page.runfirst": {
+      "en": "You are here. Run to the first checkpoint.",
+      "text": "Je bent hier. Ren naar het eerste checkpoint."
+    },
+    "dares.page.set": {
+      "en": "Set {0}",
+      "text": "Set {0}"
+    },
+    "dares.page.setbonus": {
+      "en": "All three of a set: {0} gold on top",
+      "text": "Alle drie van een set: {0} goud erbovenop"
+    },
+    "dares.page.setnew": {
+      "en": "Set {0} · new",
+      "text": "Set {0} · nieuw"
+    },
+    "dares.page.sub1": {
+      "en": "All optional. Any order. They come back every day. I noticed you.",
+      "text": "Allemaal optioneel. Elke volgorde. Ze komen elke dag terug. Ik heb je opgemerkt."
+    },
+    "dares.page.sub2": {
+      "en": "All optional. Any order. They come back every day. I will be logging everything.",
+      "text": "Allemaal optioneel. Elke volgorde. Ze komen elke dag terug. Ik log alles."
+    },
+    "dares.page.takeme": {
+      "en": "Take me there",
+      "text": "Breng me erheen"
+    },
+    "dares.page.title": {
+      "en": "Nixie's dares",
+      "text": "Nixies uitdagingen"
+    },
+    "dares.page.today": {
+      "en": "Today's dare +{0}",
+      "text": "Uitdaging van de dag +{0}"
+    },
+    "dares.parkintro": {
+      "en": "Nixie: A lap of the park. Follow the gold trail through every checkpoint. I will wait here. Standing is my cardio.",
+      "text": "Nixie: Een rondje door het park. Volg het gouden spoor langs elk checkpoint. Ik wacht hier. Staan is mijn cardio."
+    },
+    "dares.parkover": {
+      "en": "Nixie: Today's lap is counted. Stay for the trees. I will keep standing here, professionally.",
+      "text": "Nixie: Het rondje van vandaag is geteld. Blijf gerust voor de bomen. Ik blijf hier staan, professioneel."
+    },
+    "dares.plateagain": {
+      "en": "Nixie: Another head plate. The plate dare is counted for today.",
+      "text": "Nixie: Nog een plate. De plate-uitdaging is geteld voor vandaag."
+    },
+    "dares.platedone": {
+      "en": "Nixie: A head plate. A hat made of facts. Dare done.",
+      "text": "Nixie: Een plate. Een hoed van feiten. Uitdaging voltooid."
+    },
+    "dares.setbonus": {
+      "en": "+{0} gold for all three",
+      "text": "+{0} goud voor alle drie"
+    },
+    "dares.setbonushead": {
+      "en": "Finish all three of a set: bonus gold on top",
+      "text": "Voltooi alle drie van een set: bonusgoud erbovenop"
+    },
+    "dares.setdone": {
+      "en": "Nixie: That whole set is done. I will have to think of new dares.",
+      "text": "Nixie: Die hele set is voltooid. Ik moet nieuwe uitdagingen bedenken."
+    },
+    "dares.t.ffa": {
+      "en": "Play a round of free-for-all",
+      "text": "Speel een ronde free-for-all"
+    },
+    "dares.t.ffa10win": {
+      "en": "Win a free-for-all of ten",
+      "text": "Win een free-for-all met tien"
+    },
+    "dares.t.ffawin": {
+      "en": "Win a round of free-for-all",
+      "text": "Win een ronde free-for-all"
+    },
+    "dares.t.galaxica": {
+      "en": "Reach stage 3 on Galaxica",
+      "text": "Haal level 3 in Galaxica"
+    },
+    "dares.t.hubhunt": {
+      "en": "Find Nixie's three lost things in the hub",
+      "text": "Vind Nixies drie verloren spullen in de hub"
+    },
+    "dares.t.hubhunt2": {
+      "en": "Find the hub's three lost things on another day",
+      "text": "Vind de drie verloren spullen van de hub op een andere dag"
+    },
+    "dares.t.jog": {
+      "en": "Jog one lap",
+      "text": "Jog één rondje"
+    },
+    "dares.t.jump": {
+      "en": "Jump into the dark, then save yourself",
+      "text": "Spring het donker in en red jezelf"
+    },
+    "dares.t.plate": {
+      "en": "Find a head plate",
+      "text": "Vind een plate"
+    },
+    "dares.t.team": {
+      "en": "Play a round of team free-for-all",
+      "text": "Speel een ronde team free-for-all"
+    },
+    "dares.t.team5win": {
+      "en": "Win a team match, five on five",
+      "text": "Win een teamwedstrijd, vijf tegen vijf"
+    },
+    "dares.t.teamwin": {
+      "en": "Win a round of team free-for-all",
+      "text": "Win een ronde team free-for-all"
+    },
+    "dares.todaybonus": {
+      "en": "That was today's dare: a bonus on top.",
+      "text": "Dat was de uitdaging van de dag: een bonus erbovenop."
+    },
+    "dares.w.arcade": {
+      "en": "the arcade in the hub",
+      "text": "de arcade in de hub"
+    },
+    "dares.w.arena": {
+      "en": "the hub's arena, or any free-for-all world",
+      "text": "de arena van de hub, of elke free-for-all-wereld"
+    },
+    "dares.w.ffa": {
+      "en": "FFA Shooter, a bot plays you there",
+      "text": "FFA Shooter, daar speelt een bot tegen je"
+    },
+    "dares.w.ffa10": {
+      "en": "FFA Shooter, add 9 bots as host",
+      "text": "FFA Shooter, voeg als host 9 bots toe"
+    },
+    "dares.w.hubbusy": {
+      "en": "the hub, when it is busy",
+      "text": "de hub, als het er druk is"
+    },
+    "dares.w.team": {
+      "en": "SciFi TFFA, or any team match; alone, add bots as host",
+      "text": "SciFi TFFA, of elke teamwedstrijd; alleen? Voeg als host bots toe"
+    },
+    "dares.w.team5": {
+      "en": "SciFi TFFA, a team match of 10; alone, add 9 bots",
+      "text": "SciFi TFFA, een teamwedstrijd met 10; alleen? Voeg 9 bots toe"
+    },
+    "fbt.calibrate": {
+      "en": "CALIBRATE",
+      "text": "KALIBREREN"
+    },
+    "fbt.height": {
+      "en": "Avatar Height",
+      "text": "Avatarhoogte"
+    },
+    "fbt.settings": {
+      "en": "FBT Settings",
+      "text": "FBT-instellingen"
+    },
+    "first.bot": {
+      "en": "FIGHT A BOT",
+      "text": "VECHT TEGEN EEN BOT"
+    },
+    "first.botsub": {
+      "en": "FFA Shooter, the easiest",
+      "text": "FFA Shooter, de makkelijkste"
+    },
+    "first.donetag": {
+      "en": "MISSION DONE",
+      "text": "MISSIE VOLBRACHT"
+    },
+    "first.hintbot": {
+      "en": "Nixie: Your first mission: finish one round. Grab a gun from a pad. The bot is waiting.",
+      "text": "Nixie: Je eerste missie: speel één ronde uit. Pak een wapen van een pad. De bot wacht op je."
+    },
+    "first.hintlap": {
+      "en": "Nixie: Your first mission: one lap. Follow the gold trail through every checkpoint.",
+      "text": "Nixie: Je eerste missie: één rondje. Volg het gouden spoor langs elk checkpoint."
+    },
+    "first.hublater": {
+      "en": "Nixie: The hub is one press away on your Home page. People are better company than bots. Usually.",
+      "text": "Nixie: De hub is één klik weg op je Startpagina. Mensen zijn beter gezelschap dan bots. Meestal."
+    },
+    "first.hubline": {
+      "en": "Nixie: Nice work. The other players hang out in the hub. Want to go meet them?",
+      "text": "Nixie: Goed gedaan. De andere spelers hangen rond in de hub. Wil je ze gaan ontmoeten?"
+    },
+    "first.hubsub": {
+      "en": "Where the people are",
+      "text": "Waar de mensen zijn"
+    },
+    "first.lap": {
+      "en": "RUN A LAP",
+      "text": "REN EEN RONDJE"
+    },
+    "first.later": {
+      "en": "LATER",
+      "text": "LATER"
+    },
+    "first.line": {
+      "en": "Nixie: Pick one. Both work even when nobody else is online.",
+      "text": "Nixie: Kies er een. Ze werken allebei, ook als er verder niemand online is."
+    },
+    "first.saidbot": {
+      "en": "Nixie: Good choice. Taking you to the bot. It is not very smart.",
+      "text": "Nixie: Goede keuze. Ik breng je naar de bot. Hij is niet zo slim."
+    },
+    "first.saidlap": {
+      "en": "Nixie: Good choice. Taking you to the park. Stretch first.",
+      "text": "Nixie: Goede keuze. Ik breng je naar het park. Eerst even rekken."
+    },
+    "first.saidlater": {
+      "en": "Nixie: Fine. Your missions wait behind the glowing Dares button on your Home page.",
+      "text": "Nixie: Prima. Je missies wachten achter de gloeiende knop Uitdagingen op je Startpagina."
+    },
+    "first.tag": {
+      "en": "FIRST MISSION",
+      "text": "EERSTE MISSIE"
+    },
+    "friends.title": {
+      "en": "Friends",
+      "text": "Vrienden"
+    },
+    "guide.d.click": {
+      "en": "Click the stick",
+      "text": "Klik de stick in"
+    },
+    "guide.d.grab": {
+      "en": "Squeeze and hold",
+      "text": "Knijp en houd vast"
+    },
+    "guide.d.onoff": {
+      "en": "Press: on or off",
+      "text": "Druk: aan of uit"
+    },
+    "guide.d.select": {
+      "en": "Aim the laser, pull the trigger",
+      "text": "Richt de laser, haal de trekker over"
+    },
+    "guide.d.sprint": {
+      "en": "Click the stick: sprint",
+      "text": "Klik de stick in: sprinten"
+    },
+    "guide.d.turn": {
+      "en": "Flick the stick left or right",
+      "text": "Tik de stick naar links of rechts"
+    },
+    "guide.d.use": {
+      "en": "Pull the trigger",
+      "text": "Haal de trekker over"
+    },
+    "guide.d.wheel": {
+      "en": "Click the stick: quick menu",
+      "text": "Klik de stick in: snelmenu"
+    },
+    "guide.hint": {
+      "en": "Hide these labels: hold both triggers",
+      "text": "Deze labels verbergen: houd beide trekkers ingedrukt"
+    },
+    "guide.row": {
+      "en": "CONTROLLER GUIDE",
+      "text": "CONTROLLERGIDS"
+    },
+    "guide.t.grab": {
+      "en": "Grab",
+      "text": "Pakken"
+    },
+    "guide.t.jump": {
+      "en": "Jump",
+      "text": "Springen"
+    },
+    "guide.t.laser": {
+      "en": "Laser",
+      "text": "Laser"
+    },
+    "guide.t.menu": {
+      "en": "Menu",
+      "text": "Menu"
+    },
+    "guide.t.select": {
+      "en": "Select",
+      "text": "Kiezen"
+    },
+    "guide.t.use": {
+      "en": "Use",
+      "text": "Gebruiken"
+    },
+    "guns.blueteam": {
+      "en": "BLUE TEAM",
+      "text": "TEAM BLAUW"
+    },
+    "guns.free": {
+      "en": "FREE",
+      "text": "GRATIS"
+    },
+    "guns.health": {
+      "en": "HEALTH",
+      "text": "GEZONDHEID"
+    },
+    "guns.needgold": {
+      "en": "You need {0} more gold for the {1}.",
+      "text": "Je hebt nog {0} goud nodig voor {1}."
+    },
+    "guns.nogold": {
+      "en": "Not enough gold for the {0}.",
+      "text": "Niet genoeg goud voor {0}."
+    },
+    "guns.redteam": {
+      "en": "RED TEAM",
+      "text": "TEAM ROOD"
+    },
+    "guns.reloadhint": {
+      "en": "R   reload",
+      "text": "R   herladen"
+    },
+    "guns.reloading": {
+      "en": "RELOADING",
+      "text": "HERLADEN"
+    },
+    "guns.shield": {
+      "en": "SHIELD {0}",
+      "text": "SCHILD {0}"
+    },
+    "hint.grab.desk": {
+      "en": "Press {0} to grab",
+      "text": "Druk op {0} om te pakken"
+    },
+    "hint.profile.desk": {
+      "en": "Press {0} to view profile",
+      "text": "Druk op {0} om het profiel te bekijken"
+    },
+    "hint.rotate.mouse": {
+      "en": "Middle mouse + move to rotate",
+      "text": "Middelste muisknop + bewegen om te draaien"
+    },
+    "hint.rotate.mouse2": {
+      "en": "Middle mouse: rotate · Scroll: closer / farther",
+      "text": "Middelste muisknop: draaien · Scrollen: dichterbij / verder"
+    },
+    "hint.rotate.pad": {
+      "en": "Hold RB + right stick to rotate",
+      "text": "Houd RB + rechterstick om te draaien"
+    },
+    "hint.use.desk": {
+      "en": "Press {0} to use",
+      "text": "Druk op {0} om te gebruiken"
+    },
+    "hud.kicked": {
+      "en": "You have been kicked",
+      "text": "Je bent verwijderd"
+    },
+    "hud.mapstale": {
+      "en": "Update needed - restart to view the latest map version",
+      "text": "Update nodig - herstart om de nieuwste kaartversie te zien"
+    },
+    "hud.standheight": {
+      "en": "Stand for a moment to set your height",
+      "text": "Ga even staan om je lengte in te stellen"
+    },
+    "hunt.banana": {
+      "en": "Nixie: Oh, and I lost my banana. I do not eat. It was for emotional support. Find it?",
+      "text": "Nixie: O ja, en ik ben mijn banaan kwijt. Ik eet niet. Hij was voor emotionele steun. Vind je hem?"
+    },
+    "hunt.bat": {
+      "en": "Nixie: Oh, and my baseball bat is missing. I only use it for gentle conversations. Find it?",
+      "text": "Nixie: O ja, en mijn honkbalknuppel is weg. Ik gebruik hem alleen voor zachte gesprekken. Vind je hem?"
+    },
+    "hunt.cake": {
+      "en": "Nixie: Oh, and I hid a cake from myself. It worked too well. Find it?",
+      "text": "Nixie: O ja, en ik heb een taart voor mezelf verstopt. Dat werkte te goed. Vind je hem?"
+    },
+    "hunt.candy": {
+      "en": "Nixie: Oh, and my nephew lost his candy around here. He is a toaster. Find it for him?",
+      "text": "Nixie: O ja, en mijn neefje is hier ergens zijn snoep kwijtgeraakt. Hij is een broodrooster. Vind je het voor hem?"
+    },
+    "hunt.chicken": {
+      "en": "Nixie: Oh, and I lost my chicken. A cooked one. I was keeping it as a pet. Do not ask. Find it?",
+      "text": "Nixie: O ja, en ik ben mijn kip kwijt. Een gebraden kip. Ik hield hem als huisdier. Niet vragen. Vind je hem?"
+    },
+    "hunt.dog": {
+      "en": "Nixie: Oh, and my toy dog ran off. It is a toy. It cannot run. That is what worries me. Find it?",
+      "text": "Nixie: O ja, en mijn speelgoedhond is weggelopen. Het is speelgoed. Hij kan niet lopen. Dat is wat me zorgen baart. Vind je hem?"
+    },
+    "hunt.elephant": {
+      "en": "Nixie: Oh, and I misplaced a toy elephant. You would think that is hard to misplace. Find it?",
+      "text": "Nixie: O ja, en ik ben een speelgoedolifant kwijt. Je zou denken dat je die niet zomaar kwijtraakt. Vind je hem?"
+    },
+    "hunt.fish": {
+      "en": "Nixie: Oh, and my fish went for a walk. That is not normal, which is why I need it back. Find it?",
+      "text": "Nixie: O ja, en mijn vis is gaan wandelen. Dat is niet normaal, en daarom wil ik hem terug. Vind je hem?"
+    },
+    "hunt.found1": {
+      "en": "Nixie: You found it. I will pretend I was not worried.",
+      "text": "Nixie: Je hebt het gevonden. Ik doe alsof ik me geen zorgen maakte."
+    },
+    "hunt.found2": {
+      "en": "Nixie: Found it. I owe you one. I will not say which one.",
+      "text": "Nixie: Gevonden. Ik ben je er eentje schuldig. Ik zeg niet welke."
+    },
+    "hunt.found3": {
+      "en": "Nixie: There it is. You are better at this than I am, and I have sensors.",
+      "text": "Nixie: Daar is het. Jij bent hier beter in dan ik, en ik heb sensoren."
+    },
+    "hunt.hat": {
+      "en": "Nixie: Oh, and I lost my hat. I do not need a hat. That is not the point. Find it?",
+      "text": "Nixie: O ja, en ik ben mijn hoed kwijt. Ik heb geen hoed nodig. Daar gaat het niet om. Vind je hem?"
+    },
+    "hunt.horse": {
+      "en": "Nixie: Oh, and my toy horse is missing. It was the fast one. Find it?",
+      "text": "Nixie: O ja, en mijn speelgoedpaard is weg. Het was het snelle. Vind je het?"
+    },
+    "hunt.huball": {
+      "en": "Nixie: All three found. That is the bonus. I will lose more by tomorrow.",
+      "text": "Nixie: Alle drie gevonden. Dat is de bonus. Morgen ben ik weer wat kwijt."
+    },
+    "hunt.hubask": {
+      "en": "Nixie: Three of my things are lost around the hub today. Find all three for a bigger bonus. I would look myself, but I am busy standing.",
+      "text": "Nixie: Drie van mijn spullen zijn vandaag ergens in de hub zoek. Vind ze alle drie voor een grotere bonus. Ik zou zelf zoeken, maar ik heb het druk met staan."
+    },
+    "hunt.hubone": {
+      "en": "Nixie: That is one. Two more somewhere in the hub.",
+      "text": "Nixie: Dat is er één. Nog twee ergens in de hub."
+    },
+    "hunt.hubover": {
+      "en": "Nixie: You found all three today. I will lose more by tomorrow. It is a gift.",
+      "text": "Nixie: Je hebt ze vandaag alle drie gevonden. Morgen ben ik weer wat kwijt. Het is een gave."
+    },
+    "hunt.hubtwo": {
+      "en": "Nixie: That is two. One more.",
+      "text": "Nixie: Dat zijn er twee. Nog één."
+    },
+    "hunt.icecream": {
+      "en": "Nixie: Oh, and I left an ice cream somewhere. It has probably not melted. Probably. Find it?",
+      "text": "Nixie: O ja, en ik heb ergens een ijsje laten liggen. Het is vast nog niet gesmolten. Vast. Vind je het?"
+    },
+    "instance.mic": {
+      "en": "MICROPHONE",
+      "text": "MICROFOON"
+    },
+    "instance.muted": {
+      "en": "MUTED",
+      "text": "GEDEMPT"
+    },
+    "instance.users": {
+      "en": "Users In Instance",
+      "text": "Gebruikers in instantie"
+    },
+    "instance.world": {
+      "en": "WORLD",
+      "text": "WERELD"
+    },
+    "kb.back": {
+      "en": "Back",
+      "text": "Terug"
+    },
+    "kb.clear": {
+      "en": "Clear",
+      "text": "Wissen"
+    },
+    "kb.space": {
+      "en": "Space",
+      "text": "Spatie"
+    },
+    "kb.typetosearch": {
+      "en": "Type to search…",
+      "text": "Typ om te zoeken…"
+    },
+    "level.up": {
+      "en": "Level up! You are level {0}.",
+      "text": "Level omhoog! Je bent nu level {0}."
+    },
+    "nav.alerts": {
+      "en": "Alerts",
+      "text": "Meldingen"
+    },
+    "nav.avatars": {
+      "en": "Avatars",
+      "text": "Avatars"
+    },
+    "nav.camera": {
+      "en": "Camera",
+      "text": "Camera"
+    },
+    "nav.fbt": {
+      "en": "FBT",
+      "text": "FBT"
+    },
+    "nav.gohome": {
+      "en": "Go Home",
+      "text": "Naar huis"
+    },
+    "nav.nearby": {
+      "en": "Nearby",
+      "text": "In de buurt"
+    },
+    "nav.power": {
+      "en": "Power",
+      "text": "Afsluiten"
+    },
+    "nav.settings": {
+      "en": "Settings",
+      "text": "Instellingen"
+    },
+    "nav.supporter": {
+      "en": "Supporter",
+      "text": "Supporter"
+    },
+    "nav.worlds": {
+      "en": "Worlds",
+      "text": "Werelden"
+    },
+    "notif.events": {
+      "en": "Events",
+      "text": "Evenementen"
+    },
+    "notif.invitedto": {
+      "en": "sent you a game invite to",
+      "text": "heeft je uitgenodigd voor"
+    },
+    "notif.invites": {
+      "en": "Invites",
+      "text": "Uitnodigingen"
+    },
+    "notif.live": {
+      "en": "LIVE NOW",
+      "text": "NU LIVE"
+    },
+    "notif.noevents": {
+      "en": "No events scheduled right now - check back soon.",
+      "text": "Nu geen evenementen gepland – kom snel terug."
+    },
+    "notif.noinvites": {
+      "en": "No pending invites.",
+      "text": "Geen openstaande uitnodigingen."
+    },
+    "notif.title": {
+      "en": "Notifications",
+      "text": "Meldingen"
+    },
+    "pool.backspot": {
+      "en": "That ball goes back on its spot.",
+      "text": "Die bal gaat terug op zijn plek."
+    },
+    "pool.ball": {
+      "en": "ball {0}",
+      "text": "bal {0}"
+    },
+    "pool.busy": {
+      "en": "The pool table is busy: a game is on.",
+      "text": "De pooltafel is bezet: er loopt een spel."
+    },
+    "pool.cleared": {
+      "en": "Table cleared!",
+      "text": "Tafel leeg!"
+    },
+    "pool.clearednew": {
+      "en": "Table cleared. A new rack is coming.",
+      "text": "Tafel leeg. Er komt een nieuw rek."
+    },
+    "pool.early8": {
+      "en": "{0} sank the 8 ball too early.",
+      "text": "{0} potte de 8-bal te vroeg."
+    },
+    "pool.eight": {
+      "en": "the 8 ball",
+      "text": "de 8-bal"
+    },
+    "pool.foulnone": {
+      "en": "Foul - no ball was hit.",
+      "text": "Fout - er werd geen bal geraakt."
+    },
+    "pool.foulwhite": {
+      "en": "Foul - the white ball went in.",
+      "text": "Fout - de witte bal ging erin."
+    },
+    "pool.foulwrong": {
+      "en": "Foul - the wrong ball was hit first.",
+      "text": "Fout - eerst de verkeerde bal geraakt."
+    },
+    "pool.gameover": {
+      "en": "Game over",
+      "text": "Spel voorbij"
+    },
+    "pool.hold": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  wheel: high or low",
+      "text": "Houd de LINKERMUISKNOP ingedrukt, trek terug voor kracht, laat los om te stoten  |  wiel: hoog of laag"
+    },
+    "pool.holddrag": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  drag the white ball to move it  |  wheel: high or low",
+      "text": "Houd de LINKERMUISKNOP ingedrukt, trek terug voor kracht, laat los om te stoten  |  sleep de witte bal om hem te verplaatsen  |  wiel: hoog of laag"
+    },
+    "pool.howdesk": {
+      "en": "Look at the spot the white ball should roll toward. Hold LEFT MOUSE for power, let go to shoot. RIGHT MOUSE cancels. Mouse wheel: hit high or low.",
+      "text": "Kijk naar de plek waar de witte bal heen moet rollen. Houd de LINKERMUISKNOP ingedrukt voor kracht, laat los om te stoten. RECHTERMUISKNOP annuleert. Muiswiel: hoog of laag raken."
+    },
+    "pool.howvr": {
+      "en": "Grab a cue with the hand you push with, then steady the front with your other hand and push the tip through the white ball. Low on the ball pulls it back, high lets it follow.",
+      "text": "Pak een keu met de hand waarmee je stoot, houd de voorkant stil met je andere hand en duw de tip door de witte bal. Laag op de bal trekt hem terug, hoog laat hem doorlopen."
+    },
+    "pool.needgold": {
+      "en": "You need {0} more gold to play pool.",
+      "text": "Je hebt nog {0} goud nodig om te poolen."
+    },
+    "pool.newrack": {
+      "en": "New rack. The white ball can be placed for the break.",
+      "text": "Nieuw rek. De witte bal mag voor de break worden geplaatst."
+    },
+    "pool.nogold": {
+      "en": "Not enough gold to play pool.",
+      "text": "Niet genoeg goud om te poolen."
+    },
+    "pool.open": {
+      "en": "open table",
+      "text": "open tafel"
+    },
+    "pool.p1": {
+      "en": "Player 1",
+      "text": "Speler 1"
+    },
+    "pool.p2": {
+      "en": "Player 2",
+      "text": "Speler 2"
+    },
+    "pool.practicejoin": {
+      "en": "Practice - shoot to practise, or JOIN to start a game.",
+      "text": "Oefenen - stoot om te oefenen, of DEELNEMEN om een spel te beginnen."
+    },
+    "pool.practicenoturns": {
+      "en": "Practice - no turns, no winner. Another player can JOIN for a game.",
+      "text": "Oefenen - geen beurten, geen winnaar. Een andere speler kan met DEELNEMEN een spel beginnen."
+    },
+    "pool.practiceplace": {
+      "en": "Practice - put the white ball where you like, then shoot",
+      "text": "Oefenen - leg de witte bal waar je wilt en stoot dan"
+    },
+    "pool.practising": {
+      "en": "{0} is practising. JOIN to play a game against them.",
+      "text": "{0} is aan het oefenen. Druk op DEELNEMEN om een potje tegen {0} te spelen."
+    },
+    "pool.pullback": {
+      "en": "Pull the mouse back for power, let go to shoot  |  RIGHT MOUSE cancels",
+      "text": "Trek de muis terug voor kracht, laat los om te stoten  |  RECHTERMUISKNOP annuleert"
+    },
+    "pool.putdown": {
+      "en": "Let go to put the white ball down",
+      "text": "Laat los om de witte bal neer te leggen"
+    },
+    "pool.seat": {
+      "en": "A seat opened up.",
+      "text": "Er is een plek vrijgekomen."
+    },
+    "pool.seatopen": {
+      "en": "A pool game is on with a seat open. Press JOIN on the panel to play.",
+      "text": "Er loopt een poolspel met een vrije plek. Druk op DEELNEMEN op het paneel om mee te spelen."
+    },
+    "pool.solids": {
+      "en": "{0} plays solids.",
+      "text": "{0} speelt de hele."
+    },
+    "pool.stepup": {
+      "en": "Step up to the pool table first.",
+      "text": "Ga eerst bij de pooltafel staan."
+    },
+    "pool.stripes": {
+      "en": "{0} plays stripes.",
+      "text": "{0} speelt de halve."
+    },
+    "pool.toshoot": {
+      "en": "{0} to shoot - {1}",
+      "text": "{0} aan stoot - {1}"
+    },
+    "pool.unseated": {
+      "en": "You are no longer seated at the pool table. Press JOIN on its panel to play again.",
+      "text": "Je zit niet meer aan de pooltafel. Druk op DEELNEMEN op het paneel om weer te spelen."
+    },
+    "pool.using": {
+      "en": "{0} is using the pool table. Press JOIN on its panel to play a game against them.",
+      "text": "{0} gebruikt de pooltafel. Druk op DEELNEMEN op het paneel om een potje tegen {0} te spelen."
+    },
+    "pool.wins": {
+      "en": "{0} wins!",
+      "text": "{0} wint!"
+    },
+    "pool.winsgame": {
+      "en": "{0} wins the game!",
+      "text": "{0} wint het spel!"
+    },
+    "pool.yourturn": {
+      "en": "Your turn.",
+      "text": "Jouw beurt."
+    },
+    "pool.yourturnhand": {
+      "en": "Your turn - ball in hand.",
+      "text": "Jouw beurt - bal in hand."
+    },
+    "portal.closed": {
+      "en": "PORTAL CLOSED",
+      "text": "PORTAAL GESLOTEN"
+    },
+    "portal.dlfailed": {
+      "en": "Couldn't download \"{0}\"",
+      "text": "\"{0}\" kon niet worden gedownload"
+    },
+    "portal.dlpct": {
+      "en": "DOWNLOADING  {0}%",
+      "text": "DOWNLOADEN  {0}%"
+    },
+    "portal.downloading": {
+      "en": "DOWNLOADING…",
+      "text": "DOWNLOADEN…"
+    },
+    "portal.droppedby": {
+      "en": "Dropped by {0}",
+      "text": "Geplaatst door {0}"
+    },
+    "portal.getting": {
+      "en": "Getting \"{0}\"…",
+      "text": "\"{0}\" ophalen…"
+    },
+    "portal.gettingpct": {
+      "en": "Getting \"{0}\"… {1}%",
+      "text": "\"{0}\" ophalen… {1}%"
+    },
+    "portal.gonow": {
+      "en": "GO NOW  ({0} READY)",
+      "text": "NU GAAN  ({0} KLAAR)"
+    },
+    "portal.groupleft": {
+      "en": "GROUP LEFT  ·  QUEUE TO FOLLOW",
+      "text": "GROEP IS WEG  ·  SLUIT AAN OM TE VOLGEN"
+    },
+    "portal.leavequeue": {
+      "en": "LEAVE QUEUE",
+      "text": "VERLAAT WACHTRIJ"
+    },
+    "portal.leaving": {
+      "en": "LEAVING…",
+      "text": "VERTREKKEN…"
+    },
+    "portal.leavingbehind": {
+      "en": "LEAVING  ·  {0} will follow when ready",
+      "text": "VERTREKKEN  ·  {0} volgen zodra ze klaar zijn"
+    },
+    "portal.leavingtogether": {
+      "en": "LEAVING TOGETHER",
+      "text": "SAMEN VERTREKKEN"
+    },
+    "portal.nobodyqueued": {
+      "en": "NOBODY QUEUED YET",
+      "text": "NOG NIEMAND IN DE RIJ"
+    },
+    "portal.queued": {
+      "en": "{0} QUEUED",
+      "text": "{0} IN DE RIJ"
+    },
+    "portal.queuedplus": {
+      "en": "{0} QUEUED  ·  {1} DOWNLOADING",
+      "text": "{0} IN DE RIJ  ·  {1} DOWNLOADEN"
+    },
+    "portal.queueup": {
+      "en": "QUEUE UP",
+      "text": "IN DE RIJ"
+    },
+    "portal.ready": {
+      "en": "\"{0}\" ready",
+      "text": "\"{0}\" klaar"
+    },
+    "portal.starting": {
+      "en": "STARTING…",
+      "text": "STARTEN…"
+    },
+    "portal.startingwait": {
+      "en": "STARTING  ·  waiting for {0}",
+      "text": "STARTEN  ·  wachten op {0}"
+    },
+    "presence.joined1": {
+      "en": "{0} joined",
+      "text": "{0} is erbij"
+    },
+    "presence.joined2": {
+      "en": "{0} and {1} joined",
+      "text": "{0} en {1} zijn erbij"
+    },
+    "presence.joinedn": {
+      "en": "{0} +{1} joined",
+      "text": "{0} +{1} erbij"
+    },
+    "presence.left1": {
+      "en": "{0} left",
+      "text": "{0} is weg"
+    },
+    "presence.left2": {
+      "en": "{0} and {1} left",
+      "text": "{0} en {1} zijn weg"
+    },
+    "presence.leftn": {
+      "en": "{0} +{1} left",
+      "text": "{0} +{1} weg"
+    },
+    "profile.achievements": {
+      "en": "Achievements",
+      "text": "Prestaties"
+    },
+    "profile.addfriend": {
+      "en": "Add friend",
+      "text": "Vriend toevoegen"
+    },
+    "profile.arcade": {
+      "en": "Arcade",
+      "text": "Arcade"
+    },
+    "profile.badge.avatar": {
+      "en": "Avatar creator",
+      "text": "Avatarmaker"
+    },
+    "profile.badge.helper": {
+      "en": "Helper",
+      "text": "Helper"
+    },
+    "profile.badge.new": {
+      "en": "New player",
+      "text": "Nieuwe speler"
+    },
+    "profile.badge.partner": {
+      "en": "Partner",
+      "text": "Partner"
+    },
+    "profile.badge.staff": {
+      "en": "Staff",
+      "text": "Staff"
+    },
+    "profile.badge.streamer": {
+      "en": "Streamer",
+      "text": "Streamer"
+    },
+    "profile.badge.world": {
+      "en": "World creator",
+      "text": "Wereldmaker"
+    },
+    "profile.bestjogger": {
+      "en": "Best jogger",
+      "text": "Beste jogger"
+    },
+    "profile.bronze": {
+      "en": "Bronze",
+      "text": "Brons"
+    },
+    "profile.competitive": {
+      "en": "Competitive",
+      "text": "Competitief"
+    },
+    "profile.crown": {
+      "en": "Crown",
+      "text": "Kroon"
+    },
+    "profile.darecompleter": {
+      "en": "Dare completer",
+      "text": "Uitdagingskampioen"
+    },
+    "profile.dayone": {
+      "en": "Day One",
+      "text": "Dag één"
+    },
+    "profile.empty": {
+      "en": "Has not played VR Realms yet.",
+      "text": "Heeft VR Realms nog niet gespeeld."
+    },
+    "profile.ffa": {
+      "en": "Free for all",
+      "text": "Free-for-all"
+    },
+    "profile.goback": {
+      "en": "Go back",
+      "text": "Terug"
+    },
+    "profile.gold": {
+      "en": "Gold",
+      "text": "Goud"
+    },
+    "profile.helpful": {
+      "en": "Helpful",
+      "text": "Behulpzaam"
+    },
+    "profile.hidden": {
+      "en": "{0} (hidden)",
+      "text": "{0} (verborgen)"
+    },
+    "profile.hidden.other": {
+      "en": "This player keeps their profile private.",
+      "text": "Deze speler houdt zijn profiel privé."
+    },
+    "profile.hidden.self": {
+      "en": "Your profile is hidden from other players.",
+      "text": "Je profiel is verborgen voor andere spelers."
+    },
+    "profile.hours": {
+      "en": "{0} h",
+      "text": "{0} u"
+    },
+    "profile.invite": {
+      "en": "Invite to VR Realms",
+      "text": "Uitnodigen voor VR Realms"
+    },
+    "profile.invite.reward": {
+      "en": "{0} gold for you when they join",
+      "text": "{0} goud voor jou als ze meedoen"
+    },
+    "profile.invited": {
+      "en": "Invite sent",
+      "text": "Uitnodiging verstuurd"
+    },
+    "profile.last.days": {
+      "en": "Last online {0} days ago",
+      "text": "Laatst online {0} dagen geleden"
+    },
+    "profile.last.h": {
+      "en": "Last online {0} h ago",
+      "text": "Laatst online {0} uur geleden"
+    },
+    "profile.last.min": {
+      "en": "Last online {0} min ago",
+      "text": "Laatst online {0} min geleden"
+    },
+    "profile.level": {
+      "en": "Level {0}",
+      "text": "Level {0}"
+    },
+    "profile.loadfail": {
+      "en": "Could not load this profile. Trying again.",
+      "text": "Dit profiel kon niet worden geladen. Opnieuw proberen."
+    },
+    "profile.member": {
+      "en": "Member since {0}",
+      "text": "Lid sinds {0}"
+    },
+    "profile.minutes": {
+      "en": "{0} min",
+      "text": "{0} min"
+    },
+    "profile.more": {
+      "en": "+{0} more",
+      "text": "+{0} meer"
+    },
+    "profile.none": {
+      "en": "This player has no profile.",
+      "text": "Deze speler heeft geen profiel."
+    },
+    "profile.online": {
+      "en": "Online now",
+      "text": "Nu online"
+    },
+    "profile.parkjogger": {
+      "en": "Park jogger",
+      "text": "Parkjogger"
+    },
+    "profile.pool": {
+      "en": "Pool",
+      "text": "Pool"
+    },
+    "profile.private": {
+      "en": "This player keeps their stats private.",
+      "text": "Deze speler houdt zijn statistieken privé."
+    },
+    "profile.published": {
+      "en": "{0} published",
+      "text": "{0} gepubliceerd"
+    },
+    "profile.rank.creatorall": {
+      "en": "#{0}  Creator hours all time",
+      "text": "#{0}  Makersuren aller tijden"
+    },
+    "profile.rank.creatormonth": {
+      "en": "#{0}  Creator hours this month",
+      "text": "#{0}  Makersuren deze maand"
+    },
+    "profile.rank.goldall": {
+      "en": "#{0}  Gold all time",
+      "text": "#{0}  Goud aller tijden"
+    },
+    "profile.rank.goldmonth": {
+      "en": "#{0}  Gold this month",
+      "text": "#{0}  Goud deze maand"
+    },
+    "profile.rank.timeall": {
+      "en": "#{0}  Most active all time",
+      "text": "#{0}  Actiefst aller tijden"
+    },
+    "profile.rank.timemonth": {
+      "en": "#{0}  Most active this month",
+      "text": "#{0}  Actiefst deze maand"
+    },
+    "profile.rank.topavatars": {
+      "en": "#{0}  Top avatars",
+      "text": "#{0}  Topavatars"
+    },
+    "profile.rank.topcreators": {
+      "en": "#{0}  Top creators",
+      "text": "#{0}  Topmakers"
+    },
+    "profile.rank.topworlds": {
+      "en": "#{0}  Top worlds",
+      "text": "#{0}  Topwerelden"
+    },
+    "profile.rankings": {
+      "en": "Rankings",
+      "text": "Ranglijsten"
+    },
+    "profile.rarity": {
+      "en": "{0}% of players",
+      "text": "{0}% van de spelers"
+    },
+    "profile.rate.daily": {
+      "en": "You have given all your thumbs-ups for today.",
+      "text": "Je hebt al je duimpjes voor vandaag gegeven."
+    },
+    "profile.rate.failed": {
+      "en": "That did not go through. Try again in a moment.",
+      "text": "Dat is niet gelukt. Probeer het zo opnieuw."
+    },
+    "profile.rate.need": {
+      "en": "Play {0} minutes together to rate",
+      "text": "Speel {0} minuten samen om te beoordelen"
+    },
+    "profile.report": {
+      "en": "Report player",
+      "text": "Speler melden"
+    },
+    "profile.show": {
+      "en": "Show",
+      "text": "Tonen"
+    },
+    "profile.silver": {
+      "en": "Silver",
+      "text": "Zilver"
+    },
+    "profile.since": {
+      "en": "since {0}",
+      "text": "sinds {0}"
+    },
+    "profile.stat.creator": {
+      "en": "Time in their worlds",
+      "text": "Tijd in hun werelden"
+    },
+    "profile.stat.gold": {
+      "en": "Gold earned",
+      "text": "Verdiend goud"
+    },
+    "profile.stat.playtime": {
+      "en": "Playtime",
+      "text": "Speeltijd"
+    },
+    "profile.stat.worlds": {
+      "en": "Worlds visited",
+      "text": "Bezochte werelden"
+    },
+    "profile.steam.online": {
+      "en": "Online on Steam",
+      "text": "Online op Steam"
+    },
+    "profile.streak": {
+      "en": "{0}-day streak",
+      "text": "Reeks van {0} dagen"
+    },
+    "profile.sure": {
+      "en": "Sure?",
+      "text": "Zeker?"
+    },
+    "profile.tapbadge": {
+      "en": "Tap a badge to show or hide it on your head plate.",
+      "text": "Tik op een badge om hem op je plate te tonen of te verbergen."
+    },
+    "profile.teamffa": {
+      "en": "Team free for all",
+      "text": "Team free-for-all"
+    },
+    "profile.title": {
+      "en": "Profile",
+      "text": "Profiel"
+    },
+    "profile.visit": {
+      "en": "Visit",
+      "text": "Bezoeken"
+    },
+    "profile.wear": {
+      "en": "Wear",
+      "text": "Dragen"
+    },
+    "profile.wearing": {
+      "en": "Wearing",
+      "text": "Draagt"
+    },
+    "session.gone": {
+      "en": "Couldn't connect — that session is no longer available.",
+      "text": "Kon niet verbinden — die sessie is niet meer beschikbaar."
+    },
+    "session.handing": {
+      "en": "Handing over…",
+      "text": "Overdragen…"
+    },
+    "session.handover": {
+      "en": "Handing over to a new host",
+      "text": "Overdracht aan een nieuwe host"
+    },
+    "session.moving": {
+      "en": "Moving you to the new host",
+      "text": "Je wordt naar de nieuwe host verplaatst"
+    },
+    "session.transitfail": {
+      "en": "Steam could not open that world just now. Back home: try again in a moment.",
+      "text": "Steam kon die wereld nu niet openen. Terug naar huis: probeer het zo nog eens."
+    },
+    "settings.aa": {
+      "en": "Anti-Aliasing",
+      "text": "Anti-aliasing"
+    },
+    "settings.access.hdr": {
+      "en": "ACCESSIBILITY",
+      "text": "TOEGANKELIJKHEID"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "text": "Omgeving"
+    },
+    "settings.autodecline": {
+      "en": "Auto Decline Invites",
+      "text": "Uitnodigingen autom. weigeren"
+    },
+    "settings.autodecline.sub": {
+      "en": "Decline all world invites automatically",
+      "text": "Alle wereld-uitnodigingen autom. weigeren"
+    },
+    "settings.autodl": {
+      "en": "Auto Download Avatars",
+      "text": "Avatars autom. downloaden"
+    },
+    "settings.autodl.sub": {
+      "en": "Automatically download new avatar assets",
+      "text": "Nieuwe avatar-assets autom. downloaden"
+    },
+    "settings.builddate": {
+      "en": "Build Date",
+      "text": "Builddatum"
+    },
+    "settings.buildver": {
+      "en": "Build Version",
+      "text": "Buildversie"
+    },
+    "settings.censor": {
+      "en": "Censor Chat",
+      "text": "Chat censureren"
+    },
+    "settings.censor.sub": {
+      "en": "Filter profanity and slurs in chat for everyone here",
+      "text": "Scheldwoorden in chat filteren voor iedereen hier"
+    },
+    "settings.changedevice": {
+      "en": "Change Device",
+      "text": "Apparaat wijzigen"
+    },
+    "settings.climb": {
+      "en": "Allow Climbing",
+      "text": "Klimmen toestaan"
+    },
+    "settings.climb.sub": {
+      "en": "Let guests use climbing locomotion in your instance",
+      "text": "Gasten mogen klimmen in jouw instantie"
+    },
+    "settings.dialogue": {
+      "en": "Dialogue",
+      "text": "Dialoog"
+    },
+    "settings.dlworlds": {
+      "en": "Downloaded Worlds",
+      "text": "Gedownloade werelden"
+    },
+    "settings.dlworlds.value": {
+      "en": "{0} kept  ·  {1} MB",
+      "text": "{0} bewaard  ·  {1} MB"
+    },
+    "settings.effects": {
+      "en": "Effects",
+      "text": "Effecten"
+    },
+    "settings.foliage": {
+      "en": "Foliage",
+      "text": "Begroeiing"
+    },
+    "settings.forcemove": {
+      "en": "Force Movement Style (everyone here)",
+      "text": "Bewegingsstijl forceren (iedereen hier)"
+    },
+    "settings.foveated": {
+      "en": "Foveated Rendering",
+      "text": "Foveated rendering"
+    },
+    "settings.foveated.sub": {
+      "en": "Cheaper edges of vision - takes effect on restart",
+      "text": "Goedkopere randen – werkt na herstart"
+    },
+    "settings.fps": {
+      "en": "FPS Counter",
+      "text": "FPS-teller"
+    },
+    "settings.fps.sub": {
+      "en": "Display frames per second overlay",
+      "text": "Beelden per seconde tonen"
+    },
+    "settings.fpscap": {
+      "en": "FPS Cap",
+      "text": "FPS-limiet"
+    },
+    "settings.fpscap.sub": {
+      "en": "In VR at least 90 is used",
+      "text": "In VR wordt minimaal 90 gebruikt"
+    },
+    "settings.fpsvalue": {
+      "en": "Frames per second",
+      "text": "Beelden per seconde"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "text": "Volledig scherm"
+    },
+    "settings.gpu": {
+      "en": "Detected GPU",
+      "text": "Gedetecteerde GPU"
+    },
+    "settings.hideboards": {
+      "en": "Hide Me From Leaderboards",
+      "text": "Verberg mij op ranglijsten"
+    },
+    "settings.hideboards.sub": {
+      "en": "Keeps your name off the hub boards. Your playtime and creator hours still count.",
+      "text": "Houdt je naam van de hub-borden. Je speeltijd en creator-uren tellen nog steeds mee."
+    },
+    "settings.homeprivate": {
+      "en": "Make Home Private",
+      "text": "Thuis privé maken"
+    },
+    "settings.homeprivate.sub": {
+      "en": "Stop your home appearing in Browse and to friends",
+      "text": "Thuis niet tonen in Bladeren en aan vrienden"
+    },
+    "settings.host.hdr": {
+      "en": "YOUR INSTANCE (HOST ONLY)",
+      "text": "JOUW INSTANTIE (ALLEEN HOST)"
+    },
+    "settings.hostmedia": {
+      "en": "Host-Only Media",
+      "text": "Alleen-host media"
+    },
+    "settings.hostmedia.sub": {
+      "en": "Only you can play, stop or retune TVs and jukeboxes here",
+      "text": "Alleen jij kunt tv's en jukeboxen hier afspelen, stoppen of aanpassen"
+    },
+    "settings.master": {
+      "en": "Master Sound",
+      "text": "Hoofdgeluid"
+    },
+    "settings.micenabled": {
+      "en": "Microphone Enabled",
+      "text": "Microfoon ingeschakeld"
+    },
+    "settings.micenabled.sub": {
+      "en": "Transmit your voice to others",
+      "text": "Zend je stem naar anderen"
+    },
+    "settings.movestyle": {
+      "en": "Movement Style",
+      "text": "Bewegingsstijl"
+    },
+    "settings.nameplates": {
+      "en": "Show Nameplates on Stream",
+      "text": "Naamplaatjes tonen in stream"
+    },
+    "settings.nameplates.sub": {
+      "en": "Show player name tags in the camera / streaming view",
+      "text": "Toon naamplaatjes van spelers in de camera- en streamweergave"
+    },
+    "settings.ping": {
+      "en": "Ping Display",
+      "text": "Ping-weergave"
+    },
+    "settings.ping.sub": {
+      "en": "Display network latency overlay",
+      "text": "Netwerklatentie tonen"
+    },
+    "settings.pingvalue": {
+      "en": "Ping to host",
+      "text": "Ping naar host"
+    },
+    "settings.pixeldensity": {
+      "en": "Render Resolution (VR)",
+      "text": "Renderresolutie (VR)"
+    },
+    "settings.postprocess": {
+      "en": "Post Process",
+      "text": "Nabewerking"
+    },
+    "settings.preset": {
+      "en": "Overall Quality",
+      "text": "Algehele kwaliteit"
+    },
+    "settings.profilehidden": {
+      "en": "Hide My Profile",
+      "text": "Mijn profiel verbergen"
+    },
+    "settings.profilehidden.sub": {
+      "en": "Other players see only your name and picture. Nothing stops counting.",
+      "text": "Andere spelers zien alleen je naam en foto. Alles blijft meetellen."
+    },
+    "settings.reflections": {
+      "en": "Reflections",
+      "text": "Reflecties"
+    },
+    "settings.reportbug": {
+      "en": "Report a Bug",
+      "text": "Bug melden"
+    },
+    "settings.restarthint": {
+      "en": "Some changes apply after a restart.",
+      "text": "Sommige wijzigingen werken na herstart."
+    },
+    "settings.sfx": {
+      "en": "Sound Effects",
+      "text": "Geluidseffecten"
+    },
+    "settings.shadow": {
+      "en": "Shadow Quality",
+      "text": "Schaduwkwaliteit"
+    },
+    "settings.smoothturn": {
+      "en": "Smooth Turning",
+      "text": "Vloeiend draaien"
+    },
+    "settings.smoothturn.sub": {
+      "en": "Gradual rotation instead of snap turning",
+      "text": "Geleidelijk draaien i.p.v. snap"
+    },
+    "settings.streamer": {
+      "en": "Streamer Mode",
+      "text": "Streamermodus"
+    },
+    "settings.streamer.sub": {
+      "en": "Hide personal information for streaming",
+      "text": "Persoonlijke info verbergen bij streamen"
+    },
+    "settings.swaphands": {
+      "en": "Swap Hands",
+      "text": "Handen wisselen"
+    },
+    "settings.swaphands.sub": {
+      "en": "Move the menu and laser to your other hand",
+      "text": "Menu en laser naar je andere hand"
+    },
+    "settings.tab.access": {
+      "en": "Access.",
+      "text": "Toegang"
+    },
+    "settings.tab.comfort": {
+      "en": "Comfort",
+      "text": "Comfort"
+    },
+    "settings.tab.graphics": {
+      "en": "Graphics",
+      "text": "Graphics"
+    },
+    "settings.tab.mic": {
+      "en": "Mic",
+      "text": "Mic"
+    },
+    "settings.texture": {
+      "en": "Texture Quality",
+      "text": "Textuurkwaliteit"
+    },
+    "settings.turnspeed": {
+      "en": "Turn Speed",
+      "text": "Draaisnelheid"
+    },
+    "settings.tvmedia": {
+      "en": "TV / Media",
+      "text": "TV / Media"
+    },
+    "settings.viewdist": {
+      "en": "View Distance",
+      "text": "Zichtafstand"
+    },
+    "settings.voices": {
+      "en": "Voices",
+      "text": "Stemmen"
+    },
+    "status.checkingupdates": {
+      "en": "Checking for updates…",
+      "text": "Zoeken naar updates…"
+    },
+    "status.connecting": {
+      "en": "Connecting…",
+      "text": "Verbinden…"
+    },
+    "status.couldntjoin": {
+      "en": "Couldn't join",
+      "text": "Deelnemen mislukt"
+    },
+    "status.couldntprepare": {
+      "en": "Couldn't prepare the map",
+      "text": "Kaart kon niet worden voorbereid"
+    },
+    "status.downloadfailed": {
+      "en": "Download failed",
+      "text": "Download mislukt"
+    },
+    "status.downloadingworld": {
+      "en": "Downloading world update…",
+      "text": "Wereldupdate downloaden…"
+    },
+    "status.friendretry": {
+      "en": "Friend's session not ready — retrying…",
+      "text": "Sessie niet klaar — opnieuw proberen…"
+    },
+    "status.joining": {
+      "en": "Joining…",
+      "text": "Deelnemen…"
+    },
+    "status.joiningfriend": {
+      "en": "Joining friend's session…",
+      "text": "Deelnemen aan sessie van vriend…"
+    },
+    "status.levelnotfound": {
+      "en": "Level not found",
+      "text": "Level niet gevonden"
+    },
+    "status.loading": {
+      "en": "Loading",
+      "text": "Laden"
+    },
+    "status.lookinghost": {
+      "en": "Looking for a host…",
+      "text": "Host zoeken…"
+    },
+    "status.lookinglevel": {
+      "en": "Looking up level…",
+      "text": "Level zoeken…"
+    },
+    "status.preparing": {
+      "en": "Preparing…",
+      "text": "Voorbereiden…"
+    },
+    "status.startingdl": {
+      "en": "Starting download…",
+      "text": "Download starten…"
+    },
+    "status.travelhub": {
+      "en": "Traveling to HUB…",
+      "text": "Reizen naar HUB…"
+    },
+    "toast.admin.badkey": {
+      "en": "Ban key rejected — it is not a valid moderator key.",
+      "text": "Bansleutel geweigerd — het is geen geldige moderatorsleutel."
+    },
+    "toast.admin.banned": {
+      "en": "Player banned.",
+      "text": "Speler verbannen."
+    },
+    "toast.admin.lifted": {
+      "en": "Ban lifted.",
+      "text": "Ban opgeheven."
+    },
+    "toast.admin.nokey": {
+      "en": "No ban key on this machine — the player was not banned in the database.",
+      "text": "Geen bansleutel op deze computer — de speler is niet verbannen in de database."
+    },
+    "toast.admin.nolift": {
+      "en": "You do not have permission to lift bans.",
+      "text": "Je hebt geen toestemming om bans op te heffen."
+    },
+    "toast.admin.noperm": {
+      "en": "You do not have permission to ban.",
+      "text": "Je hebt geen toestemming om te bannen."
+    },
+    "toast.admin.noplayer": {
+      "en": "No player selected.",
+      "text": "Geen speler geselecteerd."
+    },
+    "toast.admin.ownermod": {
+      "en": "Only the owner can ban a moderator.",
+      "text": "Alleen de eigenaar kan een moderator bannen."
+    },
+    "toast.admin.protected": {
+      "en": "That player cannot be banned.",
+      "text": "Die speler kan niet worden verbannen."
+    },
+    "toast.admin.refused": {
+      "en": "Refused: that account cannot be banned by you.",
+      "text": "Geweigerd: jij kunt dat account niet bannen."
+    },
+    "toast.admin.self": {
+      "en": "You cannot ban yourself.",
+      "text": "Je kunt jezelf niet bannen."
+    },
+    "toast.admin.sitecode": {
+      "en": "The site did not accept it (code {0}).",
+      "text": "De site heeft het niet geaccepteerd (code {0})."
+    },
+    "toast.admin.unavailable": {
+      "en": "Ban system unavailable.",
+      "text": "Bansysteem niet beschikbaar."
+    },
+    "toast.avatar.applying": {
+      "en": "Applying avatar…",
+      "text": "Avatar toepassen…"
+    },
+    "toast.avatar.checking": {
+      "en": "Checking avatar…",
+      "text": "Avatar controleren…"
+    },
+    "toast.avatar.dlfail": {
+      "en": "Avatar download failed",
+      "text": "Downloaden van avatar mislukt"
+    },
+    "toast.avatar.downloading": {
+      "en": "Downloading avatar… {0}%",
+      "text": "Avatar downloaden… {0}%"
+    },
+    "toast.avatar.floorlow": {
+      "en": "Your headset reads only {0} cm above the floor, so your avatar cannot be calibrated. Fix the floor height in SteamVR Room Setup (or your headset's floor setting), then Calibrate.",
+      "text": "Je headset meet maar {0} cm boven de vloer, dus je avatar kan niet worden gekalibreerd. Corrigeer de vloerhoogte in SteamVR Room Setup (of de vloerinstelling van je headset) en kies dan Kalibreren."
+    },
+    "toast.avatar.loadfail": {
+      "en": "Couldn't load avatar",
+      "text": "Kon avatar niet laden"
+    },
+    "toast.avatar.preparing": {
+      "en": "Preparing avatar…",
+      "text": "Avatar voorbereiden…"
+    },
+    "toast.avatar.ready": {
+      "en": "Avatar ready",
+      "text": "Avatar klaar"
+    },
+    "toast.ban.day": {
+      "en": "You have been banned from VR Realms for {0} day.",
+      "text": "Je bent {0} dag verbannen uit VR Realms."
+    },
+    "toast.ban.day.leftdays": {
+      "en": "You have been banned from VR Realms for {0} day ({1} days remaining).",
+      "text": "Je bent {0} dag verbannen uit VR Realms (nog {1} dagen)."
+    },
+    "toast.ban.days": {
+      "en": "You have been banned from VR Realms for {0} days.",
+      "text": "Je bent {0} dagen verbannen uit VR Realms."
+    },
+    "toast.ban.days.leftday": {
+      "en": "You have been banned from VR Realms for {0} days ({1} day remaining).",
+      "text": "Je bent {0} dagen verbannen uit VR Realms (nog {1} dag)."
+    },
+    "toast.ban.days.leftdays": {
+      "en": "You have been banned from VR Realms for {0} days ({1} days remaining).",
+      "text": "Je bent {0} dagen verbannen uit VR Realms (nog {1} dagen)."
+    },
+    "toast.ban.hour": {
+      "en": "You have been banned from VR Realms for {0} more hour.",
+      "text": "Je bent nog {0} uur verbannen uit VR Realms."
+    },
+    "toast.ban.hours": {
+      "en": "You have been banned from VR Realms for {0} more hours.",
+      "text": "Je bent nog {0} uur verbannen uit VR Realms."
+    },
+    "toast.ban.hub": {
+      "en": "You have been suspended from the hub.",
+      "text": "Je bent geschorst voor de hub."
+    },
+    "toast.ban.hub.day": {
+      "en": "You have been suspended from the hub for {0} more day.",
+      "text": "Je bent nog {0} dag geschorst voor de hub."
+    },
+    "toast.ban.hub.days": {
+      "en": "You have been suspended from the hub for {0} more days.",
+      "text": "Je bent nog {0} dagen geschorst voor de hub."
+    },
+    "toast.ban.hub.hour": {
+      "en": "You have been suspended from the hub for {0} more hour.",
+      "text": "Je bent nog {0} uur geschorst voor de hub."
+    },
+    "toast.ban.hub.hours": {
+      "en": "You have been suspended from the hub for {0} more hours.",
+      "text": "Je bent nog {0} uur geschorst voor de hub."
+    },
+    "toast.ban.perm": {
+      "en": "You have been banned from VR Realms.",
+      "text": "Je bent verbannen uit VR Realms."
+    },
+    "toast.bp.deletecancelled": {
+      "en": "Delete cancelled.",
+      "text": "Verwijderen geannuleerd."
+    },
+    "toast.bp.noinvitegroups": {
+      "en": "No groups you can invite to",
+      "text": "Geen groepen waarvoor je kunt uitnodigen"
+    },
+    "toast.bp.ownmax": {
+      "en": "You can only own 5 groups",
+      "text": "Je kunt maar 5 groepen bezitten"
+    },
+    "toast.bp.photofailed": {
+      "en": "Photo FAILED to save - see the log",
+      "text": "Foto opslaan MISLUKT - zie het log"
+    },
+    "toast.bp.portalaim": {
+      "en": "Aim at the floor - press to drop the portal - turn the laser off to cancel",
+      "text": "Richt op de vloer - druk om het portaal te plaatsen - zet de laser uit om te annuleren"
+    },
+    "toast.bp.stillreview": {
+      "en": "This one is still waiting to be reviewed.",
+      "text": "Deze wacht nog op beoordeling."
+    },
+    "toast.content.needdlc": {
+      "en": "Mature Themes. Needs the mature DLC to unlock — it is free on the VR Realms Steam page.",
+      "text": "Volwassen thema's. Vereist de volwassen-DLC — gratis op de Steam-pagina van VR Realms."
+    },
+    "toast.content.nocheck": {
+      "en": "We could not check this content's rating just now. Try again in a moment.",
+      "text": "We konden de classificatie van deze content nu niet controleren. Probeer het zo opnieuw."
+    },
+    "toast.content.orbstreamer": {
+      "en": "Mature avatars will show as an orb while streamer mode is on. You can unhide anyone from Nearby.",
+      "text": "Volwassen avatars worden een bol zolang streamermodus aan staat. Je kunt iedereen weer tonen via In de buurt."
+    },
+    "toast.content.removed": {
+      "en": "This content has been removed.",
+      "text": "Deze content is verwijderd."
+    },
+    "toast.content.review": {
+      "en": "This is waiting to be reviewed. It will work once it has been checked.",
+      "text": "Dit wacht op beoordeling. Het werkt zodra het is gecontroleerd."
+    },
+    "toast.content.revoked": {
+      "en": "Your access to mature content has been removed.",
+      "text": "Je toegang tot volwassen content is ingetrokken."
+    },
+    "toast.content.unavailable": {
+      "en": "This content is not available to you.",
+      "text": "Deze content is niet beschikbaar voor jou."
+    },
+    "toast.diamonds.added": {
+      "en": "Diamonds added",
+      "text": "Diamanten toegevoegd"
+    },
+    "toast.diamonds.cancelled": {
+      "en": "Purchase cancelled",
+      "text": "Aankoop geannuleerd"
+    },
+    "toast.diamonds.confirmsteam": {
+      "en": "Confirm the purchase in the Steam window (it may be on your monitor)",
+      "text": "Bevestig de aankoop in het Steam-venster (het kan op je monitor staan)"
+    },
+    "toast.diamonds.got": {
+      "en": "+{0} diamonds",
+      "text": "+{0} diamanten"
+    },
+    "toast.diamonds.gotdoubled": {
+      "en": "+{0} diamonds! Your first pack was doubled",
+      "text": "+{0} diamanten! Je eerste pakket is verdubbeld"
+    },
+    "toast.diamonds.nosteam": {
+      "en": "Steam is not available right now",
+      "text": "Steam is nu niet beschikbaar"
+    },
+    "toast.diamonds.nostore": {
+      "en": "Could not reach the store. Nothing was charged",
+      "text": "Kon de winkel niet bereiken. Er is niets afgeschreven"
+    },
+    "toast.diamonds.notonsale": {
+      "en": "Diamonds are not on sale yet",
+      "text": "Diamanten zijn nog niet te koop"
+    },
+    "toast.diamonds.paidpending": {
+      "en": "Payment received. Your diamonds may take a minute to arrive",
+      "text": "Betaling ontvangen. Je diamanten kunnen een minuutje nodig hebben"
+    },
+    "toast.diamonds.stillwaiting": {
+      "en": "Still waiting for Steam. If you confirm there, your diamonds arrive shortly",
+      "text": "Nog steeds aan het wachten op Steam. Als je daar bevestigt, komen je diamanten zo binnen"
+    },
+    "toast.event.now": {
+      "en": "Event starting now: {0}",
+      "text": "Evenement begint nu: {0}"
+    },
+    "toast.event.nowin": {
+      "en": "Event starting now: {0} in {1}",
+      "text": "Evenement begint nu: {0} in {1}"
+    },
+    "toast.event.soon": {
+      "en": "Event in {0} minutes: {1}",
+      "text": "Evenement over {0} minuten: {1}"
+    },
+    "toast.goldrush.bought": {
+      "en": "You bought this Gold Rush, so it is for everyone else!",
+      "text": "Jij hebt deze Goudkoorts gekocht, dus hij is voor alle anderen!"
+    },
+    "toast.goldrush.expired": {
+      "en": "Nobody found the Gold Rush plate in time. It's gone!",
+      "text": "Niemand vond de Goudkoorts-plate op tijd. Hij is weg!"
+    },
+    "toast.goldrush.won": {
+      "en": "You won the Gold Rush! +{0} gold",
+      "text": "Je hebt de Goudkoorts gewonnen! +{0} goud"
+    },
+    "toast.groups.accepted": {
+      "en": "You're in {0} — your request was accepted",
+      "text": "Je zit in {0} — je verzoek is geaccepteerd"
+    },
+    "toast.groups.badreply": {
+      "en": "Groups did not answer properly",
+      "text": "Groepen gaf geen goed antwoord"
+    },
+    "toast.groups.invited": {
+      "en": "You've been invited to {0} — open Groups to accept",
+      "text": "Je bent uitgenodigd voor {0} — open Groepen om te accepteren"
+    },
+    "toast.groups.key": {
+      "en": "Groups are unavailable (key)",
+      "text": "Groepen niet beschikbaar (sleutel)"
+    },
+    "toast.groups.perksoffline": {
+      "en": "Group perks need the site — you are offline.",
+      "text": "Groepsvoordelen hebben de site nodig — je bent offline."
+    },
+    "toast.groups.request": {
+      "en": "{0} wants to join {1} — open Groups to approve",
+      "text": "{0} wil lid worden van {1} — open Groepen om goed te keuren"
+    },
+    "toast.groups.requests": {
+      "en": "{0} new join requests — open Groups to approve",
+      "text": "{0} nieuwe lidmaatschapsverzoeken — open Groepen om goed te keuren"
+    },
+    "toast.groups.unreachable": {
+      "en": "Groups are unreachable right now",
+      "text": "Groepen zijn nu niet bereikbaar"
+    },
+    "toast.guide.agree": {
+      "en": "Look at your hands: the labels show what each button does. To hide them, hold both triggers.",
+      "text": "Kijk naar je handen: de labels laten zien wat elke knop doet. Houd beide trekkers ingedrukt om ze te verbergen."
+    },
+    "toast.guide.off": {
+      "en": "Controller guide is off. Bring it back from the quick menu.",
+      "text": "De controllergids staat uit. Haal hem terug via het snelmenu."
+    },
+    "toast.guide.on": {
+      "en": "Controller guide is on. Look at your hands.",
+      "text": "De controllergids staat aan. Kijk naar je handen."
+    },
+    "toast.guide.other": {
+      "en": "The controller guide only knows Quest-style controllers for now.",
+      "text": "De controllergids kent voorlopig alleen Quest-achtige controllers."
+    },
+    "toast.guide.tourdone": {
+      "en": "Controller guide is off now. Bring it back any time from the quick menu.",
+      "text": "De controllergids staat nu uit. Haal hem altijd terug via het snelmenu."
+    },
+    "toast.hub.allfull": {
+      "en": "The hubs are full right now — try again in a few minutes.",
+      "text": "De hubs zijn nu vol — probeer het over een paar minuten opnieuw."
+    },
+    "toast.hub.fullredirect": {
+      "en": "{0} is full — taking you to {1}.",
+      "text": "{0} is vol — we brengen je naar {1}."
+    },
+    "toast.hub.lost": {
+      "en": "Lost the hub connection — the hub may be updating. Try again in a minute.",
+      "text": "Verbinding met de hub verbroken — hij wordt misschien bijgewerkt. Probeer het over een minuut opnieuw."
+    },
+    "toast.hub.mismatch": {
+      "en": "Hub and game versions don't match — update the game, or wait for the hub update.",
+      "text": "Versies van hub en game komen niet overeen — update de game of wacht op de hub-update."
+    },
+    "toast.hub.noanswer": {
+      "en": "Couldn't reach the hub — nothing answered. It may be restarting; try again in a minute.",
+      "text": "Kon de hub niet bereiken — geen antwoord. Hij herstart misschien; probeer het over een minuut."
+    },
+    "toast.hub.reason.update": {
+      "en": "for an update",
+      "text": "voor een update"
+    },
+    "toast.hub.restart1": {
+      "en": "Hub restarting in {0} minute {1}",
+      "text": "Hub herstart over {0} minuut {1}"
+    },
+    "toast.hub.restartn": {
+      "en": "Hub restarting in {0} minutes {1}",
+      "text": "Hub herstart over {0} minuten {1}"
+    },
+    "toast.hub.unreachable": {
+      "en": "Couldn't reach the hub — it may be restarting. Try again in a minute.",
+      "text": "Kon de hub niet bereiken — hij herstart misschien. Probeer het over een minuut opnieuw."
+    },
+    "toast.join.dlfailed": {
+      "en": "Could not download that world — you have not been moved",
+      "text": "Kon die wereld niet downloaden — je bent niet verplaatst"
+    },
+    "toast.join.dlfailednamed": {
+      "en": "Could not download {0} — you have not been moved",
+      "text": "Kon {0} niet downloaden — je bent niet verplaatst"
+    },
+    "toast.join.failed": {
+      "en": "Couldn't join that session",
+      "text": "Kon niet deelnemen aan die sessie"
+    },
+    "toast.join.instanceclosed": {
+      "en": "That instance has closed — nobody is hosting this world right now",
+      "text": "Die instantie is gesloten — niemand host deze wereld op dit moment"
+    },
+    "toast.join.noanswer": {
+      "en": "Couldn't join that session — the host didn't answer. Try again in a moment.",
+      "text": "Kon niet deelnemen aan die sessie — de host reageerde niet. Probeer het zo opnieuw."
+    },
+    "toast.join.sessionclosed": {
+      "en": "That session has closed — refresh the list",
+      "text": "Die sessie is gesloten — ververs de lijst"
+    },
+    "toast.migration.failed": {
+      "en": "The host left and no new host took over — you're on your own here now.",
+      "text": "De host is weg en niemand nam het over — je bent hier nu alleen."
+    },
+    "toast.migration.named": {
+      "en": "The host left — {0} is taking over. Reconnecting…",
+      "text": "De host is weg — {0} neemt het over. Opnieuw verbinden…"
+    },
+    "toast.migration.waiting": {
+      "en": "The host left — waiting for a new host…",
+      "text": "De host is weg — wachten op een nieuwe host…"
+    },
+    "toast.migration.youarehost": {
+      "en": "The host left — you're the host now. Reloading the room…",
+      "text": "De host is weg — jij bent nu de host. Kamer wordt opnieuw geladen…"
+    },
+    "toast.plate.dupegold": {
+      "en": "+{0} gold from {1} (you already own it)",
+      "text": "+{0} goud van {1} (je hebt hem al)"
+    },
+    "toast.plate.dupemaxed": {
+      "en": "You own {0}. Owned plate gold is maxed for today ({1}/{2})",
+      "text": "Je hebt {0} al. Goud voor plates die je al hebt is voor vandaag op ({1}/{2})"
+    },
+    "toast.plate.new": {
+      "en": "You got a new head plate!",
+      "text": "Je hebt een nieuwe plate!"
+    },
+    "toast.portal.busy": {
+      "en": "You're already travelling — wait until you arrive to drop a portal",
+      "text": "Je bent al onderweg — wacht tot je er bent om een portaal te plaatsen"
+    },
+    "toast.report.failed": {
+      "en": "Couldn't send the report right now. Please try again later.",
+      "text": "Kon de melding nu niet versturen. Probeer het later opnieuw."
+    },
+    "toast.report.missing": {
+      "en": "That report was missing something — please add more detail.",
+      "text": "Er ontbrak iets aan die melding — voeg meer details toe."
+    },
+    "toast.report.moredetail": {
+      "en": "Please describe what happened in a little more detail.",
+      "text": "Beschrijf iets uitgebreider wat er gebeurde."
+    },
+    "toast.report.noitem": {
+      "en": "That report is missing the item it is about.",
+      "text": "Die melding mist het item waar hij over gaat."
+    },
+    "toast.report.noserver": {
+      "en": "Couldn't reach the server. Check your connection and try again.",
+      "text": "Kon de server niet bereiken. Controleer je verbinding en probeer het opnieuw."
+    },
+    "toast.report.nosteamid": {
+      "en": "Couldn't read your Steam ID — are you signed in to Steam?",
+      "text": "Kon je Steam-ID niet lezen — ben je ingelogd bij Steam?"
+    },
+    "toast.report.notconfigured": {
+      "en": "Reporting isn't configured in this build.",
+      "text": "Melden is niet ingesteld in deze build."
+    },
+    "toast.report.pickplayer": {
+      "en": "Pick which player you're reporting.",
+      "text": "Kies welke speler je meldt."
+    },
+    "toast.report.ratelimited": {
+      "en": "You've sent several reports recently. Please wait a little while.",
+      "text": "Je hebt onlangs meerdere meldingen verstuurd. Wacht even."
+    },
+    "toast.report.sent": {
+      "en": "Report sent — thank you.",
+      "text": "Melding verstuurd — bedankt."
+    },
+    "toast.score.awardaway": {
+      "en": "Welcome back — you earned {0} gold while you were away!   Total: {1}",
+      "text": "Welkom terug — je hebt {0} goud verdiend terwijl je weg was!   Totaal: {1}"
+    },
+    "toast.score.awardlive": {
+      "en": "+{0} gold!   Total: {1}",
+      "text": "+{0} goud!   Totaal: {1}"
+    },
+    "toast.score.streakkeep": {
+      "en": "{0}-day streak · play today to keep it",
+      "text": "Reeks van {0} {0}|plural(one=dag,other=dagen) · speel vandaag om hem te houden"
+    },
+    "toast.score.streakmore": {
+      "en": "{0}-day streak · {1} more {1}|plural(one=day,other=days) for +{2} gold",
+      "text": "Reeks van {0} {0}|plural(one=dag,other=dagen) · nog {1} {1}|plural(one=dag,other=dagen) voor +{2} goud"
+    },
+    "toast.score.streakpaid": {
+      "en": "{0}-day streak · +{1} gold at tonight's tally",
+      "text": "Reeks van {0} {0}|plural(one=dag,other=dagen) · +{1} goud bij de telling van vannacht"
+    },
+    "toast.seated.autoon": {
+      "en": "Looks like you are sitting, so seated mode is on and your avatar stays full size. Stand up to switch it off.",
+      "text": "Het lijkt erop dat je zit, dus de zitmodus staat aan en je avatar blijft op volle grootte. Sta op om hem uit te zetten."
+    },
+    "toast.seated.fbt": {
+      "en": "Seated mode isn't needed with full-body trackers. Your trackers already sit you down.",
+      "text": "Met full-body trackers heb je de zitmodus niet nodig. Je trackers laten je al zitten."
+    },
+    "toast.seated.off": {
+      "en": "Seated mode off.",
+      "text": "Zitmodus uit."
+    },
+    "toast.seated.on": {
+      "en": "Seated mode on. Sit comfortably and hold still for a second. Stand up to turn it off.",
+      "text": "Zitmodus aan. Ga lekker zitten en blijf even stil. Sta op om hem uit te zetten."
+    },
+    "toast.seated.stoodup": {
+      "en": "You stood up, so seated mode is off.",
+      "text": "Je bent opgestaan, dus de zitmodus staat uit."
+    },
+    "toast.seated.trackers": {
+      "en": "Trackers detected, seated mode is off.",
+      "text": "Trackers gedetecteerd, zitmodus staat uit."
+    },
+    "toast.session.invitehost": {
+      "en": "Only the host can invite people to this session.",
+      "text": "Alleen de host kan mensen uitnodigen voor deze sessie."
+    },
+    "toast.store.badreply": {
+      "en": "The store did not answer properly",
+      "text": "De winkel gaf geen goed antwoord"
+    },
+    "toast.store.freepick": {
+      "en": "Your free plate pick is back: choose a new plate in Menu, Supporter",
+      "text": "Je gratis plate-keuze is terug: kies een nieuwe plate in Menu, Supporter"
+    },
+    "toast.store.gone": {
+      "en": "That item is gone",
+      "text": "Dat item is weg"
+    },
+    "toast.store.key": {
+      "en": "The store is unavailable (key)",
+      "text": "De winkel is niet beschikbaar (sleutel)"
+    },
+    "toast.store.needdiamonds": {
+      "en": "You need {0} more diamonds",
+      "text": "Je hebt nog {0} diamanten nodig"
+    },
+    "toast.store.needgold": {
+      "en": "You need {0} more gold",
+      "text": "Je hebt nog {0} goud nodig"
+    },
+    "toast.store.offline": {
+      "en": "The store is offline right now",
+      "text": "De winkel is nu offline"
+    },
+    "toast.store.owned": {
+      "en": "You already own that",
+      "text": "Die heb je al"
+    },
+    "toast.store.unreachable": {
+      "en": "The store is unreachable right now",
+      "text": "De winkel is nu niet bereikbaar"
+    },
+    "toast.terms.howto.desk": {
+      "en": "To start: click I agree with the mouse.",
+      "text": "Om te beginnen: klik met de muis op Ik ga akkoord."
+    },
+    "toast.terms.howto.vr": {
+      "en": "To start: point a hand at I agree and pull the trigger. Either hand works.",
+      "text": "Om te beginnen: wijs met een hand naar Ik ga akkoord en haal de trekker over. Beide handen werken."
+    },
+    "toast.testmode.offline": {
+      "en": "Test launch — offline. Quit and start VR Realms normally to play online.",
+      "text": "Testlancering — offline. Sluit af en start VR Realms normaal om online te spelen."
+    },
+    "toast.voice.hostnudge": {
+      "en": "{0} joined your voice room — your mic is OFF. Turn it on in Settings → Microphone",
+      "text": "{0} kwam in je spraakruimte — je mic staat UIT. Zet hem aan via Instellingen → Microfoon"
+    },
+    "toast.voice.micdisconnected": {
+      "en": "Your microphone is disconnected — pick another in Settings → Microphone",
+      "text": "Je microfoon is losgekoppeld — kies een andere via Instellingen → Microfoon"
+    },
+    "toast.voice.micfailed": {
+      "en": "Your microphone could not be opened — check Windows microphone privacy, or another app may be using it",
+      "text": "Je microfoon kon niet worden geopend — controleer de microfoonprivacy van Windows, of een andere app gebruikt hem misschien"
+    },
+    "toast.voice.micoff": {
+      "en": "Your mic is OFF — turn it on in Settings → Microphone",
+      "text": "Je mic staat UIT — zet hem aan via Instellingen → Microfoon"
+    },
+    "toast.voice.micsilent": {
+      "en": "Your microphone is open but silent — it may be muted in Windows, or be the wrong device",
+      "text": "Je microfoon staat open maar is stil — hij is misschien gedempt in Windows, of het is het verkeerde apparaat"
+    },
+    "tour.announce": {
+      "en": "New: a two-minute tour of the controls. Find it on the Home page of your menu.",
+      "text": "Nieuw: een tour van twee minuten door de besturing. Je vindt hem op de Home-pagina van je menu."
+    },
+    "tour.both.friends": {
+      "en": "Invite a friend from Friends. It all runs through Steam, and the game is free, so anyone can join you.",
+      "text": "Nodig een vriend uit via Vrienden. Alles loopt via Steam en het spel is gratis, dus iedereen kan meedoen."
+    },
+    "tour.both.gold": {
+      "en": "You earn gold just by playing. Join a group and you earn together. Spend it in the Store on plates and more.",
+      "text": "Je verdient goud door gewoon te spelen. Sluit je aan bij een groep en je verdient samen. Geef het uit in de Winkel aan plates en meer."
+    },
+    "tour.both.hub": {
+      "en": "The hub is always open. It is where everyone meets, and the boards there show the top players, groups and supporters. Pick the region nearest you and press Join Hub on Home.",
+      "text": "De hub is altijd open. Daar komt iedereen samen en de borden tonen de topspelers, groepen en supporters. Kies de regio het dichtst bij jou en druk op Join Hub op Home."
+    },
+    "tour.both.ready": {
+      "en": "Your home is public by default, so your friends and anyone else can drop in. Want it to yourself? Settings, Comfort, Session visibility: Friends Only or Private. When you want people, the hub is waiting. One more thing: this is an alpha, so things will change a lot. Your feedback shapes it.",
+      "text": "Je huis is standaard openbaar, dus je vrienden en iedereen anders kunnen langskomen. Wil je het voor jezelf? Instellingen, Comfort, Sessiezichtbaarheid: Alleen vrienden of Privé. Wil je mensen om je heen, dan wacht de hub. Nog één ding: dit is een alfa, dus er gaat veel veranderen. Jouw feedback bepaalt hoe."
+    },
+    "tour.both.wrong": {
+      "en": "Stuck or falling: quick menu, Respawn. Want out of anywhere: quick menu, Home. Someone bothering you: Nearby, Mute or Hide. Only you are affected.",
+      "text": "Vast of vallend: snelmenu, Respawn. Ergens weg willen: snelmenu, Home. Iemand valt je lastig: Dichtbij, Dempen of Verbergen. Alleen jij merkt het."
+    },
+    "tour.chip": {
+      "en": "Tutorial",
+      "text": "Tutorial"
+    },
+    "tour.chip.end": {
+      "en": "End tutorial",
+      "text": "Tutorial beëindigen"
+    },
+    "tour.complete": {
+      "en": "Tour complete! Your gold for finishing arrives after tonight's tally.",
+      "text": "Tour voltooid! Je goud voor het afronden komt na de telling van vannacht."
+    },
+    "tour.desk.chat": {
+      "en": "Press {Chat}, type, {Chat} again.",
+      "text": "Druk op {Chat}, typ, nog eens {Chat}."
+    },
+    "tour.desk.grab": {
+      "en": "{Grab} the object on the table. {Use} to use it. {Interact} presses buttons and switches you look at.",
+      "text": "{Grab} op het object op de tafel. {Use} om het te gebruiken. {Interact} drukt op knoppen en schakelaars waar je naar kijkt."
+    },
+    "tour.desk.look": {
+      "en": "Move the mouse. This is your home.",
+      "text": "Beweeg de muis. Dit is je huis."
+    },
+    "tour.desk.menu": {
+      "en": "{Menu} opens it. Back takes you to Home.",
+      "text": "{Menu} opent het. Terug brengt je naar Home."
+    },
+    "tour.desk.sprint": {
+      "en": "Hold {Sprint} while moving to run.",
+      "text": "Houd {Sprint} ingedrukt tijdens het bewegen om te rennen."
+    },
+    "tour.desk.talk": {
+      "en": "Press {Mic}. It turns your voice on or off for everyone.",
+      "text": "Druk op {Mic}. Het zet je stem aan of uit voor iedereen."
+    },
+    "tour.desk.walk": {
+      "en": "{Move} to move. {Jump} to jump.",
+      "text": "{Move} om te bewegen. {Jump} om te springen."
+    },
+    "tour.desk.wheel": {
+      "en": "Press {Radial} to open the quick menu. Click what you want.",
+      "text": "Druk op {Radial} om het snelmenu te openen. Klik op wat je wilt."
+    },
+    "tour.desk.yours": {
+      "en": "Settings, Controls: rebind any key, sprint included. Settings, Comfort: turn and movement options. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "Instellingen, Besturing: wijs elke toets opnieuw toe, sprinten inbegrepen. Instellingen, Comfort: draai- en beweegopties. Taal: de wereldbol rechtsboven in het menu. Streamen: Streamermodus verbergt namen en volwassen content."
+    },
+    "tour.hint.desk": {
+      "en": "Right Arrow: next   ·   End: end tour   ·   ALT: mouse",
+      "text": "Pijl rechts: volgende   ·   End: tour beëindigen   ·   ALT: muis"
+    },
+    "tour.hint.vr": {
+      "en": "Point at a button and pull the trigger",
+      "text": "Richt op een knop en haal de trekker over"
+    },
+    "tour.kicker": {
+      "en": "TOUR",
+      "text": "TOUR"
+    },
+    "tour.label.end": {
+      "en": "End tour",
+      "text": "Tour beëindigen"
+    },
+    "tour.label.mouse": {
+      "en": "Mouse",
+      "text": "Muis"
+    },
+    "tour.label.next": {
+      "en": "Next",
+      "text": "Volgende"
+    },
+    "tour.label.rightarrow": {
+      "en": "Right Arrow",
+      "text": "Pijl rechts"
+    },
+    "tour.label.skip": {
+      "en": "Skip",
+      "text": "Overslaan"
+    },
+    "tour.offer.body": {
+      "en": "A few short cards: moving, your quick menu, voice, chat and the menu. Skip any of them, or end it at any time.",
+      "text": "Een paar korte kaarten: bewegen, je snelmenu, spraak, chat en het menu. Sla er een over of stop wanneer je wilt."
+    },
+    "tour.offer.body.away": {
+      "en": "It uses the things in your own place to show you moving, your quick menu, voice, chat and the menu. Head there now and start?",
+      "text": "Hij gebruikt de spullen in je eigen huis om bewegen, je snelmenu, spraak, chat en het menu te laten zien. Nu daarheen en starten?"
+    },
+    "tour.offer.confirm": {
+      "en": "Start",
+      "text": "Starten"
+    },
+    "tour.offer.title": {
+      "en": "Want a two-minute tour?",
+      "text": "Wil je een tour van twee minuten?"
+    },
+    "tour.offer.title.away": {
+      "en": "The tour happens in your home",
+      "text": "De tour vindt plaats in je huis"
+    },
+    "tour.side.left": {
+      "en": "left",
+      "text": "linker"
+    },
+    "tour.side.right": {
+      "en": "right",
+      "text": "rechter"
+    },
+    "tour.t.friends": {
+      "en": "Bring friends",
+      "text": "Neem vrienden mee"
+    },
+    "tour.t.gold": {
+      "en": "Earn gold",
+      "text": "Verdien goud"
+    },
+    "tour.t.grab": {
+      "en": "Pick something up",
+      "text": "Pak iets op"
+    },
+    "tour.t.hub": {
+      "en": "The hub",
+      "text": "De hub"
+    },
+    "tour.t.look": {
+      "en": "Look around",
+      "text": "Kijk rond"
+    },
+    "tour.t.menu": {
+      "en": "Your menu",
+      "text": "Je menu"
+    },
+    "tour.t.move": {
+      "en": "Move",
+      "text": "Bewegen"
+    },
+    "tour.t.ready": {
+      "en": "You're ready",
+      "text": "Je bent er klaar voor"
+    },
+    "tour.t.sprint": {
+      "en": "Sprint",
+      "text": "Sprinten"
+    },
+    "tour.t.talk": {
+      "en": "Talk",
+      "text": "Praten"
+    },
+    "tour.t.turn": {
+      "en": "Turn",
+      "text": "Draaien"
+    },
+    "tour.t.walk": {
+      "en": "Walk",
+      "text": "Lopen"
+    },
+    "tour.t.wheel": {
+      "en": "Your quick menu",
+      "text": "Je snelmenu"
+    },
+    "tour.t.wrong": {
+      "en": "If something goes wrong",
+      "text": "Als er iets misgaat"
+    },
+    "tour.t.yours": {
+      "en": "Make it yours",
+      "text": "Maak het van jou"
+    },
+    "tour.travel": {
+      "en": "Taking you home for the tour…",
+      "text": "We brengen je naar huis voor de tour…"
+    },
+    "tour.vr.chat": {
+      "en": "In the quick menu, pick Chat. Type on the floating keyboard and send.",
+      "text": "Kies Chat in het snelmenu. Typ op het zwevende toetsenbord en verstuur."
+    },
+    "tour.vr.grab": {
+      "en": "Squeeze grip on the object on the table.",
+      "text": "Knijp de grip in bij het object op de tafel."
+    },
+    "tour.vr.look": {
+      "en": "Turn your head. This is your home.",
+      "text": "Draai je hoofd. Dit is je huis."
+    },
+    "tour.vr.menu": {
+      "en": "In the quick menu, pick Avatar. That is the full menu. Back takes you to Home.",
+      "text": "Kies Avatar in het snelmenu. Dat is het volledige menu. Terug brengt je naar Home."
+    },
+    "tour.vr.move": {
+      "en": "Push the {MoveStick} stick.",
+      "text": "Duw de {MoveStick} stick."
+    },
+    "tour.vr.sprint": {
+      "en": "Click the {SprintStick} stick while moving to run. Click again, or stop, to walk.",
+      "text": "Klik de {SprintStick} stick in tijdens het bewegen om te rennen. Klik nog eens, of stop, om te lopen."
+    },
+    "tour.vr.talk": {
+      "en": "Press the top button on your {MicHand} hand. It turns your voice on or off for everyone.",
+      "text": "Druk op de bovenste knop van je {MicHand} hand. Het zet je stem aan of uit voor iedereen."
+    },
+    "tour.vr.turn": {
+      "en": "Flick the {TurnStick} stick left or right. Prefer smooth turning or other movement styles? Settings, Comfort.",
+      "text": "Tik de {TurnStick} stick naar links of rechts. Liever vloeiend draaien of andere bewegingsstijlen? Instellingen, Comfort."
+    },
+    "tour.vr.wheel": {
+      "en": "Click the {WheelStick} stick. The quick menu opens on your {WheelHand} hand. Point at it with your {LaserHand} hand and pull the trigger to pick.",
+      "text": "Klik de {WheelStick} stick in. Het snelmenu opent op je {WheelHand} hand. Richt erop met je {LaserHand} hand en haal de trekker over om te kiezen."
+    },
+    "tour.vr.yours": {
+      "en": "Settings, Comfort: swap which hand walks and sprints, put the quick menu and mic button on the other hand, and set turning and movement to your liking. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "Instellingen, Comfort: wissel welke hand loopt en sprint, zet het snelmenu en de micknop op de andere hand en stel draaien en bewegen naar wens in. Taal: de wereldbol rechtsboven in het menu. Streamen: Streamermodus verbergt namen en volwassen content."
+    },
+    "v3.avatars.favorites": {
+      "en": "Favorites",
+      "text": "Favorieten"
+    },
+    "v3.avatars.furry": {
+      "en": "Furry",
+      "text": "Furry"
+    },
+    "v3.avatars.nomatch": {
+      "en": "No avatars match",
+      "text": "Geen avatars gevonden"
+    },
+    "v3.card.flashing": {
+      "en": "FLASHING LIGHTS",
+      "text": "FLITSENDE LICHTEN"
+    },
+    "v3.card.mature": {
+      "en": "MATURE THEMES",
+      "text": "VOLWASSEN THEMA'S"
+    },
+    "v3.cat.community": {
+      "en": "Community",
+      "text": "Community"
+    },
+    "v3.chat.help": {
+      "en": "Type /help for chat commands",
+      "text": "Typ /help voor chatcommando's"
+    },
+    "v3.common.all": {
+      "en": "All",
+      "text": "Alles"
+    },
+    "v3.common.applied": {
+      "en": "Applied",
+      "text": "Toegepast"
+    },
+    "v3.common.apply": {
+      "en": "Apply",
+      "text": "Toepassen"
+    },
+    "v3.common.buy": {
+      "en": "Buy",
+      "text": "Kopen"
+    },
+    "v3.common.cancel": {
+      "en": "Cancel",
+      "text": "Annuleren"
+    },
+    "v3.common.confirm": {
+      "en": "Confirm",
+      "text": "Bevestigen"
+    },
+    "v3.common.continue": {
+      "en": "Continue",
+      "text": "Doorgaan"
+    },
+    "v3.common.done": {
+      "en": "Done",
+      "text": "Klaar"
+    },
+    "v3.common.down": {
+      "en": "Down",
+      "text": "Omlaag"
+    },
+    "v3.common.near": {
+      "en": "Near",
+      "text": "Dichtbij"
+    },
+    "v3.common.new": {
+      "en": "NEW",
+      "text": "NIEUW"
+    },
+    "v3.common.no": {
+      "en": "No",
+      "text": "Nee"
+    },
+    "v3.common.up": {
+      "en": "Up",
+      "text": "Omhoog"
+    },
+    "v3.common.wip": {
+      "en": "WIP",
+      "text": "WIP"
+    },
+    "v3.contract.agree": {
+      "en": "I agree",
+      "text": "Ik ga akkoord"
+    },
+    "v3.contract.hint": {
+      "en": "Read to the end, then agree to continue",
+      "text": "Lees tot het einde en ga dan akkoord"
+    },
+    "v3.contract.title": {
+      "en": "Terms of Service",
+      "text": "Servicevoorwaarden"
+    },
+    "v3.controls.category": {
+      "en": "CATEGORY",
+      "text": "CATEGORIE"
+    },
+    "v3.controls.gamepad": {
+      "en": "Gamepad",
+      "text": "Gamepad"
+    },
+    "v3.controls.hint": {
+      "en": "Click a key to change it. Right-click a key to clear it.",
+      "text": "Klik op een toets om te wijzigen. Rechtsklik om te wissen."
+    },
+    "v3.controls.keyboard": {
+      "en": "Keyboard / Mouse",
+      "text": "Toetsenbord / Muis"
+    },
+    "v3.controls.resetall": {
+      "en": "Reset All",
+      "text": "Alles resetten"
+    },
+    "v3.fbt.bodyfollows": {
+      "en": "Body follows head (turn off if your chest twists)",
+      "text": "Lichaam volgt hoofd (uit als je borst draait)"
+    },
+    "v3.fbt.bodyturnspeed": {
+      "en": "Body turn speed",
+      "text": "Lichaamsdraaisnelheid"
+    },
+    "v3.fbt.calibtolerance": {
+      "en": "Calibration tolerance",
+      "text": "Kalibratietolerantie"
+    },
+    "v3.fbt.fadefeet": {
+      "en": "Fade feet to walk anim while moving",
+      "text": "Voeten overgaan naar loopanimatie tijdens bewegen"
+    },
+    "v3.fbt.footforward": {
+      "en": "Foot forward",
+      "text": "Voet vooruit"
+    },
+    "v3.fbt.footheight": {
+      "en": "Foot height",
+      "text": "Voethoogte"
+    },
+    "v3.fbt.footsmoothing": {
+      "en": "Foot smoothing",
+      "text": "Voetvloeiing"
+    },
+    "v3.fbt.headlock": {
+      "en": "Head lock",
+      "text": "Hoofdvergrendeling"
+    },
+    "v3.fbt.hipforward": {
+      "en": "Hip forward",
+      "text": "Heup vooruit"
+    },
+    "v3.fbt.hipfreedom": {
+      "en": "Hip freedom",
+      "text": "Heupvrijheid"
+    },
+    "v3.fbt.hipheight": {
+      "en": "Hip height",
+      "text": "Heuphoogte"
+    },
+    "v3.fbt.hiplock": {
+      "en": "Hip lock",
+      "text": "Heupvergrendeling"
+    },
+    "v3.fbt.keepik": {
+      "en": "Keep IK on a lifted foot while moving",
+      "text": "IK behouden op opgetilde voet tijdens bewegen"
+    },
+    "v3.fbt.kneewidth": {
+      "en": "Knee width",
+      "text": "Kniebreedte"
+    },
+    "v3.fbt.leftfootturn": {
+      "en": "Left foot turn",
+      "text": "Linkervoet draaien"
+    },
+    "v3.fbt.legstretch": {
+      "en": "Leg stretch limit",
+      "text": "Beenstreklimiet"
+    },
+    "v3.fbt.maxfootfromhead": {
+      "en": "Max foot from head",
+      "text": "Max. voet vanaf hoofd"
+    },
+    "v3.fbt.maxfootsplit": {
+      "en": "Max foot height split",
+      "text": "Max. voethoogteverschil"
+    },
+    "v3.fbt.maxhiptravel": {
+      "en": "Max hip travel",
+      "text": "Max. heupbeweging"
+    },
+    "v3.fbt.minfootbelowhips": {
+      "en": "Min foot below hips",
+      "text": "Min. voet onder heupen"
+    },
+    "v3.fbt.minheadabovewaist": {
+      "en": "Min head above waist",
+      "text": "Min. hoofd boven middel"
+    },
+    "v3.fbt.minwaistabovefeet": {
+      "en": "Min waist above feet",
+      "text": "Min. middel boven voeten"
+    },
+    "v3.fbt.posturegate": {
+      "en": "Posture gate",
+      "text": "Houdingsdrempel"
+    },
+    "v3.fbt.raisedfoot": {
+      "en": "Raised-foot threshold",
+      "text": "Drempel opgetilde voet"
+    },
+    "v3.fbt.rightfootturn": {
+      "en": "Right foot turn",
+      "text": "Rechtervoet draaien"
+    },
+    "v3.fbt.stancewidth": {
+      "en": "Stance width",
+      "text": "Standbreedte"
+    },
+    "v3.fbt.title": {
+      "en": "Full Body Tracking",
+      "text": "Full body tracking"
+    },
+    "v3.groups.all": {
+      "en": "All groups",
+      "text": "Alle groepen"
+    },
+    "v3.groups.announce.hint": {
+      "en": "Welcome message…",
+      "text": "Welkomstbericht…"
+    },
+    "v3.groups.announce.sub": {
+      "en": "Optional. Shows for members when they open the group.",
+      "text": "Optioneel. Leden zien dit als ze de groep openen."
+    },
+    "v3.groups.announcement": {
+      "en": "Announcement",
+      "text": "Aankondiging"
+    },
+    "v3.groups.approve": {
+      "en": "Approve",
+      "text": "Goedkeuren"
+    },
+    "v3.groups.ban": {
+      "en": "Ban",
+      "text": "Bannen"
+    },
+    "v3.groups.create": {
+      "en": "Create group",
+      "text": "Groep maken"
+    },
+    "v3.groups.delete": {
+      "en": "Delete group",
+      "text": "Groep verwijderen"
+    },
+    "v3.groups.desc.hint": {
+      "en": "What is this group about?",
+      "text": "Waar gaat deze groep over?"
+    },
+    "v3.groups.description": {
+      "en": "Description",
+      "text": "Beschrijving"
+    },
+    "v3.groups.freejoin": {
+      "en": "Free Join",
+      "text": "Vrij toetreden"
+    },
+    "v3.groups.inviteonly": {
+      "en": "Invite-Only",
+      "text": "Alleen op uitnodiging"
+    },
+    "v3.groups.leave": {
+      "en": "Leave",
+      "text": "Verlaten"
+    },
+    "v3.groups.makemod": {
+      "en": "Make mod",
+      "text": "Mod maken"
+    },
+    "v3.groups.memberscaninvite": {
+      "en": "Members can invite",
+      "text": "Leden mogen uitnodigen"
+    },
+    "v3.groups.membersettings": {
+      "en": "MEMBER SETTINGS",
+      "text": "LEDENINSTELLINGEN"
+    },
+    "v3.groups.modscanannounce": {
+      "en": "Mods can announce",
+      "text": "Mods mogen aankondigen"
+    },
+    "v3.groups.modscanban": {
+      "en": "Mods can ban",
+      "text": "Mods mogen bannen"
+    },
+    "v3.groups.modscankick": {
+      "en": "Mods can kick",
+      "text": "Mods mogen kicken"
+    },
+    "v3.groups.modscanroles": {
+      "en": "Mods can change roles",
+      "text": "Mods mogen rollen wijzigen"
+    },
+    "v3.groups.modscanwarn": {
+      "en": "Mods can warn",
+      "text": "Mods mogen waarschuwen"
+    },
+    "v3.groups.modsettings": {
+      "en": "MOD SETTINGS",
+      "text": "MOD-INSTELLINGEN"
+    },
+    "v3.groups.name": {
+      "en": "Group name",
+      "text": "Groepsnaam"
+    },
+    "v3.groups.name.hint": {
+      "en": "e.g. Night Owls",
+      "text": "bv. Nachtbrakers"
+    },
+    "v3.groups.nomatch": {
+      "en": "No groups match",
+      "text": "Geen groepen gevonden"
+    },
+    "v3.groups.privacy": {
+      "en": "Privacy",
+      "text": "Privacy"
+    },
+    "v3.groups.privacy.hint": {
+      "en": "Locked after you create the group.",
+      "text": "Vast na het maken van de groep."
+    },
+    "v3.groups.removemod": {
+      "en": "Remove mod",
+      "text": "Mod verwijderen"
+    },
+    "v3.groups.request": {
+      "en": "Request",
+      "text": "Verzoeken"
+    },
+    "v3.groups.requested": {
+      "en": "Requested · cancel",
+      "text": "Aangevraagd · annuleren"
+    },
+    "v3.groups.requesttojoin": {
+      "en": "Request to Join",
+      "text": "Verzoek om toe te treden"
+    },
+    "v3.groups.saveannounce": {
+      "en": "Save announcement",
+      "text": "Aankondiging opslaan"
+    },
+    "v3.groups.tags": {
+      "en": "Tags",
+      "text": "Tags"
+    },
+    "v3.groups.tags.hint": {
+      "en": "Up to 5. e.g. 18+, Anyone, Roleplay",
+      "text": "Max. 5. bv. 18+, Iedereen, Roleplay"
+    },
+    "v3.groups.tags.max": {
+      "en": "TAGS (MAX 5)",
+      "text": "TAGS (MAX. 5)"
+    },
+    "v3.groups.title": {
+      "en": "Groups",
+      "text": "Groepen"
+    },
+    "v3.groups.warn": {
+      "en": "Warn",
+      "text": "Waarschuwen"
+    },
+    "v3.groups.whocanjoin": {
+      "en": "Who can join",
+      "text": "Wie kan meedoen"
+    },
+    "v3.groups.wip": {
+      "en": "Groups are new. Requests, approvals and mod tools just landed — tell us what breaks.",
+      "text": "Groepen zijn nieuw. Verzoeken, goedkeuringen en mod-tools zijn net toegevoegd — laat ons weten wat kapot is."
+    },
+    "v3.header.discord": {
+      "en": "Discord",
+      "text": "Discord"
+    },
+    "v3.header.ea": {
+      "en": "EARLY ACCESS",
+      "text": "VROEGE TOEGANG"
+    },
+    "v3.header.quit": {
+      "en": "Quit",
+      "text": "Afsluiten"
+    },
+    "v3.header.tagline": {
+      "en": "HAVE FUN · EXPLORE · ENJOY",
+      "text": "PLEZIER · ONTDEK · GENIET"
+    },
+    "v3.home.avatars.desc": {
+      "en": "Customize your look and express yourself.",
+      "text": "Pas je uiterlijk aan en druk jezelf uit."
+    },
+    "v3.home.chat.desc": {
+      "en": "Message your friends and the community.",
+      "text": "Stuur berichten naar je vrienden en de community."
+    },
+    "v3.home.discord": {
+      "en": "Join our Discord",
+      "text": "Word lid van onze Discord"
+    },
+    "v3.home.discord.sub": {
+      "en": "Events, updates and help · opens in your desktop browser",
+      "text": "Evenementen, updates en hulp · opent in je desktopbrowser"
+    },
+    "v3.home.fbt.desc": {
+      "en": "Track your full body and move naturally.",
+      "text": "Track je hele lichaam en beweeg natuurlijk."
+    },
+    "v3.home.fps": {
+      "en": "FPS",
+      "text": "FPS"
+    },
+    "v3.home.friends.desc": {
+      "en": "View your friends list and join them.",
+      "text": "Bekijk je vriendenlijst en sluit je aan."
+    },
+    "v3.home.groups.desc": {
+      "en": "Create and join communities.",
+      "text": "Maak en sluit je aan bij communities."
+    },
+    "v3.home.home": {
+      "en": "Home",
+      "text": "Home"
+    },
+    "v3.home.nearby.desc": {
+      "en": "See who's around you in real time.",
+      "text": "Zie wie er in realtime om je heen is."
+    },
+    "v3.home.ping": {
+      "en": "Ping",
+      "text": "Ping"
+    },
+    "v3.home.settings.desc": {
+      "en": "Adjust your experience and preferences.",
+      "text": "Pas je ervaring en voorkeuren aan."
+    },
+    "v3.home.store": {
+      "en": "Store",
+      "text": "Winkel"
+    },
+    "v3.home.store.sub": {
+      "en": "Cosmetics, boosts & more",
+      "text": "Cosmetica, boosts en meer"
+    },
+    "v3.home.supporter.sub": {
+      "en": "Exclusive perks & plates",
+      "text": "Exclusieve extra's en plates"
+    },
+    "v3.home.worlds.desc": {
+      "en": "Explore new worlds and experiences.",
+      "text": "Ontdek nieuwe werelden en ervaringen."
+    },
+    "v3.host.action": {
+      "en": "Action",
+      "text": "Actie"
+    },
+    "v3.host.msg": {
+      "en": "Choose an action and visibility for this world.",
+      "text": "Kies een actie en zichtbaarheid voor deze wereld."
+    },
+    "v3.host.new": {
+      "en": "Host new instance",
+      "text": "Nieuwe instantie hosten"
+    },
+    "v3.host.portal": {
+      "en": "Drop portal to a new instance",
+      "text": "Portaal naar nieuwe instantie plaatsen"
+    },
+    "v3.host.private": {
+      "en": "Private",
+      "text": "Privé"
+    },
+    "v3.host.public": {
+      "en": "Public",
+      "text": "Openbaar"
+    },
+    "v3.host.title": {
+      "en": "Host or drop portal",
+      "text": "Hosten of portaal plaatsen"
+    },
+    "v3.host.visibility": {
+      "en": "Visibility",
+      "text": "Zichtbaarheid"
+    },
+    "v3.inbox": {
+      "en": "Inbox",
+      "text": "Inbox"
+    },
+    "v3.inbox.empty": {
+      "en": "Nothing new right now.",
+      "text": "Niets nieuws op dit moment."
+    },
+    "v3.instance.applyban": {
+      "en": "Apply ban",
+      "text": "Ban toepassen"
+    },
+    "v3.instance.banhours": {
+      "en": "hours (0 = permanent)",
+      "text": "uur (0 = permanent)"
+    },
+    "v3.instance.muteall": {
+      "en": "Mute All",
+      "text": "Iedereen dempen"
+    },
+    "v3.instance.people": {
+      "en": "PEOPLE HERE",
+      "text": "MENSEN HIER"
+    },
+    "v3.instance.title": {
+      "en": "Instance",
+      "text": "Instantie"
+    },
+    "v3.modal.noundo": {
+      "en": "This action cannot be undone.",
+      "text": "Dit kan niet ongedaan worden gemaakt."
+    },
+    "v3.modal.sure": {
+      "en": "Are you sure?",
+      "text": "Weet je het zeker?"
+    },
+    "v3.report.details": {
+      "en": "ADDITIONAL DETAILS (OPTIONAL)",
+      "text": "EXTRA DETAILS (OPTIONEEL)"
+    },
+    "v3.report.msg": {
+      "en": "Choose a reason for reporting this world.",
+      "text": "Kies een reden om deze wereld te rapporteren."
+    },
+    "v3.report.reason.perf": {
+      "en": "Low performance",
+      "text": "Slechte prestaties"
+    },
+    "v3.report.reason.tags": {
+      "en": "Inappropriate tags (mature content)",
+      "text": "Ongepaste tags (volwassen inhoud)"
+    },
+    "v3.report.send": {
+      "en": "Send report",
+      "text": "Rapport versturen"
+    },
+    "v3.report.title": {
+      "en": "Report world",
+      "text": "Wereld rapporteren"
+    },
+    "v3.report.what": {
+      "en": "WHAT IS WRONG?",
+      "text": "WAT IS ER MIS?"
+    },
+    "v3.role.member": {
+      "en": "Member",
+      "text": "Lid"
+    },
+    "v3.role.mod": {
+      "en": "Mod",
+      "text": "Mod"
+    },
+    "v3.role.owner": {
+      "en": "Owner",
+      "text": "Eigenaar"
+    },
+    "v3.search.avatars": {
+      "en": "Search avatars…",
+      "text": "Avatars zoeken…"
+    },
+    "v3.search.friends": {
+      "en": "Search friends…",
+      "text": "Vrienden zoeken…"
+    },
+    "v3.search.groups": {
+      "en": "Search groups…",
+      "text": "Groepen zoeken…"
+    },
+    "v3.search.members": {
+      "en": "Search members…",
+      "text": "Leden zoeken…"
+    },
+    "v3.search.people": {
+      "en": "Search people…",
+      "text": "Mensen zoeken…"
+    },
+    "v3.search.players": {
+      "en": "Search players…",
+      "text": "Spelers zoeken…"
+    },
+    "v3.settings.access.hdr": {
+      "en": "LANGUAGE & ACCESSIBILITY",
+      "text": "TAAL & TOEGANKELIJKHEID"
+    },
+    "v3.settings.avatarphysics": {
+      "en": "Avatar Physics",
+      "text": "Avatarfysica"
+    },
+    "v3.settings.avatarphysics.sub": {
+      "en": "Tails, ears and hair swing on avatars. Turn off for comfort or on a slower PC.",
+      "text": "Staarten, oren en haar bewegen mee. Zet uit voor comfort of op een trage pc."
+    },
+    "v3.settings.brightness": {
+      "en": "Brightness",
+      "text": "Helderheid"
+    },
+    "v3.settings.brightness.sub": {
+      "en": "Brighten or darken everything. 100% = the world as it was made.",
+      "text": "Maak alles lichter of donkerder. 100% = de wereld zoals hij gemaakt is."
+    },
+    "v3.settings.cambody": {
+      "en": "Upper Body",
+      "text": "Bovenlichaam"
+    },
+    "v3.settings.cambody.sub": {
+      "en": "Also moves your avatar's arms, shoulders and fingers.",
+      "text": "Beweegt ook de armen, schouders en vingers van je avatar."
+    },
+    "v3.settings.camface": {
+      "en": "Face Only",
+      "text": "Alleen gezicht"
+    },
+    "v3.settings.camface.sub": {
+      "en": "Your avatar's face, eyelids and eyes follow your webcam.",
+      "text": "Het gezicht, de oogleden en de ogen van je avatar volgen je webcam."
+    },
+    "v3.settings.camhead": {
+      "en": "Face and Head Movement",
+      "text": "Gezicht en hoofdbeweging"
+    },
+    "v3.settings.camhead.sub": {
+      "en": "Also turns, nods and tilts your avatar's head with yours.",
+      "text": "Draait, knikt en kantelt ook het hoofd van je avatar met het jouwe mee."
+    },
+    "v3.settings.controls": {
+      "en": "Controls",
+      "text": "Besturing"
+    },
+    "v3.settings.eyeavatar": {
+      "en": "Eye tracking: avatar eyes",
+      "text": "Oogtracking: ogen van avatar"
+    },
+    "v3.settings.eyeavatar.sub": {
+      "en": "Your avatar's eyes follow where you look. Needs a headset with eye tracking.",
+      "text": "De ogen van je avatar volgen waar je kijkt. Vereist een headset met oogtracking."
+    },
+    "v3.settings.faceheadset": {
+      "en": "Headset Face Tracking",
+      "text": "Gezichtstracking van headset"
+    },
+    "v3.settings.faceheadset.sub": {
+      "en": "Your avatar's face follows your own. Needs a headset with face tracking.",
+      "text": "Het gezicht van je avatar volgt dat van jou. Vereist een headset met gezichtstracking."
+    },
+    "v3.settings.facetrack.hdr": {
+      "en": "FACE TRACKING",
+      "text": "GEZICHTSTRACKING"
+    },
+    "v3.settings.fingertracking": {
+      "en": "Controller finger tracking",
+      "text": "Vingertracking van controller"
+    },
+    "v3.settings.fingertracking.sub": {
+      "en": "Your avatar's fingers follow your controller's finger sensors instead of the preset hand poses.",
+      "text": "De vingers van je avatar volgen de vingersensoren van je controller in plaats van de vaste handposes."
+    },
+    "v3.settings.fov": {
+      "en": "FIELD OF VIEW",
+      "text": "GEZICHTSVELD"
+    },
+    "v3.settings.fov.sub": {
+      "en": "Desktop only. How wide the view is. Lower feels zoomed in, higher shows more at the edges.",
+      "text": "Alleen desktop. Hoe breed het beeld is. Lager voelt ingezoomd, hoger toont meer aan de randen."
+    },
+    "v3.settings.foveatedeyes": {
+      "en": "Eye tracking: foveated rendering",
+      "text": "Oogtracking: foveated rendering"
+    },
+    "v3.settings.foveatedeyes.sub": {
+      "en": "With Foveated Rendering on, the sharp area follows your eyes.",
+      "text": "Met foveated rendering aan volgt het scherpe gebied je ogen."
+    },
+    "v3.settings.fpscap.sub": {
+      "en": "In VR at least 90 is used. Unlimited leaves it uncapped.",
+      "text": "In VR wordt minstens 90 gebruikt. Onbeperkt laat het vrij."
+    },
+    "v3.settings.fullscreen.sub": {
+      "en": "Desktop window only",
+      "text": "Alleen desktopvenster"
+    },
+    "v3.settings.guestinvite": {
+      "en": "Allow Guests to Invite",
+      "text": "Gasten mogen uitnodigen"
+    },
+    "v3.settings.guestinvite.sub": {
+      "en": "Let anyone here invite people. Off means only you can.",
+      "text": "Laat iedereen hier mensen uitnodigen. Uit betekent alleen jij."
+    },
+    "v3.settings.hideavatars": {
+      "en": "Hide Custom Avatars",
+      "text": "Aangepaste avatars verbergen"
+    },
+    "v3.settings.hideavatars.sub": {
+      "en": "Show everyone as Quinn. Their real avatars come back when you turn this off.",
+      "text": "Toon iedereen als Quinn. Hun echte avatars komen terug als je dit uitzet."
+    },
+    "v3.settings.invertmouse": {
+      "en": "Invert Mouse Look",
+      "text": "Muiskijken omkeren"
+    },
+    "v3.settings.invertmouse.sub": {
+      "en": "Desktop only. Moving the mouse down looks up.",
+      "text": "Alleen desktop. Muis omlaag kijkt omhoog."
+    },
+    "v3.settings.invertpad": {
+      "en": "Invert Controller Look",
+      "text": "Controllerkijken omkeren"
+    },
+    "v3.settings.invertpad.sub": {
+      "en": "Pushing the right stick down looks up.",
+      "text": "Rechter stick omlaag kijkt omhoog."
+    },
+    "v3.settings.language": {
+      "en": "Language",
+      "text": "Taal"
+    },
+    "v3.settings.mousesens": {
+      "en": "MOUSE SENSITIVITY",
+      "text": "MUISGEVOELIGHEID"
+    },
+    "v3.settings.mousesens.sub": {
+      "en": "Desktop only. How far the view turns for a given mouse movement.",
+      "text": "Alleen desktop. Hoe ver het beeld draait bij een muisbeweging."
+    },
+    "v3.settings.music": {
+      "en": "Music",
+      "text": "Muziek"
+    },
+    "v3.settings.proxvoice": {
+      "en": "Proximity Voice",
+      "text": "Nabijheidsspraak"
+    },
+    "v3.settings.proxvoice.sub": {
+      "en": "Voices fade with distance and muffle through walls",
+      "text": "Stemmen vervagen met afstand en klinken gedempt door muren"
+    },
+    "v3.settings.radialhand": {
+      "en": "Laser on Right Hand",
+      "text": "Laser op rechterhand"
+    },
+    "v3.settings.radialhandsub": {
+      "en": "Laser on the right; quick menu and mic button on the left. Off: the other way round.",
+      "text": "Laser rechts; snelmenu en micknop links. Uit: andersom."
+    },
+    "v3.settings.resetall": {
+      "en": "Reset to default",
+      "text": "Standaard herstellen"
+    },
+    "v3.settings.resetall.body": {
+      "en": "Audio, mic, graphics, comfort, colours and controls go back to how they started. Your language, streamer and privacy settings stay.",
+      "text": "Audio, mic, graphics, comfort, kleuren en besturing gaan terug naar hoe ze begonnen. Je taal-, streamer- en privacy-instellingen blijven."
+    },
+    "v3.settings.resetall.confirm": {
+      "en": "Reset",
+      "text": "Herstellen"
+    },
+    "v3.settings.resetall.title": {
+      "en": "Reset all settings to default?",
+      "text": "Alle instellingen naar standaard herstellen?"
+    },
+    "v3.settings.resetall.toast": {
+      "en": "Settings reset to default",
+      "text": "Instellingen hersteld"
+    },
+    "v3.settings.resetgraphics": {
+      "en": "Reset graphics to defaults",
+      "text": "Graphics resetten"
+    },
+    "v3.settings.sessionvis": {
+      "en": "Session Visibility",
+      "text": "Zichtbaarheid sessie"
+    },
+    "v3.settings.sessionvis.sub": {
+      "en": "Public: anyone can find and join. Friends Only: not listed, friends can join. Private: not listed, invite only.",
+      "text": "Openbaar: iedereen kan vinden en meedoen. Alleen vrienden: niet vermeld, vrienden kunnen meedoen. Privé: niet vermeld, alleen op uitnodiging."
+    },
+    "v3.settings.streammature.hide": {
+      "en": "Streamer mode: hide mature avatars",
+      "text": "Streamermodus: volwassen avatars verbergen"
+    },
+    "v3.settings.streammature.hide.sub": {
+      "en": "Shows them as an orb instead. You can unhide anyone from Nearby.",
+      "text": "Toont ze als een bol. Je kunt iedereen weer tonen via Dichtbij."
+    },
+    "v3.settings.streammature.quinn": {
+      "en": "Streamer mode: mature avatars as Quinn",
+      "text": "Streamermodus: volwassen avatars als Quinn"
+    },
+    "v3.settings.streammature.quinn.sub": {
+      "en": "While streamer mode is on, other players' Mature Themes avatars show as Quinn.",
+      "text": "Met streamermodus aan tonen volwassen avatars van anderen als Quinn."
+    },
+    "v3.settings.swaphands.sub": {
+      "en": "Move the quick menu and Movement Mode to the other hand",
+      "text": "Snelmenu en bewegingsmodus naar andere hand"
+    },
+    "v3.settings.uisize": {
+      "en": "UI SIZE",
+      "text": "UI-GROOTTE"
+    },
+    "v3.settings.uisize.sub": {
+      "en": "Size of nameplates and on-screen notifications. Larger is easier to read in VR.",
+      "text": "Grootte van naamplaatjes en meldingen. Groter leest makkelijker in VR."
+    },
+    "v3.settings.voice3d": {
+      "en": "3D Voice",
+      "text": "3D-spraak"
+    },
+    "v3.settings.voice3d.sub": {
+      "en": "Hear each voice from where that person is standing: behind you sounds behind you. Off: everyone sounds flat.",
+      "text": "Hoor elke stem vanaf de plek waar die persoon staat: achter je klinkt achter je. Uit: iedereen klinkt vlak."
+    },
+    "v3.settings.webcam.hdr": {
+      "en": "WEBCAM TRACKING",
+      "text": "WEBCAMTRACKING"
+    },
+    "v3.settings.webcam.note": {
+      "en": "Desktop mode only. Pick one: each choice includes the ones above it. Your camera picture never leaves this PC.",
+      "text": "Alleen in desktopmodus. Kies er één: elke keuze bevat de keuzes erboven. Je camerabeeld verlaat deze pc nooit."
+    },
+    "v3.store.companions": {
+      "en": "Companions",
+      "text": "Metgezellen"
+    },
+    "v3.store.cosmetics": {
+      "en": "Cosmetics",
+      "text": "Cosmetica"
+    },
+    "v3.store.empty": {
+      "en": "The store is still in the works",
+      "text": "De winkel is nog in de maak"
+    },
+    "v3.store.emptysub": {
+      "en": "Check back soon — new items are on the way.",
+      "text": "Kom snel terug — nieuwe items zijn onderweg."
+    },
+    "v3.store.sub": {
+      "en": "Early Access deals — support development and look good doing it.",
+      "text": "Early Access-deals — steun de ontwikkeling en zie er goed uit."
+    },
+    "v3.store.title": {
+      "en": "VR Realms Store",
+      "text": "VR Realms-winkel"
+    },
+    "v3.supporter.accent": {
+      "en": "Accent",
+      "text": "Accent"
+    },
+    "v3.supporter.active": {
+      "en": "Supporter active",
+      "text": "Supporter actief"
+    },
+    "v3.supporter.activesub": {
+      "en": "Quick access to favorites and menu colour customization.",
+      "text": "Snel naar favorieten en menukleuren aanpassen."
+    },
+    "v3.supporter.background": {
+      "en": "Background",
+      "text": "Achtergrond"
+    },
+    "v3.supporter.collected": {
+      "en": "COLLECTED HEAD PLATES",
+      "text": "VERZAMELDE PLATES"
+    },
+    "v3.supporter.colours": {
+      "en": "MENU COLOURS",
+      "text": "MENUKLEUREN"
+    },
+    "v3.supporter.favavatars": {
+      "en": "FAVORITE AVATARS",
+      "text": "FAVORIETE AVATARS"
+    },
+    "v3.supporter.favworlds": {
+      "en": "FAVORITE WORLDS",
+      "text": "FAVORIETE WERELDEN"
+    },
+    "v3.supporter.locked": {
+      "en": "You have plates you cannot wear yet",
+      "text": "Je hebt plates die je nog niet kunt dragen"
+    },
+    "v3.supporter.lockedsub": {
+      "en": "Supporters can wear any plate they have found and swap whenever they like. You also get 60 favorite avatars and worlds, plus menu colour customization.",
+      "text": "Supporters dragen elke gevonden plate en wisselen wanneer ze willen. Je krijgt ook 60 favoriete avatars en werelden en menukleuren."
+    },
+    "v3.supporter.noavatars": {
+      "en": "No favorite avatars yet. Heart avatars to pin them here.",
+      "text": "Nog geen favoriete avatars. Geef avatars een hartje om ze hier vast te zetten."
+    },
+    "v3.supporter.noplate": {
+      "en": "Wear no plate",
+      "text": "Geen plate dragen"
+    },
+    "v3.supporter.noworlds": {
+      "en": "No favorite worlds yet. Heart worlds to pin them here.",
+      "text": "Nog geen favoriete werelden. Geef werelden een hartje om ze hier vast te zetten."
+    },
+    "v3.supporter.plates": {
+      "en": "PLATES",
+      "text": "PLATES"
+    },
+    "v3.supporter.platesnote": {
+      "en": "Every plate you find is yours to keep. Pick one to wear for free — choose carefully, it cannot be changed later. Supporters can wear any of them, and swap whenever they like.",
+      "text": "Elke gevonden plate is van jou. Kies er gratis één om te dragen — kies goed, het kan later niet meer. Supporters dragen ze allemaal en wisselen wanneer ze willen."
+    },
+    "v3.supporter.pricenote": {
+      "en": "Cancel anytime. Every plate you found stays yours.",
+      "text": "Zeg op wanneer je wilt. Elke gevonden plate blijft van jou."
+    },
+    "v3.supporter.resetcolours": {
+      "en": "Reset colours",
+      "text": "Kleuren resetten"
+    },
+    "v3.supporter.subscribe": {
+      "en": "$7 / month  ·  Become a Supporter",
+      "text": "$7 / maand  ·  Word supporter"
+    },
+    "v3.tag.anyone": {
+      "en": "Anyone",
+      "text": "Iedereen"
+    },
+    "v3.tag.creators": {
+      "en": "Creators",
+      "text": "Makers"
+    },
+    "v3.tag.gaming": {
+      "en": "Gaming",
+      "text": "Gaming"
+    },
+    "v3.tag.social": {
+      "en": "Social",
+      "text": "Sociaal"
+    },
+    "v3.worlds.instances": {
+      "en": "Instances",
+      "text": "Instanties"
+    },
+    "v3.worlds.noinstances": {
+      "en": "No active instances. Host one below.",
+      "text": "Geen actieve instanties. Host er hieronder een."
+    },
+    "v3.worlds.nomatch": {
+      "en": "No worlds match",
+      "text": "Geen werelden gevonden"
+    },
+    "v3.worlds.singleplayer": {
+      "en": "Single Player",
+      "text": "Singleplayer"
+    },
+    "worlds.access": {
+      "en": "ACCESS",
+      "text": "TOEGANG"
+    },
+    "worlds.audience": {
+      "en": "AUDIENCE",
+      "text": "PUBLIEK"
+    },
+    "worlds.capacity": {
+      "en": "CAPACITY",
+      "text": "CAPACITEIT"
+    },
+    "worlds.dropportal": {
+      "en": "DROP PORTAL",
+      "text": "PORTAAL PLAATSEN"
+    },
+    "worlds.favonly": {
+      "en": "Favorites only",
+      "text": "Alleen favorieten"
+    },
+    "worlds.filters": {
+      "en": "Filters",
+      "text": "Filters"
+    },
+    "worlds.gameworld": {
+      "en": "Game World",
+      "text": "Spelwereld"
+    },
+    "worlds.horror": {
+      "en": "Horror",
+      "text": "Horror"
+    },
+    "worlds.host": {
+      "en": "HOST",
+      "text": "HOSTEN"
+    },
+    "worlds.hostnew": {
+      "en": "+  HOST NEW SESSION",
+      "text": "+  NIEUWE SESSIE HOSTEN"
+    },
+    "worlds.hub.sub": {
+      "en": "The official VR Realms hub — everyone starts here",
+      "text": "De officiële VR Realms-hub — iedereen begint hier"
+    },
+    "worlds.hub.title": {
+      "en": "Join the Main HUB",
+      "text": "Doe mee aan de hoofd-HUB"
+    },
+    "worlds.install": {
+      "en": "INSTALL",
+      "text": "INSTALLEREN"
+    },
+    "worlds.maptype": {
+      "en": "MAP TYPE",
+      "text": "KAARTTYPE"
+    },
+    "worlds.minigame": {
+      "en": "Minigame",
+      "text": "Minigame"
+    },
+    "worlds.personal": {
+      "en": "Personal",
+      "text": "Persoonlijk"
+    },
+    "worlds.report": {
+      "en": "REPORT",
+      "text": "MELDEN"
+    },
+    "worlds.roleplay": {
+      "en": "Roleplay",
+      "text": "Rollenspel"
+    },
+    "worlds.searchhint": {
+      "en": "Search worlds…",
+      "text": "Werelden zoeken…"
+    },
+    "worlds.showcase": {
+      "en": "Showcase",
+      "text": "Showcase"
+    },
+    "worlds.socialhub": {
+      "en": "Social Hub",
+      "text": "Sociale hub"
+    },
+    "worlds.sort.players": {
+      "en": "Most Players",
+      "text": "Meeste spelers"
+    },
+    "worlds.sort.popular": {
+      "en": "Most Popular",
+      "text": "Populairste"
+    },
+    "worlds.sort.recent": {
+      "en": "Most Recent",
+      "text": "Nieuwste"
+    },
+    "worlds.sort.toprated": {
+      "en": "Top Rated All Time",
+      "text": "Best beoordeeld"
+    },
+    "worlds.sort.updated": {
+      "en": "Last Updated",
+      "text": "Laatst bijgewerkt"
+    },
+    "worlds.sortby": {
+      "en": "Sort by",
+      "text": "Sorteren"
+    },
+    "ws.nosend": {
+      "en": "Steam is not sending avatars right now. They will show up when it does.",
+      "text": "Steam stuurt nu geen avatars. Ze verschijnen zodra het dat weer doet."
+    }
+  }
+}

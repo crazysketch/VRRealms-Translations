@@ -1,0 +1,30 @@
+name: This line sounds wrong
+description: A line in the game that is wrong, stiff or not how people talk
+title: "[language] "
+labels: [translation]
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options: [Español, العربية, 日本語, 한국어, 简体中文, Nederlands, Deutsch, Русский, Italiano, Polski, Français, Português (Brasil), Українська, Other]
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: What the game says now
+      description: Copy it, or attach a screenshot.
+    validations:
+      required: true
+  - type: textarea
+    id: better
+    attributes:
+      label: How a native speaker would say it
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where you saw it (optional)
+      description: Which menu, pop-up or world.

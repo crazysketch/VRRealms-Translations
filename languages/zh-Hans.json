@@ -1,0 +1,4375 @@
+{
+  "language": "简体中文",
+  "code": "zh-Hans",
+  "column": "chinese",
+  "strings": {
+    "ach.arcaderegular": {
+      "en": "Arcade Regular",
+      "text": "街机常客"
+    },
+    "ach.avatarmaker": {
+      "en": "Avatar Maker",
+      "text": "形象创作者"
+    },
+    "ach.collector": {
+      "en": "Collector",
+      "text": "收藏家"
+    },
+    "ach.competitor": {
+      "en": "Competitor",
+      "text": "竞争者"
+    },
+    "ach.ffawin": {
+      "en": "Last One Standing",
+      "text": "最后的幸存者"
+    },
+    "ach.fullhouse": {
+      "en": "Full House",
+      "text": "座无虚席"
+    },
+    "ach.goldrush": {
+      "en": "Gold Rush",
+      "text": "淘金热"
+    },
+    "ach.guidedtour": {
+      "en": "Guided Tour",
+      "text": "导览之旅"
+    },
+    "ach.helpinghand": {
+      "en": "Helping Hand",
+      "text": "援助之手"
+    },
+    "ach.label": {
+      "en": "ACHIEVEMENT UNLOCKED",
+      "text": "成就已解锁"
+    },
+    "ach.numberone": {
+      "en": "Number One",
+      "text": "第一名"
+    },
+    "ach.ontheboard": {
+      "en": "On the Board",
+      "text": "榜上有名"
+    },
+    "ach.poolshark": {
+      "en": "Pool Shark",
+      "text": "台球高手"
+    },
+    "ach.rackemup": {
+      "en": "Rack 'Em Up",
+      "text": "摆球开局"
+    },
+    "ach.roadtrip": {
+      "en": "Road Trip",
+      "text": "结伴出游"
+    },
+    "ach.saycheese": {
+      "en": "Say Cheese",
+      "text": "茄子！"
+    },
+    "ach.teamwin": {
+      "en": "Hold the Line",
+      "text": "坚守阵线"
+    },
+    "ach.treatyourself": {
+      "en": "Treat Yourself",
+      "text": "犒劳自己"
+    },
+    "ach.welcome": {
+      "en": "Welcome to VR Realms",
+      "text": "欢迎来到 VR Realms"
+    },
+    "ach.worldbuilder": {
+      "en": "World Builder",
+      "text": "世界建造者"
+    },
+    "ach.worldtour": {
+      "en": "World Tour",
+      "text": "世界巡游"
+    },
+    "arcade.exitkey": {
+      "en": "E - EXIT",
+      "text": "E - 退出"
+    },
+    "arcade.exitpad": {
+      "en": "X - EXIT",
+      "text": "X - 退出"
+    },
+    "arcade.exitvr": {
+      "en": "A / X - EXIT",
+      "text": "A / X - 退出"
+    },
+    "arcade.movekey": {
+      "en": "WASD - MOVE     SPACE - FIRE",
+      "text": "WASD - 移动     空格 - 开火"
+    },
+    "arcade.movepad": {
+      "en": "STICK - MOVE     A - FIRE",
+      "text": "摇杆 - 移动     A - 开火"
+    },
+    "arcade.movevr": {
+      "en": "STICK - MOVE     TRIGGER - FIRE",
+      "text": "摇杆 - 移动     扳机 - 开火"
+    },
+    "arcade.needgold": {
+      "en": "You need {0} more gold to play.",
+      "text": "还需要 {0} 金币才能游玩。"
+    },
+    "arcade.nogold": {
+      "en": "Not enough gold to play.",
+      "text": "金币不足，无法游玩。"
+    },
+    "arcade.notsaved": {
+      "en": "That score could not be saved.",
+      "text": "该分数未能保存。"
+    },
+    "arcade.stepup": {
+      "en": "Step up to the arcade machine to play.",
+      "text": "走到街机前开始游戏。"
+    },
+    "avatars.anime": {
+      "en": "Anime",
+      "text": "动漫"
+    },
+    "avatars.blendshapes": {
+      "en": "Blend Shapes",
+      "text": "融合形状"
+    },
+    "avatars.chibi": {
+      "en": "Chibi",
+      "text": "Q版"
+    },
+    "avatars.creature": {
+      "en": "Creature",
+      "text": "生物"
+    },
+    "avatars.fantasy": {
+      "en": "Fantasy",
+      "text": "奇幻"
+    },
+    "avatars.humanoid": {
+      "en": "Humanoid",
+      "text": "人形"
+    },
+    "avatars.personal": {
+      "en": "Personal",
+      "text": "专属"
+    },
+    "avatars.realistic": {
+      "en": "Realistic",
+      "text": "写实"
+    },
+    "avatars.scifi": {
+      "en": "Sci-Fi",
+      "text": "科幻"
+    },
+    "avatars.style": {
+      "en": "AVATAR STYLE",
+      "text": "头像风格"
+    },
+    "avatars.stylized": {
+      "en": "Stylized",
+      "text": "风格化"
+    },
+    "board.avatar": {
+      "en": "avatar",
+      "text": "化身"
+    },
+    "board.avatars": {
+      "en": "avatars",
+      "text": "化身"
+    },
+    "board.by": {
+      "en": "by",
+      "text": "作者"
+    },
+    "board.events": {
+      "en": "UPCOMING EVENTS",
+      "text": "即将举行的活动"
+    },
+    "board.lastmonth": {
+      "en": "last month",
+      "text": "上月"
+    },
+    "board.lifetime": {
+      "en": "lifetime",
+      "text": "累计"
+    },
+    "board.live": {
+      "en": "LIVE",
+      "text": "直播中"
+    },
+    "board.loading": {
+      "en": "Loading…",
+      "text": "加载中…"
+    },
+    "board.map": {
+      "en": "map",
+      "text": "地图"
+    },
+    "board.maps": {
+      "en": "maps",
+      "text": "地图"
+    },
+    "board.members": {
+      "en": "members",
+      "text": "名成员"
+    },
+    "board.n.gold": {
+      "en": "{0} gold",
+      "text": "{0} 金币"
+    },
+    "board.n.subs": {
+      "en": "{0} subs",
+      "text": "{0} 订阅"
+    },
+    "board.noevents": {
+      "en": "No events scheduled",
+      "text": "暂无安排的活动"
+    },
+    "board.nogold": {
+      "en": "No gold yet",
+      "text": "还没有金币"
+    },
+    "board.nogroupgold": {
+      "en": "No group gold yet",
+      "text": "还没有群组金币"
+    },
+    "board.nothing": {
+      "en": "Nothing here yet",
+      "text": "还没有内容"
+    },
+    "board.soon": {
+      "en": "soon",
+      "text": "即将"
+    },
+    "board.thismonth": {
+      "en": "this month",
+      "text": "本月"
+    },
+    "board.topavatars": {
+      "en": "TOP AVATARS",
+      "text": "热门化身"
+    },
+    "board.topcreators": {
+      "en": "TOP CREATORS",
+      "text": "顶尖创作者"
+    },
+    "board.topgold": {
+      "en": "GOLD LEADERS",
+      "text": "金币排行"
+    },
+    "board.topgroups": {
+      "en": "TOP GROUPS",
+      "text": "热门群组"
+    },
+    "board.topworlds": {
+      "en": "TOP WORLDS",
+      "text": "热门世界"
+    },
+    "bots.auto": {
+      "en": "AUTO",
+      "text": "自动"
+    },
+    "bots.now.auto": {
+      "en": "Now: AUTO. One droid ({0}) keeps you company while you are alone here, and leaves when somebody joins.",
+      "text": "当前：自动。你一个人在这里时，会有一个机器人（{0}）陪你，有人加入时它就离开。"
+    },
+    "bots.now.many": {
+      "en": "Now: {0} droids ({1}), until you remove them.",
+      "text": "当前：{0} 个机器人（{1}），直到你移除它们。"
+    },
+    "bots.now.none": {
+      "en": "Now: no bots.",
+      "text": "当前：无机器人。"
+    },
+    "bots.now.one": {
+      "en": "Now: one droid ({0}), until you remove it.",
+      "text": "当前：一个机器人（{0}），直到你移除它。"
+    },
+    "bots.row.angle": {
+      "en": "Gun Angle (VR)",
+      "text": "枪械角度（VR）"
+    },
+    "bots.row.angledesc": {
+      "en": "Turns the barrel up or down in your hand, so a gun points where your controller's trigger feels right.",
+      "text": "在手中上下转动枪管，让枪口指向你觉得控制器扳机最顺手的方向。"
+    },
+    "bots.row.botsdesc": {
+      "en": "Droids to fight in a world that has a gun match. Up to 9. AUTO: one keeps you company while you are alone.",
+      "text": "在有枪战比赛的世界里与你对战的机器人。最多 9 个。自动：你一个人时会有一个陪你。"
+    },
+    "bots.row.guns": {
+      "en": "GUNS",
+      "text": "枪械"
+    },
+    "bots.row.header": {
+      "en": "GUN BOTS",
+      "text": "枪战机器人"
+    },
+    "bots.row.level": {
+      "en": "Bot Level",
+      "text": "机器人等级"
+    },
+    "bots.row.leveldesc": {
+      "en": "How well they aim, how fast they shoot, and whether they sprint and jump.",
+      "text": "它们瞄得多准、开枪多快，以及是否会冲刺和跳跃。"
+    },
+    "bots.row.now": {
+      "en": "Bots Now",
+      "text": "当前机器人"
+    },
+    "bots.row.remove": {
+      "en": "REMOVE BOTS",
+      "text": "移除机器人"
+    },
+    "bots.row.spawn": {
+      "en": "SPAWN BOTS",
+      "text": "生成机器人"
+    },
+    "bots.toast.auto": {
+      "en": "A droid keeps you company while you are alone. Go to Settings > Host to add or remove bots (up to 9).",
+      "text": "你一个人时会有一个机器人陪你。前往 设置 > 房主 添加或移除机器人（最多 9 个）。"
+    },
+    "bots.toast.host": {
+      "en": "Go to Settings > Host to add or remove bots (up to 9, three levels).",
+      "text": "前往 设置 > 房主 添加或移除机器人（最多 9 个，三种等级）。"
+    },
+    "build.lost": {
+      "en": "Connection lost. This VR Realms is out of date: close the game and let Steam update it.",
+      "text": "连接已断开。此 VR Realms 版本已过时：请关闭游戏，让 Steam 进行更新。"
+    },
+    "build.tooold": {
+      "en": "A newer VR Realms is out, and the hub needs it. Close the game and let Steam update it.",
+      "text": "VR Realms 已有新版本，大厅需要它。请关闭游戏，让 Steam 进行更新。"
+    },
+    "call.aplayer": {
+      "en": "A player",
+      "text": "一位玩家"
+    },
+    "call.aworld": {
+      "en": "a world",
+      "text": "某个世界"
+    },
+    "call.box.home": {
+      "en": "{0} invites everyone to hang out",
+      "text": "{0} 邀请大家过来玩"
+    },
+    "call.box.notnow": {
+      "en": "NOT NOW",
+      "text": "暂不"
+    },
+    "call.box.tag": {
+      "en": "CALL TO PLAY",
+      "text": "游戏召集"
+    },
+    "call.box.world": {
+      "en": "{0} is calling everyone to play",
+      "text": "{0} 正在召集大家一起玩"
+    },
+    "call.chat.home": {
+      "en": "{0} invites everyone to hang out at their home. To join: the gold row in your quick menu.",
+      "text": "{0} 邀请大家去家里玩。加入方法：快捷菜单中的金色选项。"
+    },
+    "call.chat.world": {
+      "en": "{0} is calling everyone to play in {1}. To join: the gold row in your quick menu.",
+      "text": "{0} 正在召集大家到 {1} 一起玩。加入方法：快捷菜单中的金色选项。"
+    },
+    "call.confirm.left": {
+      "en": "{0} OF {1} CALLS LEFT TODAY",
+      "text": "今日剩余召集：{0}/{1} 次"
+    },
+    "call.confirm.notice": {
+      "en": "EVERYONE IN THE GAME GETS NOTIFIED",
+      "text": "游戏中的所有人都会收到通知"
+    },
+    "call.confirm.title": {
+      "en": "CALL EVERYONE?",
+      "text": "召集所有人？"
+    },
+    "call.confirm.yes": {
+      "en": "YES, CALL EVERYONE",
+      "text": "是，召集所有人"
+    },
+    "call.daydone": {
+      "en": "You have called everyone today already. Your next call: in {0}.",
+      "text": "你今天已经召集过所有人了。下次召集：{0}后。"
+    },
+    "call.fullgame": {
+      "en": "{0}'s game is full right now.",
+      "text": "{0} 的游戏现在已满。"
+    },
+    "call.fullhome": {
+      "en": "{0}'s home is full right now.",
+      "text": "{0} 的家现在已满。"
+    },
+    "call.gap": {
+      "en": "A call went out a little while ago. The next one can go out in {0}.",
+      "text": "不久前刚有人发出召集。下一次召集可在 {0}后发出。"
+    },
+    "call.homeof": {
+      "en": "{0}'s home",
+      "text": "{0} 的家"
+    },
+    "call.hourmin": {
+      "en": "1 hour {0} min",
+      "text": "1 小时 {0} 分钟"
+    },
+    "call.hours": {
+      "en": "{0} hours",
+      "text": "{0} 小时"
+    },
+    "call.joining": {
+      "en": "Joining {0}...",
+      "text": "正在加入 {0}..."
+    },
+    "call.lookgame": {
+      "en": "Looking for {0}'s game...",
+      "text": "正在寻找 {0} 的游戏..."
+    },
+    "call.lookhome": {
+      "en": "Looking for {0}'s home...",
+      "text": "正在寻找 {0} 的家..."
+    },
+    "call.nogame": {
+      "en": "Could not find {0}'s game. It may be full, private or closed.",
+      "text": "找不到 {0} 的游戏。它可能已满、私密或已关闭。"
+    },
+    "call.nohome": {
+      "en": "Could not find {0}'s home. It may be full, private or closed.",
+      "text": "找不到 {0} 的家。它可能已满、私密或已关闭。"
+    },
+    "call.nosite": {
+      "en": "The call could not be sent: VR Realms did not answer. Try again in a moment.",
+      "text": "召集无法发出：VR Realms 没有响应。请稍后再试。"
+    },
+    "call.nosteam": {
+      "en": "The call could not be sent: the game is not signed in to Steam.",
+      "text": "召集无法发出：游戏未登录 Steam。"
+    },
+    "call.nothost": {
+      "en": "VR Realms does not know yet that you are hosting. Try again in a minute.",
+      "text": "VR Realms 还不知道你正在当房主。请一分钟后再试。"
+    },
+    "call.off": {
+      "en": "Calls are switched off right now.",
+      "text": "召集功能目前已关闭。"
+    },
+    "call.openfor": {
+      "en": "Your call is open for another {0}. Players who said yes so far: {1}.",
+      "text": "你的召集还会持续 {0}。目前已响应的玩家：{1} 人。"
+    },
+    "call.otheropen": {
+      "en": "Somebody else's call is open right now. Try again in {0}.",
+      "text": "现在有别人的召集正在进行。请在 {0}后再试。"
+    },
+    "call.out": {
+      "en": "Your call is out. Everyone in the game sees it within a minute, and it stays open for {0} minutes.",
+      "text": "召集已发出。游戏中的所有人会在一分钟内看到，召集持续 {0} 分钟。"
+    },
+    "call.over1": {
+      "en": "Your call is over. 1 player said yes.",
+      "text": "你的召集已结束。有 1 名玩家响应。"
+    },
+    "call.overn": {
+      "en": "Your call is over. {0} players said yes.",
+      "text": "你的召集已结束。有 {0} 名玩家响应。"
+    },
+    "call.refused": {
+      "en": "The call was refused.",
+      "text": "召集被拒绝了。"
+    },
+    "call.row.call": {
+      "en": "CALL EVERYONE",
+      "text": "召集所有人"
+    },
+    "call.row.in": {
+      "en": "CALL EVERYONE · IN {0}",
+      "text": "召集所有人 · {0}后"
+    },
+    "call.row.join": {
+      "en": "JOIN {0}'S CALL",
+      "text": "加入 {0} 的召集"
+    },
+    "call.row.out": {
+      "en": "YOUR CALL IS OUT · {0}",
+      "text": "召集中 · {0}"
+    },
+    "call.row.press": {
+      "en": "PRESS AGAIN TO CALL",
+      "text": "再按一次发出召集"
+    },
+    "call.stays": {
+      "en": "{0}'s call stays in your quick menu until it is over.",
+      "text": "{0} 的召集会一直留在你的快捷菜单中，直到结束。"
+    },
+    "call.test": {
+      "en": "That was a test call: there is nothing to join.",
+      "text": "这是一次测试召集：没有可加入的内容。"
+    },
+    "call.yes1": {
+      "en": "1 player said yes to your call.",
+      "text": "有 1 名玩家响应了你的召集。"
+    },
+    "call.yesn": {
+      "en": "{0} players said yes to your call.",
+      "text": "有 {0} 名玩家响应了你的召集。"
+    },
+    "cam.dock.drone": {
+      "en": "Screen: On Drone",
+      "text": "屏幕：无人机上"
+    },
+    "cam.dock.hud": {
+      "en": "Screen: Corner",
+      "text": "屏幕：角落"
+    },
+    "cam.dock.left": {
+      "en": "Screen: Left",
+      "text": "屏幕：左侧"
+    },
+    "cam.dock.off": {
+      "en": "Screen: Hidden",
+      "text": "屏幕：隐藏"
+    },
+    "cam.dock.right": {
+      "en": "Screen: Right",
+      "text": "屏幕：右侧"
+    },
+    "cam.exposure.bright": {
+      "en": "Exposure: Bright",
+      "text": "曝光：明亮"
+    },
+    "cam.exposure.brighter": {
+      "en": "Exposure: Brighter",
+      "text": "曝光：更亮"
+    },
+    "cam.exposure.max": {
+      "en": "Exposure: Max",
+      "text": "曝光：最大"
+    },
+    "cam.exposure.normal": {
+      "en": "Exposure: Normal",
+      "text": "曝光：标准"
+    },
+    "cam.hint.alt": {
+      "en": "Press ALT to use the mouse",
+      "text": "按 ALT 使用鼠标"
+    },
+    "cam.hint.flymouse": {
+      "en": "MOUSE MODE — ALT to fly again · ESC exits Free Fly",
+      "text": "鼠标模式 — ALT 恢复飞行 · ESC 退出自由飞行"
+    },
+    "cam.hint.flymousepad": {
+      "en": "MOUSE MODE — LB to fly again · Start exits Free Fly",
+      "text": "鼠标模式 — LB 恢复飞行 · Start 退出自由飞行"
+    },
+    "cam.hint.freefly": {
+      "en": "FREE FLY — WASD move · Q/E height · mouse look · ALT for cursor · ESC to exit",
+      "text": "自由飞行 — WASD 移动 · Q/E 高度 · 鼠标视角 · ALT 光标 · ESC 退出"
+    },
+    "cam.hint.freeflypad": {
+      "en": "FREE FLY — left stick move · triggers height · right stick look · LB for cursor · Start to exit",
+      "text": "自由飞行 — 左摇杆移动 · 扳机高度 · 右摇杆视角 · LB 光标 · Start 退出"
+    },
+    "cam.hint.lb": {
+      "en": "Press LB to use the mouse",
+      "text": "按 LB 使用鼠标"
+    },
+    "cam.hint.mouseon": {
+      "en": "MOUSE MODE — press ALT to give the mouse back",
+      "text": "鼠标模式 — 按 ALT 归还鼠标"
+    },
+    "cam.hint.mouseonpad": {
+      "en": "MOUSE MODE — press LB to give the mouse back",
+      "text": "鼠标模式 — 按 LB 归还鼠标"
+    },
+    "cam.mode.followbehind": {
+      "en": "Follow Behind",
+      "text": "跟随后方"
+    },
+    "cam.mode.followfront": {
+      "en": "Follow Front",
+      "text": "跟随前方"
+    },
+    "cam.mode.freefly": {
+      "en": "Free Fly",
+      "text": "自由飞行"
+    },
+    "cam.mode.orbit": {
+      "en": "Orbit",
+      "text": "环绕"
+    },
+    "cam.mode.tripod": {
+      "en": "Tripod",
+      "text": "三脚架"
+    },
+    "cam.toast.freeflyhold": {
+      "en": "FREE FLY  —  squeeze GRIP to exit",
+      "text": "自由飞行  —  按住握持键退出"
+    },
+    "cam.toast.freeflyon": {
+      "en": "FREE FLY — sticks steer the camera, grip to exit",
+      "text": "自由飞行 — 摇杆控制摄像机，握持键退出"
+    },
+    "cam.toast.modenow": {
+      "en": "Camera: {0}",
+      "text": "摄像机：{0}"
+    },
+    "chat.comingonline": {
+      "en": "Chat coming online — messages will appear here.",
+      "text": "聊天正在连接 — 消息将显示在这里。"
+    },
+    "chat.deskhint": {
+      "en": "Type a message…  (Enter to send)",
+      "text": "输入消息…  (Enter 发送)"
+    },
+    "chat.hint.desk": {
+      "en": "Click or press Enter to chat",
+      "text": "点击或按 Enter 聊天"
+    },
+    "chat.hint.vr": {
+      "en": "Tap to type…",
+      "text": "点击输入…"
+    },
+    "chat.openkeyboard": {
+      "en": "Open the keyboard to type…",
+      "text": "打开键盘输入…"
+    },
+    "chat.reminder": {
+      "en": "Press Enter to chat",
+      "text": "按 Enter 聊天"
+    },
+    "chat.translate.busy": {
+      "en": "Translation is busy. Try again later",
+      "text": "翻译繁忙，请稍后再试"
+    },
+    "chat.translate.failed": {
+      "en": "Could not translate. Tap to retry",
+      "text": "无法翻译。点击重试"
+    },
+    "chat.translate.link": {
+      "en": "Translate",
+      "text": "翻译"
+    },
+    "chat.translate.original": {
+      "en": "Show original",
+      "text": "显示原文"
+    },
+    "chat.translate.pending": {
+      "en": "Translating…",
+      "text": "正在翻译…"
+    },
+    "chat.translate.same": {
+      "en": "Already in your language",
+      "text": "已经是你的语言"
+    },
+    "chat.translate.shown": {
+      "en": "Show translation",
+      "text": "显示译文"
+    },
+    "common.audio": {
+      "en": "Audio",
+      "text": "音频"
+    },
+    "common.befriend": {
+      "en": "Befriend",
+      "text": "加为好友"
+    },
+    "common.chat": {
+      "en": "CHAT",
+      "text": "聊天"
+    },
+    "common.clearall": {
+      "en": "Clear all",
+      "text": "全部清除"
+    },
+    "common.close": {
+      "en": "Close",
+      "text": "关闭"
+    },
+    "common.debug": {
+      "en": "Debug",
+      "text": "调试"
+    },
+    "common.decline": {
+      "en": "Decline",
+      "text": "拒绝"
+    },
+    "common.emoji": {
+      "en": "Emoji",
+      "text": "表情"
+    },
+    "common.equip": {
+      "en": "EQUIP",
+      "text": "装备"
+    },
+    "common.everyone": {
+      "en": "Everyone",
+      "text": "所有人"
+    },
+    "common.go": {
+      "en": "Go",
+      "text": "前往"
+    },
+    "common.hide": {
+      "en": "Hide",
+      "text": "隐藏"
+    },
+    "common.ignore": {
+      "en": "Ignore",
+      "text": "忽略"
+    },
+    "common.invite": {
+      "en": "Invite",
+      "text": "邀请"
+    },
+    "common.join": {
+      "en": "Join",
+      "text": "加入"
+    },
+    "common.justnow": {
+      "en": "just now",
+      "text": "刚刚"
+    },
+    "common.kick": {
+      "en": "Kick",
+      "text": "踢出"
+    },
+    "common.large": {
+      "en": "Large",
+      "text": "大"
+    },
+    "common.mature": {
+      "en": "Mature",
+      "text": "成人"
+    },
+    "common.medium": {
+      "en": "Medium",
+      "text": "中"
+    },
+    "common.mute": {
+      "en": "Mute",
+      "text": "静音"
+    },
+    "common.offline": {
+      "en": "Offline",
+      "text": "离线"
+    },
+    "common.online": {
+      "en": "Online",
+      "text": "在线"
+    },
+    "common.search": {
+      "en": "Search",
+      "text": "搜索"
+    },
+    "common.small": {
+      "en": "Small",
+      "text": "小"
+    },
+    "common.unhide": {
+      "en": "Unhide",
+      "text": "取消隐藏"
+    },
+    "common.unmute": {
+      "en": "Unmute",
+      "text": "取消静音"
+    },
+    "dares.alldone": {
+      "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
+      "text": "Nixie: 三个挑战全完成了。我没挑战可出了，还有点佩服你。"
+    },
+    "dares.checkpoint": {
+      "en": "Checkpoint {0} of {1}.",
+      "text": "检查点 {0}/{1}。"
+    },
+    "dares.d.easy": {
+      "en": "Easy",
+      "text": "简单"
+    },
+    "dares.d.hard": {
+      "en": "Hard",
+      "text": "困难"
+    },
+    "dares.d.hardest": {
+      "en": "Hardest",
+      "text": "最难"
+    },
+    "dares.door": {
+      "en": "Nixie: That door opens onto nothing. I dare you. Unless you are chicken.",
+      "text": "Nixie: 那扇门外面什么都没有。敢不敢？除非你怂了。"
+    },
+    "dares.doorchicken": {
+      "en": "Nixie: Still standing there. I am not judging. I am only logging it.",
+      "text": "Nixie: 还站在那儿啊。我没在评判你。我只是记下来而已。"
+    },
+    "dares.fellout": {
+      "en": "You fell out of the world. Back you go.",
+      "text": "你掉出了世界。送你回去。"
+    },
+    "dares.ffaagain": {
+      "en": "Nixie: Another round of free-for-all. Counted for today.",
+      "text": "Nixie: 又一局自由混战。今天的已计入。"
+    },
+    "dares.ffadone": {
+      "en": "Nixie: A whole round of free-for-all. You survived, mostly. Dare done.",
+      "text": "Nixie: 打完了一整局自由混战。你基本算是活下来了。挑战完成。"
+    },
+    "dares.ffawinagain": {
+      "en": "Nixie: You won again. Counted for today.",
+      "text": "Nixie: 你又赢了。今天的已计入。"
+    },
+    "dares.ffawindone": {
+      "en": "Nixie: First place. I will pretend I expected it. Dare done.",
+      "text": "Nixie: 第一名。我就假装早料到了吧。挑战完成。"
+    },
+    "dares.galaxicaagain": {
+      "en": "Nixie: Stage 3 on Galaxica again. Counted for today.",
+      "text": "Nixie: 又打到 Galaxica 第 3 关。今天的已计入。"
+    },
+    "dares.galaxicadone": {
+      "en": "Nixie: Stage 3 on Galaxica. The aliens have filed a complaint. Dare done.",
+      "text": "Nixie: Galaxica 第 3 关。外星人已经投诉了。挑战完成。"
+    },
+    "dares.hintdesktop": {
+      "en": "Save yourself! Press {Radial}, then hit Respawn.",
+      "text": "快自救！按{Radial}，然后点击重生。"
+    },
+    "dares.hintvr": {
+      "en": "Save yourself! Click the {WheelStick} stick, look at your {WheelHand} wrist, then hit Respawn.",
+      "text": "快自救！按下{WheelStick}摇杆，看向你的{WheelHand}手腕，然后点击重生。"
+    },
+    "dares.homeoffer": {
+      "en": "Nixie: I have three dares for you. Open your menu and press the glowing Dares button. Unless you are chicken. If you take one, find me there first. I will be watching.",
+      "text": "Nixie: 我给你准备了三个挑战。打开菜单，按下发光的挑战按钮。除非你怂了。接下挑战的话，先到那里找我。我会盯着你的。"
+    },
+    "dares.jumpagain": {
+      "en": "Nixie: Again? Show-off.",
+      "text": "Nixie: 又来？真能显摆。"
+    },
+    "dares.jumpagainpaid": {
+      "en": "Nixie: Again? Show-off. Counted for today.",
+      "text": "Nixie: 又来？真能显摆。今天的已计入。"
+    },
+    "dares.jumpcaught": {
+      "en": "Nixie: I fished you out. That one goes down as a fail. Try again, and this time save yourself with Respawn.",
+      "text": "Nixie: 我把你捞上来了。这次算失败。再试一次，这回用重生自救。"
+    },
+    "dares.jumpdone": {
+      "en": "Nixie: You saved yourself. I only screamed a little. Dare done.",
+      "text": "Nixie: 你自救成功了。我只尖叫了一小下。挑战完成。"
+    },
+    "dares.l.ffa10": {
+      "en": "Nixie: First of ten. Everybody else is filing a complaint. Dare done.",
+      "text": "Nixie: 十人中第一。其他人都在投诉。挑战完成。"
+    },
+    "dares.l.ffa10again": {
+      "en": "Nixie: First of ten again. Counted for today.",
+      "text": "Nixie: 又是十人中第一。今天的已计入。"
+    },
+    "dares.l.team": {
+      "en": "Nixie: A whole team match. You even passed to someone. Dare done.",
+      "text": "Nixie: 打完了一整场团队赛。你甚至还给人传了球。挑战完成。"
+    },
+    "dares.l.team5": {
+      "en": "Nixie: Five on five, and your side won. That is a real battle. Dare done.",
+      "text": "Nixie: 五对五，你们赢了。这才是真正的战斗。挑战完成。"
+    },
+    "dares.l.team5again": {
+      "en": "Nixie: Another five on five won. Counted for today.",
+      "text": "Nixie: 又赢了一场五对五。今天的已计入。"
+    },
+    "dares.l.teamagain": {
+      "en": "Nixie: Another team match. Counted for today.",
+      "text": "Nixie: 又一场团队赛。今天的已计入。"
+    },
+    "dares.l.teamwin": {
+      "en": "Nixie: Your team won. I am told you helped. Dare done.",
+      "text": "Nixie: 你的队伍赢了。听说你帮上了忙。挑战完成。"
+    },
+    "dares.l.teamwinagain": {
+      "en": "Nixie: Your team won again. Counted for today.",
+      "text": "Nixie: 你的队伍又赢了。今天的已计入。"
+    },
+    "dares.lapdone": {
+      "en": "Nixie: One lap. I counted. Dare done.",
+      "text": "Nixie: 一圈。我数过了。挑战完成。"
+    },
+    "dares.lapnopay": {
+      "en": "Lap done. Today's jog was already counted. It counts again tomorrow.",
+      "text": "一圈完成。今天的慢跑已经计入过了。明天会再次计入。"
+    },
+    "dares.lappaid": {
+      "en": "Nixie: Another lap. Today's jog is counted. Same time tomorrow?",
+      "text": "Nixie: 又一圈。今天的慢跑已计入。明天老时间见？"
+    },
+    "dares.lapsprint": {
+      "en": "Hold {Sprint} to run.",
+      "text": "按住{Sprint}即可奔跑。"
+    },
+    "dares.lapstart": {
+      "en": "Nixie: A lap. I would join you, but I was built for standing.",
+      "text": "Nixie: 跑一圈。我本想陪你，可我是为站着而造的。"
+    },
+    "dares.n.dare": {
+      "en": "I dare you.",
+      "text": "敢不敢？"
+    },
+    "dares.n.done": {
+      "en": "Done. I made a note.",
+      "text": "完成。我记下了。"
+    },
+    "dares.n.ffa1": {
+      "en": "Round played. I logged every shot. Most of them missed.",
+      "text": "这局打完了。我记录了每一枪。大部分都没打中。"
+    },
+    "dares.n.ffa2": {
+      "en": "One round of free-for-all. Shoot things. I will keep score, badly.",
+      "text": "一局自由混战。尽管开枪。我来记分，不保证准。"
+    },
+    "dares.n.gal1": {
+      "en": "Stage 3. The arcade has your number now.",
+      "text": "第 3 关。街机已经盯上你了。"
+    },
+    "dares.n.gal2": {
+      "en": "Galaxica, stage 3. The aliens get meaner. So should you.",
+      "text": "Galaxica 第 3 关。外星人会更凶。你也得更凶。"
+    },
+    "dares.n.jog1": {
+      "en": "One lap of the park. I would join you, but I was built for standing.",
+      "text": "绕公园跑一圈。我本想陪你，可我是为站着而造的。"
+    },
+    "dares.n.jog2": {
+      "en": "Today's lap is in the log. Come back tomorrow. I will act surprised.",
+      "text": "今天的一圈已记录。明天再来吧。我会装作很惊讶。"
+    },
+    "dares.n.jog3": {
+      "en": "A new day, a new lap. The park is waiting. So am I, technically.",
+      "text": "新的一天，新的一圈。公园在等你。严格来说，我也在等。"
+    },
+    "dares.n.jump1": {
+      "en": "You jumped and saved yourself. I only screamed a little.",
+      "text": "你跳了，还自救成功了。我只尖叫了一小下。"
+    },
+    "dares.n.jump2": {
+      "en": "A door, a lot of nothing behind it, and you. Unless you are chicken.",
+      "text": "一扇门，门后一大片虚无，还有你。除非你怂了。"
+    },
+    "dares.n.plate1": {
+      "en": "You have one. I had a bet with the vending machine. I won.",
+      "text": "你已经有一块了。我跟自动售货机打了个赌。我赢了。"
+    },
+    "dares.n.plate2": {
+      "en": "A plate is lying around the hub somewhere. Finders keepers. I checked the rules.",
+      "text": "大厅某处有一块铭牌。谁捡到归谁。我查过规则了。"
+    },
+    "dares.n.win1": {
+      "en": "A win. I printed you a tiny certificate. It is in my head.",
+      "text": "赢了。我给你打印了一张小奖状。在我脑子里。"
+    },
+    "dares.n.win2": {
+      "en": "Win a round. First place. No pressure. Some pressure.",
+      "text": "赢一局。拿第一。没有压力。有一点压力。"
+    },
+    "dares.page.alltoday": {
+      "en": "All of them, today. Come back tomorrow. I will think of something.",
+      "text": "今天全部完成了。明天再来吧。我会想点新花样。"
+    },
+    "dares.page.arena": {
+      "en": "You are in the hub. The arena is the place.",
+      "text": "你在大厅里。目的地是竞技场。"
+    },
+    "dares.page.checkreached": {
+      "en": "Checkpoint {0} of {1} reached. Keep going.",
+      "text": "已到达检查点 {0}/{1}。继续前进。"
+    },
+    "dares.page.chip": {
+      "en": "Dares",
+      "text": "挑战"
+    },
+    "dares.page.count": {
+      "en": "{0} of {1} today",
+      "text": "今日 {0}/{1}"
+    },
+    "dares.page.done": {
+      "en": "Done.",
+      "text": "已完成。"
+    },
+    "dares.page.doneagain": {
+      "en": "Done today. It counts again tomorrow.",
+      "text": "今天已完成。明天会再次计入。"
+    },
+    "dares.page.donebefore": {
+      "en": "Done before. Today it counts again: {0} gold.",
+      "text": "以前完成过。今天会再次计入：{0} 金币。"
+    },
+    "dares.page.donetoday": {
+      "en": "Done today.",
+      "text": "今天已完成。"
+    },
+    "dares.page.doordone": {
+      "en": "Done. You are here: the door still opens, if you miss the fall.",
+      "text": "已完成。你就在这里：如果你怀念坠落，门还开着。"
+    },
+    "dares.page.finddoor": {
+      "en": "You are here. Find the door.",
+      "text": "你就在这里。找到那扇门。"
+    },
+    "dares.page.foot": {
+      "en": "Gold for a finished dare arrives with the nightly tally. Every dare is optional, and counts again on a later day.",
+      "text": "完成挑战的金币会在每晚结算时到账。每个挑战都是可选的，改天还能再次计入。"
+    },
+    "dares.page.galaxica": {
+      "en": "You are in the hub. Find the Galaxica machine.",
+      "text": "你在大厅里。找到 Galaxica 街机。"
+    },
+    "dares.page.gohub": {
+      "en": "Go to the hub",
+      "text": "前往大厅"
+    },
+    "dares.page.goldday": {
+      "en": "{0} gold, then {1} a day",
+      "text": "{0} 金币，之后每天 {1}"
+    },
+    "dares.page.lapcounted": {
+      "en": "You are here. Today's lap is counted.",
+      "text": "你就在这里。今天的一圈已计入。"
+    },
+    "dares.page.nocheck": {
+      "en": "You are here, but this world has no checkpoints yet.",
+      "text": "你已经在这里了，但这个世界还没有检查点。"
+    },
+    "dares.page.nodoor": {
+      "en": "You are here, but this world has no dare door yet.",
+      "text": "你已经在这里了，但这个世界还没有挑战之门。"
+    },
+    "dares.page.plategold": {
+      "en": "the plate's own {0} gold",
+      "text": "铭牌本身的 {0} 金币"
+    },
+    "dares.page.plategoldday": {
+      "en": "the plate's own {0} gold, then {1} a day",
+      "text": "铭牌本身的 {0} 金币，之后每天 {1}"
+    },
+    "dares.page.platehub": {
+      "en": "You are in the hub. A plate is somewhere on the floor.",
+      "text": "你在大厅里。地上某处有一块铭牌。"
+    },
+    "dares.page.pressagain": {
+      "en": "Press again to go",
+      "text": "再按一次前往"
+    },
+    "dares.page.runfirst": {
+      "en": "You are here. Run to the first checkpoint.",
+      "text": "你就在这里。跑到第一个检查点。"
+    },
+    "dares.page.set": {
+      "en": "Set {0}",
+      "text": "第 {0} 套"
+    },
+    "dares.page.setbonus": {
+      "en": "All three of a set: {0} gold on top",
+      "text": "一套三个全完成：额外 {0} 金币"
+    },
+    "dares.page.setnew": {
+      "en": "Set {0} · new",
+      "text": "第 {0} 套 · 新"
+    },
+    "dares.page.sub1": {
+      "en": "All optional. Any order. They come back every day. I noticed you.",
+      "text": "全部可选。顺序随意。每天都会刷新。我注意到你了。"
+    },
+    "dares.page.sub2": {
+      "en": "All optional. Any order. They come back every day. I will be logging everything.",
+      "text": "全部可选。顺序随意。每天都会刷新。我会把一切都记下来。"
+    },
+    "dares.page.takeme": {
+      "en": "Take me there",
+      "text": "带我过去"
+    },
+    "dares.page.title": {
+      "en": "Nixie's dares",
+      "text": "Nixie 的挑战"
+    },
+    "dares.page.today": {
+      "en": "Today's dare +{0}",
+      "text": "今日挑战 +{0}"
+    },
+    "dares.parkintro": {
+      "en": "Nixie: A lap of the park. Follow the gold trail through every checkpoint. I will wait here. Standing is my cardio.",
+      "text": "Nixie: 绕公园跑一圈。沿着金色路线经过每个检查点。我在这里等你。站着就是我的有氧运动。"
+    },
+    "dares.parkover": {
+      "en": "Nixie: Today's lap is counted. Stay for the trees. I will keep standing here, professionally.",
+      "text": "Nixie: 今天的一圈已计入。留下来看看树吧。我会继续在这儿专业地站着。"
+    },
+    "dares.plateagain": {
+      "en": "Nixie: Another head plate. The plate dare is counted for today.",
+      "text": "Nixie: 又一块铭牌。铭牌挑战今天已计入。"
+    },
+    "dares.platedone": {
+      "en": "Nixie: A head plate. A hat made of facts. Dare done.",
+      "text": "Nixie: 一块铭牌。一顶写满事实的帽子。挑战完成。"
+    },
+    "dares.setbonus": {
+      "en": "+{0} gold for all three",
+      "text": "三个全完成 +{0} 金币"
+    },
+    "dares.setbonushead": {
+      "en": "Finish all three of a set: bonus gold on top",
+      "text": "完成一套中的全部三个：额外奖励金币"
+    },
+    "dares.setdone": {
+      "en": "Nixie: That whole set is done. I will have to think of new dares.",
+      "text": "Nixie: 这一整套都完成了。我得想些新挑战了。"
+    },
+    "dares.t.ffa": {
+      "en": "Play a round of free-for-all",
+      "text": "玩一局自由混战"
+    },
+    "dares.t.ffa10win": {
+      "en": "Win a free-for-all of ten",
+      "text": "赢一局十人自由混战"
+    },
+    "dares.t.ffawin": {
+      "en": "Win a round of free-for-all",
+      "text": "赢一局自由混战"
+    },
+    "dares.t.galaxica": {
+      "en": "Reach stage 3 on Galaxica",
+      "text": "在 Galaxica 中打到第 3 关"
+    },
+    "dares.t.hubhunt": {
+      "en": "Find Nixie's three lost things in the hub",
+      "text": "在大厅找到 Nixie 丢失的三样东西"
+    },
+    "dares.t.hubhunt2": {
+      "en": "Find the hub's three lost things on another day",
+      "text": "改天再找到大厅里丢失的三样东西"
+    },
+    "dares.t.jog": {
+      "en": "Jog one lap",
+      "text": "慢跑一圈"
+    },
+    "dares.t.jump": {
+      "en": "Jump into the dark, then save yourself",
+      "text": "跳进黑暗，然后自救"
+    },
+    "dares.t.plate": {
+      "en": "Find a head plate",
+      "text": "找到一块铭牌"
+    },
+    "dares.t.team": {
+      "en": "Play a round of team free-for-all",
+      "text": "玩一局团队混战"
+    },
+    "dares.t.team5win": {
+      "en": "Win a team match, five on five",
+      "text": "赢一场五对五团队赛"
+    },
+    "dares.t.teamwin": {
+      "en": "Win a round of team free-for-all",
+      "text": "赢一局团队混战"
+    },
+    "dares.todaybonus": {
+      "en": "That was today's dare: a bonus on top.",
+      "text": "这是今日挑战：额外奖励已加上。"
+    },
+    "dares.w.arcade": {
+      "en": "the arcade in the hub",
+      "text": "大厅里的街机厅"
+    },
+    "dares.w.arena": {
+      "en": "the hub's arena, or any free-for-all world",
+      "text": "大厅的竞技场，或任意自由混战世界"
+    },
+    "dares.w.ffa": {
+      "en": "FFA Shooter, a bot plays you there",
+      "text": "FFA Shooter，那里有机器人和你对战"
+    },
+    "dares.w.ffa10": {
+      "en": "FFA Shooter, add 9 bots as host",
+      "text": "FFA Shooter，以房主身份添加 9 个机器人"
+    },
+    "dares.w.hubbusy": {
+      "en": "the hub, when it is busy",
+      "text": "大厅，人多的时候"
+    },
+    "dares.w.team": {
+      "en": "SciFi TFFA, or any team match; alone, add bots as host",
+      "text": "SciFi TFFA，或任意团队赛；一个人时，以房主身份添加机器人"
+    },
+    "dares.w.team5": {
+      "en": "SciFi TFFA, a team match of 10; alone, add 9 bots",
+      "text": "SciFi TFFA，十人团队赛；一个人时，添加 9 个机器人"
+    },
+    "fbt.calibrate": {
+      "en": "CALIBRATE",
+      "text": "校准"
+    },
+    "fbt.height": {
+      "en": "Avatar Height",
+      "text": "头像身高"
+    },
+    "fbt.settings": {
+      "en": "FBT Settings",
+      "text": "全身追踪设置"
+    },
+    "first.bot": {
+      "en": "FIGHT A BOT",
+      "text": "对战机器人"
+    },
+    "first.botsub": {
+      "en": "FFA Shooter, the easiest",
+      "text": "FFA Shooter，最简单"
+    },
+    "first.donetag": {
+      "en": "MISSION DONE",
+      "text": "任务完成"
+    },
+    "first.hintbot": {
+      "en": "Nixie: Your first mission: finish one round. Grab a gun from a pad. The bot is waiting.",
+      "text": "Nixie: 你的第一个任务：打完一局。从平台上拿一把枪。机器人在等你。"
+    },
+    "first.hintlap": {
+      "en": "Nixie: Your first mission: one lap. Follow the gold trail through every checkpoint.",
+      "text": "Nixie: 你的第一个任务：跑一圈。沿着金色路线经过每个检查点。"
+    },
+    "first.hublater": {
+      "en": "Nixie: The hub is one press away on your Home page. People are better company than bots. Usually.",
+      "text": "Nixie: 在主页上按一下就能去大厅。人比机器人更好相处。通常是这样。"
+    },
+    "first.hubline": {
+      "en": "Nixie: Nice work. The other players hang out in the hub. Want to go meet them?",
+      "text": "Nixie: 干得好。其他玩家都在大厅里闲逛。想去认识他们吗？"
+    },
+    "first.hubsub": {
+      "en": "Where the people are",
+      "text": "人多的地方"
+    },
+    "first.lap": {
+      "en": "RUN A LAP",
+      "text": "跑一圈"
+    },
+    "first.later": {
+      "en": "LATER",
+      "text": "稍后"
+    },
+    "first.line": {
+      "en": "Nixie: Pick one. Both work even when nobody else is online.",
+      "text": "Nixie: 选一个吧。即使没有其他人在线，两个都能玩。"
+    },
+    "first.saidbot": {
+      "en": "Nixie: Good choice. Taking you to the bot. It is not very smart.",
+      "text": "Nixie: 好选择。我带你去找机器人。它不太聪明。"
+    },
+    "first.saidlap": {
+      "en": "Nixie: Good choice. Taking you to the park. Stretch first.",
+      "text": "Nixie: 好选择。我带你去公园。先热热身。"
+    },
+    "first.saidlater": {
+      "en": "Nixie: Fine. Your missions wait behind the glowing Dares button on your Home page.",
+      "text": "Nixie: 好吧。你的任务在主页上那个发光的挑战按钮后面等着你。"
+    },
+    "first.tag": {
+      "en": "FIRST MISSION",
+      "text": "第一个任务"
+    },
+    "friends.title": {
+      "en": "Friends",
+      "text": "好友"
+    },
+    "guide.d.click": {
+      "en": "Click the stick",
+      "text": "按下摇杆"
+    },
+    "guide.d.grab": {
+      "en": "Squeeze and hold",
+      "text": "握住不放"
+    },
+    "guide.d.onoff": {
+      "en": "Press: on or off",
+      "text": "按下：开或关"
+    },
+    "guide.d.select": {
+      "en": "Aim the laser, pull the trigger",
+      "text": "用激光对准，扣动扳机"
+    },
+    "guide.d.sprint": {
+      "en": "Click the stick: sprint",
+      "text": "按下摇杆：冲刺"
+    },
+    "guide.d.turn": {
+      "en": "Flick the stick left or right",
+      "text": "向左或向右拨动摇杆"
+    },
+    "guide.d.use": {
+      "en": "Pull the trigger",
+      "text": "扣动扳机"
+    },
+    "guide.d.wheel": {
+      "en": "Click the stick: quick menu",
+      "text": "按下摇杆：快捷菜单"
+    },
+    "guide.hint": {
+      "en": "Hide these labels: hold both triggers",
+      "text": "隐藏这些标签：同时按住两个扳机"
+    },
+    "guide.row": {
+      "en": "CONTROLLER GUIDE",
+      "text": "手柄指南"
+    },
+    "guide.t.grab": {
+      "en": "Grab",
+      "text": "抓取"
+    },
+    "guide.t.jump": {
+      "en": "Jump",
+      "text": "跳跃"
+    },
+    "guide.t.laser": {
+      "en": "Laser",
+      "text": "激光"
+    },
+    "guide.t.menu": {
+      "en": "Menu",
+      "text": "菜单"
+    },
+    "guide.t.select": {
+      "en": "Select",
+      "text": "选择"
+    },
+    "guide.t.use": {
+      "en": "Use",
+      "text": "使用"
+    },
+    "guns.blueteam": {
+      "en": "BLUE TEAM",
+      "text": "蓝队"
+    },
+    "guns.free": {
+      "en": "FREE",
+      "text": "免费"
+    },
+    "guns.health": {
+      "en": "HEALTH",
+      "text": "生命值"
+    },
+    "guns.needgold": {
+      "en": "You need {0} more gold for the {1}.",
+      "text": "获取 {1} 还需要 {0} 金币。"
+    },
+    "guns.nogold": {
+      "en": "Not enough gold for the {0}.",
+      "text": "金币不足，无法获取 {0}。"
+    },
+    "guns.redteam": {
+      "en": "RED TEAM",
+      "text": "红队"
+    },
+    "guns.reloadhint": {
+      "en": "R   reload",
+      "text": "R   装弹"
+    },
+    "guns.reloading": {
+      "en": "RELOADING",
+      "text": "装弹中"
+    },
+    "guns.shield": {
+      "en": "SHIELD {0}",
+      "text": "护盾 {0}"
+    },
+    "hint.grab.desk": {
+      "en": "Press {0} to grab",
+      "text": "按 {0} 抓取"
+    },
+    "hint.profile.desk": {
+      "en": "Press {0} to view profile",
+      "text": "按 {0} 查看个人资料"
+    },
+    "hint.rotate.mouse": {
+      "en": "Middle mouse + move to rotate",
+      "text": "中键 + 移动以旋转"
+    },
+    "hint.rotate.mouse2": {
+      "en": "Middle mouse: rotate · Scroll: closer / farther",
+      "text": "中键：旋转 · 滚轮：拉近 / 推远"
+    },
+    "hint.rotate.pad": {
+      "en": "Hold RB + right stick to rotate",
+      "text": "按住 RB + 右摇杆旋转"
+    },
+    "hint.use.desk": {
+      "en": "Press {0} to use",
+      "text": "按 {0} 使用"
+    },
+    "hud.kicked": {
+      "en": "You have been kicked",
+      "text": "你已被踢出"
+    },
+    "hud.mapstale": {
+      "en": "Update needed - restart to view the latest map version",
+      "text": "需要更新 - 重启以查看最新地图版本"
+    },
+    "hud.standheight": {
+      "en": "Stand for a moment to set your height",
+      "text": "请站立片刻以设定你的身高"
+    },
+    "hunt.banana": {
+      "en": "Nixie: Oh, and I lost my banana. I do not eat. It was for emotional support. Find it?",
+      "text": "Nixie: 哦对了，我的香蕉丢了。我不吃东西。它是我的精神支柱。帮我找找？"
+    },
+    "hunt.bat": {
+      "en": "Nixie: Oh, and my baseball bat is missing. I only use it for gentle conversations. Find it?",
+      "text": "Nixie: 哦对了，我的棒球棒不见了。我只拿它来进行温和的谈话。帮我找找？"
+    },
+    "hunt.cake": {
+      "en": "Nixie: Oh, and I hid a cake from myself. It worked too well. Find it?",
+      "text": "Nixie: 哦对了，我把蛋糕藏起来不让自己找到。藏得太成功了。帮我找找？"
+    },
+    "hunt.candy": {
+      "en": "Nixie: Oh, and my nephew lost his candy around here. He is a toaster. Find it for him?",
+      "text": "Nixie: 哦对了，我侄子在这附近把糖弄丢了。他是一台烤面包机。帮他找找？"
+    },
+    "hunt.chicken": {
+      "en": "Nixie: Oh, and I lost my chicken. A cooked one. I was keeping it as a pet. Do not ask. Find it?",
+      "text": "Nixie: 哦对了，我的鸡丢了。是只熟的。我把它当宠物养的。别问。帮我找找？"
+    },
+    "hunt.dog": {
+      "en": "Nixie: Oh, and my toy dog ran off. It is a toy. It cannot run. That is what worries me. Find it?",
+      "text": "Nixie: 哦对了，我的玩具狗跑了。它是玩具。它不会跑。这才让我担心。帮我找找？"
+    },
+    "hunt.elephant": {
+      "en": "Nixie: Oh, and I misplaced a toy elephant. You would think that is hard to misplace. Find it?",
+      "text": "Nixie: 哦对了，我把一头玩具大象放丢了。你可能觉得大象很难弄丢吧。帮我找找？"
+    },
+    "hunt.fish": {
+      "en": "Nixie: Oh, and my fish went for a walk. That is not normal, which is why I need it back. Find it?",
+      "text": "Nixie: 哦对了，我的鱼出去散步了。这不正常，所以我得把它找回来。帮我找找？"
+    },
+    "hunt.found1": {
+      "en": "Nixie: You found it. I will pretend I was not worried.",
+      "text": "Nixie: 你找到了。我就假装我没担心过。"
+    },
+    "hunt.found2": {
+      "en": "Nixie: Found it. I owe you one. I will not say which one.",
+      "text": "Nixie: 找到了。我欠你一个。至于欠你一个什么，我不说。"
+    },
+    "hunt.found3": {
+      "en": "Nixie: There it is. You are better at this than I am, and I have sensors.",
+      "text": "Nixie: 在这儿呢。你比我还擅长这个，而我可是有传感器的。"
+    },
+    "hunt.hat": {
+      "en": "Nixie: Oh, and I lost my hat. I do not need a hat. That is not the point. Find it?",
+      "text": "Nixie: 哦对了，我的帽子丢了。我不需要帽子。但这不是重点。帮我找找？"
+    },
+    "hunt.horse": {
+      "en": "Nixie: Oh, and my toy horse is missing. It was the fast one. Find it?",
+      "text": "Nixie: 哦对了，我的玩具马不见了。是跑得快的那匹。帮我找找？"
+    },
+    "hunt.huball": {
+      "en": "Nixie: All three found. That is the bonus. I will lose more by tomorrow.",
+      "text": "Nixie: 三样全找到了。奖励到手。明天之前我会再弄丢些东西。"
+    },
+    "hunt.hubask": {
+      "en": "Nixie: Three of my things are lost around the hub today. Find all three for a bigger bonus. I would look myself, but I am busy standing.",
+      "text": "Nixie: 今天我有三样东西丢在大厅各处。三样都找到有更大的奖励。我本想自己找，可我忙着站着。"
+    },
+    "hunt.hubone": {
+      "en": "Nixie: That is one. Two more somewhere in the hub.",
+      "text": "Nixie: 这是第一样。大厅里还有两样。"
+    },
+    "hunt.hubover": {
+      "en": "Nixie: You found all three today. I will lose more by tomorrow. It is a gift.",
+      "text": "Nixie: 今天三样你都找到了。明天之前我会再弄丢些。这是天赋。"
+    },
+    "hunt.hubtwo": {
+      "en": "Nixie: That is two. One more.",
+      "text": "Nixie: 这是第二样。还剩一样。"
+    },
+    "hunt.icecream": {
+      "en": "Nixie: Oh, and I left an ice cream somewhere. It has probably not melted. Probably. Find it?",
+      "text": "Nixie: 哦对了，我把一个冰淇淋落在哪儿了。应该还没化。应该吧。帮我找找？"
+    },
+    "instance.mic": {
+      "en": "MICROPHONE",
+      "text": "麦克风"
+    },
+    "instance.muted": {
+      "en": "MUTED",
+      "text": "已静音"
+    },
+    "instance.users": {
+      "en": "Users In Instance",
+      "text": "实例内用户"
+    },
+    "instance.world": {
+      "en": "WORLD",
+      "text": "世界"
+    },
+    "kb.back": {
+      "en": "Back",
+      "text": "删除"
+    },
+    "kb.clear": {
+      "en": "Clear",
+      "text": "清除"
+    },
+    "kb.space": {
+      "en": "Space",
+      "text": "空格"
+    },
+    "kb.typetosearch": {
+      "en": "Type to search…",
+      "text": "输入以搜索…"
+    },
+    "level.up": {
+      "en": "Level up! You are level {0}.",
+      "text": "升级了！你现在是 {0} 级。"
+    },
+    "nav.alerts": {
+      "en": "Alerts",
+      "text": "提醒"
+    },
+    "nav.avatars": {
+      "en": "Avatars",
+      "text": "形象"
+    },
+    "nav.camera": {
+      "en": "Camera",
+      "text": "摄像机"
+    },
+    "nav.fbt": {
+      "en": "FBT",
+      "text": "FBT"
+    },
+    "nav.gohome": {
+      "en": "Go Home",
+      "text": "回到主页"
+    },
+    "nav.nearby": {
+      "en": "Nearby",
+      "text": "附近"
+    },
+    "nav.power": {
+      "en": "Power",
+      "text": "退出"
+    },
+    "nav.settings": {
+      "en": "Settings",
+      "text": "设置"
+    },
+    "nav.supporter": {
+      "en": "Supporter",
+      "text": "支持者"
+    },
+    "nav.worlds": {
+      "en": "Worlds",
+      "text": "世界"
+    },
+    "notif.events": {
+      "en": "Events",
+      "text": "活动"
+    },
+    "notif.invitedto": {
+      "en": "sent you a game invite to",
+      "text": "邀请你前往："
+    },
+    "notif.invites": {
+      "en": "Invites",
+      "text": "邀请"
+    },
+    "notif.live": {
+      "en": "LIVE NOW",
+      "text": "正在直播"
+    },
+    "notif.noevents": {
+      "en": "No events scheduled right now - check back soon.",
+      "text": "目前没有安排的活动 - 请稍后再来。"
+    },
+    "notif.noinvites": {
+      "en": "No pending invites.",
+      "text": "没有待处理的邀请。"
+    },
+    "notif.title": {
+      "en": "Notifications",
+      "text": "通知"
+    },
+    "pool.backspot": {
+      "en": "That ball goes back on its spot.",
+      "text": "那颗球放回原位。"
+    },
+    "pool.ball": {
+      "en": "ball {0}",
+      "text": "{0} 号球"
+    },
+    "pool.busy": {
+      "en": "The pool table is busy: a game is on.",
+      "text": "台球桌正忙：对局进行中。"
+    },
+    "pool.cleared": {
+      "en": "Table cleared!",
+      "text": "清台！"
+    },
+    "pool.clearednew": {
+      "en": "Table cleared. A new rack is coming.",
+      "text": "清台。即将重新摆球。"
+    },
+    "pool.early8": {
+      "en": "{0} sank the 8 ball too early.",
+      "text": "{0} 过早打进了 8 号球。"
+    },
+    "pool.eight": {
+      "en": "the 8 ball",
+      "text": "8 号球"
+    },
+    "pool.foulnone": {
+      "en": "Foul - no ball was hit.",
+      "text": "犯规 - 没有击中任何球。"
+    },
+    "pool.foulwhite": {
+      "en": "Foul - the white ball went in.",
+      "text": "犯规 - 白球落袋。"
+    },
+    "pool.foulwrong": {
+      "en": "Foul - the wrong ball was hit first.",
+      "text": "犯规 - 先击中了错误的球。"
+    },
+    "pool.gameover": {
+      "en": "Game over",
+      "text": "游戏结束"
+    },
+    "pool.hold": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  wheel: high or low",
+      "text": "按住鼠标左键，向后拉蓄力，松开击球  |  滚轮：高点或低点"
+    },
+    "pool.holddrag": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  drag the white ball to move it  |  wheel: high or low",
+      "text": "按住鼠标左键，向后拉蓄力，松开击球  |  拖动白球以移动  |  滚轮：高点或低点"
+    },
+    "pool.howdesk": {
+      "en": "Look at the spot the white ball should roll toward. Hold LEFT MOUSE for power, let go to shoot. RIGHT MOUSE cancels. Mouse wheel: hit high or low.",
+      "text": "看向白球要滚向的位置。按住鼠标左键蓄力，松开击球。鼠标右键取消。鼠标滚轮：击高点或低点。"
+    },
+    "pool.howvr": {
+      "en": "Grab a cue with the hand you push with, then steady the front with your other hand and push the tip through the white ball. Low on the ball pulls it back, high lets it follow.",
+      "text": "用推杆的那只手握住球杆，再用另一只手稳住前端，把杆头推过白球。击白球下方会让它回旋，击上方会让它跟进。"
+    },
+    "pool.needgold": {
+      "en": "You need {0} more gold to play pool.",
+      "text": "还需要 {0} 金币才能玩台球。"
+    },
+    "pool.newrack": {
+      "en": "New rack. The white ball can be placed for the break.",
+      "text": "重新摆球。开球前可以放置白球。"
+    },
+    "pool.nogold": {
+      "en": "Not enough gold to play pool.",
+      "text": "金币不足，无法玩台球。"
+    },
+    "pool.open": {
+      "en": "open table",
+      "text": "开放球台"
+    },
+    "pool.p1": {
+      "en": "Player 1",
+      "text": "玩家 1"
+    },
+    "pool.p2": {
+      "en": "Player 2",
+      "text": "玩家 2"
+    },
+    "pool.practicejoin": {
+      "en": "Practice - shoot to practise, or JOIN to start a game.",
+      "text": "练习 - 击球练习，或按加入开始对局。"
+    },
+    "pool.practicenoturns": {
+      "en": "Practice - no turns, no winner. Another player can JOIN for a game.",
+      "text": "练习 - 不分回合，没有赢家。其他玩家可以加入进行对局。"
+    },
+    "pool.practiceplace": {
+      "en": "Practice - put the white ball where you like, then shoot",
+      "text": "练习 - 把白球放在你喜欢的位置，然后击球"
+    },
+    "pool.practising": {
+      "en": "{0} is practising. JOIN to play a game against them.",
+      "text": "{0} 正在练习。按加入与其对战。"
+    },
+    "pool.pullback": {
+      "en": "Pull the mouse back for power, let go to shoot  |  RIGHT MOUSE cancels",
+      "text": "向后拉鼠标蓄力，松开击球  |  鼠标右键取消"
+    },
+    "pool.putdown": {
+      "en": "Let go to put the white ball down",
+      "text": "松开以放下白球"
+    },
+    "pool.seat": {
+      "en": "A seat opened up.",
+      "text": "空出了一个座位。"
+    },
+    "pool.seatopen": {
+      "en": "A pool game is on with a seat open. Press JOIN on the panel to play.",
+      "text": "台球对局进行中，有空位。按面板上的加入开始游戏。"
+    },
+    "pool.solids": {
+      "en": "{0} plays solids.",
+      "text": "{0} 打全色球。"
+    },
+    "pool.stepup": {
+      "en": "Step up to the pool table first.",
+      "text": "请先走到台球桌前。"
+    },
+    "pool.stripes": {
+      "en": "{0} plays stripes.",
+      "text": "{0} 打花色球。"
+    },
+    "pool.toshoot": {
+      "en": "{0} to shoot - {1}",
+      "text": "{0} 击球 - {1}"
+    },
+    "pool.unseated": {
+      "en": "You are no longer seated at the pool table. Press JOIN on its panel to play again.",
+      "text": "你已不在台球桌的座位上。按面板上的加入再次游戏。"
+    },
+    "pool.using": {
+      "en": "{0} is using the pool table. Press JOIN on its panel to play a game against them.",
+      "text": "{0} 正在使用台球桌。按面板上的加入与其对战。"
+    },
+    "pool.wins": {
+      "en": "{0} wins!",
+      "text": "{0} 获胜！"
+    },
+    "pool.winsgame": {
+      "en": "{0} wins the game!",
+      "text": "{0} 赢得本局！"
+    },
+    "pool.yourturn": {
+      "en": "Your turn.",
+      "text": "轮到你。"
+    },
+    "pool.yourturnhand": {
+      "en": "Your turn - ball in hand.",
+      "text": "轮到你 - 自由球。"
+    },
+    "portal.closed": {
+      "en": "PORTAL CLOSED",
+      "text": "传送门已关闭"
+    },
+    "portal.dlfailed": {
+      "en": "Couldn't download \"{0}\"",
+      "text": "无法下载“{0}”"
+    },
+    "portal.dlpct": {
+      "en": "DOWNLOADING  {0}%",
+      "text": "正在下载  {0}%"
+    },
+    "portal.downloading": {
+      "en": "DOWNLOADING…",
+      "text": "正在下载…"
+    },
+    "portal.droppedby": {
+      "en": "Dropped by {0}",
+      "text": "由 {0} 放置"
+    },
+    "portal.getting": {
+      "en": "Getting \"{0}\"…",
+      "text": "正在获取“{0}”…"
+    },
+    "portal.gettingpct": {
+      "en": "Getting \"{0}\"… {1}%",
+      "text": "正在获取“{0}”… {1}%"
+    },
+    "portal.gonow": {
+      "en": "GO NOW  ({0} READY)",
+      "text": "立即出发  ({0} 人已就绪)"
+    },
+    "portal.groupleft": {
+      "en": "GROUP LEFT  ·  QUEUE TO FOLLOW",
+      "text": "队伍已出发  ·  加入队列以跟随"
+    },
+    "portal.leavequeue": {
+      "en": "LEAVE QUEUE",
+      "text": "退出队列"
+    },
+    "portal.leaving": {
+      "en": "LEAVING…",
+      "text": "正在离开…"
+    },
+    "portal.leavingbehind": {
+      "en": "LEAVING  ·  {0} will follow when ready",
+      "text": "正在出发  ·  {0} 人准备好后跟上"
+    },
+    "portal.leavingtogether": {
+      "en": "LEAVING TOGETHER",
+      "text": "一起出发"
+    },
+    "portal.nobodyqueued": {
+      "en": "NOBODY QUEUED YET",
+      "text": "还没有人排队"
+    },
+    "portal.queued": {
+      "en": "{0} QUEUED",
+      "text": "{0} 人排队"
+    },
+    "portal.queuedplus": {
+      "en": "{0} QUEUED  ·  {1} DOWNLOADING",
+      "text": "{0} 人排队  ·  {1} 人下载中"
+    },
+    "portal.queueup": {
+      "en": "QUEUE UP",
+      "text": "加入队列"
+    },
+    "portal.ready": {
+      "en": "\"{0}\" ready",
+      "text": "“{0}”已就绪"
+    },
+    "portal.starting": {
+      "en": "STARTING…",
+      "text": "正在开始…"
+    },
+    "portal.startingwait": {
+      "en": "STARTING  ·  waiting for {0}",
+      "text": "正在开始  ·  等待 {0}"
+    },
+    "presence.joined1": {
+      "en": "{0} joined",
+      "text": "{0} 加入了"
+    },
+    "presence.joined2": {
+      "en": "{0} and {1} joined",
+      "text": "{0} 和 {1} 加入了"
+    },
+    "presence.joinedn": {
+      "en": "{0} +{1} joined",
+      "text": "{0} 等 {1} 人加入了"
+    },
+    "presence.left1": {
+      "en": "{0} left",
+      "text": "{0} 离开了"
+    },
+    "presence.left2": {
+      "en": "{0} and {1} left",
+      "text": "{0} 和 {1} 离开了"
+    },
+    "presence.leftn": {
+      "en": "{0} +{1} left",
+      "text": "{0} 等 {1} 人离开了"
+    },
+    "profile.achievements": {
+      "en": "Achievements",
+      "text": "成就"
+    },
+    "profile.addfriend": {
+      "en": "Add friend",
+      "text": "加好友"
+    },
+    "profile.arcade": {
+      "en": "Arcade",
+      "text": "街机"
+    },
+    "profile.badge.avatar": {
+      "en": "Avatar creator",
+      "text": "形象创作者"
+    },
+    "profile.badge.helper": {
+      "en": "Helper",
+      "text": "协助者"
+    },
+    "profile.badge.new": {
+      "en": "New player",
+      "text": "新玩家"
+    },
+    "profile.badge.partner": {
+      "en": "Partner",
+      "text": "合作伙伴"
+    },
+    "profile.badge.staff": {
+      "en": "Staff",
+      "text": "工作人员"
+    },
+    "profile.badge.streamer": {
+      "en": "Streamer",
+      "text": "主播"
+    },
+    "profile.badge.world": {
+      "en": "World creator",
+      "text": "世界创作者"
+    },
+    "profile.bestjogger": {
+      "en": "Best jogger",
+      "text": "最佳慢跑者"
+    },
+    "profile.bronze": {
+      "en": "Bronze",
+      "text": "铜"
+    },
+    "profile.competitive": {
+      "en": "Competitive",
+      "text": "竞技"
+    },
+    "profile.crown": {
+      "en": "Crown",
+      "text": "皇冠"
+    },
+    "profile.darecompleter": {
+      "en": "Dare completer",
+      "text": "挑战达人"
+    },
+    "profile.dayone": {
+      "en": "Day One",
+      "text": "首日支持者"
+    },
+    "profile.empty": {
+      "en": "Has not played VR Realms yet.",
+      "text": "还没有玩过 VR Realms。"
+    },
+    "profile.ffa": {
+      "en": "Free for all",
+      "text": "自由混战"
+    },
+    "profile.goback": {
+      "en": "Go back",
+      "text": "返回"
+    },
+    "profile.gold": {
+      "en": "Gold",
+      "text": "金"
+    },
+    "profile.helpful": {
+      "en": "Helpful",
+      "text": "乐于助人"
+    },
+    "profile.hidden": {
+      "en": "{0} (hidden)",
+      "text": "{0}（已隐藏）"
+    },
+    "profile.hidden.other": {
+      "en": "This player keeps their profile private.",
+      "text": "这位玩家将个人资料设为不公开。"
+    },
+    "profile.hidden.self": {
+      "en": "Your profile is hidden from other players.",
+      "text": "你的个人资料已对其他玩家隐藏。"
+    },
+    "profile.hours": {
+      "en": "{0} h",
+      "text": "{0} 小时"
+    },
+    "profile.invite": {
+      "en": "Invite to VR Realms",
+      "text": "邀请加入 VR Realms"
+    },
+    "profile.invite.reward": {
+      "en": "{0} gold for you when they join",
+      "text": "对方加入后你将获得 {0} 金币"
+    },
+    "profile.invited": {
+      "en": "Invite sent",
+      "text": "邀请已发送"
+    },
+    "profile.last.days": {
+      "en": "Last online {0} days ago",
+      "text": "{0} 天前在线"
+    },
+    "profile.last.h": {
+      "en": "Last online {0} h ago",
+      "text": "{0} 小时前在线"
+    },
+    "profile.last.min": {
+      "en": "Last online {0} min ago",
+      "text": "{0} 分钟前在线"
+    },
+    "profile.level": {
+      "en": "Level {0}",
+      "text": "等级 {0}"
+    },
+    "profile.loadfail": {
+      "en": "Could not load this profile. Trying again.",
+      "text": "无法加载此个人资料。正在重试。"
+    },
+    "profile.member": {
+      "en": "Member since {0}",
+      "text": "{0} 加入"
+    },
+    "profile.minutes": {
+      "en": "{0} min",
+      "text": "{0} 分钟"
+    },
+    "profile.more": {
+      "en": "+{0} more",
+      "text": "还有 {0} 个"
+    },
+    "profile.none": {
+      "en": "This player has no profile.",
+      "text": "这位玩家没有个人资料。"
+    },
+    "profile.online": {
+      "en": "Online now",
+      "text": "当前在线"
+    },
+    "profile.parkjogger": {
+      "en": "Park jogger",
+      "text": "公园慢跑者"
+    },
+    "profile.pool": {
+      "en": "Pool",
+      "text": "台球"
+    },
+    "profile.private": {
+      "en": "This player keeps their stats private.",
+      "text": "这位玩家将自己的数据设为不公开。"
+    },
+    "profile.published": {
+      "en": "{0} published",
+      "text": "已发布 {0} 个"
+    },
+    "profile.rank.creatorall": {
+      "en": "#{0}  Creator hours all time",
+      "text": "#{0}  累计创作者时长"
+    },
+    "profile.rank.creatormonth": {
+      "en": "#{0}  Creator hours this month",
+      "text": "#{0}  本月创作者时长"
+    },
+    "profile.rank.goldall": {
+      "en": "#{0}  Gold all time",
+      "text": "#{0}  累计金币"
+    },
+    "profile.rank.goldmonth": {
+      "en": "#{0}  Gold this month",
+      "text": "#{0}  本月金币"
+    },
+    "profile.rank.timeall": {
+      "en": "#{0}  Most active all time",
+      "text": "#{0}  累计最活跃"
+    },
+    "profile.rank.timemonth": {
+      "en": "#{0}  Most active this month",
+      "text": "#{0}  本月最活跃"
+    },
+    "profile.rank.topavatars": {
+      "en": "#{0}  Top avatars",
+      "text": "#{0}  热门形象"
+    },
+    "profile.rank.topcreators": {
+      "en": "#{0}  Top creators",
+      "text": "#{0}  顶尖创作者"
+    },
+    "profile.rank.topworlds": {
+      "en": "#{0}  Top worlds",
+      "text": "#{0}  热门世界"
+    },
+    "profile.rankings": {
+      "en": "Rankings",
+      "text": "排名"
+    },
+    "profile.rarity": {
+      "en": "{0}% of players",
+      "text": "{0}% 的玩家"
+    },
+    "profile.rate.daily": {
+      "en": "You have given all your thumbs-ups for today.",
+      "text": "你今天的点赞次数已用完。"
+    },
+    "profile.rate.failed": {
+      "en": "That did not go through. Try again in a moment.",
+      "text": "未能送出。请稍后再试。"
+    },
+    "profile.rate.need": {
+      "en": "Play {0} minutes together to rate",
+      "text": "一起游玩 {0} 分钟后才能评价"
+    },
+    "profile.report": {
+      "en": "Report player",
+      "text": "举报玩家"
+    },
+    "profile.show": {
+      "en": "Show",
+      "text": "显示"
+    },
+    "profile.silver": {
+      "en": "Silver",
+      "text": "银"
+    },
+    "profile.since": {
+      "en": "since {0}",
+      "text": "自 {0} 起"
+    },
+    "profile.stat.creator": {
+      "en": "Time in their worlds",
+      "text": "他人在其世界的时长"
+    },
+    "profile.stat.gold": {
+      "en": "Gold earned",
+      "text": "获得的金币"
+    },
+    "profile.stat.playtime": {
+      "en": "Playtime",
+      "text": "游玩时间"
+    },
+    "profile.stat.worlds": {
+      "en": "Worlds visited",
+      "text": "去过的世界"
+    },
+    "profile.steam.online": {
+      "en": "Online on Steam",
+      "text": "Steam 在线"
+    },
+    "profile.streak": {
+      "en": "{0}-day streak",
+      "text": "连续 {0} 天"
+    },
+    "profile.sure": {
+      "en": "Sure?",
+      "text": "确定吗？"
+    },
+    "profile.tapbadge": {
+      "en": "Tap a badge to show or hide it on your head plate.",
+      "text": "点击徽章，在你的铭牌上显示或隐藏它。"
+    },
+    "profile.teamffa": {
+      "en": "Team free for all",
+      "text": "团队混战"
+    },
+    "profile.title": {
+      "en": "Profile",
+      "text": "个人资料"
+    },
+    "profile.visit": {
+      "en": "Visit",
+      "text": "前往"
+    },
+    "profile.wear": {
+      "en": "Wear",
+      "text": "穿上"
+    },
+    "profile.wearing": {
+      "en": "Wearing",
+      "text": "正在穿"
+    },
+    "session.gone": {
+      "en": "Couldn't connect — that session is no longer available.",
+      "text": "无法连接 — 该会话已不可用。"
+    },
+    "session.handing": {
+      "en": "Handing over…",
+      "text": "正在移交…"
+    },
+    "session.handover": {
+      "en": "Handing over to a new host",
+      "text": "正在移交给新房主"
+    },
+    "session.moving": {
+      "en": "Moving you to the new host",
+      "text": "正在把你转到新房主"
+    },
+    "session.transitfail": {
+      "en": "Steam could not open that world just now. Back home: try again in a moment.",
+      "text": "Steam 暂时无法打开那个世界。已回到家中：请稍后再试。"
+    },
+    "settings.aa": {
+      "en": "Anti-Aliasing",
+      "text": "抗锯齿"
+    },
+    "settings.access.hdr": {
+      "en": "ACCESSIBILITY",
+      "text": "辅助功能"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "text": "环境音"
+    },
+    "settings.autodecline": {
+      "en": "Auto Decline Invites",
+      "text": "自动拒绝邀请"
+    },
+    "settings.autodecline.sub": {
+      "en": "Decline all world invites automatically",
+      "text": "自动拒绝所有世界邀请"
+    },
+    "settings.autodl": {
+      "en": "Auto Download Avatars",
+      "text": "自动下载头像"
+    },
+    "settings.autodl.sub": {
+      "en": "Automatically download new avatar assets",
+      "text": "自动下载新头像资源"
+    },
+    "settings.builddate": {
+      "en": "Build Date",
+      "text": "构建日期"
+    },
+    "settings.buildver": {
+      "en": "Build Version",
+      "text": "版本号"
+    },
+    "settings.censor": {
+      "en": "Censor Chat",
+      "text": "过滤聊天"
+    },
+    "settings.censor.sub": {
+      "en": "Filter profanity and slurs in chat for everyone here",
+      "text": "为这里所有人过滤聊天中的脏话"
+    },
+    "settings.changedevice": {
+      "en": "Change Device",
+      "text": "更改设备"
+    },
+    "settings.climb": {
+      "en": "Allow Climbing",
+      "text": "允许攀爬"
+    },
+    "settings.climb.sub": {
+      "en": "Let guests use climbing locomotion in your instance",
+      "text": "允许访客在你的实例中使用攀爬移动"
+    },
+    "settings.dialogue": {
+      "en": "Dialogue",
+      "text": "对话"
+    },
+    "settings.dlworlds": {
+      "en": "Downloaded Worlds",
+      "text": "已下载的世界"
+    },
+    "settings.dlworlds.value": {
+      "en": "{0} kept  ·  {1} MB",
+      "text": "已保存 {0} 个  ·  {1} MB"
+    },
+    "settings.effects": {
+      "en": "Effects",
+      "text": "特效"
+    },
+    "settings.foliage": {
+      "en": "Foliage",
+      "text": "植被"
+    },
+    "settings.forcemove": {
+      "en": "Force Movement Style (everyone here)",
+      "text": "强制移动方式 (所有人)"
+    },
+    "settings.foveated": {
+      "en": "Foveated Rendering",
+      "text": "注视点渲染"
+    },
+    "settings.foveated.sub": {
+      "en": "Cheaper edges of vision - takes effect on restart",
+      "text": "视野边缘更省 - 重启后生效"
+    },
+    "settings.fps": {
+      "en": "FPS Counter",
+      "text": "帧率计数"
+    },
+    "settings.fps.sub": {
+      "en": "Display frames per second overlay",
+      "text": "显示每秒帧数"
+    },
+    "settings.fpscap": {
+      "en": "FPS Cap",
+      "text": "帧率上限"
+    },
+    "settings.fpscap.sub": {
+      "en": "In VR at least 90 is used",
+      "text": "VR中至少使用90"
+    },
+    "settings.fpsvalue": {
+      "en": "Frames per second",
+      "text": "每秒帧数"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "text": "全屏"
+    },
+    "settings.gpu": {
+      "en": "Detected GPU",
+      "text": "检测到的 GPU"
+    },
+    "settings.hideboards": {
+      "en": "Hide Me From Leaderboards",
+      "text": "不在排行榜显示我"
+    },
+    "settings.hideboards.sub": {
+      "en": "Keeps your name off the hub boards. Your playtime and creator hours still count.",
+      "text": "你的名字不会出现在中心榜上。你的游玩时长和创作时长仍会计入。"
+    },
+    "settings.homeprivate": {
+      "en": "Make Home Private",
+      "text": "将主页设为私密"
+    },
+    "settings.homeprivate.sub": {
+      "en": "Stop your home appearing in Browse and to friends",
+      "text": "不在浏览和好友中显示你的主页"
+    },
+    "settings.host.hdr": {
+      "en": "YOUR INSTANCE (HOST ONLY)",
+      "text": "你的实例 (仅房主)"
+    },
+    "settings.hostmedia": {
+      "en": "Host-Only Media",
+      "text": "仅房主媒体"
+    },
+    "settings.hostmedia.sub": {
+      "en": "Only you can play, stop or retune TVs and jukeboxes here",
+      "text": "只有你能播放、停止或调整这里的电视和点唱机"
+    },
+    "settings.master": {
+      "en": "Master Sound",
+      "text": "主音量"
+    },
+    "settings.micenabled": {
+      "en": "Microphone Enabled",
+      "text": "启用麦克风"
+    },
+    "settings.micenabled.sub": {
+      "en": "Transmit your voice to others",
+      "text": "将你的声音传给他人"
+    },
+    "settings.movestyle": {
+      "en": "Movement Style",
+      "text": "移动方式"
+    },
+    "settings.nameplates": {
+      "en": "Show Nameplates on Stream",
+      "text": "直播时显示名牌"
+    },
+    "settings.nameplates.sub": {
+      "en": "Show player name tags in the camera / streaming view",
+      "text": "在相机／直播画面中显示玩家名牌"
+    },
+    "settings.ping": {
+      "en": "Ping Display",
+      "text": "显示延迟"
+    },
+    "settings.ping.sub": {
+      "en": "Display network latency overlay",
+      "text": "显示网络延迟"
+    },
+    "settings.pingvalue": {
+      "en": "Ping to host",
+      "text": "到房主的延迟"
+    },
+    "settings.pixeldensity": {
+      "en": "Render Resolution (VR)",
+      "text": "渲染分辨率 (VR)"
+    },
+    "settings.postprocess": {
+      "en": "Post Process",
+      "text": "后期处理"
+    },
+    "settings.preset": {
+      "en": "Overall Quality",
+      "text": "整体质量"
+    },
+    "settings.profilehidden": {
+      "en": "Hide My Profile",
+      "text": "隐藏我的个人资料"
+    },
+    "settings.profilehidden.sub": {
+      "en": "Other players see only your name and picture. Nothing stops counting.",
+      "text": "其他玩家只能看到你的名字和头像。各项统计照常累计。"
+    },
+    "settings.reflections": {
+      "en": "Reflections",
+      "text": "反射"
+    },
+    "settings.reportbug": {
+      "en": "Report a Bug",
+      "text": "报告问题"
+    },
+    "settings.restarthint": {
+      "en": "Some changes apply after a restart.",
+      "text": "部分更改在重启后生效。"
+    },
+    "settings.sfx": {
+      "en": "Sound Effects",
+      "text": "音效"
+    },
+    "settings.shadow": {
+      "en": "Shadow Quality",
+      "text": "阴影质量"
+    },
+    "settings.smoothturn": {
+      "en": "Smooth Turning",
+      "text": "平滑转向"
+    },
+    "settings.smoothturn.sub": {
+      "en": "Gradual rotation instead of snap turning",
+      "text": "用渐进旋转代替快速转向"
+    },
+    "settings.streamer": {
+      "en": "Streamer Mode",
+      "text": "主播模式"
+    },
+    "settings.streamer.sub": {
+      "en": "Hide personal information for streaming",
+      "text": "直播时隐藏个人信息"
+    },
+    "settings.swaphands": {
+      "en": "Swap Hands",
+      "text": "交换双手"
+    },
+    "settings.swaphands.sub": {
+      "en": "Move the menu and laser to your other hand",
+      "text": "将菜单和激光移到另一只手"
+    },
+    "settings.tab.access": {
+      "en": "Access.",
+      "text": "辅助"
+    },
+    "settings.tab.comfort": {
+      "en": "Comfort",
+      "text": "舒适"
+    },
+    "settings.tab.graphics": {
+      "en": "Graphics",
+      "text": "画质"
+    },
+    "settings.tab.mic": {
+      "en": "Mic",
+      "text": "麦克"
+    },
+    "settings.texture": {
+      "en": "Texture Quality",
+      "text": "纹理质量"
+    },
+    "settings.turnspeed": {
+      "en": "Turn Speed",
+      "text": "转向速度"
+    },
+    "settings.tvmedia": {
+      "en": "TV / Media",
+      "text": "电视 / 媒体"
+    },
+    "settings.viewdist": {
+      "en": "View Distance",
+      "text": "视野距离"
+    },
+    "settings.voices": {
+      "en": "Voices",
+      "text": "语音"
+    },
+    "status.checkingupdates": {
+      "en": "Checking for updates…",
+      "text": "正在检查更新…"
+    },
+    "status.connecting": {
+      "en": "Connecting…",
+      "text": "正在连接…"
+    },
+    "status.couldntjoin": {
+      "en": "Couldn't join",
+      "text": "无法加入"
+    },
+    "status.couldntprepare": {
+      "en": "Couldn't prepare the map",
+      "text": "无法准备地图"
+    },
+    "status.downloadfailed": {
+      "en": "Download failed",
+      "text": "下载失败"
+    },
+    "status.downloadingworld": {
+      "en": "Downloading world update…",
+      "text": "正在下载世界更新…"
+    },
+    "status.friendretry": {
+      "en": "Friend's session not ready — retrying…",
+      "text": "会话尚未就绪 — 正在重试…"
+    },
+    "status.joining": {
+      "en": "Joining…",
+      "text": "加入中…"
+    },
+    "status.joiningfriend": {
+      "en": "Joining friend's session…",
+      "text": "正在加入好友的会话…"
+    },
+    "status.levelnotfound": {
+      "en": "Level not found",
+      "text": "未找到关卡"
+    },
+    "status.loading": {
+      "en": "Loading",
+      "text": "加载中"
+    },
+    "status.lookinghost": {
+      "en": "Looking for a host…",
+      "text": "正在查找房主…"
+    },
+    "status.lookinglevel": {
+      "en": "Looking up level…",
+      "text": "正在查找关卡…"
+    },
+    "status.preparing": {
+      "en": "Preparing…",
+      "text": "准备中…"
+    },
+    "status.startingdl": {
+      "en": "Starting download…",
+      "text": "开始下载…"
+    },
+    "status.travelhub": {
+      "en": "Traveling to HUB…",
+      "text": "正在前往中心…"
+    },
+    "toast.admin.badkey": {
+      "en": "Ban key rejected — it is not a valid moderator key.",
+      "text": "封禁密钥被拒绝 — 这不是有效的管理员密钥。"
+    },
+    "toast.admin.banned": {
+      "en": "Player banned.",
+      "text": "玩家已封禁。"
+    },
+    "toast.admin.lifted": {
+      "en": "Ban lifted.",
+      "text": "已解除封禁。"
+    },
+    "toast.admin.nokey": {
+      "en": "No ban key on this machine — the player was not banned in the database.",
+      "text": "本机没有封禁密钥 — 该玩家未在数据库中被封禁。"
+    },
+    "toast.admin.nolift": {
+      "en": "You do not have permission to lift bans.",
+      "text": "你没有解除封禁的权限。"
+    },
+    "toast.admin.noperm": {
+      "en": "You do not have permission to ban.",
+      "text": "你没有封禁权限。"
+    },
+    "toast.admin.noplayer": {
+      "en": "No player selected.",
+      "text": "未选择玩家。"
+    },
+    "toast.admin.ownermod": {
+      "en": "Only the owner can ban a moderator.",
+      "text": "只有所有者才能封禁管理员。"
+    },
+    "toast.admin.protected": {
+      "en": "That player cannot be banned.",
+      "text": "无法封禁该玩家。"
+    },
+    "toast.admin.refused": {
+      "en": "Refused: that account cannot be banned by you.",
+      "text": "已拒绝：你不能封禁该账号。"
+    },
+    "toast.admin.self": {
+      "en": "You cannot ban yourself.",
+      "text": "你不能封禁自己。"
+    },
+    "toast.admin.sitecode": {
+      "en": "The site did not accept it (code {0}).",
+      "text": "网站未接受（代码 {0}）。"
+    },
+    "toast.admin.unavailable": {
+      "en": "Ban system unavailable.",
+      "text": "封禁系统不可用。"
+    },
+    "toast.avatar.applying": {
+      "en": "Applying avatar…",
+      "text": "正在应用虚拟形象…"
+    },
+    "toast.avatar.checking": {
+      "en": "Checking avatar…",
+      "text": "正在检查虚拟形象…"
+    },
+    "toast.avatar.dlfail": {
+      "en": "Avatar download failed",
+      "text": "虚拟形象下载失败"
+    },
+    "toast.avatar.downloading": {
+      "en": "Downloading avatar… {0}%",
+      "text": "正在下载虚拟形象… {0}%"
+    },
+    "toast.avatar.floorlow": {
+      "en": "Your headset reads only {0} cm above the floor, so your avatar cannot be calibrated. Fix the floor height in SteamVR Room Setup (or your headset's floor setting), then Calibrate.",
+      "text": "头显只检测到离地 {0} 厘米，因此无法校准你的虚拟形象。请在 SteamVR 房间设置（或头显的地面设置）中修正地面高度，然后点击校准。"
+    },
+    "toast.avatar.loadfail": {
+      "en": "Couldn't load avatar",
+      "text": "无法加载虚拟形象"
+    },
+    "toast.avatar.preparing": {
+      "en": "Preparing avatar…",
+      "text": "正在准备虚拟形象…"
+    },
+    "toast.avatar.ready": {
+      "en": "Avatar ready",
+      "text": "虚拟形象已就绪"
+    },
+    "toast.ban.day": {
+      "en": "You have been banned from VR Realms for {0} day.",
+      "text": "你已被 VR Realms 封禁 {0} 天。"
+    },
+    "toast.ban.day.leftdays": {
+      "en": "You have been banned from VR Realms for {0} day ({1} days remaining).",
+      "text": "你已被 VR Realms 封禁 {0} 天（还剩 {1} 天）。"
+    },
+    "toast.ban.days": {
+      "en": "You have been banned from VR Realms for {0} days.",
+      "text": "你已被 VR Realms 封禁 {0} 天。"
+    },
+    "toast.ban.days.leftday": {
+      "en": "You have been banned from VR Realms for {0} days ({1} day remaining).",
+      "text": "你已被 VR Realms 封禁 {0} 天（还剩 {1} 天）。"
+    },
+    "toast.ban.days.leftdays": {
+      "en": "You have been banned from VR Realms for {0} days ({1} days remaining).",
+      "text": "你已被 VR Realms 封禁 {0} 天（还剩 {1} 天）。"
+    },
+    "toast.ban.hour": {
+      "en": "You have been banned from VR Realms for {0} more hour.",
+      "text": "你被 VR Realms 封禁，还剩 {0} 小时。"
+    },
+    "toast.ban.hours": {
+      "en": "You have been banned from VR Realms for {0} more hours.",
+      "text": "你被 VR Realms 封禁，还剩 {0} 小时。"
+    },
+    "toast.ban.hub": {
+      "en": "You have been suspended from the hub.",
+      "text": "你已被暂停进入大厅。"
+    },
+    "toast.ban.hub.day": {
+      "en": "You have been suspended from the hub for {0} more day.",
+      "text": "你被暂停进入大厅，还剩 {0} 天。"
+    },
+    "toast.ban.hub.days": {
+      "en": "You have been suspended from the hub for {0} more days.",
+      "text": "你被暂停进入大厅，还剩 {0} 天。"
+    },
+    "toast.ban.hub.hour": {
+      "en": "You have been suspended from the hub for {0} more hour.",
+      "text": "你被暂停进入大厅，还剩 {0} 小时。"
+    },
+    "toast.ban.hub.hours": {
+      "en": "You have been suspended from the hub for {0} more hours.",
+      "text": "你被暂停进入大厅，还剩 {0} 小时。"
+    },
+    "toast.ban.perm": {
+      "en": "You have been banned from VR Realms.",
+      "text": "你已被 VR Realms 封禁。"
+    },
+    "toast.bp.deletecancelled": {
+      "en": "Delete cancelled.",
+      "text": "已取消删除。"
+    },
+    "toast.bp.noinvitegroups": {
+      "en": "No groups you can invite to",
+      "text": "没有你可以邀请加入的群组"
+    },
+    "toast.bp.ownmax": {
+      "en": "You can only own 5 groups",
+      "text": "你最多只能拥有 5 个群组"
+    },
+    "toast.bp.photofailed": {
+      "en": "Photo FAILED to save - see the log",
+      "text": "照片保存失败 - 请查看日志"
+    },
+    "toast.bp.portalaim": {
+      "en": "Aim at the floor - press to drop the portal - turn the laser off to cancel",
+      "text": "对准地面 - 按下放置传送门 - 关闭激光即可取消"
+    },
+    "toast.bp.stillreview": {
+      "en": "This one is still waiting to be reviewed.",
+      "text": "这个仍在等待审核。"
+    },
+    "toast.content.needdlc": {
+      "en": "Mature Themes. Needs the mature DLC to unlock — it is free on the VR Realms Steam page.",
+      "text": "成人主题。需要成人 DLC 才能解锁 — 在 VR Realms 的 Steam 页面免费获取。"
+    },
+    "toast.content.nocheck": {
+      "en": "We could not check this content's rating just now. Try again in a moment.",
+      "text": "暂时无法检查此内容的分级。请稍后再试。"
+    },
+    "toast.content.orbstreamer": {
+      "en": "Mature avatars will show as an orb while streamer mode is on. You can unhide anyone from Nearby.",
+      "text": "主播模式开启时，成人虚拟形象会显示为光球。你可以在附近中取消隐藏任何人。"
+    },
+    "toast.content.removed": {
+      "en": "This content has been removed.",
+      "text": "此内容已被移除。"
+    },
+    "toast.content.review": {
+      "en": "This is waiting to be reviewed. It will work once it has been checked.",
+      "text": "正在等待审核。审核通过后即可使用。"
+    },
+    "toast.content.revoked": {
+      "en": "Your access to mature content has been removed.",
+      "text": "你访问成人内容的权限已被移除。"
+    },
+    "toast.content.unavailable": {
+      "en": "This content is not available to you.",
+      "text": "此内容对你不可用。"
+    },
+    "toast.diamonds.added": {
+      "en": "Diamonds added",
+      "text": "钻石已到账"
+    },
+    "toast.diamonds.cancelled": {
+      "en": "Purchase cancelled",
+      "text": "购买已取消"
+    },
+    "toast.diamonds.confirmsteam": {
+      "en": "Confirm the purchase in the Steam window (it may be on your monitor)",
+      "text": "请在 Steam 窗口中确认购买（它可能显示在你的显示器上）"
+    },
+    "toast.diamonds.got": {
+      "en": "+{0} diamonds",
+      "text": "+{0} 钻石"
+    },
+    "toast.diamonds.gotdoubled": {
+      "en": "+{0} diamonds! Your first pack was doubled",
+      "text": "+{0} 钻石！你的首个礼包已翻倍"
+    },
+    "toast.diamonds.nosteam": {
+      "en": "Steam is not available right now",
+      "text": "Steam 当前不可用"
+    },
+    "toast.diamonds.nostore": {
+      "en": "Could not reach the store. Nothing was charged",
+      "text": "无法连接商店。未产生任何扣费"
+    },
+    "toast.diamonds.notonsale": {
+      "en": "Diamonds are not on sale yet",
+      "text": "钻石尚未开售"
+    },
+    "toast.diamonds.paidpending": {
+      "en": "Payment received. Your diamonds may take a minute to arrive",
+      "text": "已收到付款。钻石可能需要一分钟才能到账"
+    },
+    "toast.diamonds.stillwaiting": {
+      "en": "Still waiting for Steam. If you confirm there, your diamonds arrive shortly",
+      "text": "仍在等待 Steam。你在那里确认后，钻石很快就会到账"
+    },
+    "toast.event.now": {
+      "en": "Event starting now: {0}",
+      "text": "活动现在开始：{0}"
+    },
+    "toast.event.nowin": {
+      "en": "Event starting now: {0} in {1}",
+      "text": "活动现在开始：{1} 中的 {0}"
+    },
+    "toast.event.soon": {
+      "en": "Event in {0} minutes: {1}",
+      "text": "{0} 分钟后开始活动：{1}"
+    },
+    "toast.goldrush.bought": {
+      "en": "You bought this Gold Rush, so it is for everyone else!",
+      "text": "这次淘金热是你买的，所以留给其他所有人！"
+    },
+    "toast.goldrush.expired": {
+      "en": "Nobody found the Gold Rush plate in time. It's gone!",
+      "text": "没有人及时找到淘金热铭牌。它消失了！"
+    },
+    "toast.goldrush.won": {
+      "en": "You won the Gold Rush! +{0} gold",
+      "text": "你赢得了淘金热！+{0} 金币"
+    },
+    "toast.groups.accepted": {
+      "en": "You're in {0} — your request was accepted",
+      "text": "你已加入 {0} — 你的申请已通过"
+    },
+    "toast.groups.badreply": {
+      "en": "Groups did not answer properly",
+      "text": "群组未正确响应"
+    },
+    "toast.groups.invited": {
+      "en": "You've been invited to {0} — open Groups to accept",
+      "text": "你被邀请加入 {0} — 打开群组接受邀请"
+    },
+    "toast.groups.key": {
+      "en": "Groups are unavailable (key)",
+      "text": "群组不可用（密钥）"
+    },
+    "toast.groups.perksoffline": {
+      "en": "Group perks need the site — you are offline.",
+      "text": "群组特权需要连接网站 — 你目前离线。"
+    },
+    "toast.groups.request": {
+      "en": "{0} wants to join {1} — open Groups to approve",
+      "text": "{0} 想加入 {1} — 打开群组进行批准"
+    },
+    "toast.groups.requests": {
+      "en": "{0} new join requests — open Groups to approve",
+      "text": "{0} 个新的加入申请 — 打开群组进行批准"
+    },
+    "toast.groups.unreachable": {
+      "en": "Groups are unreachable right now",
+      "text": "暂时无法连接群组"
+    },
+    "toast.guide.agree": {
+      "en": "Look at your hands: the labels show what each button does. To hide them, hold both triggers.",
+      "text": "看看你的双手：标签会显示每个按键的作用。要隐藏它们，请同时按住两个扳机。"
+    },
+    "toast.guide.off": {
+      "en": "Controller guide is off. Bring it back from the quick menu.",
+      "text": "手柄指南已关闭。可在快捷菜单中重新开启。"
+    },
+    "toast.guide.on": {
+      "en": "Controller guide is on. Look at your hands.",
+      "text": "手柄指南已开启。看看你的双手。"
+    },
+    "toast.guide.other": {
+      "en": "The controller guide only knows Quest-style controllers for now.",
+      "text": "手柄指南目前只支持 Quest 类型的手柄。"
+    },
+    "toast.guide.tourdone": {
+      "en": "Controller guide is off now. Bring it back any time from the quick menu.",
+      "text": "手柄指南现已关闭。随时可在快捷菜单中重新开启。"
+    },
+    "toast.hub.allfull": {
+      "en": "The hubs are full right now — try again in a few minutes.",
+      "text": "大厅目前已满 — 请几分钟后再试。"
+    },
+    "toast.hub.fullredirect": {
+      "en": "{0} is full — taking you to {1}.",
+      "text": "{0} 已满 — 正在带你前往 {1}。"
+    },
+    "toast.hub.lost": {
+      "en": "Lost the hub connection — the hub may be updating. Try again in a minute.",
+      "text": "与大厅的连接已断开 — 它可能正在更新。请一分钟后再试。"
+    },
+    "toast.hub.mismatch": {
+      "en": "Hub and game versions don't match — update the game, or wait for the hub update.",
+      "text": "大厅与游戏版本不一致 — 请更新游戏，或等待大厅更新。"
+    },
+    "toast.hub.noanswer": {
+      "en": "Couldn't reach the hub — nothing answered. It may be restarting; try again in a minute.",
+      "text": "无法连接到大厅 — 没有响应。它可能正在重启，请一分钟后再试。"
+    },
+    "toast.hub.reason.update": {
+      "en": "for an update",
+      "text": "（更新）"
+    },
+    "toast.hub.restart1": {
+      "en": "Hub restarting in {0} minute {1}",
+      "text": "大厅将在 {0} 分钟后重启 {1}"
+    },
+    "toast.hub.restartn": {
+      "en": "Hub restarting in {0} minutes {1}",
+      "text": "大厅将在 {0} 分钟后重启 {1}"
+    },
+    "toast.hub.unreachable": {
+      "en": "Couldn't reach the hub — it may be restarting. Try again in a minute.",
+      "text": "无法连接到大厅 — 它可能正在重启。请一分钟后再试。"
+    },
+    "toast.join.dlfailed": {
+      "en": "Could not download that world — you have not been moved",
+      "text": "无法下载该世界 — 你没有被移动"
+    },
+    "toast.join.dlfailednamed": {
+      "en": "Could not download {0} — you have not been moved",
+      "text": "无法下载 {0} — 你没有被移动"
+    },
+    "toast.join.failed": {
+      "en": "Couldn't join that session",
+      "text": "无法加入该会话"
+    },
+    "toast.join.instanceclosed": {
+      "en": "That instance has closed — nobody is hosting this world right now",
+      "text": "该实例已关闭 — 目前没有人在主持这个世界"
+    },
+    "toast.join.noanswer": {
+      "en": "Couldn't join that session — the host didn't answer. Try again in a moment.",
+      "text": "无法加入该会话 — 主机没有响应。请稍后再试。"
+    },
+    "toast.join.sessionclosed": {
+      "en": "That session has closed — refresh the list",
+      "text": "该会话已关闭 — 请刷新列表"
+    },
+    "toast.migration.failed": {
+      "en": "The host left and no new host took over — you're on your own here now.",
+      "text": "房主离开了，也没有新房主接手 — 现在只剩你一个人。"
+    },
+    "toast.migration.named": {
+      "en": "The host left — {0} is taking over. Reconnecting…",
+      "text": "房主离开了 — {0} 正在接手。正在重新连接…"
+    },
+    "toast.migration.waiting": {
+      "en": "The host left — waiting for a new host…",
+      "text": "房主离开了 — 正在等待新房主…"
+    },
+    "toast.migration.youarehost": {
+      "en": "The host left — you're the host now. Reloading the room…",
+      "text": "房主离开了 — 现在你是房主。正在重新加载房间…"
+    },
+    "toast.plate.dupegold": {
+      "en": "+{0} gold from {1} (you already own it)",
+      "text": "从 {1} 获得 +{0} 金币（你已拥有）"
+    },
+    "toast.plate.dupemaxed": {
+      "en": "You own {0}. Owned plate gold is maxed for today ({1}/{2})",
+      "text": "你已拥有 {0}。今日已拥有铭牌的金币已达上限（{1}/{2}）"
+    },
+    "toast.plate.new": {
+      "en": "You got a new head plate!",
+      "text": "你获得了新铭牌！"
+    },
+    "toast.portal.busy": {
+      "en": "You're already travelling — wait until you arrive to drop a portal",
+      "text": "你正在传送中 — 到达后再放置传送门"
+    },
+    "toast.report.failed": {
+      "en": "Couldn't send the report right now. Please try again later.",
+      "text": "暂时无法发送举报。请稍后再试。"
+    },
+    "toast.report.missing": {
+      "en": "That report was missing something — please add more detail.",
+      "text": "该举报缺少一些内容 — 请补充更多细节。"
+    },
+    "toast.report.moredetail": {
+      "en": "Please describe what happened in a little more detail.",
+      "text": "请更详细地描述发生了什么。"
+    },
+    "toast.report.noitem": {
+      "en": "That report is missing the item it is about.",
+      "text": "该举报缺少所涉及的内容。"
+    },
+    "toast.report.noserver": {
+      "en": "Couldn't reach the server. Check your connection and try again.",
+      "text": "无法连接服务器。请检查网络后重试。"
+    },
+    "toast.report.nosteamid": {
+      "en": "Couldn't read your Steam ID — are you signed in to Steam?",
+      "text": "无法读取你的 Steam ID — 你登录 Steam 了吗？"
+    },
+    "toast.report.notconfigured": {
+      "en": "Reporting isn't configured in this build.",
+      "text": "此版本未配置举报功能。"
+    },
+    "toast.report.pickplayer": {
+      "en": "Pick which player you're reporting.",
+      "text": "请选择你要举报的玩家。"
+    },
+    "toast.report.ratelimited": {
+      "en": "You've sent several reports recently. Please wait a little while.",
+      "text": "你最近已发送多次举报。请稍等一会儿。"
+    },
+    "toast.report.sent": {
+      "en": "Report sent — thank you.",
+      "text": "举报已发送 — 谢谢你。"
+    },
+    "toast.score.awardaway": {
+      "en": "Welcome back — you earned {0} gold while you were away!   Total: {1}",
+      "text": "欢迎回来 — 你离开期间赚了 {0} 金币！   总计：{1}"
+    },
+    "toast.score.awardlive": {
+      "en": "+{0} gold!   Total: {1}",
+      "text": "+{0} 金币！   总计：{1}"
+    },
+    "toast.score.streakkeep": {
+      "en": "{0}-day streak · play today to keep it",
+      "text": "连续 {0} 天 · 今天玩一下来保持"
+    },
+    "toast.score.streakmore": {
+      "en": "{0}-day streak · {1} more {1}|plural(one=day,other=days) for +{2} gold",
+      "text": "连续 {0} 天 · 再坚持 {1} 天可得 +{2} 金币"
+    },
+    "toast.score.streakpaid": {
+      "en": "{0}-day streak · +{1} gold at tonight's tally",
+      "text": "连续 {0} 天 · 今晚结算时 +{1} 金币"
+    },
+    "toast.seated.autoon": {
+      "en": "Looks like you are sitting, so seated mode is on and your avatar stays full size. Stand up to switch it off.",
+      "text": "看起来你坐着，所以已开启坐姿模式，你的虚拟形象保持原尺寸。站起来即可关闭。"
+    },
+    "toast.seated.fbt": {
+      "en": "Seated mode isn't needed with full-body trackers. Your trackers already sit you down.",
+      "text": "使用全身追踪器时不需要坐姿模式。追踪器已经能让你坐下。"
+    },
+    "toast.seated.off": {
+      "en": "Seated mode off.",
+      "text": "坐姿模式已关闭。"
+    },
+    "toast.seated.on": {
+      "en": "Seated mode on. Sit comfortably and hold still for a second. Stand up to turn it off.",
+      "text": "坐姿模式已开启。舒适地坐好并保持静止一秒。站起来即可关闭。"
+    },
+    "toast.seated.stoodup": {
+      "en": "You stood up, so seated mode is off.",
+      "text": "你站起来了，坐姿模式已关闭。"
+    },
+    "toast.seated.trackers": {
+      "en": "Trackers detected, seated mode is off.",
+      "text": "已检测到追踪器，坐姿模式已关闭。"
+    },
+    "toast.session.invitehost": {
+      "en": "Only the host can invite people to this session.",
+      "text": "只有房主才能邀请他人加入此会话。"
+    },
+    "toast.store.badreply": {
+      "en": "The store did not answer properly",
+      "text": "商店未正确响应"
+    },
+    "toast.store.freepick": {
+      "en": "Your free plate pick is back: choose a new plate in Menu, Supporter",
+      "text": "你的免费铭牌选择已恢复：在 菜单，支持者 中选择新铭牌"
+    },
+    "toast.store.gone": {
+      "en": "That item is gone",
+      "text": "该物品已不存在"
+    },
+    "toast.store.key": {
+      "en": "The store is unavailable (key)",
+      "text": "商店不可用（密钥）"
+    },
+    "toast.store.needdiamonds": {
+      "en": "You need {0} more diamonds",
+      "text": "还需要 {0} 钻石"
+    },
+    "toast.store.needgold": {
+      "en": "You need {0} more gold",
+      "text": "还需要 {0} 金币"
+    },
+    "toast.store.offline": {
+      "en": "The store is offline right now",
+      "text": "商店暂时离线"
+    },
+    "toast.store.owned": {
+      "en": "You already own that",
+      "text": "你已经拥有了"
+    },
+    "toast.store.unreachable": {
+      "en": "The store is unreachable right now",
+      "text": "暂时无法连接商店"
+    },
+    "toast.terms.howto.desk": {
+      "en": "To start: click I agree with the mouse.",
+      "text": "开始游戏：用鼠标点击“我同意”。"
+    },
+    "toast.terms.howto.vr": {
+      "en": "To start: point a hand at I agree and pull the trigger. Either hand works.",
+      "text": "开始游戏：用手指向“我同意”并扣动扳机。左右手都可以。"
+    },
+    "toast.testmode.offline": {
+      "en": "Test launch — offline. Quit and start VR Realms normally to play online.",
+      "text": "测试启动 — 离线模式。退出并正常启动 VR Realms 即可联机游玩。"
+    },
+    "toast.voice.hostnudge": {
+      "en": "{0} joined your voice room — your mic is OFF. Turn it on in Settings → Microphone",
+      "text": "{0} 加入了你的语音房间 — 你的麦克风已关闭。在 设置 → 麦克风 中开启"
+    },
+    "toast.voice.micdisconnected": {
+      "en": "Your microphone is disconnected — pick another in Settings → Microphone",
+      "text": "你的麦克风已断开 — 请在 设置 → 麦克风 中选择其他设备"
+    },
+    "toast.voice.micfailed": {
+      "en": "Your microphone could not be opened — check Windows microphone privacy, or another app may be using it",
+      "text": "无法打开你的麦克风 — 请检查 Windows 麦克风隐私设置，或者可能有其他应用正在使用它"
+    },
+    "toast.voice.micoff": {
+      "en": "Your mic is OFF — turn it on in Settings → Microphone",
+      "text": "你的麦克风已关闭 — 在 设置 → 麦克风 中开启"
+    },
+    "toast.voice.micsilent": {
+      "en": "Your microphone is open but silent — it may be muted in Windows, or be the wrong device",
+      "text": "麦克风已打开但没有声音 — 可能在 Windows 中被静音，或选错了设备"
+    },
+    "tour.announce": {
+      "en": "New: a two-minute tour of the controls. Find it on the Home page of your menu.",
+      "text": "新功能：两分钟的操作导览。在菜单的主页可以找到。"
+    },
+    "tour.both.friends": {
+      "en": "Invite a friend from Friends. It all runs through Steam, and the game is free, so anyone can join you.",
+      "text": "从好友列表邀请好友。一切通过Steam进行，游戏免费，所以任何人都能加入你。"
+    },
+    "tour.both.gold": {
+      "en": "You earn gold just by playing. Join a group and you earn together. Spend it in the Store on plates and more.",
+      "text": "只要玩游戏就能赚金币。加入群组一起赚。在商店里用它买铭牌和更多。"
+    },
+    "tour.both.hub": {
+      "en": "The hub is always open. It is where everyone meets, and the boards there show the top players, groups and supporters. Pick the region nearest you and press Join Hub on Home.",
+      "text": "大厅始终开放。那是大家相聚的地方，公告板会显示顶尖玩家、群组和赞助者。选择离你最近的区域，在主页按加入大厅。"
+    },
+    "tour.both.ready": {
+      "en": "Your home is public by default, so your friends and anyone else can drop in. Want it to yourself? Settings, Comfort, Session visibility: Friends Only or Private. When you want people, the hub is waiting. One more thing: this is an alpha, so things will change a lot. Your feedback shapes it.",
+      "text": "你的家默认是公开的，所以你的好友和其他任何人都可以来访。想独享？设置，舒适度，会话可见性：仅好友或私密。想找人时，大厅在等你。还有一件事：这是alpha版，会有很大变化。你的反馈将塑造它。"
+    },
+    "tour.both.wrong": {
+      "en": "Stuck or falling: quick menu, Respawn. Want out of anywhere: quick menu, Home. Someone bothering you: Nearby, Mute or Hide. Only you are affected.",
+      "text": "卡住或掉落：快捷菜单，重生。想离开任何地方：快捷菜单，主页。有人骚扰你：附近，静音或隐藏。只影响你自己。"
+    },
+    "tour.chip": {
+      "en": "Tutorial",
+      "text": "教程"
+    },
+    "tour.chip.end": {
+      "en": "End tutorial",
+      "text": "结束教程"
+    },
+    "tour.complete": {
+      "en": "Tour complete! Your gold for finishing arrives after tonight's tally.",
+      "text": "导览完成！完成奖励的金币将在今晚结算后到账。"
+    },
+    "tour.desk.chat": {
+      "en": "Press {Chat}, type, {Chat} again.",
+      "text": "按{Chat}，输入，再按{Chat}。"
+    },
+    "tour.desk.grab": {
+      "en": "{Grab} the object on the table. {Use} to use it. {Interact} presses buttons and switches you look at.",
+      "text": "{Grab}桌上的物品。{Use}来使用它。{Interact}按下你看着的按钮和开关。"
+    },
+    "tour.desk.look": {
+      "en": "Move the mouse. This is your home.",
+      "text": "移动鼠标。这里是你的家。"
+    },
+    "tour.desk.menu": {
+      "en": "{Menu} opens it. Back takes you to Home.",
+      "text": "{Menu}打开它。返回会带你回到主页。"
+    },
+    "tour.desk.sprint": {
+      "en": "Hold {Sprint} while moving to run.",
+      "text": "移动时按住{Sprint}即可奔跑。"
+    },
+    "tour.desk.talk": {
+      "en": "Press {Mic}. It turns your voice on or off for everyone.",
+      "text": "按{Mic}。它会对所有人开启或关闭你的语音。"
+    },
+    "tour.desk.walk": {
+      "en": "{Move} to move. {Jump} to jump.",
+      "text": "{Move}移动。{Jump}跳跃。"
+    },
+    "tour.desk.wheel": {
+      "en": "Press {Radial} to open the quick menu. Click what you want.",
+      "text": "按{Radial}打开快捷菜单。点击你想要的项目。"
+    },
+    "tour.desk.yours": {
+      "en": "Settings, Controls: rebind any key, sprint included. Settings, Comfort: turn and movement options. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "设置，控制：重新绑定任意按键，包括冲刺。设置，舒适度：转身和移动选项。语言：菜单右上角的地球图标。直播：主播模式会隐藏名字和成人内容。"
+    },
+    "tour.hint.desk": {
+      "en": "Right Arrow: next   ·   End: end tour   ·   ALT: mouse",
+      "text": "右箭头: 下一步   ·   End: 结束导览   ·   ALT: 鼠标"
+    },
+    "tour.hint.vr": {
+      "en": "Point at a button and pull the trigger",
+      "text": "指向按钮并扣下扳机"
+    },
+    "tour.kicker": {
+      "en": "TOUR",
+      "text": "导览"
+    },
+    "tour.label.end": {
+      "en": "End tour",
+      "text": "结束导览"
+    },
+    "tour.label.mouse": {
+      "en": "Mouse",
+      "text": "鼠标"
+    },
+    "tour.label.next": {
+      "en": "Next",
+      "text": "下一步"
+    },
+    "tour.label.rightarrow": {
+      "en": "Right Arrow",
+      "text": "右箭头"
+    },
+    "tour.label.skip": {
+      "en": "Skip",
+      "text": "跳过"
+    },
+    "tour.offer.body": {
+      "en": "A few short cards: moving, your quick menu, voice, chat and the menu. Skip any of them, or end it at any time.",
+      "text": "几张简短卡片：移动、你的快捷菜单、语音、聊天和菜单。可以跳过任何一张，也可以随时结束。"
+    },
+    "tour.offer.body.away": {
+      "en": "It uses the things in your own place to show you moving, your quick menu, voice, chat and the menu. Head there now and start?",
+      "text": "它会用你家里的物品来演示移动、快捷菜单、语音、聊天和菜单。现在就去那里开始吗？"
+    },
+    "tour.offer.confirm": {
+      "en": "Start",
+      "text": "开始"
+    },
+    "tour.offer.title": {
+      "en": "Want a two-minute tour?",
+      "text": "来个两分钟的导览？"
+    },
+    "tour.offer.title.away": {
+      "en": "The tour happens in your home",
+      "text": "导览在你的家里进行"
+    },
+    "tour.side.left": {
+      "en": "left",
+      "text": "左"
+    },
+    "tour.side.right": {
+      "en": "right",
+      "text": "右"
+    },
+    "tour.t.friends": {
+      "en": "Bring friends",
+      "text": "邀请好友"
+    },
+    "tour.t.gold": {
+      "en": "Earn gold",
+      "text": "赚取金币"
+    },
+    "tour.t.grab": {
+      "en": "Pick something up",
+      "text": "拿起东西"
+    },
+    "tour.t.hub": {
+      "en": "The hub",
+      "text": "大厅"
+    },
+    "tour.t.look": {
+      "en": "Look around",
+      "text": "环顾四周"
+    },
+    "tour.t.menu": {
+      "en": "Your menu",
+      "text": "你的菜单"
+    },
+    "tour.t.move": {
+      "en": "Move",
+      "text": "移动"
+    },
+    "tour.t.ready": {
+      "en": "You're ready",
+      "text": "你准备好了"
+    },
+    "tour.t.sprint": {
+      "en": "Sprint",
+      "text": "冲刺"
+    },
+    "tour.t.talk": {
+      "en": "Talk",
+      "text": "说话"
+    },
+    "tour.t.turn": {
+      "en": "Turn",
+      "text": "转身"
+    },
+    "tour.t.walk": {
+      "en": "Walk",
+      "text": "行走"
+    },
+    "tour.t.wheel": {
+      "en": "Your quick menu",
+      "text": "你的快捷菜单"
+    },
+    "tour.t.wrong": {
+      "en": "If something goes wrong",
+      "text": "如果出了问题"
+    },
+    "tour.t.yours": {
+      "en": "Make it yours",
+      "text": "打造属于你的"
+    },
+    "tour.travel": {
+      "en": "Taking you home for the tour…",
+      "text": "正在带你回家开始导览…"
+    },
+    "tour.vr.chat": {
+      "en": "In the quick menu, pick Chat. Type on the floating keyboard and send.",
+      "text": "在快捷菜单中选择聊天。在悬浮键盘上输入并发送。"
+    },
+    "tour.vr.grab": {
+      "en": "Squeeze grip on the object on the table.",
+      "text": "对着桌上的物品按住抓握键。"
+    },
+    "tour.vr.look": {
+      "en": "Turn your head. This is your home.",
+      "text": "转动你的头。这里是你的家。"
+    },
+    "tour.vr.menu": {
+      "en": "In the quick menu, pick Avatar. That is the full menu. Back takes you to Home.",
+      "text": "在快捷菜单中选择头像。那就是完整菜单。返回会带你回到主页。"
+    },
+    "tour.vr.move": {
+      "en": "Push the {MoveStick} stick.",
+      "text": "推动{MoveStick}摇杆。"
+    },
+    "tour.vr.sprint": {
+      "en": "Click the {SprintStick} stick while moving to run. Click again, or stop, to walk.",
+      "text": "移动时按下{SprintStick}摇杆即可奔跑。再按一次或停下即可行走。"
+    },
+    "tour.vr.talk": {
+      "en": "Press the top button on your {MicHand} hand. It turns your voice on or off for everyone.",
+      "text": "按下你{MicHand}手上方的按钮。它会对所有人开启或关闭你的语音。"
+    },
+    "tour.vr.turn": {
+      "en": "Flick the {TurnStick} stick left or right. Prefer smooth turning or other movement styles? Settings, Comfort.",
+      "text": "向左或向右拨动{TurnStick}摇杆。想要平滑转身或其他移动方式？设置，舒适度。"
+    },
+    "tour.vr.wheel": {
+      "en": "Click the {WheelStick} stick. The quick menu opens on your {WheelHand} hand. Point at it with your {LaserHand} hand and pull the trigger to pick.",
+      "text": "按下{WheelStick}摇杆。快捷菜单会在你的{WheelHand}手上打开。用{LaserHand}手指向它并扣下扳机来选择。"
+    },
+    "tour.vr.yours": {
+      "en": "Settings, Comfort: swap which hand walks and sprints, put the quick menu and mic button on the other hand, and set turning and movement to your liking. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "设置，舒适度：交换行走和冲刺的手，把快捷菜单和麦克风按钮放到另一只手上，并按喜好设置转身和移动。语言：菜单右上角的地球图标。直播：主播模式会隐藏名字和成人内容。"
+    },
+    "v3.avatars.favorites": {
+      "en": "Favorites",
+      "text": "收藏"
+    },
+    "v3.avatars.furry": {
+      "en": "Furry",
+      "text": "福瑞"
+    },
+    "v3.avatars.nomatch": {
+      "en": "No avatars match",
+      "text": "没有匹配的虚拟形象"
+    },
+    "v3.card.flashing": {
+      "en": "FLASHING LIGHTS",
+      "text": "闪烁灯光"
+    },
+    "v3.card.mature": {
+      "en": "MATURE THEMES",
+      "text": "成人主题"
+    },
+    "v3.cat.community": {
+      "en": "Community",
+      "text": "社区"
+    },
+    "v3.chat.help": {
+      "en": "Type /help for chat commands",
+      "text": "输入 /help 查看聊天命令"
+    },
+    "v3.common.all": {
+      "en": "All",
+      "text": "全部"
+    },
+    "v3.common.applied": {
+      "en": "Applied",
+      "text": "已应用"
+    },
+    "v3.common.apply": {
+      "en": "Apply",
+      "text": "应用"
+    },
+    "v3.common.buy": {
+      "en": "Buy",
+      "text": "购买"
+    },
+    "v3.common.cancel": {
+      "en": "Cancel",
+      "text": "取消"
+    },
+    "v3.common.confirm": {
+      "en": "Confirm",
+      "text": "确认"
+    },
+    "v3.common.continue": {
+      "en": "Continue",
+      "text": "继续"
+    },
+    "v3.common.done": {
+      "en": "Done",
+      "text": "完成"
+    },
+    "v3.common.down": {
+      "en": "Down",
+      "text": "向下"
+    },
+    "v3.common.near": {
+      "en": "Near",
+      "text": "附近"
+    },
+    "v3.common.new": {
+      "en": "NEW",
+      "text": "新"
+    },
+    "v3.common.no": {
+      "en": "No",
+      "text": "否"
+    },
+    "v3.common.up": {
+      "en": "Up",
+      "text": "向上"
+    },
+    "v3.common.wip": {
+      "en": "WIP",
+      "text": "开发中"
+    },
+    "v3.contract.agree": {
+      "en": "I agree",
+      "text": "我同意"
+    },
+    "v3.contract.hint": {
+      "en": "Read to the end, then agree to continue",
+      "text": "阅读到底后同意以继续"
+    },
+    "v3.contract.title": {
+      "en": "Terms of Service",
+      "text": "服务条款"
+    },
+    "v3.controls.category": {
+      "en": "CATEGORY",
+      "text": "类别"
+    },
+    "v3.controls.gamepad": {
+      "en": "Gamepad",
+      "text": "手柄"
+    },
+    "v3.controls.hint": {
+      "en": "Click a key to change it. Right-click a key to clear it.",
+      "text": "点击按键更改，右键点击清除。"
+    },
+    "v3.controls.keyboard": {
+      "en": "Keyboard / Mouse",
+      "text": "键盘 / 鼠标"
+    },
+    "v3.controls.resetall": {
+      "en": "Reset All",
+      "text": "全部重置"
+    },
+    "v3.fbt.bodyfollows": {
+      "en": "Body follows head (turn off if your chest twists)",
+      "text": "身体跟随头部（若胸部扭曲请关闭）"
+    },
+    "v3.fbt.bodyturnspeed": {
+      "en": "Body turn speed",
+      "text": "身体转向速度"
+    },
+    "v3.fbt.calibtolerance": {
+      "en": "Calibration tolerance",
+      "text": "校准容差"
+    },
+    "v3.fbt.fadefeet": {
+      "en": "Fade feet to walk anim while moving",
+      "text": "移动时将脚过渡到行走动画"
+    },
+    "v3.fbt.footforward": {
+      "en": "Foot forward",
+      "text": "脚部前移"
+    },
+    "v3.fbt.footheight": {
+      "en": "Foot height",
+      "text": "脚部高度"
+    },
+    "v3.fbt.footsmoothing": {
+      "en": "Foot smoothing",
+      "text": "脚部平滑"
+    },
+    "v3.fbt.headlock": {
+      "en": "Head lock",
+      "text": "头部锁定"
+    },
+    "v3.fbt.hipforward": {
+      "en": "Hip forward",
+      "text": "髋部前移"
+    },
+    "v3.fbt.hipfreedom": {
+      "en": "Hip freedom",
+      "text": "髋部自由度"
+    },
+    "v3.fbt.hipheight": {
+      "en": "Hip height",
+      "text": "髋部高度"
+    },
+    "v3.fbt.hiplock": {
+      "en": "Hip lock",
+      "text": "髋部锁定"
+    },
+    "v3.fbt.keepik": {
+      "en": "Keep IK on a lifted foot while moving",
+      "text": "移动时对抬起的脚保持 IK"
+    },
+    "v3.fbt.kneewidth": {
+      "en": "Knee width",
+      "text": "膝部宽度"
+    },
+    "v3.fbt.leftfootturn": {
+      "en": "Left foot turn",
+      "text": "左脚转向"
+    },
+    "v3.fbt.legstretch": {
+      "en": "Leg stretch limit",
+      "text": "腿部拉伸上限"
+    },
+    "v3.fbt.maxfootfromhead": {
+      "en": "Max foot from head",
+      "text": "脚距头部最大值"
+    },
+    "v3.fbt.maxfootsplit": {
+      "en": "Max foot height split",
+      "text": "脚部高度差上限"
+    },
+    "v3.fbt.maxhiptravel": {
+      "en": "Max hip travel",
+      "text": "髋部最大位移"
+    },
+    "v3.fbt.minfootbelowhips": {
+      "en": "Min foot below hips",
+      "text": "脚部低于髋部最小值"
+    },
+    "v3.fbt.minheadabovewaist": {
+      "en": "Min head above waist",
+      "text": "头部高于腰部最小值"
+    },
+    "v3.fbt.minwaistabovefeet": {
+      "en": "Min waist above feet",
+      "text": "腰部高于脚部最小值"
+    },
+    "v3.fbt.posturegate": {
+      "en": "Posture gate",
+      "text": "姿势门限"
+    },
+    "v3.fbt.raisedfoot": {
+      "en": "Raised-foot threshold",
+      "text": "抬脚阈值"
+    },
+    "v3.fbt.rightfootturn": {
+      "en": "Right foot turn",
+      "text": "右脚转向"
+    },
+    "v3.fbt.stancewidth": {
+      "en": "Stance width",
+      "text": "站姿宽度"
+    },
+    "v3.fbt.title": {
+      "en": "Full Body Tracking",
+      "text": "全身追踪"
+    },
+    "v3.groups.all": {
+      "en": "All groups",
+      "text": "所有群组"
+    },
+    "v3.groups.announce.hint": {
+      "en": "Welcome message…",
+      "text": "欢迎语…"
+    },
+    "v3.groups.announce.sub": {
+      "en": "Optional. Shows for members when they open the group.",
+      "text": "可选。成员打开群组时显示。"
+    },
+    "v3.groups.announcement": {
+      "en": "Announcement",
+      "text": "公告"
+    },
+    "v3.groups.approve": {
+      "en": "Approve",
+      "text": "批准"
+    },
+    "v3.groups.ban": {
+      "en": "Ban",
+      "text": "封禁"
+    },
+    "v3.groups.create": {
+      "en": "Create group",
+      "text": "创建群组"
+    },
+    "v3.groups.delete": {
+      "en": "Delete group",
+      "text": "删除群组"
+    },
+    "v3.groups.desc.hint": {
+      "en": "What is this group about?",
+      "text": "这个群组是关于什么的？"
+    },
+    "v3.groups.description": {
+      "en": "Description",
+      "text": "描述"
+    },
+    "v3.groups.freejoin": {
+      "en": "Free Join",
+      "text": "自由加入"
+    },
+    "v3.groups.inviteonly": {
+      "en": "Invite-Only",
+      "text": "仅限邀请"
+    },
+    "v3.groups.leave": {
+      "en": "Leave",
+      "text": "退出"
+    },
+    "v3.groups.makemod": {
+      "en": "Make mod",
+      "text": "设为管理员"
+    },
+    "v3.groups.memberscaninvite": {
+      "en": "Members can invite",
+      "text": "成员可邀请"
+    },
+    "v3.groups.membersettings": {
+      "en": "MEMBER SETTINGS",
+      "text": "成员设置"
+    },
+    "v3.groups.modscanannounce": {
+      "en": "Mods can announce",
+      "text": "管理员可发公告"
+    },
+    "v3.groups.modscanban": {
+      "en": "Mods can ban",
+      "text": "管理员可封禁"
+    },
+    "v3.groups.modscankick": {
+      "en": "Mods can kick",
+      "text": "管理员可踢出"
+    },
+    "v3.groups.modscanroles": {
+      "en": "Mods can change roles",
+      "text": "管理员可更改角色"
+    },
+    "v3.groups.modscanwarn": {
+      "en": "Mods can warn",
+      "text": "管理员可警告"
+    },
+    "v3.groups.modsettings": {
+      "en": "MOD SETTINGS",
+      "text": "管理员设置"
+    },
+    "v3.groups.name": {
+      "en": "Group name",
+      "text": "群组名称"
+    },
+    "v3.groups.name.hint": {
+      "en": "e.g. Night Owls",
+      "text": "例如：夜猫子"
+    },
+    "v3.groups.nomatch": {
+      "en": "No groups match",
+      "text": "没有匹配的群组"
+    },
+    "v3.groups.privacy": {
+      "en": "Privacy",
+      "text": "隐私"
+    },
+    "v3.groups.privacy.hint": {
+      "en": "Locked after you create the group.",
+      "text": "创建群组后不可更改。"
+    },
+    "v3.groups.removemod": {
+      "en": "Remove mod",
+      "text": "取消管理员"
+    },
+    "v3.groups.request": {
+      "en": "Request",
+      "text": "申请"
+    },
+    "v3.groups.requested": {
+      "en": "Requested · cancel",
+      "text": "已申请 · 取消"
+    },
+    "v3.groups.requesttojoin": {
+      "en": "Request to Join",
+      "text": "申请加入"
+    },
+    "v3.groups.saveannounce": {
+      "en": "Save announcement",
+      "text": "保存公告"
+    },
+    "v3.groups.tags": {
+      "en": "Tags",
+      "text": "标签"
+    },
+    "v3.groups.tags.hint": {
+      "en": "Up to 5. e.g. 18+, Anyone, Roleplay",
+      "text": "最多5个。例如：18+、任何人、角色扮演"
+    },
+    "v3.groups.tags.max": {
+      "en": "TAGS (MAX 5)",
+      "text": "标签（最多5个）"
+    },
+    "v3.groups.title": {
+      "en": "Groups",
+      "text": "群组"
+    },
+    "v3.groups.warn": {
+      "en": "Warn",
+      "text": "警告"
+    },
+    "v3.groups.whocanjoin": {
+      "en": "Who can join",
+      "text": "谁可以加入"
+    },
+    "v3.groups.wip": {
+      "en": "Groups are new. Requests, approvals and mod tools just landed — tell us what breaks.",
+      "text": "群组是新功能。申请、审批和管理工具刚刚上线，有问题请告诉我们。"
+    },
+    "v3.header.discord": {
+      "en": "Discord",
+      "text": "Discord"
+    },
+    "v3.header.ea": {
+      "en": "EARLY ACCESS",
+      "text": "抢先体验"
+    },
+    "v3.header.quit": {
+      "en": "Quit",
+      "text": "退出"
+    },
+    "v3.header.tagline": {
+      "en": "HAVE FUN · EXPLORE · ENJOY",
+      "text": "尽情玩乐 · 探索 · 享受"
+    },
+    "v3.home.avatars.desc": {
+      "en": "Customize your look and express yourself.",
+      "text": "定制你的外观，展现自我。"
+    },
+    "v3.home.chat.desc": {
+      "en": "Message your friends and the community.",
+      "text": "给好友和社区发消息。"
+    },
+    "v3.home.discord": {
+      "en": "Join our Discord",
+      "text": "加入我们的 Discord"
+    },
+    "v3.home.discord.sub": {
+      "en": "Events, updates and help · opens in your desktop browser",
+      "text": "活动、更新与帮助 · 在电脑浏览器中打开"
+    },
+    "v3.home.fbt.desc": {
+      "en": "Track your full body and move naturally.",
+      "text": "追踪全身，自然移动。"
+    },
+    "v3.home.fps": {
+      "en": "FPS",
+      "text": "帧率"
+    },
+    "v3.home.friends.desc": {
+      "en": "View your friends list and join them.",
+      "text": "查看好友列表并加入他们。"
+    },
+    "v3.home.groups.desc": {
+      "en": "Create and join communities.",
+      "text": "创建并加入社群。"
+    },
+    "v3.home.home": {
+      "en": "Home",
+      "text": "主页"
+    },
+    "v3.home.nearby.desc": {
+      "en": "See who's around you in real time.",
+      "text": "实时查看你身边有谁。"
+    },
+    "v3.home.ping": {
+      "en": "Ping",
+      "text": "延迟"
+    },
+    "v3.home.settings.desc": {
+      "en": "Adjust your experience and preferences.",
+      "text": "调整你的体验和偏好。"
+    },
+    "v3.home.store": {
+      "en": "Store",
+      "text": "商店"
+    },
+    "v3.home.store.sub": {
+      "en": "Cosmetics, boosts & more",
+      "text": "装饰、加成等"
+    },
+    "v3.home.supporter.sub": {
+      "en": "Exclusive perks & plates",
+      "text": "专属福利与铭牌"
+    },
+    "v3.home.worlds.desc": {
+      "en": "Explore new worlds and experiences.",
+      "text": "探索新的世界与体验。"
+    },
+    "v3.host.action": {
+      "en": "Action",
+      "text": "操作"
+    },
+    "v3.host.msg": {
+      "en": "Choose an action and visibility for this world.",
+      "text": "为此世界选择操作和可见性。"
+    },
+    "v3.host.new": {
+      "en": "Host new instance",
+      "text": "创建新实例"
+    },
+    "v3.host.portal": {
+      "en": "Drop portal to a new instance",
+      "text": "放置通往新实例的传送门"
+    },
+    "v3.host.private": {
+      "en": "Private",
+      "text": "私密"
+    },
+    "v3.host.public": {
+      "en": "Public",
+      "text": "公开"
+    },
+    "v3.host.title": {
+      "en": "Host or drop portal",
+      "text": "创建或放置传送门"
+    },
+    "v3.host.visibility": {
+      "en": "Visibility",
+      "text": "可见性"
+    },
+    "v3.inbox": {
+      "en": "Inbox",
+      "text": "收件箱"
+    },
+    "v3.inbox.empty": {
+      "en": "Nothing new right now.",
+      "text": "暂时没有新内容。"
+    },
+    "v3.instance.applyban": {
+      "en": "Apply ban",
+      "text": "应用封禁"
+    },
+    "v3.instance.banhours": {
+      "en": "hours (0 = permanent)",
+      "text": "小时（0 = 永久）"
+    },
+    "v3.instance.muteall": {
+      "en": "Mute All",
+      "text": "全部静音"
+    },
+    "v3.instance.people": {
+      "en": "PEOPLE HERE",
+      "text": "在场的人"
+    },
+    "v3.instance.title": {
+      "en": "Instance",
+      "text": "实例"
+    },
+    "v3.modal.noundo": {
+      "en": "This action cannot be undone.",
+      "text": "此操作无法撤销。"
+    },
+    "v3.modal.sure": {
+      "en": "Are you sure?",
+      "text": "确定吗？"
+    },
+    "v3.report.details": {
+      "en": "ADDITIONAL DETAILS (OPTIONAL)",
+      "text": "补充信息（可选）"
+    },
+    "v3.report.msg": {
+      "en": "Choose a reason for reporting this world.",
+      "text": "选择举报此世界的原因。"
+    },
+    "v3.report.reason.perf": {
+      "en": "Low performance",
+      "text": "性能低下"
+    },
+    "v3.report.reason.tags": {
+      "en": "Inappropriate tags (mature content)",
+      "text": "标签不当（成人内容）"
+    },
+    "v3.report.send": {
+      "en": "Send report",
+      "text": "发送举报"
+    },
+    "v3.report.title": {
+      "en": "Report world",
+      "text": "举报世界"
+    },
+    "v3.report.what": {
+      "en": "WHAT IS WRONG?",
+      "text": "有什么问题？"
+    },
+    "v3.role.member": {
+      "en": "Member",
+      "text": "成员"
+    },
+    "v3.role.mod": {
+      "en": "Mod",
+      "text": "管理员"
+    },
+    "v3.role.owner": {
+      "en": "Owner",
+      "text": "群主"
+    },
+    "v3.search.avatars": {
+      "en": "Search avatars…",
+      "text": "搜索虚拟形象…"
+    },
+    "v3.search.friends": {
+      "en": "Search friends…",
+      "text": "搜索好友…"
+    },
+    "v3.search.groups": {
+      "en": "Search groups…",
+      "text": "搜索群组…"
+    },
+    "v3.search.members": {
+      "en": "Search members…",
+      "text": "搜索成员…"
+    },
+    "v3.search.people": {
+      "en": "Search people…",
+      "text": "搜索玩家…"
+    },
+    "v3.search.players": {
+      "en": "Search players…",
+      "text": "搜索玩家…"
+    },
+    "v3.settings.access.hdr": {
+      "en": "LANGUAGE & ACCESSIBILITY",
+      "text": "语言与辅助功能"
+    },
+    "v3.settings.avatarphysics": {
+      "en": "Avatar Physics",
+      "text": "虚拟形象物理"
+    },
+    "v3.settings.avatarphysics.sub": {
+      "en": "Tails, ears and hair swing on avatars. Turn off for comfort or on a slower PC.",
+      "text": "尾巴、耳朵和头发会摆动。为舒适或在较慢的电脑上可关闭。"
+    },
+    "v3.settings.brightness": {
+      "en": "Brightness",
+      "text": "亮度"
+    },
+    "v3.settings.brightness.sub": {
+      "en": "Brighten or darken everything. 100% = the world as it was made.",
+      "text": "调亮或调暗一切。100% = 世界原本的样子。"
+    },
+    "v3.settings.cambody": {
+      "en": "Upper Body",
+      "text": "上半身"
+    },
+    "v3.settings.cambody.sub": {
+      "en": "Also moves your avatar's arms, shoulders and fingers.",
+      "text": "还会带动虚拟形象的手臂、肩膀和手指。"
+    },
+    "v3.settings.camface": {
+      "en": "Face Only",
+      "text": "仅面部"
+    },
+    "v3.settings.camface.sub": {
+      "en": "Your avatar's face, eyelids and eyes follow your webcam.",
+      "text": "虚拟形象的面部、眼睑和眼睛会跟随你的摄像头。"
+    },
+    "v3.settings.camhead": {
+      "en": "Face and Head Movement",
+      "text": "面部和头部动作"
+    },
+    "v3.settings.camhead.sub": {
+      "en": "Also turns, nods and tilts your avatar's head with yours.",
+      "text": "虚拟形象的头部也会随你一起转动、点头和倾斜。"
+    },
+    "v3.settings.controls": {
+      "en": "Controls",
+      "text": "控制"
+    },
+    "v3.settings.eyeavatar": {
+      "en": "Eye tracking: avatar eyes",
+      "text": "眼动追踪：虚拟形象的眼睛"
+    },
+    "v3.settings.eyeavatar.sub": {
+      "en": "Your avatar's eyes follow where you look. Needs a headset with eye tracking.",
+      "text": "虚拟形象的眼睛会跟随你的视线。需要支持眼动追踪的头显。"
+    },
+    "v3.settings.faceheadset": {
+      "en": "Headset Face Tracking",
+      "text": "头显面部追踪"
+    },
+    "v3.settings.faceheadset.sub": {
+      "en": "Your avatar's face follows your own. Needs a headset with face tracking.",
+      "text": "虚拟形象的面部会跟随你的表情。需要支持面部追踪的头显。"
+    },
+    "v3.settings.facetrack.hdr": {
+      "en": "FACE TRACKING",
+      "text": "面部追踪"
+    },
+    "v3.settings.fingertracking": {
+      "en": "Controller finger tracking",
+      "text": "控制器手指追踪"
+    },
+    "v3.settings.fingertracking.sub": {
+      "en": "Your avatar's fingers follow your controller's finger sensors instead of the preset hand poses.",
+      "text": "虚拟形象的手指跟随控制器的手指传感器，而不是预设的手势。"
+    },
+    "v3.settings.fov": {
+      "en": "FIELD OF VIEW",
+      "text": "视野"
+    },
+    "v3.settings.fov.sub": {
+      "en": "Desktop only. How wide the view is. Lower feels zoomed in, higher shows more at the edges.",
+      "text": "仅桌面。视野宽度。越低越像放大，越高边缘看到更多。"
+    },
+    "v3.settings.foveatedeyes": {
+      "en": "Eye tracking: foveated rendering",
+      "text": "眼动追踪：注视点渲染"
+    },
+    "v3.settings.foveatedeyes.sub": {
+      "en": "With Foveated Rendering on, the sharp area follows your eyes.",
+      "text": "开启注视点渲染后，清晰区域会跟随你的视线。"
+    },
+    "v3.settings.fpscap.sub": {
+      "en": "In VR at least 90 is used. Unlimited leaves it uncapped.",
+      "text": "VR 中至少使用 90。无限制则不设上限。"
+    },
+    "v3.settings.fullscreen.sub": {
+      "en": "Desktop window only",
+      "text": "仅限桌面窗口"
+    },
+    "v3.settings.guestinvite": {
+      "en": "Allow Guests to Invite",
+      "text": "允许访客邀请"
+    },
+    "v3.settings.guestinvite.sub": {
+      "en": "Let anyone here invite people. Off means only you can.",
+      "text": "允许这里的任何人邀请他人。关闭则只有你可以。"
+    },
+    "v3.settings.hideavatars": {
+      "en": "Hide Custom Avatars",
+      "text": "隐藏自定义虚拟形象"
+    },
+    "v3.settings.hideavatars.sub": {
+      "en": "Show everyone as Quinn. Their real avatars come back when you turn this off.",
+      "text": "将所有人显示为 Quinn。关闭后恢复其真实虚拟形象。"
+    },
+    "v3.settings.invertmouse": {
+      "en": "Invert Mouse Look",
+      "text": "反转鼠标视角"
+    },
+    "v3.settings.invertmouse.sub": {
+      "en": "Desktop only. Moving the mouse down looks up.",
+      "text": "仅桌面。鼠标向下移动时视角向上。"
+    },
+    "v3.settings.invertpad": {
+      "en": "Invert Controller Look",
+      "text": "反转手柄视角"
+    },
+    "v3.settings.invertpad.sub": {
+      "en": "Pushing the right stick down looks up.",
+      "text": "右摇杆向下推时视角向上。"
+    },
+    "v3.settings.language": {
+      "en": "Language",
+      "text": "语言"
+    },
+    "v3.settings.mousesens": {
+      "en": "MOUSE SENSITIVITY",
+      "text": "鼠标灵敏度"
+    },
+    "v3.settings.mousesens.sub": {
+      "en": "Desktop only. How far the view turns for a given mouse movement.",
+      "text": "仅桌面。鼠标移动时视角转动的幅度。"
+    },
+    "v3.settings.music": {
+      "en": "Music",
+      "text": "音乐"
+    },
+    "v3.settings.proxvoice": {
+      "en": "Proximity Voice",
+      "text": "距离语音"
+    },
+    "v3.settings.proxvoice.sub": {
+      "en": "Voices fade with distance and muffle through walls",
+      "text": "声音随距离衰减，隔墙会变闷"
+    },
+    "v3.settings.radialhand": {
+      "en": "Laser on Right Hand",
+      "text": "激光在右手"
+    },
+    "v3.settings.radialhandsub": {
+      "en": "Laser on the right; quick menu and mic button on the left. Off: the other way round.",
+      "text": "激光在右手，快捷菜单和麦克风按钮在左手。关闭：左右对调。"
+    },
+    "v3.settings.resetall": {
+      "en": "Reset to default",
+      "text": "恢复默认"
+    },
+    "v3.settings.resetall.body": {
+      "en": "Audio, mic, graphics, comfort, colours and controls go back to how they started. Your language, streamer and privacy settings stay.",
+      "text": "音频、麦克风、图形、舒适度、颜色和操控将恢复初始状态。你的语言、主播和隐私设置保持不变。"
+    },
+    "v3.settings.resetall.confirm": {
+      "en": "Reset",
+      "text": "重置"
+    },
+    "v3.settings.resetall.title": {
+      "en": "Reset all settings to default?",
+      "text": "将所有设置恢复为默认？"
+    },
+    "v3.settings.resetall.toast": {
+      "en": "Settings reset to default",
+      "text": "设置已恢复默认"
+    },
+    "v3.settings.resetgraphics": {
+      "en": "Reset graphics to defaults",
+      "text": "重置图形设置"
+    },
+    "v3.settings.sessionvis": {
+      "en": "Session Visibility",
+      "text": "会话可见性"
+    },
+    "v3.settings.sessionvis.sub": {
+      "en": "Public: anyone can find and join. Friends Only: not listed, friends can join. Private: not listed, invite only.",
+      "text": "公开：任何人可找到并加入。仅好友：不列出，好友可加入。私密：不列出，仅限邀请。"
+    },
+    "v3.settings.streammature.hide": {
+      "en": "Streamer mode: hide mature avatars",
+      "text": "主播模式：隐藏成人虚拟形象"
+    },
+    "v3.settings.streammature.hide.sub": {
+      "en": "Shows them as an orb instead. You can unhide anyone from Nearby.",
+      "text": "改为显示为光球。可在「附近」中取消隐藏任何人。"
+    },
+    "v3.settings.streammature.quinn": {
+      "en": "Streamer mode: mature avatars as Quinn",
+      "text": "主播模式：成人虚拟形象显示为 Quinn"
+    },
+    "v3.settings.streammature.quinn.sub": {
+      "en": "While streamer mode is on, other players' Mature Themes avatars show as Quinn.",
+      "text": "主播模式开启时，其他玩家的成人主题虚拟形象显示为 Quinn。"
+    },
+    "v3.settings.swaphands.sub": {
+      "en": "Move the quick menu and Movement Mode to the other hand",
+      "text": "将快捷菜单和移动模式换到另一只手"
+    },
+    "v3.settings.uisize": {
+      "en": "UI SIZE",
+      "text": "界面大小"
+    },
+    "v3.settings.uisize.sub": {
+      "en": "Size of nameplates and on-screen notifications. Larger is easier to read in VR.",
+      "text": "名牌和屏幕通知的大小。越大在 VR 中越易读。"
+    },
+    "v3.settings.voice3d": {
+      "en": "3D Voice",
+      "text": "3D语音"
+    },
+    "v3.settings.voice3d.sub": {
+      "en": "Hear each voice from where that person is standing: behind you sounds behind you. Off: everyone sounds flat.",
+      "text": "从每个人所在的位置听到他们的声音：身后的人声音就在身后。关闭：所有声音都没有方向感。"
+    },
+    "v3.settings.webcam.hdr": {
+      "en": "WEBCAM TRACKING",
+      "text": "摄像头追踪"
+    },
+    "v3.settings.webcam.note": {
+      "en": "Desktop mode only. Pick one: each choice includes the ones above it. Your camera picture never leaves this PC.",
+      "text": "仅限桌面模式。请选择一项：每个选项都包含它上面的选项。摄像头画面绝不会离开这台电脑。"
+    },
+    "v3.store.companions": {
+      "en": "Companions",
+      "text": "伙伴"
+    },
+    "v3.store.cosmetics": {
+      "en": "Cosmetics",
+      "text": "装饰"
+    },
+    "v3.store.empty": {
+      "en": "The store is still in the works",
+      "text": "商店仍在建设中"
+    },
+    "v3.store.emptysub": {
+      "en": "Check back soon — new items are on the way.",
+      "text": "敬请期待，新物品即将上架。"
+    },
+    "v3.store.sub": {
+      "en": "Early Access deals — support development and look good doing it.",
+      "text": "抢先体验优惠 — 支持开发，同时更有型。"
+    },
+    "v3.store.title": {
+      "en": "VR Realms Store",
+      "text": "VR Realms 商店"
+    },
+    "v3.supporter.accent": {
+      "en": "Accent",
+      "text": "强调色"
+    },
+    "v3.supporter.active": {
+      "en": "Supporter active",
+      "text": "支持者已激活"
+    },
+    "v3.supporter.activesub": {
+      "en": "Quick access to favorites and menu colour customization.",
+      "text": "快速访问收藏并自定义菜单颜色。"
+    },
+    "v3.supporter.background": {
+      "en": "Background",
+      "text": "背景"
+    },
+    "v3.supporter.collected": {
+      "en": "COLLECTED HEAD PLATES",
+      "text": "已收集的铭牌"
+    },
+    "v3.supporter.colours": {
+      "en": "MENU COLOURS",
+      "text": "菜单颜色"
+    },
+    "v3.supporter.favavatars": {
+      "en": "FAVORITE AVATARS",
+      "text": "收藏的虚拟形象"
+    },
+    "v3.supporter.favworlds": {
+      "en": "FAVORITE WORLDS",
+      "text": "收藏的世界"
+    },
+    "v3.supporter.locked": {
+      "en": "You have plates you cannot wear yet",
+      "text": "你有尚未能佩戴的铭牌"
+    },
+    "v3.supporter.lockedsub": {
+      "en": "Supporters can wear any plate they have found and swap whenever they like. You also get 60 favorite avatars and worlds, plus menu colour customization.",
+      "text": "支持者可以佩戴任何已找到的铭牌并随时更换。还可收藏60个虚拟形象和世界，并自定义菜单颜色。"
+    },
+    "v3.supporter.noavatars": {
+      "en": "No favorite avatars yet. Heart avatars to pin them here.",
+      "text": "还没有收藏的虚拟形象。点爱心即可固定到这里。"
+    },
+    "v3.supporter.noplate": {
+      "en": "Wear no plate",
+      "text": "不佩戴铭牌"
+    },
+    "v3.supporter.noworlds": {
+      "en": "No favorite worlds yet. Heart worlds to pin them here.",
+      "text": "还没有收藏的世界。点爱心即可固定到这里。"
+    },
+    "v3.supporter.plates": {
+      "en": "PLATES",
+      "text": "铭牌"
+    },
+    "v3.supporter.platesnote": {
+      "en": "Every plate you find is yours to keep. Pick one to wear for free — choose carefully, it cannot be changed later. Supporters can wear any of them, and swap whenever they like.",
+      "text": "找到的每块铭牌都归你。免费选一块佩戴，请慎重选择，之后不能更改。支持者可以佩戴任意一块并随时更换。"
+    },
+    "v3.supporter.pricenote": {
+      "en": "Cancel anytime. Every plate you found stays yours.",
+      "text": "随时取消。找到的每块铭牌都归你。"
+    },
+    "v3.supporter.resetcolours": {
+      "en": "Reset colours",
+      "text": "重置颜色"
+    },
+    "v3.supporter.subscribe": {
+      "en": "$7 / month  ·  Become a Supporter",
+      "text": "每月 $7  ·  成为支持者"
+    },
+    "v3.tag.anyone": {
+      "en": "Anyone",
+      "text": "任何人"
+    },
+    "v3.tag.creators": {
+      "en": "Creators",
+      "text": "创作者"
+    },
+    "v3.tag.gaming": {
+      "en": "Gaming",
+      "text": "游戏"
+    },
+    "v3.tag.social": {
+      "en": "Social",
+      "text": "社交"
+    },
+    "v3.worlds.instances": {
+      "en": "Instances",
+      "text": "实例"
+    },
+    "v3.worlds.noinstances": {
+      "en": "No active instances. Host one below.",
+      "text": "没有活跃的实例。在下方创建一个。"
+    },
+    "v3.worlds.nomatch": {
+      "en": "No worlds match",
+      "text": "没有匹配的世界"
+    },
+    "v3.worlds.singleplayer": {
+      "en": "Single Player",
+      "text": "单人"
+    },
+    "worlds.access": {
+      "en": "ACCESS",
+      "text": "权限"
+    },
+    "worlds.audience": {
+      "en": "AUDIENCE",
+      "text": "受众"
+    },
+    "worlds.capacity": {
+      "en": "CAPACITY",
+      "text": "容量"
+    },
+    "worlds.dropportal": {
+      "en": "DROP PORTAL",
+      "text": "放置传送门"
+    },
+    "worlds.favonly": {
+      "en": "Favorites only",
+      "text": "仅收藏"
+    },
+    "worlds.filters": {
+      "en": "Filters",
+      "text": "筛选"
+    },
+    "worlds.gameworld": {
+      "en": "Game World",
+      "text": "游戏世界"
+    },
+    "worlds.horror": {
+      "en": "Horror",
+      "text": "恐怖"
+    },
+    "worlds.host": {
+      "en": "HOST",
+      "text": "主持"
+    },
+    "worlds.hostnew": {
+      "en": "+  HOST NEW SESSION",
+      "text": "+  创建新会话"
+    },
+    "worlds.hub.sub": {
+      "en": "The official VR Realms hub — everyone starts here",
+      "text": "VR Realms 官方中心 — 大家从这里开始"
+    },
+    "worlds.hub.title": {
+      "en": "Join the Main HUB",
+      "text": "加入主中心"
+    },
+    "worlds.install": {
+      "en": "INSTALL",
+      "text": "安装"
+    },
+    "worlds.maptype": {
+      "en": "MAP TYPE",
+      "text": "地图类型"
+    },
+    "worlds.minigame": {
+      "en": "Minigame",
+      "text": "小游戏"
+    },
+    "worlds.personal": {
+      "en": "Personal",
+      "text": "专属"
+    },
+    "worlds.report": {
+      "en": "REPORT",
+      "text": "举报"
+    },
+    "worlds.roleplay": {
+      "en": "Roleplay",
+      "text": "角色扮演"
+    },
+    "worlds.searchhint": {
+      "en": "Search worlds…",
+      "text": "搜索世界…"
+    },
+    "worlds.showcase": {
+      "en": "Showcase",
+      "text": "展示"
+    },
+    "worlds.socialhub": {
+      "en": "Social Hub",
+      "text": "社交中心"
+    },
+    "worlds.sort.players": {
+      "en": "Most Players",
+      "text": "玩家最多"
+    },
+    "worlds.sort.popular": {
+      "en": "Most Popular",
+      "text": "最受欢迎"
+    },
+    "worlds.sort.recent": {
+      "en": "Most Recent",
+      "text": "最新"
+    },
+    "worlds.sort.toprated": {
+      "en": "Top Rated All Time",
+      "text": "历来最高评分"
+    },
+    "worlds.sort.updated": {
+      "en": "Last Updated",
+      "text": "最近更新"
+    },
+    "worlds.sortby": {
+      "en": "Sort by",
+      "text": "排序"
+    },
+    "ws.nosend": {
+      "en": "Steam is not sending avatars right now. They will show up when it does.",
+      "text": "Steam 目前没有发送虚拟形象。发送后它们就会显示。"
+    }
+  }
+}

@@ -1,0 +1,4375 @@
+{
+  "language": "العربية",
+  "code": "ar",
+  "column": "arabic",
+  "strings": {
+    "ach.arcaderegular": {
+      "en": "Arcade Regular",
+      "text": "زبون دائم في الأركيد"
+    },
+    "ach.avatarmaker": {
+      "en": "Avatar Maker",
+      "text": "صانع الأفاتارات"
+    },
+    "ach.collector": {
+      "en": "Collector",
+      "text": "جامع المقتنيات"
+    },
+    "ach.competitor": {
+      "en": "Competitor",
+      "text": "المنافس"
+    },
+    "ach.ffawin": {
+      "en": "Last One Standing",
+      "text": "آخر الصامدين"
+    },
+    "ach.fullhouse": {
+      "en": "Full House",
+      "text": "بيت ممتلئ"
+    },
+    "ach.goldrush": {
+      "en": "Gold Rush",
+      "text": "حمّى الذهب"
+    },
+    "ach.guidedtour": {
+      "en": "Guided Tour",
+      "text": "جولة إرشادية"
+    },
+    "ach.helpinghand": {
+      "en": "Helping Hand",
+      "text": "يد العون"
+    },
+    "ach.label": {
+      "en": "ACHIEVEMENT UNLOCKED",
+      "text": "تم فتح إنجاز"
+    },
+    "ach.numberone": {
+      "en": "Number One",
+      "text": "رقم واحد"
+    },
+    "ach.ontheboard": {
+      "en": "On the Board",
+      "text": "على لوحة المتصدرين"
+    },
+    "ach.poolshark": {
+      "en": "Pool Shark",
+      "text": "قرش البلياردو"
+    },
+    "ach.rackemup": {
+      "en": "Rack 'Em Up",
+      "text": "رُصّ الكرات"
+    },
+    "ach.roadtrip": {
+      "en": "Road Trip",
+      "text": "رحلة جماعية"
+    },
+    "ach.saycheese": {
+      "en": "Say Cheese",
+      "text": "ابتسم!"
+    },
+    "ach.teamwin": {
+      "en": "Hold the Line",
+      "text": "اثبتوا في مواقعكم"
+    },
+    "ach.treatyourself": {
+      "en": "Treat Yourself",
+      "text": "دلّل نفسك"
+    },
+    "ach.welcome": {
+      "en": "Welcome to VR Realms",
+      "text": "مرحباً بك في VR Realms"
+    },
+    "ach.worldbuilder": {
+      "en": "World Builder",
+      "text": "باني العوالم"
+    },
+    "ach.worldtour": {
+      "en": "World Tour",
+      "text": "جولة حول العوالم"
+    },
+    "arcade.exitkey": {
+      "en": "E - EXIT",
+      "text": "E - خروج"
+    },
+    "arcade.exitpad": {
+      "en": "X - EXIT",
+      "text": "X - خروج"
+    },
+    "arcade.exitvr": {
+      "en": "A / X - EXIT",
+      "text": "A / X - خروج"
+    },
+    "arcade.movekey": {
+      "en": "WASD - MOVE     SPACE - FIRE",
+      "text": "WASD - تحرّك     المسافة - إطلاق"
+    },
+    "arcade.movepad": {
+      "en": "STICK - MOVE     A - FIRE",
+      "text": "العصا - تحرّك     A - إطلاق"
+    },
+    "arcade.movevr": {
+      "en": "STICK - MOVE     TRIGGER - FIRE",
+      "text": "العصا - تحرّك     الزناد - إطلاق"
+    },
+    "arcade.needgold": {
+      "en": "You need {0} more gold to play.",
+      "text": "تحتاج إلى {0} ذهب إضافي لتلعب."
+    },
+    "arcade.nogold": {
+      "en": "Not enough gold to play.",
+      "text": "لا يكفي الذهب لتلعب."
+    },
+    "arcade.notsaved": {
+      "en": "That score could not be saved.",
+      "text": "تعذّر حفظ هذه النتيجة."
+    },
+    "arcade.stepup": {
+      "en": "Step up to the arcade machine to play.",
+      "text": "اقترب من آلة الأركيد لتلعب."
+    },
+    "avatars.anime": {
+      "en": "Anime",
+      "text": "أنمي"
+    },
+    "avatars.blendshapes": {
+      "en": "Blend Shapes",
+      "text": "أشكال متداخلة"
+    },
+    "avatars.chibi": {
+      "en": "Chibi",
+      "text": "تشيبي"
+    },
+    "avatars.creature": {
+      "en": "Creature",
+      "text": "مخلوق"
+    },
+    "avatars.fantasy": {
+      "en": "Fantasy",
+      "text": "خيالي"
+    },
+    "avatars.humanoid": {
+      "en": "Humanoid",
+      "text": "بشري"
+    },
+    "avatars.personal": {
+      "en": "Personal",
+      "text": "شخصي"
+    },
+    "avatars.realistic": {
+      "en": "Realistic",
+      "text": "واقعي"
+    },
+    "avatars.scifi": {
+      "en": "Sci-Fi",
+      "text": "خيال علمي"
+    },
+    "avatars.style": {
+      "en": "AVATAR STYLE",
+      "text": "نمط الأفاتار"
+    },
+    "avatars.stylized": {
+      "en": "Stylized",
+      "text": "منمّق"
+    },
+    "board.avatar": {
+      "en": "avatar",
+      "text": "أفاتار"
+    },
+    "board.avatars": {
+      "en": "avatars",
+      "text": "أفاتارات"
+    },
+    "board.by": {
+      "en": "by",
+      "text": "بواسطة"
+    },
+    "board.events": {
+      "en": "UPCOMING EVENTS",
+      "text": "الفعاليات القادمة"
+    },
+    "board.lastmonth": {
+      "en": "last month",
+      "text": "الشهر الماضي"
+    },
+    "board.lifetime": {
+      "en": "lifetime",
+      "text": "الإجمالي"
+    },
+    "board.live": {
+      "en": "LIVE",
+      "text": "مباشر"
+    },
+    "board.loading": {
+      "en": "Loading…",
+      "text": "جارٍ التحميل…"
+    },
+    "board.map": {
+      "en": "map",
+      "text": "خريطة"
+    },
+    "board.maps": {
+      "en": "maps",
+      "text": "خرائط"
+    },
+    "board.members": {
+      "en": "members",
+      "text": "أعضاء"
+    },
+    "board.n.gold": {
+      "en": "{0} gold",
+      "text": "{0} ذهب"
+    },
+    "board.n.subs": {
+      "en": "{0} subs",
+      "text": "{0} مشترك"
+    },
+    "board.noevents": {
+      "en": "No events scheduled",
+      "text": "لا توجد فعاليات مجدولة"
+    },
+    "board.nogold": {
+      "en": "No gold yet",
+      "text": "لا يوجد ذهب بعد"
+    },
+    "board.nogroupgold": {
+      "en": "No group gold yet",
+      "text": "لا يوجد ذهب للمجموعات بعد"
+    },
+    "board.nothing": {
+      "en": "Nothing here yet",
+      "text": "لا شيء هنا بعد"
+    },
+    "board.soon": {
+      "en": "soon",
+      "text": "قريبًا"
+    },
+    "board.thismonth": {
+      "en": "this month",
+      "text": "هذا الشهر"
+    },
+    "board.topavatars": {
+      "en": "TOP AVATARS",
+      "text": "أفضل الأفاتار"
+    },
+    "board.topcreators": {
+      "en": "TOP CREATORS",
+      "text": "أفضل المبدعين"
+    },
+    "board.topgold": {
+      "en": "GOLD LEADERS",
+      "text": "متصدرو الذهب"
+    },
+    "board.topgroups": {
+      "en": "TOP GROUPS",
+      "text": "أفضل المجموعات"
+    },
+    "board.topworlds": {
+      "en": "TOP WORLDS",
+      "text": "أفضل العوالم"
+    },
+    "bots.auto": {
+      "en": "AUTO",
+      "text": "تلقائي"
+    },
+    "bots.now.auto": {
+      "en": "Now: AUTO. One droid ({0}) keeps you company while you are alone here, and leaves when somebody joins.",
+      "text": "الآن: تلقائي. روبوت واحد ({0}) يؤنسك وأنت وحدك هنا، ويغادر عندما ينضم أحد."
+    },
+    "bots.now.many": {
+      "en": "Now: {0} droids ({1}), until you remove them.",
+      "text": "الآن: {0} روبوتات ({1})، حتى تزيلها."
+    },
+    "bots.now.none": {
+      "en": "Now: no bots.",
+      "text": "الآن: لا روبوتات."
+    },
+    "bots.now.one": {
+      "en": "Now: one droid ({0}), until you remove it.",
+      "text": "الآن: روبوت واحد ({0})، حتى تزيله."
+    },
+    "bots.row.angle": {
+      "en": "Gun Angle (VR)",
+      "text": "زاوية السلاح (VR)"
+    },
+    "bots.row.angledesc": {
+      "en": "Turns the barrel up or down in your hand, so a gun points where your controller's trigger feels right.",
+      "text": "يرفع الماسورة أو يخفضها في يدك، ليشير السلاح حيث يبدو زناد وحدة التحكم مريحاً."
+    },
+    "bots.row.botsdesc": {
+      "en": "Droids to fight in a world that has a gun match. Up to 9. AUTO: one keeps you company while you are alone.",
+      "text": "روبوتات تقاتلها في عالم فيه مباراة أسلحة. حتى 9. تلقائي: روبوت واحد يؤنسك وأنت وحدك."
+    },
+    "bots.row.guns": {
+      "en": "GUNS",
+      "text": "الأسلحة"
+    },
+    "bots.row.header": {
+      "en": "GUN BOTS",
+      "text": "روبوتات القتال"
+    },
+    "bots.row.level": {
+      "en": "Bot Level",
+      "text": "مستوى الروبوتات"
+    },
+    "bots.row.leveldesc": {
+      "en": "How well they aim, how fast they shoot, and whether they sprint and jump.",
+      "text": "مدى دقة تصويبها، وسرعة إطلاقها النار، وهل تركض وتقفز."
+    },
+    "bots.row.now": {
+      "en": "Bots Now",
+      "text": "الروبوتات الآن"
+    },
+    "bots.row.remove": {
+      "en": "REMOVE BOTS",
+      "text": "إزالة الروبوتات"
+    },
+    "bots.row.spawn": {
+      "en": "SPAWN BOTS",
+      "text": "استدعاء الروبوتات"
+    },
+    "bots.toast.auto": {
+      "en": "A droid keeps you company while you are alone. Go to Settings > Host to add or remove bots (up to 9).",
+      "text": "روبوت يؤنسك وأنت وحدك. اذهب إلى الإعدادات > المضيف لإضافة الروبوتات أو إزالتها (حتى 9)."
+    },
+    "bots.toast.host": {
+      "en": "Go to Settings > Host to add or remove bots (up to 9, three levels).",
+      "text": "اذهب إلى الإعدادات > المضيف لإضافة الروبوتات أو إزالتها (حتى 9، بثلاثة مستويات)."
+    },
+    "build.lost": {
+      "en": "Connection lost. This VR Realms is out of date: close the game and let Steam update it.",
+      "text": "انقطع الاتصال. هذا الإصدار من VR Realms قديم: أغلق اللعبة ودع Steam يحدّثها."
+    },
+    "build.tooold": {
+      "en": "A newer VR Realms is out, and the hub needs it. Close the game and let Steam update it.",
+      "text": "صدر إصدار أحدث من VR Realms، والمركز يحتاج إليه. أغلق اللعبة ودع Steam يحدّثها."
+    },
+    "call.aplayer": {
+      "en": "A player",
+      "text": "لاعب"
+    },
+    "call.aworld": {
+      "en": "a world",
+      "text": "عالم ما"
+    },
+    "call.box.home": {
+      "en": "{0} invites everyone to hang out",
+      "text": "{0} يدعو الجميع لقضاء الوقت معاً"
+    },
+    "call.box.notnow": {
+      "en": "NOT NOW",
+      "text": "ليس الآن"
+    },
+    "call.box.tag": {
+      "en": "CALL TO PLAY",
+      "text": "دعوة للعب"
+    },
+    "call.box.world": {
+      "en": "{0} is calling everyone to play",
+      "text": "{0} يدعو الجميع للعب"
+    },
+    "call.chat.home": {
+      "en": "{0} invites everyone to hang out at their home. To join: the gold row in your quick menu.",
+      "text": "{0} يدعو الجميع لقضاء الوقت في منزله. للانضمام: الصف الذهبي في قائمتك السريعة."
+    },
+    "call.chat.world": {
+      "en": "{0} is calling everyone to play in {1}. To join: the gold row in your quick menu.",
+      "text": "{0} يدعو الجميع للعب في {1}. للانضمام: الصف الذهبي في قائمتك السريعة."
+    },
+    "call.confirm.left": {
+      "en": "{0} OF {1} CALLS LEFT TODAY",
+      "text": "الدعوات المتبقية اليوم: {0} من {1}"
+    },
+    "call.confirm.notice": {
+      "en": "EVERYONE IN THE GAME GETS NOTIFIED",
+      "text": "سيتلقى كل من في اللعبة إشعاراً"
+    },
+    "call.confirm.title": {
+      "en": "CALL EVERYONE?",
+      "text": "دعوة الجميع؟"
+    },
+    "call.confirm.yes": {
+      "en": "YES, CALL EVERYONE",
+      "text": "نعم، ادعُ الجميع"
+    },
+    "call.daydone": {
+      "en": "You have called everyone today already. Your next call: in {0}.",
+      "text": "لقد دعوت الجميع اليوم بالفعل. دعوتك التالية: بعد {0}."
+    },
+    "call.fullgame": {
+      "en": "{0}'s game is full right now.",
+      "text": "لعبة {0} ممتلئة الآن."
+    },
+    "call.fullhome": {
+      "en": "{0}'s home is full right now.",
+      "text": "منزل {0} ممتلئ الآن."
+    },
+    "call.gap": {
+      "en": "A call went out a little while ago. The next one can go out in {0}.",
+      "text": "أُرسلت دعوة قبل قليل. يمكن إرسال التالية بعد {0}."
+    },
+    "call.homeof": {
+      "en": "{0}'s home",
+      "text": "منزل {0}"
+    },
+    "call.hourmin": {
+      "en": "1 hour {0} min",
+      "text": "ساعة و{0} دقيقة"
+    },
+    "call.hours": {
+      "en": "{0} hours",
+      "text": "{0} ساعة"
+    },
+    "call.joining": {
+      "en": "Joining {0}...",
+      "text": "جارٍ الانضمام إلى {0}..."
+    },
+    "call.lookgame": {
+      "en": "Looking for {0}'s game...",
+      "text": "جارٍ البحث عن لعبة {0}..."
+    },
+    "call.lookhome": {
+      "en": "Looking for {0}'s home...",
+      "text": "جارٍ البحث عن منزل {0}..."
+    },
+    "call.nogame": {
+      "en": "Could not find {0}'s game. It may be full, private or closed.",
+      "text": "تعذّر العثور على لعبة {0}. ربما تكون ممتلئة أو خاصة أو مغلقة."
+    },
+    "call.nohome": {
+      "en": "Could not find {0}'s home. It may be full, private or closed.",
+      "text": "تعذّر العثور على منزل {0}. ربما يكون ممتلئاً أو خاصاً أو مغلقاً."
+    },
+    "call.nosite": {
+      "en": "The call could not be sent: VR Realms did not answer. Try again in a moment.",
+      "text": "تعذّر إرسال الدعوة: لم يستجب VR Realms. حاول مجدداً بعد قليل."
+    },
+    "call.nosteam": {
+      "en": "The call could not be sent: the game is not signed in to Steam.",
+      "text": "تعذّر إرسال الدعوة: اللعبة غير مسجّلة الدخول إلى Steam."
+    },
+    "call.nothost": {
+      "en": "VR Realms does not know yet that you are hosting. Try again in a minute.",
+      "text": "لا يعلم VR Realms بعد أنك المضيف. حاول مجدداً بعد دقيقة."
+    },
+    "call.off": {
+      "en": "Calls are switched off right now.",
+      "text": "الدعوات متوقفة حالياً."
+    },
+    "call.openfor": {
+      "en": "Your call is open for another {0}. Players who said yes so far: {1}.",
+      "text": "دعوتك مفتوحة لمدة {0} أخرى. اللاعبون الذين وافقوا حتى الآن: {1}."
+    },
+    "call.otheropen": {
+      "en": "Somebody else's call is open right now. Try again in {0}.",
+      "text": "هناك دعوة لشخص آخر مفتوحة الآن. حاول مجدداً بعد {0}."
+    },
+    "call.out": {
+      "en": "Your call is out. Everyone in the game sees it within a minute, and it stays open for {0} minutes.",
+      "text": "أُرسلت دعوتك. سيراها كل من في اللعبة خلال دقيقة، وتبقى مفتوحة لمدة {0} دقيقة."
+    },
+    "call.over1": {
+      "en": "Your call is over. 1 player said yes.",
+      "text": "انتهت دعوتك. وافق لاعب واحد."
+    },
+    "call.overn": {
+      "en": "Your call is over. {0} players said yes.",
+      "text": "انتهت دعوتك. عدد اللاعبين الذين وافقوا: {0}."
+    },
+    "call.refused": {
+      "en": "The call was refused.",
+      "text": "رُفضت الدعوة."
+    },
+    "call.row.call": {
+      "en": "CALL EVERYONE",
+      "text": "ادعُ الجميع"
+    },
+    "call.row.in": {
+      "en": "CALL EVERYONE · IN {0}",
+      "text": "ادعُ الجميع · بعد {0}"
+    },
+    "call.row.join": {
+      "en": "JOIN {0}'S CALL",
+      "text": "انضم إلى دعوة {0}"
+    },
+    "call.row.out": {
+      "en": "YOUR CALL IS OUT · {0}",
+      "text": "أُرسلت دعوتك · {0}"
+    },
+    "call.row.press": {
+      "en": "PRESS AGAIN TO CALL",
+      "text": "اضغط مجدداً للدعوة"
+    },
+    "call.stays": {
+      "en": "{0}'s call stays in your quick menu until it is over.",
+      "text": "تبقى دعوة {0} في قائمتك السريعة حتى تنتهي."
+    },
+    "call.test": {
+      "en": "That was a test call: there is nothing to join.",
+      "text": "كانت هذه دعوة تجريبية: لا يوجد ما تنضم إليه."
+    },
+    "call.yes1": {
+      "en": "1 player said yes to your call.",
+      "text": "وافق لاعب واحد على دعوتك."
+    },
+    "call.yesn": {
+      "en": "{0} players said yes to your call.",
+      "text": "اللاعبون الذين وافقوا على دعوتك: {0}."
+    },
+    "cam.dock.drone": {
+      "en": "Screen: On Drone",
+      "text": "الشاشة: على الطائرة"
+    },
+    "cam.dock.hud": {
+      "en": "Screen: Corner",
+      "text": "الشاشة: الزاوية"
+    },
+    "cam.dock.left": {
+      "en": "Screen: Left",
+      "text": "الشاشة: يسار"
+    },
+    "cam.dock.off": {
+      "en": "Screen: Hidden",
+      "text": "الشاشة: مخفية"
+    },
+    "cam.dock.right": {
+      "en": "Screen: Right",
+      "text": "الشاشة: يمين"
+    },
+    "cam.exposure.bright": {
+      "en": "Exposure: Bright",
+      "text": "التعريض: ساطع"
+    },
+    "cam.exposure.brighter": {
+      "en": "Exposure: Brighter",
+      "text": "التعريض: أسطع"
+    },
+    "cam.exposure.max": {
+      "en": "Exposure: Max",
+      "text": "التعريض: أقصى"
+    },
+    "cam.exposure.normal": {
+      "en": "Exposure: Normal",
+      "text": "التعريض: عادي"
+    },
+    "cam.hint.alt": {
+      "en": "Press ALT to use the mouse",
+      "text": "اضغط ALT لاستخدام الفأرة"
+    },
+    "cam.hint.flymouse": {
+      "en": "MOUSE MODE — ALT to fly again · ESC exits Free Fly",
+      "text": "وضع الفأرة — ALT للطيران مجددًا · ESC للخروج من الطيران الحر"
+    },
+    "cam.hint.flymousepad": {
+      "en": "MOUSE MODE — LB to fly again · Start exits Free Fly",
+      "text": "وضع الفأرة — LB للطيران مجددًا · Start للخروج من الطيران الحر"
+    },
+    "cam.hint.freefly": {
+      "en": "FREE FLY — WASD move · Q/E height · mouse look · ALT for cursor · ESC to exit",
+      "text": "الطيران الحر — WASD للحركة · Q/E للارتفاع · الفأرة للنظر · ALT للمؤشر · ESC للخروج"
+    },
+    "cam.hint.freeflypad": {
+      "en": "FREE FLY — left stick move · triggers height · right stick look · LB for cursor · Start to exit",
+      "text": "الطيران الحر — العصا اليسرى للحركة · الزنادان للارتفاع · العصا اليمنى للنظر · LB للمؤشر · Start للخروج"
+    },
+    "cam.hint.lb": {
+      "en": "Press LB to use the mouse",
+      "text": "اضغط LB لاستخدام الفأرة"
+    },
+    "cam.hint.mouseon": {
+      "en": "MOUSE MODE — press ALT to give the mouse back",
+      "text": "وضع الفأرة — اضغط ALT لإعادة الفأرة"
+    },
+    "cam.hint.mouseonpad": {
+      "en": "MOUSE MODE — press LB to give the mouse back",
+      "text": "وضع الفأرة — اضغط LB لإعادة الفأرة"
+    },
+    "cam.mode.followbehind": {
+      "en": "Follow Behind",
+      "text": "التتبع من الخلف"
+    },
+    "cam.mode.followfront": {
+      "en": "Follow Front",
+      "text": "التتبع من الأمام"
+    },
+    "cam.mode.freefly": {
+      "en": "Free Fly",
+      "text": "طيران حر"
+    },
+    "cam.mode.orbit": {
+      "en": "Orbit",
+      "text": "مدار"
+    },
+    "cam.mode.tripod": {
+      "en": "Tripod",
+      "text": "حامل ثلاثي"
+    },
+    "cam.toast.freeflyhold": {
+      "en": "FREE FLY  —  squeeze GRIP to exit",
+      "text": "الطيران الحر  —  اضغط القبضة للخروج"
+    },
+    "cam.toast.freeflyon": {
+      "en": "FREE FLY — sticks steer the camera, grip to exit",
+      "text": "الطيران الحر — العصي توجه الكاميرا، اضغط القبضة للخروج"
+    },
+    "cam.toast.modenow": {
+      "en": "Camera: {0}",
+      "text": "الكاميرا: {0}"
+    },
+    "chat.comingonline": {
+      "en": "Chat coming online — messages will appear here.",
+      "text": "الدردشة قيد التشغيل — ستظهر الرسائل هنا."
+    },
+    "chat.deskhint": {
+      "en": "Type a message…  (Enter to send)",
+      "text": "اكتب رسالة…  (Enter للإرسال)"
+    },
+    "chat.hint.desk": {
+      "en": "Click or press Enter to chat",
+      "text": "انقر أو اضغط Enter للدردشة"
+    },
+    "chat.hint.vr": {
+      "en": "Tap to type…",
+      "text": "المس للكتابة…"
+    },
+    "chat.openkeyboard": {
+      "en": "Open the keyboard to type…",
+      "text": "افتح لوحة المفاتيح للكتابة…"
+    },
+    "chat.reminder": {
+      "en": "Press Enter to chat",
+      "text": "اضغط Enter للدردشة"
+    },
+    "chat.translate.busy": {
+      "en": "Translation is busy. Try again later",
+      "text": "الترجمة مشغولة. حاول لاحقًا"
+    },
+    "chat.translate.failed": {
+      "en": "Could not translate. Tap to retry",
+      "text": "تعذّرت الترجمة. المس لإعادة المحاولة"
+    },
+    "chat.translate.link": {
+      "en": "Translate",
+      "text": "ترجمة"
+    },
+    "chat.translate.original": {
+      "en": "Show original",
+      "text": "عرض الأصل"
+    },
+    "chat.translate.pending": {
+      "en": "Translating…",
+      "text": "جارٍ الترجمة…"
+    },
+    "chat.translate.same": {
+      "en": "Already in your language",
+      "text": "بلغتك بالفعل"
+    },
+    "chat.translate.shown": {
+      "en": "Show translation",
+      "text": "عرض الترجمة"
+    },
+    "common.audio": {
+      "en": "Audio",
+      "text": "الصوت"
+    },
+    "common.befriend": {
+      "en": "Befriend",
+      "text": "إضافة صديق"
+    },
+    "common.chat": {
+      "en": "CHAT",
+      "text": "الدردشة"
+    },
+    "common.clearall": {
+      "en": "Clear all",
+      "text": "مسح الكل"
+    },
+    "common.close": {
+      "en": "Close",
+      "text": "إغلاق"
+    },
+    "common.debug": {
+      "en": "Debug",
+      "text": "تصحيح"
+    },
+    "common.decline": {
+      "en": "Decline",
+      "text": "رفض"
+    },
+    "common.emoji": {
+      "en": "Emoji",
+      "text": "إيموجي"
+    },
+    "common.equip": {
+      "en": "EQUIP",
+      "text": "ارتداء"
+    },
+    "common.everyone": {
+      "en": "Everyone",
+      "text": "الجميع"
+    },
+    "common.go": {
+      "en": "Go",
+      "text": "انطلق"
+    },
+    "common.hide": {
+      "en": "Hide",
+      "text": "إخفاء"
+    },
+    "common.ignore": {
+      "en": "Ignore",
+      "text": "تجاهل"
+    },
+    "common.invite": {
+      "en": "Invite",
+      "text": "دعوة"
+    },
+    "common.join": {
+      "en": "Join",
+      "text": "انضمام"
+    },
+    "common.justnow": {
+      "en": "just now",
+      "text": "الآن"
+    },
+    "common.kick": {
+      "en": "Kick",
+      "text": "طرد"
+    },
+    "common.large": {
+      "en": "Large",
+      "text": "كبير"
+    },
+    "common.mature": {
+      "en": "Mature",
+      "text": "للبالغين"
+    },
+    "common.medium": {
+      "en": "Medium",
+      "text": "متوسط"
+    },
+    "common.mute": {
+      "en": "Mute",
+      "text": "كتم"
+    },
+    "common.offline": {
+      "en": "Offline",
+      "text": "غير متصل"
+    },
+    "common.online": {
+      "en": "Online",
+      "text": "متصل"
+    },
+    "common.search": {
+      "en": "Search",
+      "text": "بحث"
+    },
+    "common.small": {
+      "en": "Small",
+      "text": "صغير"
+    },
+    "common.unhide": {
+      "en": "Unhide",
+      "text": "إظهار"
+    },
+    "common.unmute": {
+      "en": "Unmute",
+      "text": "إلغاء الكتم"
+    },
+    "dares.alldone": {
+      "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
+      "text": "Nixie: التحديات الثلاثة كلها. نفدت تحدياتي، وأنا معجبة قليلاً."
+    },
+    "dares.checkpoint": {
+      "en": "Checkpoint {0} of {1}.",
+      "text": "نقطة التفتيش {0} من {1}."
+    },
+    "dares.d.easy": {
+      "en": "Easy",
+      "text": "سهل"
+    },
+    "dares.d.hard": {
+      "en": "Hard",
+      "text": "صعب"
+    },
+    "dares.d.hardest": {
+      "en": "Hardest",
+      "text": "الأصعب"
+    },
+    "dares.door": {
+      "en": "Nixie: That door opens onto nothing. I dare you. Unless you are chicken.",
+      "text": "Nixie: هذا الباب يُفتح على العدم. أتحداك. إلا إذا كنت جباناً."
+    },
+    "dares.doorchicken": {
+      "en": "Nixie: Still standing there. I am not judging. I am only logging it.",
+      "text": "Nixie: ما زلت واقفاً هناك. لا أحكم عليك. أنا فقط أسجّل ذلك."
+    },
+    "dares.fellout": {
+      "en": "You fell out of the world. Back you go.",
+      "text": "سقطت خارج العالم. سنعيدك."
+    },
+    "dares.ffaagain": {
+      "en": "Nixie: Another round of free-for-all. Counted for today.",
+      "text": "Nixie: جولة أخرى من «الكل ضد الكل». حُسبت لليوم."
+    },
+    "dares.ffadone": {
+      "en": "Nixie: A whole round of free-for-all. You survived, mostly. Dare done.",
+      "text": "Nixie: جولة كاملة من «الكل ضد الكل». نجوت، في الغالب. أُنجز التحدي."
+    },
+    "dares.ffawinagain": {
+      "en": "Nixie: You won again. Counted for today.",
+      "text": "Nixie: فزت مجدداً. حُسبت لليوم."
+    },
+    "dares.ffawindone": {
+      "en": "Nixie: First place. I will pretend I expected it. Dare done.",
+      "text": "Nixie: المركز الأول. سأتظاهر بأنني توقعت ذلك. أُنجز التحدي."
+    },
+    "dares.galaxicaagain": {
+      "en": "Nixie: Stage 3 on Galaxica again. Counted for today.",
+      "text": "Nixie: المرحلة 3 في Galaxica مجدداً. حُسبت لليوم."
+    },
+    "dares.galaxicadone": {
+      "en": "Nixie: Stage 3 on Galaxica. The aliens have filed a complaint. Dare done.",
+      "text": "Nixie: المرحلة 3 في Galaxica. قدّم الفضائيون شكوى. أُنجز التحدي."
+    },
+    "dares.hintdesktop": {
+      "en": "Save yourself! Press {Radial}, then hit Respawn.",
+      "text": "أنقذ نفسك! اضغط {Radial}، ثم إعادة الظهور."
+    },
+    "dares.hintvr": {
+      "en": "Save yourself! Click the {WheelStick} stick, look at your {WheelHand} wrist, then hit Respawn.",
+      "text": "أنقذ نفسك! اضغط العصا {WheelStick}، انظر إلى معصم يدك {WheelHand}، ثم إعادة الظهور."
+    },
+    "dares.homeoffer": {
+      "en": "Nixie: I have three dares for you. Open your menu and press the glowing Dares button. Unless you are chicken. If you take one, find me there first. I will be watching.",
+      "text": "Nixie: لدي ثلاثة تحديات لك. افتح قائمتك واضغط زر التحديات المتوهج. إلا إذا كنت جباناً. إن قبلت أحدها، فابحث عني هناك أولاً. سأراقبك."
+    },
+    "dares.jumpagain": {
+      "en": "Nixie: Again? Show-off.",
+      "text": "Nixie: مرة أخرى؟ يا لك من متباهٍ."
+    },
+    "dares.jumpagainpaid": {
+      "en": "Nixie: Again? Show-off. Counted for today.",
+      "text": "Nixie: مرة أخرى؟ يا لك من متباهٍ. حُسبت لليوم."
+    },
+    "dares.jumpcaught": {
+      "en": "Nixie: I fished you out. That one goes down as a fail. Try again, and this time save yourself with Respawn.",
+      "text": "Nixie: انتشلتك. هذه تُحسب فشلاً. حاول مجدداً، وهذه المرة أنقذ نفسك بإعادة الظهور."
+    },
+    "dares.jumpdone": {
+      "en": "Nixie: You saved yourself. I only screamed a little. Dare done.",
+      "text": "Nixie: أنقذت نفسك. لم أصرخ إلا قليلاً. أُنجز التحدي."
+    },
+    "dares.l.ffa10": {
+      "en": "Nixie: First of ten. Everybody else is filing a complaint. Dare done.",
+      "text": "Nixie: الأول من بين عشرة. الجميع يقدّمون شكوى الآن. أُنجز التحدي."
+    },
+    "dares.l.ffa10again": {
+      "en": "Nixie: First of ten again. Counted for today.",
+      "text": "Nixie: الأول من بين عشرة مجدداً. حُسب لليوم."
+    },
+    "dares.l.team": {
+      "en": "Nixie: A whole team match. You even passed to someone. Dare done.",
+      "text": "Nixie: مباراة فرق كاملة. حتى إنك مرّرت لأحدهم. أُنجز التحدي."
+    },
+    "dares.l.team5": {
+      "en": "Nixie: Five on five, and your side won. That is a real battle. Dare done.",
+      "text": "Nixie: خمسة ضد خمسة، وفاز فريقك. هذه معركة حقيقية. أُنجز التحدي."
+    },
+    "dares.l.team5again": {
+      "en": "Nixie: Another five on five won. Counted for today.",
+      "text": "Nixie: فوز آخر في خمسة ضد خمسة. حُسب لليوم."
+    },
+    "dares.l.teamagain": {
+      "en": "Nixie: Another team match. Counted for today.",
+      "text": "Nixie: مباراة فرق أخرى. حُسبت لليوم."
+    },
+    "dares.l.teamwin": {
+      "en": "Nixie: Your team won. I am told you helped. Dare done.",
+      "text": "Nixie: فاز فريقك. قيل لي إنك ساعدت. أُنجز التحدي."
+    },
+    "dares.l.teamwinagain": {
+      "en": "Nixie: Your team won again. Counted for today.",
+      "text": "Nixie: فاز فريقك مجدداً. حُسب لليوم."
+    },
+    "dares.lapdone": {
+      "en": "Nixie: One lap. I counted. Dare done.",
+      "text": "Nixie: لفّة واحدة. أحصيتها. أُنجز التحدي."
+    },
+    "dares.lapnopay": {
+      "en": "Lap done. Today's jog was already counted. It counts again tomorrow.",
+      "text": "اكتملت اللفّة. حُسب ركض اليوم من قبل. سيُحسب مجدداً غداً."
+    },
+    "dares.lappaid": {
+      "en": "Nixie: Another lap. Today's jog is counted. Same time tomorrow?",
+      "text": "Nixie: لفّة أخرى. حُسب ركض اليوم. غداً في الموعد نفسه؟"
+    },
+    "dares.lapsprint": {
+      "en": "Hold {Sprint} to run.",
+      "text": "اضغط باستمرار {Sprint} للركض."
+    },
+    "dares.lapstart": {
+      "en": "Nixie: A lap. I would join you, but I was built for standing.",
+      "text": "Nixie: لفّة. كنت سأنضم إليك، لكنني صُنعت للوقوف."
+    },
+    "dares.n.dare": {
+      "en": "I dare you.",
+      "text": "أتحداك."
+    },
+    "dares.n.done": {
+      "en": "Done. I made a note.",
+      "text": "تم. دوّنت ذلك."
+    },
+    "dares.n.ffa1": {
+      "en": "Round played. I logged every shot. Most of them missed.",
+      "text": "انتهت الجولة. سجّلت كل طلقة. معظمها أخطأ الهدف."
+    },
+    "dares.n.ffa2": {
+      "en": "One round of free-for-all. Shoot things. I will keep score, badly.",
+      "text": "جولة واحدة من «الكل ضد الكل». أطلق النار على الأشياء. سأحسب النقاط، بشكل سيئ."
+    },
+    "dares.n.gal1": {
+      "en": "Stage 3. The arcade has your number now.",
+      "text": "المرحلة 3. الأركيد يعرفك الآن."
+    },
+    "dares.n.gal2": {
+      "en": "Galaxica, stage 3. The aliens get meaner. So should you.",
+      "text": "Galaxica، المرحلة 3. الفضائيون يزدادون شراسة. فكن أشرس."
+    },
+    "dares.n.jog1": {
+      "en": "One lap of the park. I would join you, but I was built for standing.",
+      "text": "لفّة واحدة حول الحديقة. كنت سأنضم إليك، لكنني صُنعت للوقوف."
+    },
+    "dares.n.jog2": {
+      "en": "Today's lap is in the log. Come back tomorrow. I will act surprised.",
+      "text": "لفّة اليوم في السجل. عد غداً. سأتظاهر بالمفاجأة."
+    },
+    "dares.n.jog3": {
+      "en": "A new day, a new lap. The park is waiting. So am I, technically.",
+      "text": "يوم جديد، لفّة جديدة. الحديقة تنتظر. وأنا أيضاً، تقنياً."
+    },
+    "dares.n.jump1": {
+      "en": "You jumped and saved yourself. I only screamed a little.",
+      "text": "قفزت وأنقذت نفسك. لم أصرخ إلا قليلاً."
+    },
+    "dares.n.jump2": {
+      "en": "A door, a lot of nothing behind it, and you. Unless you are chicken.",
+      "text": "باب، وخلفه الكثير من العدم، وأنت. إلا إذا كنت جباناً."
+    },
+    "dares.n.plate1": {
+      "en": "You have one. I had a bet with the vending machine. I won.",
+      "text": "لديك واحدة. راهنت آلة البيع. وفزت."
+    },
+    "dares.n.plate2": {
+      "en": "A plate is lying around the hub somewhere. Finders keepers. I checked the rules.",
+      "text": "هناك لوحة ملقاة في مكان ما في المركز. من وجدها فهي له. راجعت القواعد."
+    },
+    "dares.n.win1": {
+      "en": "A win. I printed you a tiny certificate. It is in my head.",
+      "text": "فوز. طبعت لك شهادة صغيرة جداً. إنها في رأسي."
+    },
+    "dares.n.win2": {
+      "en": "Win a round. First place. No pressure. Some pressure.",
+      "text": "افز بجولة. المركز الأول. بلا ضغط. بعض الضغط."
+    },
+    "dares.page.alltoday": {
+      "en": "All of them, today. Come back tomorrow. I will think of something.",
+      "text": "كلها، اليوم. عد غداً. سأفكر في شيء ما."
+    },
+    "dares.page.arena": {
+      "en": "You are in the hub. The arena is the place.",
+      "text": "أنت في المركز. الساحة هي المكان المطلوب."
+    },
+    "dares.page.checkreached": {
+      "en": "Checkpoint {0} of {1} reached. Keep going.",
+      "text": "وصلت إلى نقطة التفتيش {0} من {1}. تابع."
+    },
+    "dares.page.chip": {
+      "en": "Dares",
+      "text": "التحديات"
+    },
+    "dares.page.count": {
+      "en": "{0} of {1} today",
+      "text": "{0} من {1} اليوم"
+    },
+    "dares.page.done": {
+      "en": "Done.",
+      "text": "تم."
+    },
+    "dares.page.doneagain": {
+      "en": "Done today. It counts again tomorrow.",
+      "text": "تم اليوم. سيُحسب مجدداً غداً."
+    },
+    "dares.page.donebefore": {
+      "en": "Done before. Today it counts again: {0} gold.",
+      "text": "أُنجز من قبل. اليوم يُحسب مجدداً: {0} ذهب."
+    },
+    "dares.page.donetoday": {
+      "en": "Done today.",
+      "text": "تم اليوم."
+    },
+    "dares.page.doordone": {
+      "en": "Done. You are here: the door still opens, if you miss the fall.",
+      "text": "تم. أنت هنا: الباب لا يزال يُفتح، إن اشتقت إلى السقوط."
+    },
+    "dares.page.finddoor": {
+      "en": "You are here. Find the door.",
+      "text": "أنت هنا. اعثر على الباب."
+    },
+    "dares.page.foot": {
+      "en": "Gold for a finished dare arrives with the nightly tally. Every dare is optional, and counts again on a later day.",
+      "text": "يصلك ذهب التحدي المكتمل مع جرد الليلة. كل التحديات اختيارية، وتُحسب مجدداً في يوم لاحق."
+    },
+    "dares.page.galaxica": {
+      "en": "You are in the hub. Find the Galaxica machine.",
+      "text": "أنت في المركز. اعثر على آلة Galaxica."
+    },
+    "dares.page.gohub": {
+      "en": "Go to the hub",
+      "text": "اذهب إلى المركز"
+    },
+    "dares.page.goldday": {
+      "en": "{0} gold, then {1} a day",
+      "text": "{0} ذهب، ثم {1} يومياً"
+    },
+    "dares.page.lapcounted": {
+      "en": "You are here. Today's lap is counted.",
+      "text": "أنت هنا. حُسبت لفّة اليوم."
+    },
+    "dares.page.nocheck": {
+      "en": "You are here, but this world has no checkpoints yet.",
+      "text": "أنت هنا، لكن هذا العالم لا يحتوي على نقاط تفتيش بعد."
+    },
+    "dares.page.nodoor": {
+      "en": "You are here, but this world has no dare door yet.",
+      "text": "أنت هنا، لكن هذا العالم لا يحتوي على باب التحدي بعد."
+    },
+    "dares.page.plategold": {
+      "en": "the plate's own {0} gold",
+      "text": "{0} ذهب اللوحة نفسها"
+    },
+    "dares.page.plategoldday": {
+      "en": "the plate's own {0} gold, then {1} a day",
+      "text": "{0} ذهب اللوحة نفسها، ثم {1} يومياً"
+    },
+    "dares.page.platehub": {
+      "en": "You are in the hub. A plate is somewhere on the floor.",
+      "text": "أنت في المركز. توجد لوحة في مكان ما على الأرض."
+    },
+    "dares.page.pressagain": {
+      "en": "Press again to go",
+      "text": "اضغط مجدداً للذهاب"
+    },
+    "dares.page.runfirst": {
+      "en": "You are here. Run to the first checkpoint.",
+      "text": "أنت هنا. اركض إلى نقطة التفتيش الأولى."
+    },
+    "dares.page.set": {
+      "en": "Set {0}",
+      "text": "المجموعة {0}"
+    },
+    "dares.page.setbonus": {
+      "en": "All three of a set: {0} gold on top",
+      "text": "الثلاثة كلها من مجموعة: {0} ذهب إضافي"
+    },
+    "dares.page.setnew": {
+      "en": "Set {0} · new",
+      "text": "المجموعة {0} · جديدة"
+    },
+    "dares.page.sub1": {
+      "en": "All optional. Any order. They come back every day. I noticed you.",
+      "text": "كلها اختيارية. بأي ترتيب. تعود كل يوم. لقد لاحظتك."
+    },
+    "dares.page.sub2": {
+      "en": "All optional. Any order. They come back every day. I will be logging everything.",
+      "text": "كلها اختيارية. بأي ترتيب. تعود كل يوم. سأسجّل كل شيء."
+    },
+    "dares.page.takeme": {
+      "en": "Take me there",
+      "text": "خذني إلى هناك"
+    },
+    "dares.page.title": {
+      "en": "Nixie's dares",
+      "text": "تحديات Nixie"
+    },
+    "dares.page.today": {
+      "en": "Today's dare +{0}",
+      "text": "تحدي اليوم +{0}"
+    },
+    "dares.parkintro": {
+      "en": "Nixie: A lap of the park. Follow the gold trail through every checkpoint. I will wait here. Standing is my cardio.",
+      "text": "Nixie: لفّة حول الحديقة. اتبع المسار الذهبي عبر كل نقاط التفتيش. سأنتظر هنا. الوقوف هو تمرين الكارديو الخاص بي."
+    },
+    "dares.parkover": {
+      "en": "Nixie: Today's lap is counted. Stay for the trees. I will keep standing here, professionally.",
+      "text": "Nixie: حُسبت لفّة اليوم. ابقَ من أجل الأشجار. سأواصل الوقوف هنا، باحترافية."
+    },
+    "dares.plateagain": {
+      "en": "Nixie: Another head plate. The plate dare is counted for today.",
+      "text": "Nixie: لوحة أخرى. تحدي اللوحة محسوب لليوم."
+    },
+    "dares.platedone": {
+      "en": "Nixie: A head plate. A hat made of facts. Dare done.",
+      "text": "Nixie: لوحة. قبعة مصنوعة من الحقائق. أُنجز التحدي."
+    },
+    "dares.setbonus": {
+      "en": "+{0} gold for all three",
+      "text": "+{0} ذهب للثلاثة كلها"
+    },
+    "dares.setbonushead": {
+      "en": "Finish all three of a set: bonus gold on top",
+      "text": "أنهِ الثلاثة كلها من مجموعة: ذهب إضافي كمكافأة"
+    },
+    "dares.setdone": {
+      "en": "Nixie: That whole set is done. I will have to think of new dares.",
+      "text": "Nixie: اكتملت هذه المجموعة كلها. عليّ أن أفكر في تحديات جديدة."
+    },
+    "dares.t.ffa": {
+      "en": "Play a round of free-for-all",
+      "text": "العب جولة من «الكل ضد الكل»"
+    },
+    "dares.t.ffa10win": {
+      "en": "Win a free-for-all of ten",
+      "text": "افز بجولة «الكل ضد الكل» من عشرة لاعبين"
+    },
+    "dares.t.ffawin": {
+      "en": "Win a round of free-for-all",
+      "text": "افز بجولة من «الكل ضد الكل»"
+    },
+    "dares.t.galaxica": {
+      "en": "Reach stage 3 on Galaxica",
+      "text": "صِل إلى المرحلة 3 في Galaxica"
+    },
+    "dares.t.hubhunt": {
+      "en": "Find Nixie's three lost things in the hub",
+      "text": "اعثر على أغراض Nixie الثلاثة الضائعة في المركز"
+    },
+    "dares.t.hubhunt2": {
+      "en": "Find the hub's three lost things on another day",
+      "text": "اعثر على أغراض المركز الثلاثة الضائعة في يوم آخر"
+    },
+    "dares.t.jog": {
+      "en": "Jog one lap",
+      "text": "اركض لفّة واحدة"
+    },
+    "dares.t.jump": {
+      "en": "Jump into the dark, then save yourself",
+      "text": "اقفز في الظلام، ثم أنقذ نفسك"
+    },
+    "dares.t.plate": {
+      "en": "Find a head plate",
+      "text": "اعثر على لوحة"
+    },
+    "dares.t.team": {
+      "en": "Play a round of team free-for-all",
+      "text": "العب جولة من «الكل ضد الكل» بالفرق"
+    },
+    "dares.t.team5win": {
+      "en": "Win a team match, five on five",
+      "text": "افز بمباراة فرق، خمسة ضد خمسة"
+    },
+    "dares.t.teamwin": {
+      "en": "Win a round of team free-for-all",
+      "text": "افز بجولة من «الكل ضد الكل» بالفرق"
+    },
+    "dares.todaybonus": {
+      "en": "That was today's dare: a bonus on top.",
+      "text": "كان هذا تحدي اليوم: مكافأة إضافية."
+    },
+    "dares.w.arcade": {
+      "en": "the arcade in the hub",
+      "text": "الأركيد في المركز"
+    },
+    "dares.w.arena": {
+      "en": "the hub's arena, or any free-for-all world",
+      "text": "ساحة المركز، أو أي عالم «الكل ضد الكل»"
+    },
+    "dares.w.ffa": {
+      "en": "FFA Shooter, a bot plays you there",
+      "text": "FFA Shooter، حيث يلعب ضدك روبوت"
+    },
+    "dares.w.ffa10": {
+      "en": "FFA Shooter, add 9 bots as host",
+      "text": "FFA Shooter، أضف 9 روبوتات بصفتك المضيف"
+    },
+    "dares.w.hubbusy": {
+      "en": "the hub, when it is busy",
+      "text": "المركز، عندما يكون مزدحماً"
+    },
+    "dares.w.team": {
+      "en": "SciFi TFFA, or any team match; alone, add bots as host",
+      "text": "SciFi TFFA، أو أي مباراة فرق؛ إن كنت وحدك، أضف روبوتات بصفتك المضيف"
+    },
+    "dares.w.team5": {
+      "en": "SciFi TFFA, a team match of 10; alone, add 9 bots",
+      "text": "SciFi TFFA، مباراة فرق من 10؛ إن كنت وحدك، أضف 9 روبوتات"
+    },
+    "fbt.calibrate": {
+      "en": "CALIBRATE",
+      "text": "معايرة"
+    },
+    "fbt.height": {
+      "en": "Avatar Height",
+      "text": "طول الأفاتار"
+    },
+    "fbt.settings": {
+      "en": "FBT Settings",
+      "text": "إعدادات تتبع الجسم"
+    },
+    "first.bot": {
+      "en": "FIGHT A BOT",
+      "text": "قاتل روبوتاً"
+    },
+    "first.botsub": {
+      "en": "FFA Shooter, the easiest",
+      "text": "FFA Shooter، الأسهل"
+    },
+    "first.donetag": {
+      "en": "MISSION DONE",
+      "text": "أُنجزت المهمة"
+    },
+    "first.hintbot": {
+      "en": "Nixie: Your first mission: finish one round. Grab a gun from a pad. The bot is waiting.",
+      "text": "Nixie: مهمتك الأولى: أنهِ جولة واحدة. خذ سلاحاً من منصة. الروبوت ينتظرك."
+    },
+    "first.hintlap": {
+      "en": "Nixie: Your first mission: one lap. Follow the gold trail through every checkpoint.",
+      "text": "Nixie: مهمتك الأولى: لفة واحدة. اتبع الأثر الذهبي عبر كل نقطة تفتيش."
+    },
+    "first.hublater": {
+      "en": "Nixie: The hub is one press away on your Home page. People are better company than bots. Usually.",
+      "text": "Nixie: المركز على بُعد ضغطة واحدة في صفحتك الرئيسية. الناس رفقة أفضل من الروبوتات. عادةً."
+    },
+    "first.hubline": {
+      "en": "Nixie: Nice work. The other players hang out in the hub. Want to go meet them?",
+      "text": "Nixie: عمل رائع. اللاعبون الآخرون يتسكعون في المركز. هل تريد الذهاب للقائهم؟"
+    },
+    "first.hubsub": {
+      "en": "Where the people are",
+      "text": "حيث يوجد الناس"
+    },
+    "first.lap": {
+      "en": "RUN A LAP",
+      "text": "اركض لفة"
+    },
+    "first.later": {
+      "en": "LATER",
+      "text": "لاحقاً"
+    },
+    "first.line": {
+      "en": "Nixie: Pick one. Both work even when nobody else is online.",
+      "text": "Nixie: اختر واحدة. كلتاهما تعمل حتى لو لم يكن أحد غيرك متصلاً."
+    },
+    "first.saidbot": {
+      "en": "Nixie: Good choice. Taking you to the bot. It is not very smart.",
+      "text": "Nixie: اختيار جيد. سآخذك إلى الروبوت. إنه ليس ذكياً جداً."
+    },
+    "first.saidlap": {
+      "en": "Nixie: Good choice. Taking you to the park. Stretch first.",
+      "text": "Nixie: اختيار جيد. سآخذك إلى الحديقة. تمدّد أولاً."
+    },
+    "first.saidlater": {
+      "en": "Nixie: Fine. Your missions wait behind the glowing Dares button on your Home page.",
+      "text": "Nixie: حسناً. مهامك تنتظرك خلف زر التحديات المتوهج في صفحتك الرئيسية."
+    },
+    "first.tag": {
+      "en": "FIRST MISSION",
+      "text": "المهمة الأولى"
+    },
+    "friends.title": {
+      "en": "Friends",
+      "text": "الأصدقاء"
+    },
+    "guide.d.click": {
+      "en": "Click the stick",
+      "text": "اضغط العصا"
+    },
+    "guide.d.grab": {
+      "en": "Squeeze and hold",
+      "text": "اضغط واستمر"
+    },
+    "guide.d.onoff": {
+      "en": "Press: on or off",
+      "text": "اضغط: تشغيل أو إيقاف"
+    },
+    "guide.d.select": {
+      "en": "Aim the laser, pull the trigger",
+      "text": "وجّه الليزر واضغط الزناد"
+    },
+    "guide.d.sprint": {
+      "en": "Click the stick: sprint",
+      "text": "اضغط العصا: الركض"
+    },
+    "guide.d.turn": {
+      "en": "Flick the stick left or right",
+      "text": "حرّك العصا يميناً أو يساراً"
+    },
+    "guide.d.use": {
+      "en": "Pull the trigger",
+      "text": "اضغط الزناد"
+    },
+    "guide.d.wheel": {
+      "en": "Click the stick: quick menu",
+      "text": "اضغط العصا: القائمة السريعة"
+    },
+    "guide.hint": {
+      "en": "Hide these labels: hold both triggers",
+      "text": "لإخفاء هذه التسميات: اضغط الزنادين معاً باستمرار"
+    },
+    "guide.row": {
+      "en": "CONTROLLER GUIDE",
+      "text": "دليل أذرع التحكم"
+    },
+    "guide.t.grab": {
+      "en": "Grab",
+      "text": "الإمساك"
+    },
+    "guide.t.jump": {
+      "en": "Jump",
+      "text": "القفز"
+    },
+    "guide.t.laser": {
+      "en": "Laser",
+      "text": "الليزر"
+    },
+    "guide.t.menu": {
+      "en": "Menu",
+      "text": "القائمة"
+    },
+    "guide.t.select": {
+      "en": "Select",
+      "text": "التحديد"
+    },
+    "guide.t.use": {
+      "en": "Use",
+      "text": "الاستخدام"
+    },
+    "guns.blueteam": {
+      "en": "BLUE TEAM",
+      "text": "الفريق الأزرق"
+    },
+    "guns.free": {
+      "en": "FREE",
+      "text": "مجاني"
+    },
+    "guns.health": {
+      "en": "HEALTH",
+      "text": "الصحة"
+    },
+    "guns.needgold": {
+      "en": "You need {0} more gold for the {1}.",
+      "text": "تحتاج إلى {0} ذهب إضافي من أجل {1}."
+    },
+    "guns.nogold": {
+      "en": "Not enough gold for the {0}.",
+      "text": "لا يكفي الذهب من أجل {0}."
+    },
+    "guns.redteam": {
+      "en": "RED TEAM",
+      "text": "الفريق الأحمر"
+    },
+    "guns.reloadhint": {
+      "en": "R   reload",
+      "text": "R   إعادة التلقيم"
+    },
+    "guns.reloading": {
+      "en": "RELOADING",
+      "text": "إعادة التلقيم"
+    },
+    "guns.shield": {
+      "en": "SHIELD {0}",
+      "text": "الدرع {0}"
+    },
+    "hint.grab.desk": {
+      "en": "Press {0} to grab",
+      "text": "اضغط {0} للإمساك"
+    },
+    "hint.profile.desk": {
+      "en": "Press {0} to view profile",
+      "text": "اضغط {0} لعرض الملف الشخصي"
+    },
+    "hint.rotate.mouse": {
+      "en": "Middle mouse + move to rotate",
+      "text": "زر الفأرة الأوسط + التحريك للتدوير"
+    },
+    "hint.rotate.mouse2": {
+      "en": "Middle mouse: rotate · Scroll: closer / farther",
+      "text": "الزر الأوسط: تدوير · العجلة: تقريب / إبعاد"
+    },
+    "hint.rotate.pad": {
+      "en": "Hold RB + right stick to rotate",
+      "text": "اضغط RB + العصا اليمنى للتدوير"
+    },
+    "hint.use.desk": {
+      "en": "Press {0} to use",
+      "text": "اضغط {0} للاستخدام"
+    },
+    "hud.kicked": {
+      "en": "You have been kicked",
+      "text": "لقد تم طردك"
+    },
+    "hud.mapstale": {
+      "en": "Update needed - restart to view the latest map version",
+      "text": "التحديث مطلوب - أعد التشغيل لعرض أحدث نسخة من الخريطة"
+    },
+    "hud.standheight": {
+      "en": "Stand for a moment to set your height",
+      "text": "قف للحظة لتحديد طولك"
+    },
+    "hunt.banana": {
+      "en": "Nixie: Oh, and I lost my banana. I do not eat. It was for emotional support. Find it?",
+      "text": "Nixie: آه، وأضعت موزتي. أنا لا آكل. كانت للدعم العاطفي. أتجدها لي؟"
+    },
+    "hunt.bat": {
+      "en": "Nixie: Oh, and my baseball bat is missing. I only use it for gentle conversations. Find it?",
+      "text": "Nixie: آه، ومضرب البيسبول خاصتي مفقود. لا أستخدمه إلا في المحادثات اللطيفة. أتجده لي؟"
+    },
+    "hunt.cake": {
+      "en": "Nixie: Oh, and I hid a cake from myself. It worked too well. Find it?",
+      "text": "Nixie: آه، وخبّأت كعكة عن نفسي. نجحت الخطة أكثر من اللازم. أتجدها لي؟"
+    },
+    "hunt.candy": {
+      "en": "Nixie: Oh, and my nephew lost his candy around here. He is a toaster. Find it for him?",
+      "text": "Nixie: آه، وابن أخي أضاع حلواه هنا في مكان ما. إنه محمصة خبز. أتجدها له؟"
+    },
+    "hunt.chicken": {
+      "en": "Nixie: Oh, and I lost my chicken. A cooked one. I was keeping it as a pet. Do not ask. Find it?",
+      "text": "Nixie: آه، وأضعت دجاجتي. دجاجة مطبوخة. كنت أربيها كحيوان أليف. لا تسأل. أتجدها لي؟"
+    },
+    "hunt.dog": {
+      "en": "Nixie: Oh, and my toy dog ran off. It is a toy. It cannot run. That is what worries me. Find it?",
+      "text": "Nixie: آه، وكلبي اللعبة هرب. إنه لعبة. لا يستطيع الركض. وهذا ما يقلقني. أتجده لي؟"
+    },
+    "hunt.elephant": {
+      "en": "Nixie: Oh, and I misplaced a toy elephant. You would think that is hard to misplace. Find it?",
+      "text": "Nixie: آه، وأضعت فيلاً لعبة. قد تظن أن إضاعة فيل أمر صعب. أتجده لي؟"
+    },
+    "hunt.fish": {
+      "en": "Nixie: Oh, and my fish went for a walk. That is not normal, which is why I need it back. Find it?",
+      "text": "Nixie: آه، وسمكتي خرجت في نزهة. هذا ليس طبيعياً، ولهذا أريد استعادتها. أتجدها لي؟"
+    },
+    "hunt.found1": {
+      "en": "Nixie: You found it. I will pretend I was not worried.",
+      "text": "Nixie: وجدت المفقود. سأتظاهر بأنني لم أكن قلقة."
+    },
+    "hunt.found2": {
+      "en": "Nixie: Found it. I owe you one. I will not say which one.",
+      "text": "Nixie: عُثر عليه. لك عندي معروف. لن أقول أيّ معروف."
+    },
+    "hunt.found3": {
+      "en": "Nixie: There it is. You are better at this than I am, and I have sensors.",
+      "text": "Nixie: ها هو. أنت أبرع مني في هذا، ولديّ مستشعرات."
+    },
+    "hunt.hat": {
+      "en": "Nixie: Oh, and I lost my hat. I do not need a hat. That is not the point. Find it?",
+      "text": "Nixie: آه، وأضعت قبعتي. لا أحتاج إلى قبعة. ليس هذا المقصود. أتجدها لي؟"
+    },
+    "hunt.horse": {
+      "en": "Nixie: Oh, and my toy horse is missing. It was the fast one. Find it?",
+      "text": "Nixie: آه، وحصاني اللعبة مفقود. كان الحصان السريع. أتجده لي؟"
+    },
+    "hunt.huball": {
+      "en": "Nixie: All three found. That is the bonus. I will lose more by tomorrow.",
+      "text": "Nixie: وُجدت الثلاثة كلها. هذه هي المكافأة. سأضيّع المزيد بحلول الغد."
+    },
+    "hunt.hubask": {
+      "en": "Nixie: Three of my things are lost around the hub today. Find all three for a bigger bonus. I would look myself, but I am busy standing.",
+      "text": "Nixie: ضاعت ثلاثة من أغراضي في أرجاء المركز اليوم. اعثر على الثلاثة لتحصل على مكافأة أكبر. كنت سأبحث بنفسي، لكنني مشغولة بالوقوف."
+    },
+    "hunt.hubone": {
+      "en": "Nixie: That is one. Two more somewhere in the hub.",
+      "text": "Nixie: هذا واحد. بقي غرضان في مكان ما في المركز."
+    },
+    "hunt.hubover": {
+      "en": "Nixie: You found all three today. I will lose more by tomorrow. It is a gift.",
+      "text": "Nixie: وجدت الثلاثة كلها اليوم. سأضيّع المزيد بحلول الغد. إنها موهبة."
+    },
+    "hunt.hubtwo": {
+      "en": "Nixie: That is two. One more.",
+      "text": "Nixie: هذان اثنان. بقي واحد."
+    },
+    "hunt.icecream": {
+      "en": "Nixie: Oh, and I left an ice cream somewhere. It has probably not melted. Probably. Find it?",
+      "text": "Nixie: آه، وتركت مثلجات في مكان ما. على الأرجح لم تذب. على الأرجح. أتجدها لي؟"
+    },
+    "instance.mic": {
+      "en": "MICROPHONE",
+      "text": "الميكروفون"
+    },
+    "instance.muted": {
+      "en": "MUTED",
+      "text": "مكتوم"
+    },
+    "instance.users": {
+      "en": "Users In Instance",
+      "text": "المستخدمون في الجلسة"
+    },
+    "instance.world": {
+      "en": "WORLD",
+      "text": "العالم"
+    },
+    "kb.back": {
+      "en": "Back",
+      "text": "حذف"
+    },
+    "kb.clear": {
+      "en": "Clear",
+      "text": "مسح"
+    },
+    "kb.space": {
+      "en": "Space",
+      "text": "مسافة"
+    },
+    "kb.typetosearch": {
+      "en": "Type to search…",
+      "text": "اكتب للبحث…"
+    },
+    "level.up": {
+      "en": "Level up! You are level {0}.",
+      "text": "ارتقيت مستوى! أنت الآن في المستوى {0}."
+    },
+    "nav.alerts": {
+      "en": "Alerts",
+      "text": "التنبيهات"
+    },
+    "nav.avatars": {
+      "en": "Avatars",
+      "text": "الأفاتارات"
+    },
+    "nav.camera": {
+      "en": "Camera",
+      "text": "الكاميرا"
+    },
+    "nav.fbt": {
+      "en": "FBT",
+      "text": "FBT"
+    },
+    "nav.gohome": {
+      "en": "Go Home",
+      "text": "الذهاب للمنزل"
+    },
+    "nav.nearby": {
+      "en": "Nearby",
+      "text": "القريبون"
+    },
+    "nav.power": {
+      "en": "Power",
+      "text": "الطاقة"
+    },
+    "nav.settings": {
+      "en": "Settings",
+      "text": "الإعدادات"
+    },
+    "nav.supporter": {
+      "en": "Supporter",
+      "text": "الداعم"
+    },
+    "nav.worlds": {
+      "en": "Worlds",
+      "text": "العوالم"
+    },
+    "notif.events": {
+      "en": "Events",
+      "text": "الفعاليات"
+    },
+    "notif.invitedto": {
+      "en": "sent you a game invite to",
+      "text": "أرسل لك دعوة للعب في"
+    },
+    "notif.invites": {
+      "en": "Invites",
+      "text": "الدعوات"
+    },
+    "notif.live": {
+      "en": "LIVE NOW",
+      "text": "مباشر الآن"
+    },
+    "notif.noevents": {
+      "en": "No events scheduled right now - check back soon.",
+      "text": "لا توجد فعاليات مجدولة حاليًا - عد قريبًا."
+    },
+    "notif.noinvites": {
+      "en": "No pending invites.",
+      "text": "لا توجد دعوات معلقة."
+    },
+    "notif.title": {
+      "en": "Notifications",
+      "text": "الإشعارات"
+    },
+    "pool.backspot": {
+      "en": "That ball goes back on its spot.",
+      "text": "تعود تلك الكرة إلى مكانها."
+    },
+    "pool.ball": {
+      "en": "ball {0}",
+      "text": "الكرة {0}"
+    },
+    "pool.busy": {
+      "en": "The pool table is busy: a game is on.",
+      "text": "طاولة البلياردو مشغولة: هناك مباراة جارية."
+    },
+    "pool.cleared": {
+      "en": "Table cleared!",
+      "text": "أُفرغت الطاولة!"
+    },
+    "pool.clearednew": {
+      "en": "Table cleared. A new rack is coming.",
+      "text": "أُفرغت الطاولة. ترتيب جديد قادم."
+    },
+    "pool.early8": {
+      "en": "{0} sank the 8 ball too early.",
+      "text": "{0} أدخل الكرة 8 مبكراً جداً."
+    },
+    "pool.eight": {
+      "en": "the 8 ball",
+      "text": "الكرة 8"
+    },
+    "pool.foulnone": {
+      "en": "Foul - no ball was hit.",
+      "text": "خطأ - لم تُضرب أي كرة."
+    },
+    "pool.foulwhite": {
+      "en": "Foul - the white ball went in.",
+      "text": "خطأ - دخلت الكرة البيضاء."
+    },
+    "pool.foulwrong": {
+      "en": "Foul - the wrong ball was hit first.",
+      "text": "خطأ - ضُربت الكرة الخطأ أولاً."
+    },
+    "pool.gameover": {
+      "en": "Game over",
+      "text": "انتهت اللعبة"
+    },
+    "pool.hold": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  wheel: high or low",
+      "text": "اضغط باستمرار زر الفأرة الأيسر، اسحب للخلف للقوة، وأفلت للضرب  |  العجلة: عالية أو منخفضة"
+    },
+    "pool.holddrag": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  drag the white ball to move it  |  wheel: high or low",
+      "text": "اضغط باستمرار زر الفأرة الأيسر، اسحب للخلف للقوة، وأفلت للضرب  |  اسحب الكرة البيضاء لتحريكها  |  العجلة: عالية أو منخفضة"
+    },
+    "pool.howdesk": {
+      "en": "Look at the spot the white ball should roll toward. Hold LEFT MOUSE for power, let go to shoot. RIGHT MOUSE cancels. Mouse wheel: hit high or low.",
+      "text": "انظر إلى النقطة التي يجب أن تتدحرج نحوها الكرة البيضاء. اضغط باستمرار زر الفأرة الأيسر للقوة، وأفلته للضرب. زر الفأرة الأيمن يلغي. عجلة الفأرة: ضربة عالية أو منخفضة."
+    },
+    "pool.howvr": {
+      "en": "Grab a cue with the hand you push with, then steady the front with your other hand and push the tip through the white ball. Low on the ball pulls it back, high lets it follow.",
+      "text": "أمسك عصا البلياردو باليد التي تدفع بها، ثم ثبّت مقدمتها بيدك الأخرى وادفع طرفها عبر الكرة البيضاء. الضرب أسفل الكرة يعيدها للخلف، والضرب أعلاها يجعلها تتبع."
+    },
+    "pool.needgold": {
+      "en": "You need {0} more gold to play pool.",
+      "text": "تحتاج إلى {0} ذهب إضافي للعب البلياردو."
+    },
+    "pool.newrack": {
+      "en": "New rack. The white ball can be placed for the break.",
+      "text": "ترتيب جديد. يمكن وضع الكرة البيضاء لضربة الافتتاح."
+    },
+    "pool.nogold": {
+      "en": "Not enough gold to play pool.",
+      "text": "لا يكفي الذهب للعب البلياردو."
+    },
+    "pool.open": {
+      "en": "open table",
+      "text": "طاولة مفتوحة"
+    },
+    "pool.p1": {
+      "en": "Player 1",
+      "text": "اللاعب 1"
+    },
+    "pool.p2": {
+      "en": "Player 2",
+      "text": "اللاعب 2"
+    },
+    "pool.practicejoin": {
+      "en": "Practice - shoot to practise, or JOIN to start a game.",
+      "text": "تدريب - اضرب لتتدرّب، أو اضغط «انضمام» لبدء مباراة."
+    },
+    "pool.practicenoturns": {
+      "en": "Practice - no turns, no winner. Another player can JOIN for a game.",
+      "text": "تدريب - بلا أدوار، بلا فائز. يمكن للاعب آخر الضغط على «انضمام» لمباراة."
+    },
+    "pool.practiceplace": {
+      "en": "Practice - put the white ball where you like, then shoot",
+      "text": "تدريب - ضع الكرة البيضاء حيث تشاء، ثم اضرب"
+    },
+    "pool.practising": {
+      "en": "{0} is practising. JOIN to play a game against them.",
+      "text": "{0} يتدرّب. اضغط «انضمام» لتلعب مباراة ضده."
+    },
+    "pool.pullback": {
+      "en": "Pull the mouse back for power, let go to shoot  |  RIGHT MOUSE cancels",
+      "text": "اسحب الفأرة للخلف للقوة، وأفلت للضرب  |  زر الفأرة الأيمن يلغي"
+    },
+    "pool.putdown": {
+      "en": "Let go to put the white ball down",
+      "text": "أفلت لوضع الكرة البيضاء"
+    },
+    "pool.seat": {
+      "en": "A seat opened up.",
+      "text": "أصبح هناك مقعد شاغر."
+    },
+    "pool.seatopen": {
+      "en": "A pool game is on with a seat open. Press JOIN on the panel to play.",
+      "text": "هناك مباراة بلياردو جارية ومقعد شاغر. اضغط «انضمام» على اللوحة لتلعب."
+    },
+    "pool.solids": {
+      "en": "{0} plays solids.",
+      "text": "{0} يلعب بالكرات المصمتة."
+    },
+    "pool.stepup": {
+      "en": "Step up to the pool table first.",
+      "text": "اقترب من طاولة البلياردو أولاً."
+    },
+    "pool.stripes": {
+      "en": "{0} plays stripes.",
+      "text": "{0} يلعب بالكرات المخططة."
+    },
+    "pool.toshoot": {
+      "en": "{0} to shoot - {1}",
+      "text": "دور {0} - {1}"
+    },
+    "pool.unseated": {
+      "en": "You are no longer seated at the pool table. Press JOIN on its panel to play again.",
+      "text": "لم تعد جالساً إلى طاولة البلياردو. اضغط «انضمام» على لوحتها لتلعب مجدداً."
+    },
+    "pool.using": {
+      "en": "{0} is using the pool table. Press JOIN on its panel to play a game against them.",
+      "text": "{0} يستخدم طاولة البلياردو. اضغط «انضمام» على لوحتها لتلعب مباراة ضده."
+    },
+    "pool.wins": {
+      "en": "{0} wins!",
+      "text": "{0} يفوز!"
+    },
+    "pool.winsgame": {
+      "en": "{0} wins the game!",
+      "text": "{0} يفوز بالمباراة!"
+    },
+    "pool.yourturn": {
+      "en": "Your turn.",
+      "text": "دورك."
+    },
+    "pool.yourturnhand": {
+      "en": "Your turn - ball in hand.",
+      "text": "دورك - الكرة في يدك."
+    },
+    "portal.closed": {
+      "en": "PORTAL CLOSED",
+      "text": "البوابة مغلقة"
+    },
+    "portal.dlfailed": {
+      "en": "Couldn't download \"{0}\"",
+      "text": "تعذّر تنزيل \"{0}\""
+    },
+    "portal.dlpct": {
+      "en": "DOWNLOADING  {0}%",
+      "text": "جارٍ التنزيل  {0}%"
+    },
+    "portal.downloading": {
+      "en": "DOWNLOADING…",
+      "text": "جارٍ التنزيل…"
+    },
+    "portal.droppedby": {
+      "en": "Dropped by {0}",
+      "text": "أسقطه {0}"
+    },
+    "portal.getting": {
+      "en": "Getting \"{0}\"…",
+      "text": "جارٍ جلب \"{0}\"…"
+    },
+    "portal.gettingpct": {
+      "en": "Getting \"{0}\"… {1}%",
+      "text": "جارٍ جلب \"{0}\"… {1}%"
+    },
+    "portal.gonow": {
+      "en": "GO NOW  ({0} READY)",
+      "text": "انطلق الآن  ({0} جاهزون)"
+    },
+    "portal.groupleft": {
+      "en": "GROUP LEFT  ·  QUEUE TO FOLLOW",
+      "text": "غادرت المجموعة  ·  انضم للطابور للحاق"
+    },
+    "portal.leavequeue": {
+      "en": "LEAVE QUEUE",
+      "text": "مغادرة الطابور"
+    },
+    "portal.leaving": {
+      "en": "LEAVING…",
+      "text": "جارٍ المغادرة…"
+    },
+    "portal.leavingbehind": {
+      "en": "LEAVING  ·  {0} will follow when ready",
+      "text": "جارٍ المغادرة  ·  {0} سيلحقون عند الجاهزية"
+    },
+    "portal.leavingtogether": {
+      "en": "LEAVING TOGETHER",
+      "text": "المغادرة معًا"
+    },
+    "portal.nobodyqueued": {
+      "en": "NOBODY QUEUED YET",
+      "text": "لا أحد في الطابور بعد"
+    },
+    "portal.queued": {
+      "en": "{0} QUEUED",
+      "text": "{0} في الطابور"
+    },
+    "portal.queuedplus": {
+      "en": "{0} QUEUED  ·  {1} DOWNLOADING",
+      "text": "{0} في الطابور  ·  {1} قيد التنزيل"
+    },
+    "portal.queueup": {
+      "en": "QUEUE UP",
+      "text": "الانضمام للطابور"
+    },
+    "portal.ready": {
+      "en": "\"{0}\" ready",
+      "text": "\"{0}\" جاهز"
+    },
+    "portal.starting": {
+      "en": "STARTING…",
+      "text": "جارٍ البدء…"
+    },
+    "portal.startingwait": {
+      "en": "STARTING  ·  waiting for {0}",
+      "text": "جارٍ البدء  ·  في انتظار {0}"
+    },
+    "presence.joined1": {
+      "en": "{0} joined",
+      "text": "انضم {0}"
+    },
+    "presence.joined2": {
+      "en": "{0} and {1} joined",
+      "text": "انضم {0} و{1}"
+    },
+    "presence.joinedn": {
+      "en": "{0} +{1} joined",
+      "text": "انضم {0} +{1}"
+    },
+    "presence.left1": {
+      "en": "{0} left",
+      "text": "غادر {0}"
+    },
+    "presence.left2": {
+      "en": "{0} and {1} left",
+      "text": "غادر {0} و{1}"
+    },
+    "presence.leftn": {
+      "en": "{0} +{1} left",
+      "text": "غادر {0} +{1}"
+    },
+    "profile.achievements": {
+      "en": "Achievements",
+      "text": "الإنجازات"
+    },
+    "profile.addfriend": {
+      "en": "Add friend",
+      "text": "إضافة صديق"
+    },
+    "profile.arcade": {
+      "en": "Arcade",
+      "text": "الأركيد"
+    },
+    "profile.badge.avatar": {
+      "en": "Avatar creator",
+      "text": "صانع أفاتارات"
+    },
+    "profile.badge.helper": {
+      "en": "Helper",
+      "text": "مساعد"
+    },
+    "profile.badge.new": {
+      "en": "New player",
+      "text": "لاعب جديد"
+    },
+    "profile.badge.partner": {
+      "en": "Partner",
+      "text": "شريك"
+    },
+    "profile.badge.staff": {
+      "en": "Staff",
+      "text": "الطاقم"
+    },
+    "profile.badge.streamer": {
+      "en": "Streamer",
+      "text": "صانع بث"
+    },
+    "profile.badge.world": {
+      "en": "World creator",
+      "text": "صانع عوالم"
+    },
+    "profile.bestjogger": {
+      "en": "Best jogger",
+      "text": "أفضل عدّاء"
+    },
+    "profile.bronze": {
+      "en": "Bronze",
+      "text": "برونزي"
+    },
+    "profile.competitive": {
+      "en": "Competitive",
+      "text": "تنافسي"
+    },
+    "profile.crown": {
+      "en": "Crown",
+      "text": "التاج"
+    },
+    "profile.darecompleter": {
+      "en": "Dare completer",
+      "text": "منجز التحديات"
+    },
+    "profile.dayone": {
+      "en": "Day One",
+      "text": "من اليوم الأول"
+    },
+    "profile.empty": {
+      "en": "Has not played VR Realms yet.",
+      "text": "لم يلعب VR Realms بعد."
+    },
+    "profile.ffa": {
+      "en": "Free for all",
+      "text": "«الكل ضد الكل»"
+    },
+    "profile.goback": {
+      "en": "Go back",
+      "text": "رجوع"
+    },
+    "profile.gold": {
+      "en": "Gold",
+      "text": "ذهبي"
+    },
+    "profile.helpful": {
+      "en": "Helpful",
+      "text": "مفيد"
+    },
+    "profile.hidden": {
+      "en": "{0} (hidden)",
+      "text": "{0} (مخفية)"
+    },
+    "profile.hidden.other": {
+      "en": "This player keeps their profile private.",
+      "text": "هذا اللاعب يُبقي ملفه الشخصي خاصاً."
+    },
+    "profile.hidden.self": {
+      "en": "Your profile is hidden from other players.",
+      "text": "ملفك الشخصي مخفي عن اللاعبين الآخرين."
+    },
+    "profile.hours": {
+      "en": "{0} h",
+      "text": "{0} س"
+    },
+    "profile.invite": {
+      "en": "Invite to VR Realms",
+      "text": "ادعُه إلى VR Realms"
+    },
+    "profile.invite.reward": {
+      "en": "{0} gold for you when they join",
+      "text": "{0} ذهب لك عند انضمامه"
+    },
+    "profile.invited": {
+      "en": "Invite sent",
+      "text": "تم إرسال الدعوة"
+    },
+    "profile.last.days": {
+      "en": "Last online {0} days ago",
+      "text": "آخر ظهور قبل {0} يوم"
+    },
+    "profile.last.h": {
+      "en": "Last online {0} h ago",
+      "text": "آخر ظهور قبل {0} ساعة"
+    },
+    "profile.last.min": {
+      "en": "Last online {0} min ago",
+      "text": "آخر ظهور قبل {0} دقيقة"
+    },
+    "profile.level": {
+      "en": "Level {0}",
+      "text": "المستوى {0}"
+    },
+    "profile.loadfail": {
+      "en": "Could not load this profile. Trying again.",
+      "text": "تعذّر تحميل هذا الملف الشخصي. جارٍ إعادة المحاولة."
+    },
+    "profile.member": {
+      "en": "Member since {0}",
+      "text": "عضو منذ {0}"
+    },
+    "profile.minutes": {
+      "en": "{0} min",
+      "text": "{0} د"
+    },
+    "profile.more": {
+      "en": "+{0} more",
+      "text": "+{0} أخرى"
+    },
+    "profile.none": {
+      "en": "This player has no profile.",
+      "text": "هذا اللاعب ليس له ملف شخصي."
+    },
+    "profile.online": {
+      "en": "Online now",
+      "text": "متصل الآن"
+    },
+    "profile.parkjogger": {
+      "en": "Park jogger",
+      "text": "عدّاء الحديقة"
+    },
+    "profile.pool": {
+      "en": "Pool",
+      "text": "البلياردو"
+    },
+    "profile.private": {
+      "en": "This player keeps their stats private.",
+      "text": "هذا اللاعب يُبقي إحصاءاته خاصة."
+    },
+    "profile.published": {
+      "en": "{0} published",
+      "text": "{0} منشورة"
+    },
+    "profile.rank.creatorall": {
+      "en": "#{0}  Creator hours all time",
+      "text": "#{0}  ساعات المبدع كل الأوقات"
+    },
+    "profile.rank.creatormonth": {
+      "en": "#{0}  Creator hours this month",
+      "text": "#{0}  ساعات المبدع هذا الشهر"
+    },
+    "profile.rank.goldall": {
+      "en": "#{0}  Gold all time",
+      "text": "#{0}  ذهب كل الأوقات"
+    },
+    "profile.rank.goldmonth": {
+      "en": "#{0}  Gold this month",
+      "text": "#{0}  ذهب هذا الشهر"
+    },
+    "profile.rank.timeall": {
+      "en": "#{0}  Most active all time",
+      "text": "#{0}  الأكثر نشاطاً كل الأوقات"
+    },
+    "profile.rank.timemonth": {
+      "en": "#{0}  Most active this month",
+      "text": "#{0}  الأكثر نشاطاً هذا الشهر"
+    },
+    "profile.rank.topavatars": {
+      "en": "#{0}  Top avatars",
+      "text": "#{0}  أفضل الأفاتارات"
+    },
+    "profile.rank.topcreators": {
+      "en": "#{0}  Top creators",
+      "text": "#{0}  أفضل المبدعين"
+    },
+    "profile.rank.topworlds": {
+      "en": "#{0}  Top worlds",
+      "text": "#{0}  أفضل العوالم"
+    },
+    "profile.rankings": {
+      "en": "Rankings",
+      "text": "التصنيفات"
+    },
+    "profile.rarity": {
+      "en": "{0}% of players",
+      "text": "{0}% من اللاعبين"
+    },
+    "profile.rate.daily": {
+      "en": "You have given all your thumbs-ups for today.",
+      "text": "لقد منحت كل إعجاباتك لهذا اليوم."
+    },
+    "profile.rate.failed": {
+      "en": "That did not go through. Try again in a moment.",
+      "text": "لم يتم الإرسال. حاول مجدداً بعد لحظة."
+    },
+    "profile.rate.need": {
+      "en": "Play {0} minutes together to rate",
+      "text": "العبا معاً {0} دقيقة للتقييم"
+    },
+    "profile.report": {
+      "en": "Report player",
+      "text": "إبلاغ عن اللاعب"
+    },
+    "profile.show": {
+      "en": "Show",
+      "text": "إظهار"
+    },
+    "profile.silver": {
+      "en": "Silver",
+      "text": "فضي"
+    },
+    "profile.since": {
+      "en": "since {0}",
+      "text": "منذ {0}"
+    },
+    "profile.stat.creator": {
+      "en": "Time in their worlds",
+      "text": "الوقت في عوالمه"
+    },
+    "profile.stat.gold": {
+      "en": "Gold earned",
+      "text": "الذهب المكتسب"
+    },
+    "profile.stat.playtime": {
+      "en": "Playtime",
+      "text": "وقت اللعب"
+    },
+    "profile.stat.worlds": {
+      "en": "Worlds visited",
+      "text": "عوالم تمت زيارتها"
+    },
+    "profile.steam.online": {
+      "en": "Online on Steam",
+      "text": "متصل على Steam"
+    },
+    "profile.streak": {
+      "en": "{0}-day streak",
+      "text": "سلسلة {0} يوم"
+    },
+    "profile.sure": {
+      "en": "Sure?",
+      "text": "متأكد؟"
+    },
+    "profile.tapbadge": {
+      "en": "Tap a badge to show or hide it on your head plate.",
+      "text": "انقر على شارة لإظهارها أو إخفائها على لوحتك."
+    },
+    "profile.teamffa": {
+      "en": "Team free for all",
+      "text": "«الكل ضد الكل» بالفرق"
+    },
+    "profile.title": {
+      "en": "Profile",
+      "text": "الملف الشخصي"
+    },
+    "profile.visit": {
+      "en": "Visit",
+      "text": "زيارة"
+    },
+    "profile.wear": {
+      "en": "Wear",
+      "text": "ارتداء"
+    },
+    "profile.wearing": {
+      "en": "Wearing",
+      "text": "يرتدي"
+    },
+    "session.gone": {
+      "en": "Couldn't connect — that session is no longer available.",
+      "text": "تعذّر الاتصال — تلك الجلسة لم تعد متاحة."
+    },
+    "session.handing": {
+      "en": "Handing over…",
+      "text": "جارٍ التسليم…"
+    },
+    "session.handover": {
+      "en": "Handing over to a new host",
+      "text": "جارٍ التسليم إلى مضيف جديد"
+    },
+    "session.moving": {
+      "en": "Moving you to the new host",
+      "text": "جارٍ نقلك إلى المضيف الجديد"
+    },
+    "session.transitfail": {
+      "en": "Steam could not open that world just now. Back home: try again in a moment.",
+      "text": "تعذّر على Steam فتح ذلك العالم الآن. عدت إلى المنزل: حاول مجدداً بعد قليل."
+    },
+    "settings.aa": {
+      "en": "Anti-Aliasing",
+      "text": "تنعيم الحواف"
+    },
+    "settings.access.hdr": {
+      "en": "ACCESSIBILITY",
+      "text": "إمكانية الوصول"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "text": "الأجواء"
+    },
+    "settings.autodecline": {
+      "en": "Auto Decline Invites",
+      "text": "رفض الدعوات تلقائيًا"
+    },
+    "settings.autodecline.sub": {
+      "en": "Decline all world invites automatically",
+      "text": "رفض جميع دعوات العوالم تلقائيًا"
+    },
+    "settings.autodl": {
+      "en": "Auto Download Avatars",
+      "text": "تنزيل الأفاتارات تلقائيًا"
+    },
+    "settings.autodl.sub": {
+      "en": "Automatically download new avatar assets",
+      "text": "تنزيل الأفاتارات الجديدة تلقائيًا"
+    },
+    "settings.builddate": {
+      "en": "Build Date",
+      "text": "تاريخ البناء"
+    },
+    "settings.buildver": {
+      "en": "Build Version",
+      "text": "إصدار البناء"
+    },
+    "settings.censor": {
+      "en": "Censor Chat",
+      "text": "فلترة الدردشة"
+    },
+    "settings.censor.sub": {
+      "en": "Filter profanity and slurs in chat for everyone here",
+      "text": "تصفية الألفاظ المسيئة في الدردشة للجميع هنا"
+    },
+    "settings.changedevice": {
+      "en": "Change Device",
+      "text": "تغيير الجهاز"
+    },
+    "settings.climb": {
+      "en": "Allow Climbing",
+      "text": "السماح بالتسلق"
+    },
+    "settings.climb.sub": {
+      "en": "Let guests use climbing locomotion in your instance",
+      "text": "السماح للضيوف بالتسلق في جلستك"
+    },
+    "settings.dialogue": {
+      "en": "Dialogue",
+      "text": "الحوار"
+    },
+    "settings.dlworlds": {
+      "en": "Downloaded Worlds",
+      "text": "العوالم المُنزّلة"
+    },
+    "settings.dlworlds.value": {
+      "en": "{0} kept  ·  {1} MB",
+      "text": "{0} محفوظ  ·  {1} ميجابايت"
+    },
+    "settings.effects": {
+      "en": "Effects",
+      "text": "المؤثرات"
+    },
+    "settings.foliage": {
+      "en": "Foliage",
+      "text": "النباتات"
+    },
+    "settings.forcemove": {
+      "en": "Force Movement Style (everyone here)",
+      "text": "فرض نمط الحركة (على الجميع هنا)"
+    },
+    "settings.foveated": {
+      "en": "Foveated Rendering",
+      "text": "العرض البؤري"
+    },
+    "settings.foveated.sub": {
+      "en": "Cheaper edges of vision - takes effect on restart",
+      "text": "حواف رؤية أخف - يُطبق عند إعادة التشغيل"
+    },
+    "settings.fps": {
+      "en": "FPS Counter",
+      "text": "عداد الإطارات"
+    },
+    "settings.fps.sub": {
+      "en": "Display frames per second overlay",
+      "text": "عرض عدد الإطارات في الثانية"
+    },
+    "settings.fpscap": {
+      "en": "FPS Cap",
+      "text": "حد الإطارات"
+    },
+    "settings.fpscap.sub": {
+      "en": "In VR at least 90 is used",
+      "text": "في الواقع الافتراضي يُستخدم 90 على الأقل"
+    },
+    "settings.fpsvalue": {
+      "en": "Frames per second",
+      "text": "إطارات في الثانية"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "text": "ملء الشاشة"
+    },
+    "settings.gpu": {
+      "en": "Detected GPU",
+      "text": "المعالج الرسومي"
+    },
+    "settings.hideboards": {
+      "en": "Hide Me From Leaderboards",
+      "text": "إخفائي من لوحات الصدارة"
+    },
+    "settings.hideboards.sub": {
+      "en": "Keeps your name off the hub boards. Your playtime and creator hours still count.",
+      "text": "يبقي اسمك خارج لوحات الهب. ساعات لعبك وساعات الإنشاء لا تزال تُحتسب."
+    },
+    "settings.homeprivate": {
+      "en": "Make Home Private",
+      "text": "اجعل منزلك خاصًا"
+    },
+    "settings.homeprivate.sub": {
+      "en": "Stop your home appearing in Browse and to friends",
+      "text": "منع ظهور منزلك في التصفح ولدى الأصدقاء"
+    },
+    "settings.host.hdr": {
+      "en": "YOUR INSTANCE (HOST ONLY)",
+      "text": "جلستك (للمضيف فقط)"
+    },
+    "settings.hostmedia": {
+      "en": "Host-Only Media",
+      "text": "الوسائط للمضيف فقط"
+    },
+    "settings.hostmedia.sub": {
+      "en": "Only you can play, stop or retune TVs and jukeboxes here",
+      "text": "أنت وحدك من يمكنه تشغيل أو إيقاف أو تغيير التلفاز والموسيقى هنا"
+    },
+    "settings.master": {
+      "en": "Master Sound",
+      "text": "الصوت الرئيسي"
+    },
+    "settings.micenabled": {
+      "en": "Microphone Enabled",
+      "text": "الميكروفون مفعّل"
+    },
+    "settings.micenabled.sub": {
+      "en": "Transmit your voice to others",
+      "text": "انقل صوتك إلى الآخرين"
+    },
+    "settings.movestyle": {
+      "en": "Movement Style",
+      "text": "نمط الحركة"
+    },
+    "settings.nameplates": {
+      "en": "Show Nameplates on Stream",
+      "text": "إظهار الأسماء أثناء البث"
+    },
+    "settings.nameplates.sub": {
+      "en": "Show player name tags in the camera / streaming view",
+      "text": "إظهار بطاقات أسماء اللاعبين في الكاميرا وواجهة البث"
+    },
+    "settings.ping": {
+      "en": "Ping Display",
+      "text": "عرض البِنغ"
+    },
+    "settings.ping.sub": {
+      "en": "Display network latency overlay",
+      "text": "عرض تأخير الشبكة"
+    },
+    "settings.pingvalue": {
+      "en": "Ping to host",
+      "text": "البِنغ إلى المضيف"
+    },
+    "settings.pixeldensity": {
+      "en": "Render Resolution (VR)",
+      "text": "دقة العرض (VR)"
+    },
+    "settings.postprocess": {
+      "en": "Post Process",
+      "text": "المعالجة اللاحقة"
+    },
+    "settings.preset": {
+      "en": "Overall Quality",
+      "text": "الجودة العامة"
+    },
+    "settings.profilehidden": {
+      "en": "Hide My Profile",
+      "text": "إخفاء ملفي الشخصي"
+    },
+    "settings.profilehidden.sub": {
+      "en": "Other players see only your name and picture. Nothing stops counting.",
+      "text": "يرى اللاعبون الآخرون اسمك وصورتك فقط. كل شيء يستمر في العدّ."
+    },
+    "settings.reflections": {
+      "en": "Reflections",
+      "text": "الانعكاسات"
+    },
+    "settings.reportbug": {
+      "en": "Report a Bug",
+      "text": "الإبلاغ عن خلل"
+    },
+    "settings.restarthint": {
+      "en": "Some changes apply after a restart.",
+      "text": "بعض التغييرات تُطبق بعد إعادة التشغيل."
+    },
+    "settings.sfx": {
+      "en": "Sound Effects",
+      "text": "المؤثرات الصوتية"
+    },
+    "settings.shadow": {
+      "en": "Shadow Quality",
+      "text": "جودة الظلال"
+    },
+    "settings.smoothturn": {
+      "en": "Smooth Turning",
+      "text": "دوران سلس"
+    },
+    "settings.smoothturn.sub": {
+      "en": "Gradual rotation instead of snap turning",
+      "text": "دوران تدريجي بدلًا من الدوران المتقطع"
+    },
+    "settings.streamer": {
+      "en": "Streamer Mode",
+      "text": "وضع البث"
+    },
+    "settings.streamer.sub": {
+      "en": "Hide personal information for streaming",
+      "text": "إخفاء المعلومات الشخصية أثناء البث"
+    },
+    "settings.swaphands": {
+      "en": "Swap Hands",
+      "text": "تبديل اليدين"
+    },
+    "settings.swaphands.sub": {
+      "en": "Move the menu and laser to your other hand",
+      "text": "انقل القائمة والليزر إلى يدك الأخرى"
+    },
+    "settings.tab.access": {
+      "en": "Access.",
+      "text": "وصول"
+    },
+    "settings.tab.comfort": {
+      "en": "Comfort",
+      "text": "الراحة"
+    },
+    "settings.tab.graphics": {
+      "en": "Graphics",
+      "text": "الرسوميات"
+    },
+    "settings.tab.mic": {
+      "en": "Mic",
+      "text": "مايك"
+    },
+    "settings.texture": {
+      "en": "Texture Quality",
+      "text": "جودة الخامات"
+    },
+    "settings.turnspeed": {
+      "en": "Turn Speed",
+      "text": "سرعة الدوران"
+    },
+    "settings.tvmedia": {
+      "en": "TV / Media",
+      "text": "التلفاز / الوسائط"
+    },
+    "settings.viewdist": {
+      "en": "View Distance",
+      "text": "مسافة الرؤية"
+    },
+    "settings.voices": {
+      "en": "Voices",
+      "text": "الأصوات"
+    },
+    "status.checkingupdates": {
+      "en": "Checking for updates…",
+      "text": "جارٍ البحث عن تحديثات…"
+    },
+    "status.connecting": {
+      "en": "Connecting…",
+      "text": "جارٍ الاتصال…"
+    },
+    "status.couldntjoin": {
+      "en": "Couldn't join",
+      "text": "تعذر الانضمام"
+    },
+    "status.couldntprepare": {
+      "en": "Couldn't prepare the map",
+      "text": "تعذر تحضير الخريطة"
+    },
+    "status.downloadfailed": {
+      "en": "Download failed",
+      "text": "فشل التنزيل"
+    },
+    "status.downloadingworld": {
+      "en": "Downloading world update…",
+      "text": "جارٍ تنزيل تحديث العالم…"
+    },
+    "status.friendretry": {
+      "en": "Friend's session not ready — retrying…",
+      "text": "الجلسة غير جاهزة — جارٍ إعادة المحاولة…"
+    },
+    "status.joining": {
+      "en": "Joining…",
+      "text": "جارٍ الانضمام…"
+    },
+    "status.joiningfriend": {
+      "en": "Joining friend's session…",
+      "text": "جارٍ الانضمام إلى جلسة الصديق…"
+    },
+    "status.levelnotfound": {
+      "en": "Level not found",
+      "text": "المستوى غير موجود"
+    },
+    "status.loading": {
+      "en": "Loading",
+      "text": "جارٍ التحميل"
+    },
+    "status.lookinghost": {
+      "en": "Looking for a host…",
+      "text": "جارٍ البحث عن مضيف…"
+    },
+    "status.lookinglevel": {
+      "en": "Looking up level…",
+      "text": "جارٍ البحث عن المستوى…"
+    },
+    "status.preparing": {
+      "en": "Preparing…",
+      "text": "جارٍ التحضير…"
+    },
+    "status.startingdl": {
+      "en": "Starting download…",
+      "text": "جارٍ بدء التنزيل…"
+    },
+    "status.travelhub": {
+      "en": "Traveling to HUB…",
+      "text": "جارٍ الانتقال إلى المركز…"
+    },
+    "toast.admin.badkey": {
+      "en": "Ban key rejected — it is not a valid moderator key.",
+      "text": "رُفض مفتاح الحظر — ليس مفتاح مشرف صالحاً."
+    },
+    "toast.admin.banned": {
+      "en": "Player banned.",
+      "text": "تم حظر اللاعب."
+    },
+    "toast.admin.lifted": {
+      "en": "Ban lifted.",
+      "text": "تم رفع الحظر."
+    },
+    "toast.admin.nokey": {
+      "en": "No ban key on this machine — the player was not banned in the database.",
+      "text": "لا يوجد مفتاح حظر على هذا الجهاز — لم يُحظر اللاعب في قاعدة البيانات."
+    },
+    "toast.admin.nolift": {
+      "en": "You do not have permission to lift bans.",
+      "text": "ليست لديك صلاحية رفع الحظر."
+    },
+    "toast.admin.noperm": {
+      "en": "You do not have permission to ban.",
+      "text": "ليست لديك صلاحية الحظر."
+    },
+    "toast.admin.noplayer": {
+      "en": "No player selected.",
+      "text": "لم يتم تحديد لاعب."
+    },
+    "toast.admin.ownermod": {
+      "en": "Only the owner can ban a moderator.",
+      "text": "المالك وحده يمكنه حظر مشرف."
+    },
+    "toast.admin.protected": {
+      "en": "That player cannot be banned.",
+      "text": "لا يمكن حظر هذا اللاعب."
+    },
+    "toast.admin.refused": {
+      "en": "Refused: that account cannot be banned by you.",
+      "text": "مرفوض: لا يمكنك حظر هذا الحساب."
+    },
+    "toast.admin.self": {
+      "en": "You cannot ban yourself.",
+      "text": "لا يمكنك حظر نفسك."
+    },
+    "toast.admin.sitecode": {
+      "en": "The site did not accept it (code {0}).",
+      "text": "لم يقبله الموقع (الرمز {0})."
+    },
+    "toast.admin.unavailable": {
+      "en": "Ban system unavailable.",
+      "text": "نظام الحظر غير متاح."
+    },
+    "toast.avatar.applying": {
+      "en": "Applying avatar…",
+      "text": "جارٍ تطبيق الأفاتار…"
+    },
+    "toast.avatar.checking": {
+      "en": "Checking avatar…",
+      "text": "جارٍ التحقق من الأفاتار…"
+    },
+    "toast.avatar.dlfail": {
+      "en": "Avatar download failed",
+      "text": "فشل تنزيل الأفاتار"
+    },
+    "toast.avatar.downloading": {
+      "en": "Downloading avatar… {0}%",
+      "text": "جارٍ تنزيل الأفاتار… {0}%"
+    },
+    "toast.avatar.floorlow": {
+      "en": "Your headset reads only {0} cm above the floor, so your avatar cannot be calibrated. Fix the floor height in SteamVR Room Setup (or your headset's floor setting), then Calibrate.",
+      "text": "يقرأ جهازك {0} سم فقط فوق الأرض، لذا لا يمكن معايرة الأفاتار. أصلح ارتفاع الأرضية في إعداد الغرفة في SteamVR (أو إعداد الأرضية في جهازك)، ثم اضغط معايرة."
+    },
+    "toast.avatar.loadfail": {
+      "en": "Couldn't load avatar",
+      "text": "تعذّر تحميل الأفاتار"
+    },
+    "toast.avatar.preparing": {
+      "en": "Preparing avatar…",
+      "text": "جارٍ تحضير الأفاتار…"
+    },
+    "toast.avatar.ready": {
+      "en": "Avatar ready",
+      "text": "الأفاتار جاهز"
+    },
+    "toast.ban.day": {
+      "en": "You have been banned from VR Realms for {0} day.",
+      "text": "تم حظرك من VR Realms لمدة {0} يوم."
+    },
+    "toast.ban.day.leftdays": {
+      "en": "You have been banned from VR Realms for {0} day ({1} days remaining).",
+      "text": "تم حظرك من VR Realms لمدة {0} يوم (يتبقى {1} أيام)."
+    },
+    "toast.ban.days": {
+      "en": "You have been banned from VR Realms for {0} days.",
+      "text": "تم حظرك من VR Realms لمدة {0} أيام."
+    },
+    "toast.ban.days.leftday": {
+      "en": "You have been banned from VR Realms for {0} days ({1} day remaining).",
+      "text": "تم حظرك من VR Realms لمدة {0} أيام (يتبقى {1} يوم)."
+    },
+    "toast.ban.days.leftdays": {
+      "en": "You have been banned from VR Realms for {0} days ({1} days remaining).",
+      "text": "تم حظرك من VR Realms لمدة {0} أيام (يتبقى {1} أيام)."
+    },
+    "toast.ban.hour": {
+      "en": "You have been banned from VR Realms for {0} more hour.",
+      "text": "أنت محظور من VR Realms لمدة {0} ساعة أخرى."
+    },
+    "toast.ban.hours": {
+      "en": "You have been banned from VR Realms for {0} more hours.",
+      "text": "أنت محظور من VR Realms لمدة {0} ساعة أخرى."
+    },
+    "toast.ban.hub": {
+      "en": "You have been suspended from the hub.",
+      "text": "تم إيقافك عن المركز."
+    },
+    "toast.ban.hub.day": {
+      "en": "You have been suspended from the hub for {0} more day.",
+      "text": "أنت موقوف عن المركز لمدة {0} يوم آخر."
+    },
+    "toast.ban.hub.days": {
+      "en": "You have been suspended from the hub for {0} more days.",
+      "text": "أنت موقوف عن المركز لمدة {0} أيام أخرى."
+    },
+    "toast.ban.hub.hour": {
+      "en": "You have been suspended from the hub for {0} more hour.",
+      "text": "أنت موقوف عن المركز لمدة {0} ساعة أخرى."
+    },
+    "toast.ban.hub.hours": {
+      "en": "You have been suspended from the hub for {0} more hours.",
+      "text": "أنت موقوف عن المركز لمدة {0} ساعة أخرى."
+    },
+    "toast.ban.perm": {
+      "en": "You have been banned from VR Realms.",
+      "text": "تم حظرك من VR Realms."
+    },
+    "toast.bp.deletecancelled": {
+      "en": "Delete cancelled.",
+      "text": "تم إلغاء الحذف."
+    },
+    "toast.bp.noinvitegroups": {
+      "en": "No groups you can invite to",
+      "text": "لا توجد مجموعات يمكنك الدعوة إليها"
+    },
+    "toast.bp.ownmax": {
+      "en": "You can only own 5 groups",
+      "text": "يمكنك امتلاك 5 مجموعات فقط"
+    },
+    "toast.bp.photofailed": {
+      "en": "Photo FAILED to save - see the log",
+      "text": "فشل حفظ الصورة - راجع السجل"
+    },
+    "toast.bp.portalaim": {
+      "en": "Aim at the floor - press to drop the portal - turn the laser off to cancel",
+      "text": "وجّه نحو الأرض - اضغط لوضع البوابة - أطفئ الليزر للإلغاء"
+    },
+    "toast.bp.stillreview": {
+      "en": "This one is still waiting to be reviewed.",
+      "text": "هذا لا يزال بانتظار المراجعة."
+    },
+    "toast.content.needdlc": {
+      "en": "Mature Themes. Needs the mature DLC to unlock — it is free on the VR Realms Steam page.",
+      "text": "محتوى للبالغين. يتطلب إضافة المحتوى للبالغين لفتحه — وهي مجانية في صفحة VR Realms على Steam."
+    },
+    "toast.content.nocheck": {
+      "en": "We could not check this content's rating just now. Try again in a moment.",
+      "text": "لم نتمكن من التحقق من تصنيف هذا المحتوى الآن. حاول مجدداً بعد لحظة."
+    },
+    "toast.content.orbstreamer": {
+      "en": "Mature avatars will show as an orb while streamer mode is on. You can unhide anyone from Nearby.",
+      "text": "ستظهر الأفاتارات للبالغين ككرة أثناء تفعيل وضع البث. يمكنك إظهار أي شخص من القريبون."
+    },
+    "toast.content.removed": {
+      "en": "This content has been removed.",
+      "text": "تمت إزالة هذا المحتوى."
+    },
+    "toast.content.review": {
+      "en": "This is waiting to be reviewed. It will work once it has been checked.",
+      "text": "هذا بانتظار المراجعة. سيعمل بعد فحصه."
+    },
+    "toast.content.revoked": {
+      "en": "Your access to mature content has been removed.",
+      "text": "تمت إزالة وصولك إلى المحتوى للبالغين."
+    },
+    "toast.content.unavailable": {
+      "en": "This content is not available to you.",
+      "text": "هذا المحتوى غير متاح لك."
+    },
+    "toast.diamonds.added": {
+      "en": "Diamonds added",
+      "text": "تمت إضافة الماسات"
+    },
+    "toast.diamonds.cancelled": {
+      "en": "Purchase cancelled",
+      "text": "تم إلغاء الشراء"
+    },
+    "toast.diamonds.confirmsteam": {
+      "en": "Confirm the purchase in the Steam window (it may be on your monitor)",
+      "text": "أكّد الشراء في نافذة Steam (قد تكون على شاشتك)"
+    },
+    "toast.diamonds.got": {
+      "en": "+{0} diamonds",
+      "text": "الماسات: +{0}"
+    },
+    "toast.diamonds.gotdoubled": {
+      "en": "+{0} diamonds! Your first pack was doubled",
+      "text": "الماسات: +{0}! تمت مضاعفة حزمتك الأولى"
+    },
+    "toast.diamonds.nosteam": {
+      "en": "Steam is not available right now",
+      "text": "Steam غير متاح الآن"
+    },
+    "toast.diamonds.nostore": {
+      "en": "Could not reach the store. Nothing was charged",
+      "text": "تعذّر الوصول إلى المتجر. لم يتم خصم أي مبلغ"
+    },
+    "toast.diamonds.notonsale": {
+      "en": "Diamonds are not on sale yet",
+      "text": "الماسات ليست معروضة للبيع بعد"
+    },
+    "toast.diamonds.paidpending": {
+      "en": "Payment received. Your diamonds may take a minute to arrive",
+      "text": "تم استلام الدفع. قد تستغرق ماساتك دقيقة لتصل"
+    },
+    "toast.diamonds.stillwaiting": {
+      "en": "Still waiting for Steam. If you confirm there, your diamonds arrive shortly",
+      "text": "ما زلنا ننتظر Steam. إذا أكّدت هناك، ستصل ماساتك قريباً"
+    },
+    "toast.event.now": {
+      "en": "Event starting now: {0}",
+      "text": "فعالية تبدأ الآن: {0}"
+    },
+    "toast.event.nowin": {
+      "en": "Event starting now: {0} in {1}",
+      "text": "فعالية تبدأ الآن: {0} في {1}"
+    },
+    "toast.event.soon": {
+      "en": "Event in {0} minutes: {1}",
+      "text": "فعالية بعد {0} دقيقة: {1}"
+    },
+    "toast.goldrush.bought": {
+      "en": "You bought this Gold Rush, so it is for everyone else!",
+      "text": "اشتريت حمّى الذهب هذه، لذا فهي للجميع غيرك!"
+    },
+    "toast.goldrush.expired": {
+      "en": "Nobody found the Gold Rush plate in time. It's gone!",
+      "text": "لم يجد أحد لوحة حمّى الذهب في الوقت المناسب. لقد اختفت!"
+    },
+    "toast.goldrush.won": {
+      "en": "You won the Gold Rush! +{0} gold",
+      "text": "فزت في حمّى الذهب! +{0} ذهب"
+    },
+    "toast.groups.accepted": {
+      "en": "You're in {0} — your request was accepted",
+      "text": "أنت الآن في {0} — تم قبول طلبك"
+    },
+    "toast.groups.badreply": {
+      "en": "Groups did not answer properly",
+      "text": "لم تستجب المجموعات بشكل صحيح"
+    },
+    "toast.groups.invited": {
+      "en": "You've been invited to {0} — open Groups to accept",
+      "text": "تمت دعوتك إلى {0} — افتح المجموعات للقبول"
+    },
+    "toast.groups.key": {
+      "en": "Groups are unavailable (key)",
+      "text": "المجموعات غير متاحة (المفتاح)"
+    },
+    "toast.groups.perksoffline": {
+      "en": "Group perks need the site — you are offline.",
+      "text": "مزايا المجموعة تحتاج إلى الموقع — أنت غير متصل."
+    },
+    "toast.groups.request": {
+      "en": "{0} wants to join {1} — open Groups to approve",
+      "text": "{0} يريد الانضمام إلى {1} — افتح المجموعات للموافقة"
+    },
+    "toast.groups.requests": {
+      "en": "{0} new join requests — open Groups to approve",
+      "text": "طلبات انضمام جديدة: {0} — افتح المجموعات للموافقة"
+    },
+    "toast.groups.unreachable": {
+      "en": "Groups are unreachable right now",
+      "text": "لا يمكن الوصول إلى المجموعات الآن"
+    },
+    "toast.guide.agree": {
+      "en": "Look at your hands: the labels show what each button does. To hide them, hold both triggers.",
+      "text": "انظر إلى يديك: التسميات تبيّن وظيفة كل زر. لإخفائها، اضغط الزنادين معاً باستمرار."
+    },
+    "toast.guide.off": {
+      "en": "Controller guide is off. Bring it back from the quick menu.",
+      "text": "دليل أذرع التحكم متوقف. أعده من القائمة السريعة."
+    },
+    "toast.guide.on": {
+      "en": "Controller guide is on. Look at your hands.",
+      "text": "دليل أذرع التحكم مفعّل. انظر إلى يديك."
+    },
+    "toast.guide.other": {
+      "en": "The controller guide only knows Quest-style controllers for now.",
+      "text": "دليل أذرع التحكم يعرف حالياً أذرع تحكم بنمط Quest فقط."
+    },
+    "toast.guide.tourdone": {
+      "en": "Controller guide is off now. Bring it back any time from the quick menu.",
+      "text": "تم إيقاف دليل أذرع التحكم. أعده في أي وقت من القائمة السريعة."
+    },
+    "toast.hub.allfull": {
+      "en": "The hubs are full right now — try again in a few minutes.",
+      "text": "المراكز ممتلئة الآن — حاول مجدداً بعد بضع دقائق."
+    },
+    "toast.hub.fullredirect": {
+      "en": "{0} is full — taking you to {1}.",
+      "text": "{0} ممتلئ — سننقلك إلى {1}."
+    },
+    "toast.hub.lost": {
+      "en": "Lost the hub connection — the hub may be updating. Try again in a minute.",
+      "text": "انقطع الاتصال بالمركز — ربما يتم تحديثه. حاول مجدداً بعد دقيقة."
+    },
+    "toast.hub.mismatch": {
+      "en": "Hub and game versions don't match — update the game, or wait for the hub update.",
+      "text": "إصدارا المركز واللعبة غير متطابقين — حدّث اللعبة أو انتظر تحديث المركز."
+    },
+    "toast.hub.noanswer": {
+      "en": "Couldn't reach the hub — nothing answered. It may be restarting; try again in a minute.",
+      "text": "تعذّر الوصول إلى المركز — لم يُجب أحد. ربما تتم إعادة تشغيله؛ حاول بعد دقيقة."
+    },
+    "toast.hub.reason.update": {
+      "en": "for an update",
+      "text": "لإجراء تحديث"
+    },
+    "toast.hub.restart1": {
+      "en": "Hub restarting in {0} minute {1}",
+      "text": "سيُعاد تشغيل المركز خلال {0} دقيقة {1}"
+    },
+    "toast.hub.restartn": {
+      "en": "Hub restarting in {0} minutes {1}",
+      "text": "سيُعاد تشغيل المركز خلال {0} دقائق {1}"
+    },
+    "toast.hub.unreachable": {
+      "en": "Couldn't reach the hub — it may be restarting. Try again in a minute.",
+      "text": "تعذّر الوصول إلى المركز — ربما تتم إعادة تشغيله. حاول مجدداً بعد دقيقة."
+    },
+    "toast.join.dlfailed": {
+      "en": "Could not download that world — you have not been moved",
+      "text": "تعذّر تنزيل ذلك العالم — لم يتم نقلك"
+    },
+    "toast.join.dlfailednamed": {
+      "en": "Could not download {0} — you have not been moved",
+      "text": "تعذّر تنزيل {0} — لم يتم نقلك"
+    },
+    "toast.join.failed": {
+      "en": "Couldn't join that session",
+      "text": "تعذّر الانضمام إلى تلك الجلسة"
+    },
+    "toast.join.instanceclosed": {
+      "en": "That instance has closed — nobody is hosting this world right now",
+      "text": "أُغلقت تلك النسخة — لا أحد يستضيف هذا العالم الآن"
+    },
+    "toast.join.noanswer": {
+      "en": "Couldn't join that session — the host didn't answer. Try again in a moment.",
+      "text": "تعذّر الانضمام إلى تلك الجلسة — لم يستجب المضيف. حاول مجدداً بعد قليل."
+    },
+    "toast.join.sessionclosed": {
+      "en": "That session has closed — refresh the list",
+      "text": "أُغلقت تلك الجلسة — حدّث القائمة"
+    },
+    "toast.migration.failed": {
+      "en": "The host left and no new host took over — you're on your own here now.",
+      "text": "غادر المضيف ولم يتولَّ أحد مكانه — أنت وحدك هنا الآن."
+    },
+    "toast.migration.named": {
+      "en": "The host left — {0} is taking over. Reconnecting…",
+      "text": "غادر المضيف — {0} يتولى الاستضافة. جارٍ إعادة الاتصال…"
+    },
+    "toast.migration.waiting": {
+      "en": "The host left — waiting for a new host…",
+      "text": "غادر المضيف — بانتظار مضيف جديد…"
+    },
+    "toast.migration.youarehost": {
+      "en": "The host left — you're the host now. Reloading the room…",
+      "text": "غادر المضيف — أنت المضيف الآن. جارٍ إعادة تحميل الغرفة…"
+    },
+    "toast.plate.dupegold": {
+      "en": "+{0} gold from {1} (you already own it)",
+      "text": "+{0} ذهب من {1} (تملكها بالفعل)"
+    },
+    "toast.plate.dupemaxed": {
+      "en": "You own {0}. Owned plate gold is maxed for today ({1}/{2})",
+      "text": "أنت تملك {0}. بلغ ذهب اللوحات المملوكة الحد الأقصى لليوم ({1}/{2})"
+    },
+    "toast.plate.new": {
+      "en": "You got a new head plate!",
+      "text": "حصلت على لوحة جديدة!"
+    },
+    "toast.portal.busy": {
+      "en": "You're already travelling — wait until you arrive to drop a portal",
+      "text": "أنت في طريقك بالفعل — انتظر حتى تصل لوضع بوابة"
+    },
+    "toast.report.failed": {
+      "en": "Couldn't send the report right now. Please try again later.",
+      "text": "تعذّر إرسال البلاغ الآن. يرجى المحاولة لاحقاً."
+    },
+    "toast.report.missing": {
+      "en": "That report was missing something — please add more detail.",
+      "text": "كان هذا البلاغ ينقصه شيء — يرجى إضافة تفاصيل أكثر."
+    },
+    "toast.report.moredetail": {
+      "en": "Please describe what happened in a little more detail.",
+      "text": "يرجى وصف ما حدث بتفاصيل أكثر قليلاً."
+    },
+    "toast.report.noitem": {
+      "en": "That report is missing the item it is about.",
+      "text": "هذا البلاغ لا يتضمن العنصر المعني."
+    },
+    "toast.report.noserver": {
+      "en": "Couldn't reach the server. Check your connection and try again.",
+      "text": "تعذّر الوصول إلى الخادم. تحقق من اتصالك وحاول مجدداً."
+    },
+    "toast.report.nosteamid": {
+      "en": "Couldn't read your Steam ID — are you signed in to Steam?",
+      "text": "تعذّرت قراءة معرّف Steam الخاص بك — هل سجّلت الدخول إلى Steam؟"
+    },
+    "toast.report.notconfigured": {
+      "en": "Reporting isn't configured in this build.",
+      "text": "الإبلاغ غير مُعدّ في هذا الإصدار."
+    },
+    "toast.report.pickplayer": {
+      "en": "Pick which player you're reporting.",
+      "text": "اختر اللاعب الذي تبلّغ عنه."
+    },
+    "toast.report.ratelimited": {
+      "en": "You've sent several reports recently. Please wait a little while.",
+      "text": "لقد أرسلت عدة بلاغات مؤخراً. يرجى الانتظار قليلاً."
+    },
+    "toast.report.sent": {
+      "en": "Report sent — thank you.",
+      "text": "تم إرسال البلاغ — شكراً لك."
+    },
+    "toast.score.awardaway": {
+      "en": "Welcome back — you earned {0} gold while you were away!   Total: {1}",
+      "text": "مرحباً بعودتك — ربحت {0} ذهب أثناء غيابك!   المجموع: {1}"
+    },
+    "toast.score.awardlive": {
+      "en": "+{0} gold!   Total: {1}",
+      "text": "+{0} ذهب!   المجموع: {1}"
+    },
+    "toast.score.streakkeep": {
+      "en": "{0}-day streak · play today to keep it",
+      "text": "سلسلة الأيام: {0} · العب اليوم للحفاظ عليها"
+    },
+    "toast.score.streakmore": {
+      "en": "{0}-day streak · {1} more {1}|plural(one=day,other=days) for +{2} gold",
+      "text": "سلسلة الأيام: {0} · الأيام المتبقية: {1} للحصول على +{2} ذهب"
+    },
+    "toast.score.streakpaid": {
+      "en": "{0}-day streak · +{1} gold at tonight's tally",
+      "text": "سلسلة الأيام: {0} · +{1} ذهب في جرد الليلة"
+    },
+    "toast.seated.autoon": {
+      "en": "Looks like you are sitting, so seated mode is on and your avatar stays full size. Stand up to switch it off.",
+      "text": "يبدو أنك جالس، لذا تم تشغيل الوضع الجالس ويبقى الأفاتار بحجمه الكامل. قف لإيقافه."
+    },
+    "toast.seated.fbt": {
+      "en": "Seated mode isn't needed with full-body trackers. Your trackers already sit you down.",
+      "text": "لا حاجة للوضع الجالس مع أجهزة تتبع الجسم الكامل. أجهزة التتبع تُجلسك بالفعل."
+    },
+    "toast.seated.off": {
+      "en": "Seated mode off.",
+      "text": "تم إيقاف الوضع الجالس."
+    },
+    "toast.seated.on": {
+      "en": "Seated mode on. Sit comfortably and hold still for a second. Stand up to turn it off.",
+      "text": "تم تشغيل الوضع الجالس. اجلس براحة وابقَ ثابتاً لثانية. قف لإيقافه."
+    },
+    "toast.seated.stoodup": {
+      "en": "You stood up, so seated mode is off.",
+      "text": "لقد وقفت، لذا تم إيقاف الوضع الجالس."
+    },
+    "toast.seated.trackers": {
+      "en": "Trackers detected, seated mode is off.",
+      "text": "تم اكتشاف أجهزة التتبع، الوضع الجالس متوقف."
+    },
+    "toast.session.invitehost": {
+      "en": "Only the host can invite people to this session.",
+      "text": "المضيف وحده يمكنه دعوة الآخرين إلى هذه الجلسة."
+    },
+    "toast.store.badreply": {
+      "en": "The store did not answer properly",
+      "text": "لم يستجب المتجر بشكل صحيح"
+    },
+    "toast.store.freepick": {
+      "en": "Your free plate pick is back: choose a new plate in Menu, Supporter",
+      "text": "عاد اختيار اللوحة المجاني: اختر لوحة جديدة من القائمة، الداعم"
+    },
+    "toast.store.gone": {
+      "en": "That item is gone",
+      "text": "هذا العنصر لم يعد متاحاً"
+    },
+    "toast.store.key": {
+      "en": "The store is unavailable (key)",
+      "text": "المتجر غير متاح (المفتاح)"
+    },
+    "toast.store.needdiamonds": {
+      "en": "You need {0} more diamonds",
+      "text": "الماسات الناقصة: {0}"
+    },
+    "toast.store.needgold": {
+      "en": "You need {0} more gold",
+      "text": "الذهب الناقص: {0}"
+    },
+    "toast.store.offline": {
+      "en": "The store is offline right now",
+      "text": "المتجر غير متصل الآن"
+    },
+    "toast.store.owned": {
+      "en": "You already own that",
+      "text": "أنت تملك هذا بالفعل"
+    },
+    "toast.store.unreachable": {
+      "en": "The store is unreachable right now",
+      "text": "لا يمكن الوصول إلى المتجر الآن"
+    },
+    "toast.terms.howto.desk": {
+      "en": "To start: click I agree with the mouse.",
+      "text": "للبدء: انقر على «أوافق» بالفأرة."
+    },
+    "toast.terms.howto.vr": {
+      "en": "To start: point a hand at I agree and pull the trigger. Either hand works.",
+      "text": "للبدء: وجّه يدك نحو «أوافق» واضغط الزناد. تعمل أي من اليدين."
+    },
+    "toast.testmode.offline": {
+      "en": "Test launch — offline. Quit and start VR Realms normally to play online.",
+      "text": "تشغيل تجريبي — دون اتصال. اخرج وشغّل VR Realms بشكل عادي للعب عبر الإنترنت."
+    },
+    "toast.voice.hostnudge": {
+      "en": "{0} joined your voice room — your mic is OFF. Turn it on in Settings → Microphone",
+      "text": "انضم {0} إلى غرفتك الصوتية — الميكروفون متوقف. شغّله من الإعدادات ← الميكروفون"
+    },
+    "toast.voice.micdisconnected": {
+      "en": "Your microphone is disconnected — pick another in Settings → Microphone",
+      "text": "الميكروفون غير متصل — اختر غيره من الإعدادات ← الميكروفون"
+    },
+    "toast.voice.micfailed": {
+      "en": "Your microphone could not be opened — check Windows microphone privacy, or another app may be using it",
+      "text": "تعذّر فتح الميكروفون — تحقق من خصوصية الميكروفون في Windows، أو ربما يستخدمه تطبيق آخر"
+    },
+    "toast.voice.micoff": {
+      "en": "Your mic is OFF — turn it on in Settings → Microphone",
+      "text": "الميكروفون متوقف — شغّله من الإعدادات ← الميكروفون"
+    },
+    "toast.voice.micsilent": {
+      "en": "Your microphone is open but silent — it may be muted in Windows, or be the wrong device",
+      "text": "الميكروفون مفتوح لكنه صامت — ربما هو مكتوم في Windows أو ليس الجهاز الصحيح"
+    },
+    "tour.announce": {
+      "en": "New: a two-minute tour of the controls. Find it on the Home page of your menu.",
+      "text": "جديد: جولة لمدة دقيقتين حول عناصر التحكم. تجدها في صفحة الرئيسية بقائمتك."
+    },
+    "tour.both.friends": {
+      "en": "Invite a friend from Friends. It all runs through Steam, and the game is free, so anyone can join you.",
+      "text": "ادعُ صديقاً من قائمة الأصدقاء. كل شيء يتم عبر Steam واللعبة مجانية، فيمكن لأي شخص الانضمام إليك."
+    },
+    "tour.both.gold": {
+      "en": "You earn gold just by playing. Join a group and you earn together. Spend it in the Store on plates and more.",
+      "text": "تكسب الذهب بمجرد اللعب. انضم إلى مجموعة لتكسبوا معاً. أنفقه في المتجر على اللوحات والمزيد."
+    },
+    "tour.both.hub": {
+      "en": "The hub is always open. It is where everyone meets, and the boards there show the top players, groups and supporters. Pick the region nearest you and press Join Hub on Home.",
+      "text": "المركز مفتوح دائماً. فيه يلتقي الجميع، وتعرض لوحاته أفضل اللاعبين والمجموعات والداعمين. اختر أقرب منطقة إليك واضغط الانضمام إلى المركز في الرئيسية."
+    },
+    "tour.both.ready": {
+      "en": "Your home is public by default, so your friends and anyone else can drop in. Want it to yourself? Settings, Comfort, Session visibility: Friends Only or Private. When you want people, the hub is waiting. One more thing: this is an alpha, so things will change a lot. Your feedback shapes it.",
+      "text": "منزلك عام افتراضياً، فيمكن لأصدقائك وأي شخص آخر زيارتك. تريده لنفسك؟ الإعدادات، الراحة، ظهور الجلسة: الأصدقاء فقط أو خاص. وعندما تريد الناس، المركز في انتظارك. أمر أخير: هذه نسخة ألفا، لذا ستتغير أشياء كثيرة. ملاحظاتك تشكّلها."
+    },
+    "tour.both.wrong": {
+      "en": "Stuck or falling: quick menu, Respawn. Want out of anywhere: quick menu, Home. Someone bothering you: Nearby, Mute or Hide. Only you are affected.",
+      "text": "عالق أو تسقط: القائمة السريعة، إعادة الظهور. تريد الخروج من أي مكان: القائمة السريعة، الرئيسية. أحدهم يضايقك: القريبون، كتم أو إخفاء. لا يتأثر سواك."
+    },
+    "tour.chip": {
+      "en": "Tutorial",
+      "text": "الدرس التعليمي"
+    },
+    "tour.chip.end": {
+      "en": "End tutorial",
+      "text": "إنهاء الدرس التعليمي"
+    },
+    "tour.complete": {
+      "en": "Tour complete! Your gold for finishing arrives after tonight's tally.",
+      "text": "اكتملت الجولة! ذهبك لإنهائها يصلك بعد جرد الليلة."
+    },
+    "tour.desk.chat": {
+      "en": "Press {Chat}, type, {Chat} again.",
+      "text": "اضغط {Chat}، اكتب، ثم {Chat} مرة أخرى."
+    },
+    "tour.desk.grab": {
+      "en": "{Grab} the object on the table. {Use} to use it. {Interact} presses buttons and switches you look at.",
+      "text": "{Grab} على الشيء الموجود على الطاولة. {Use} لاستخدامه. {Interact} يضغط الأزرار والمفاتيح التي تنظر إليها."
+    },
+    "tour.desk.look": {
+      "en": "Move the mouse. This is your home.",
+      "text": "حرّك الفأرة. هذا منزلك."
+    },
+    "tour.desk.menu": {
+      "en": "{Menu} opens it. Back takes you to Home.",
+      "text": "{Menu} يفتحها. زر الرجوع يأخذك إلى الرئيسية."
+    },
+    "tour.desk.sprint": {
+      "en": "Hold {Sprint} while moving to run.",
+      "text": "اضغط باستمرار {Sprint} أثناء الحركة للركض."
+    },
+    "tour.desk.talk": {
+      "en": "Press {Mic}. It turns your voice on or off for everyone.",
+      "text": "اضغط {Mic}. يشغّل صوتك أو يوقفه للجميع."
+    },
+    "tour.desk.walk": {
+      "en": "{Move} to move. {Jump} to jump.",
+      "text": "{Move} للحركة. {Jump} للقفز."
+    },
+    "tour.desk.wheel": {
+      "en": "Press {Radial} to open the quick menu. Click what you want.",
+      "text": "اضغط {Radial} لفتح القائمة السريعة. انقر على ما تريد."
+    },
+    "tour.desk.yours": {
+      "en": "Settings, Controls: rebind any key, sprint included. Settings, Comfort: turn and movement options. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "الإعدادات، عناصر التحكم: أعد تعيين أي مفتاح، بما في ذلك الركض. الإعدادات، الراحة: خيارات الالتفاف والحركة. اللغة: الكرة الأرضية أعلى يمين القائمة. البث: وضع البث يخفي الأسماء والمحتوى للبالغين."
+    },
+    "tour.hint.desk": {
+      "en": "Right Arrow: next   ·   End: end tour   ·   ALT: mouse",
+      "text": "السهم الأيمن: التالي   ·   End: إنهاء الجولة   ·   ALT: الفأرة"
+    },
+    "tour.hint.vr": {
+      "en": "Point at a button and pull the trigger",
+      "text": "وجّه إلى زر واضغط الزناد"
+    },
+    "tour.kicker": {
+      "en": "TOUR",
+      "text": "جولة"
+    },
+    "tour.label.end": {
+      "en": "End tour",
+      "text": "إنهاء الجولة"
+    },
+    "tour.label.mouse": {
+      "en": "Mouse",
+      "text": "الفأرة"
+    },
+    "tour.label.next": {
+      "en": "Next",
+      "text": "التالي"
+    },
+    "tour.label.rightarrow": {
+      "en": "Right Arrow",
+      "text": "السهم الأيمن"
+    },
+    "tour.label.skip": {
+      "en": "Skip",
+      "text": "تخطي"
+    },
+    "tour.offer.body": {
+      "en": "A few short cards: moving, your quick menu, voice, chat and the menu. Skip any of them, or end it at any time.",
+      "text": "بضع بطاقات قصيرة: الحركة، قائمتك السريعة، الصوت، الدردشة والقائمة. تخطَّ أياً منها أو أنهِ الجولة في أي وقت."
+    },
+    "tour.offer.body.away": {
+      "en": "It uses the things in your own place to show you moving, your quick menu, voice, chat and the menu. Head there now and start?",
+      "text": "تستخدم الأشياء الموجودة في مكانك لتعليمك الحركة وقائمتك السريعة والصوت والدردشة والقائمة. هل نذهب إلى هناك الآن ونبدأ؟"
+    },
+    "tour.offer.confirm": {
+      "en": "Start",
+      "text": "ابدأ"
+    },
+    "tour.offer.title": {
+      "en": "Want a two-minute tour?",
+      "text": "هل تريد جولة لمدة دقيقتين؟"
+    },
+    "tour.offer.title.away": {
+      "en": "The tour happens in your home",
+      "text": "الجولة تجري في منزلك"
+    },
+    "tour.side.left": {
+      "en": "left",
+      "text": "اليسرى"
+    },
+    "tour.side.right": {
+      "en": "right",
+      "text": "اليمنى"
+    },
+    "tour.t.friends": {
+      "en": "Bring friends",
+      "text": "أحضر أصدقاءك"
+    },
+    "tour.t.gold": {
+      "en": "Earn gold",
+      "text": "اكسب الذهب"
+    },
+    "tour.t.grab": {
+      "en": "Pick something up",
+      "text": "التقط شيئاً"
+    },
+    "tour.t.hub": {
+      "en": "The hub",
+      "text": "المركز"
+    },
+    "tour.t.look": {
+      "en": "Look around",
+      "text": "انظر حولك"
+    },
+    "tour.t.menu": {
+      "en": "Your menu",
+      "text": "قائمتك"
+    },
+    "tour.t.move": {
+      "en": "Move",
+      "text": "تحرّك"
+    },
+    "tour.t.ready": {
+      "en": "You're ready",
+      "text": "أنت جاهز"
+    },
+    "tour.t.sprint": {
+      "en": "Sprint",
+      "text": "الركض"
+    },
+    "tour.t.talk": {
+      "en": "Talk",
+      "text": "التحدث"
+    },
+    "tour.t.turn": {
+      "en": "Turn",
+      "text": "الالتفاف"
+    },
+    "tour.t.walk": {
+      "en": "Walk",
+      "text": "المشي"
+    },
+    "tour.t.wheel": {
+      "en": "Your quick menu",
+      "text": "قائمتك السريعة"
+    },
+    "tour.t.wrong": {
+      "en": "If something goes wrong",
+      "text": "إذا حدث خطأ ما"
+    },
+    "tour.t.yours": {
+      "en": "Make it yours",
+      "text": "اجعلها لك"
+    },
+    "tour.travel": {
+      "en": "Taking you home for the tour…",
+      "text": "نأخذك إلى المنزل من أجل الجولة…"
+    },
+    "tour.vr.chat": {
+      "en": "In the quick menu, pick Chat. Type on the floating keyboard and send.",
+      "text": "في القائمة السريعة، اختر الدردشة. اكتب على لوحة المفاتيح العائمة وأرسل."
+    },
+    "tour.vr.grab": {
+      "en": "Squeeze grip on the object on the table.",
+      "text": "اضغط زر القبض على الشيء الموجود على الطاولة."
+    },
+    "tour.vr.look": {
+      "en": "Turn your head. This is your home.",
+      "text": "أدر رأسك. هذا منزلك."
+    },
+    "tour.vr.menu": {
+      "en": "In the quick menu, pick Avatar. That is the full menu. Back takes you to Home.",
+      "text": "في القائمة السريعة، اختر الأفاتار. هذه هي القائمة الكاملة. زر الرجوع يأخذك إلى الرئيسية."
+    },
+    "tour.vr.move": {
+      "en": "Push the {MoveStick} stick.",
+      "text": "ادفع العصا {MoveStick}."
+    },
+    "tour.vr.sprint": {
+      "en": "Click the {SprintStick} stick while moving to run. Click again, or stop, to walk.",
+      "text": "اضغط العصا {SprintStick} أثناء الحركة للركض. اضغط مجدداً، أو توقف، للمشي."
+    },
+    "tour.vr.talk": {
+      "en": "Press the top button on your {MicHand} hand. It turns your voice on or off for everyone.",
+      "text": "اضغط الزر العلوي في يدك {MicHand}. يشغّل صوتك أو يوقفه للجميع."
+    },
+    "tour.vr.turn": {
+      "en": "Flick the {TurnStick} stick left or right. Prefer smooth turning or other movement styles? Settings, Comfort.",
+      "text": "حرّك العصا {TurnStick} يساراً أو يميناً. تفضّل الالتفاف السلس أو أنماط حركة أخرى؟ الإعدادات، الراحة."
+    },
+    "tour.vr.wheel": {
+      "en": "Click the {WheelStick} stick. The quick menu opens on your {WheelHand} hand. Point at it with your {LaserHand} hand and pull the trigger to pick.",
+      "text": "اضغط العصا {WheelStick}. تُفتح القائمة السريعة على يدك {WheelHand}. وجّه إليها بيدك {LaserHand} واضغط الزناد للاختيار."
+    },
+    "tour.vr.yours": {
+      "en": "Settings, Comfort: swap which hand walks and sprints, put the quick menu and mic button on the other hand, and set turning and movement to your liking. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "الإعدادات، الراحة: بدّل اليد التي تمشي وتركض، ضع القائمة السريعة وزر الميكروفون على اليد الأخرى، واضبط الالتفاف والحركة كما تحب. اللغة: الكرة الأرضية أعلى يمين القائمة. البث: وضع البث يخفي الأسماء والمحتوى للبالغين."
+    },
+    "v3.avatars.favorites": {
+      "en": "Favorites",
+      "text": "المفضلة"
+    },
+    "v3.avatars.furry": {
+      "en": "Furry",
+      "text": "فيري"
+    },
+    "v3.avatars.nomatch": {
+      "en": "No avatars match",
+      "text": "لا توجد أفاتارات مطابقة"
+    },
+    "v3.card.flashing": {
+      "en": "FLASHING LIGHTS",
+      "text": "أضواء وامضة"
+    },
+    "v3.card.mature": {
+      "en": "MATURE THEMES",
+      "text": "محتوى للبالغين"
+    },
+    "v3.cat.community": {
+      "en": "Community",
+      "text": "مجتمع"
+    },
+    "v3.chat.help": {
+      "en": "Type /help for chat commands",
+      "text": "اكتب /help لأوامر الدردشة"
+    },
+    "v3.common.all": {
+      "en": "All",
+      "text": "الكل"
+    },
+    "v3.common.applied": {
+      "en": "Applied",
+      "text": "مُطبَّق"
+    },
+    "v3.common.apply": {
+      "en": "Apply",
+      "text": "تطبيق"
+    },
+    "v3.common.buy": {
+      "en": "Buy",
+      "text": "شراء"
+    },
+    "v3.common.cancel": {
+      "en": "Cancel",
+      "text": "إلغاء"
+    },
+    "v3.common.confirm": {
+      "en": "Confirm",
+      "text": "تأكيد"
+    },
+    "v3.common.continue": {
+      "en": "Continue",
+      "text": "متابعة"
+    },
+    "v3.common.done": {
+      "en": "Done",
+      "text": "تم"
+    },
+    "v3.common.down": {
+      "en": "Down",
+      "text": "أسفل"
+    },
+    "v3.common.near": {
+      "en": "Near",
+      "text": "قريب"
+    },
+    "v3.common.new": {
+      "en": "NEW",
+      "text": "جديد"
+    },
+    "v3.common.no": {
+      "en": "No",
+      "text": "لا"
+    },
+    "v3.common.up": {
+      "en": "Up",
+      "text": "أعلى"
+    },
+    "v3.common.wip": {
+      "en": "WIP",
+      "text": "قيد التطوير"
+    },
+    "v3.contract.agree": {
+      "en": "I agree",
+      "text": "أوافق"
+    },
+    "v3.contract.hint": {
+      "en": "Read to the end, then agree to continue",
+      "text": "اقرأ حتى النهاية ثم وافق للمتابعة"
+    },
+    "v3.contract.title": {
+      "en": "Terms of Service",
+      "text": "شروط الخدمة"
+    },
+    "v3.controls.category": {
+      "en": "CATEGORY",
+      "text": "الفئة"
+    },
+    "v3.controls.gamepad": {
+      "en": "Gamepad",
+      "text": "ذراع التحكم"
+    },
+    "v3.controls.hint": {
+      "en": "Click a key to change it. Right-click a key to clear it.",
+      "text": "انقر على مفتاح لتغييره. انقر بزر الفأرة الأيمن لمسحه."
+    },
+    "v3.controls.keyboard": {
+      "en": "Keyboard / Mouse",
+      "text": "لوحة المفاتيح / الفأرة"
+    },
+    "v3.controls.resetall": {
+      "en": "Reset All",
+      "text": "إعادة تعيين الكل"
+    },
+    "v3.fbt.bodyfollows": {
+      "en": "Body follows head (turn off if your chest twists)",
+      "text": "الجسم يتبع الرأس (أوقفه إذا التوى صدرك)"
+    },
+    "v3.fbt.bodyturnspeed": {
+      "en": "Body turn speed",
+      "text": "سرعة دوران الجسم"
+    },
+    "v3.fbt.calibtolerance": {
+      "en": "Calibration tolerance",
+      "text": "تسامح المعايرة"
+    },
+    "v3.fbt.fadefeet": {
+      "en": "Fade feet to walk anim while moving",
+      "text": "مزج القدمين مع حركة المشي أثناء التحرك"
+    },
+    "v3.fbt.footforward": {
+      "en": "Foot forward",
+      "text": "القدم للأمام"
+    },
+    "v3.fbt.footheight": {
+      "en": "Foot height",
+      "text": "ارتفاع القدم"
+    },
+    "v3.fbt.footsmoothing": {
+      "en": "Foot smoothing",
+      "text": "تنعيم القدم"
+    },
+    "v3.fbt.headlock": {
+      "en": "Head lock",
+      "text": "قفل الرأس"
+    },
+    "v3.fbt.hipforward": {
+      "en": "Hip forward",
+      "text": "الورك للأمام"
+    },
+    "v3.fbt.hipfreedom": {
+      "en": "Hip freedom",
+      "text": "حرية الورك"
+    },
+    "v3.fbt.hipheight": {
+      "en": "Hip height",
+      "text": "ارتفاع الورك"
+    },
+    "v3.fbt.hiplock": {
+      "en": "Hip lock",
+      "text": "قفل الورك"
+    },
+    "v3.fbt.keepik": {
+      "en": "Keep IK on a lifted foot while moving",
+      "text": "إبقاء IK على القدم المرفوعة أثناء الحركة"
+    },
+    "v3.fbt.kneewidth": {
+      "en": "Knee width",
+      "text": "عرض الركبة"
+    },
+    "v3.fbt.leftfootturn": {
+      "en": "Left foot turn",
+      "text": "دوران القدم اليسرى"
+    },
+    "v3.fbt.legstretch": {
+      "en": "Leg stretch limit",
+      "text": "حد تمدد الساق"
+    },
+    "v3.fbt.maxfootfromhead": {
+      "en": "Max foot from head",
+      "text": "أقصى مسافة للقدم من الرأس"
+    },
+    "v3.fbt.maxfootsplit": {
+      "en": "Max foot height split",
+      "text": "أقصى فرق في ارتفاع القدمين"
+    },
+    "v3.fbt.maxhiptravel": {
+      "en": "Max hip travel",
+      "text": "أقصى حركة للورك"
+    },
+    "v3.fbt.minfootbelowhips": {
+      "en": "Min foot below hips",
+      "text": "أدنى ارتفاع للقدم تحت الورك"
+    },
+    "v3.fbt.minheadabovewaist": {
+      "en": "Min head above waist",
+      "text": "أدنى ارتفاع للرأس فوق الخصر"
+    },
+    "v3.fbt.minwaistabovefeet": {
+      "en": "Min waist above feet",
+      "text": "أدنى ارتفاع للخصر فوق القدمين"
+    },
+    "v3.fbt.posturegate": {
+      "en": "Posture gate",
+      "text": "حد الوضعية"
+    },
+    "v3.fbt.raisedfoot": {
+      "en": "Raised-foot threshold",
+      "text": "حد رفع القدم"
+    },
+    "v3.fbt.rightfootturn": {
+      "en": "Right foot turn",
+      "text": "دوران القدم اليمنى"
+    },
+    "v3.fbt.stancewidth": {
+      "en": "Stance width",
+      "text": "عرض الوقفة"
+    },
+    "v3.fbt.title": {
+      "en": "Full Body Tracking",
+      "text": "تتبع الجسم الكامل"
+    },
+    "v3.groups.all": {
+      "en": "All groups",
+      "text": "كل المجموعات"
+    },
+    "v3.groups.announce.hint": {
+      "en": "Welcome message…",
+      "text": "رسالة ترحيب…"
+    },
+    "v3.groups.announce.sub": {
+      "en": "Optional. Shows for members when they open the group.",
+      "text": "اختياري. يظهر للأعضاء عند فتح المجموعة."
+    },
+    "v3.groups.announcement": {
+      "en": "Announcement",
+      "text": "الإعلان"
+    },
+    "v3.groups.approve": {
+      "en": "Approve",
+      "text": "موافقة"
+    },
+    "v3.groups.ban": {
+      "en": "Ban",
+      "text": "حظر"
+    },
+    "v3.groups.create": {
+      "en": "Create group",
+      "text": "إنشاء مجموعة"
+    },
+    "v3.groups.delete": {
+      "en": "Delete group",
+      "text": "حذف المجموعة"
+    },
+    "v3.groups.desc.hint": {
+      "en": "What is this group about?",
+      "text": "ما موضوع هذه المجموعة؟"
+    },
+    "v3.groups.description": {
+      "en": "Description",
+      "text": "الوصف"
+    },
+    "v3.groups.freejoin": {
+      "en": "Free Join",
+      "text": "انضمام حر"
+    },
+    "v3.groups.inviteonly": {
+      "en": "Invite-Only",
+      "text": "بالدعوة فقط"
+    },
+    "v3.groups.leave": {
+      "en": "Leave",
+      "text": "مغادرة"
+    },
+    "v3.groups.makemod": {
+      "en": "Make mod",
+      "text": "تعيين مشرفاً"
+    },
+    "v3.groups.memberscaninvite": {
+      "en": "Members can invite",
+      "text": "يمكن للأعضاء الدعوة"
+    },
+    "v3.groups.membersettings": {
+      "en": "MEMBER SETTINGS",
+      "text": "إعدادات الأعضاء"
+    },
+    "v3.groups.modscanannounce": {
+      "en": "Mods can announce",
+      "text": "يمكن للمشرفين الإعلان"
+    },
+    "v3.groups.modscanban": {
+      "en": "Mods can ban",
+      "text": "يمكن للمشرفين الحظر"
+    },
+    "v3.groups.modscankick": {
+      "en": "Mods can kick",
+      "text": "يمكن للمشرفين الطرد"
+    },
+    "v3.groups.modscanroles": {
+      "en": "Mods can change roles",
+      "text": "يمكن للمشرفين تغيير الأدوار"
+    },
+    "v3.groups.modscanwarn": {
+      "en": "Mods can warn",
+      "text": "يمكن للمشرفين التحذير"
+    },
+    "v3.groups.modsettings": {
+      "en": "MOD SETTINGS",
+      "text": "إعدادات المشرفين"
+    },
+    "v3.groups.name": {
+      "en": "Group name",
+      "text": "اسم المجموعة"
+    },
+    "v3.groups.name.hint": {
+      "en": "e.g. Night Owls",
+      "text": "مثال: طيور الليل"
+    },
+    "v3.groups.nomatch": {
+      "en": "No groups match",
+      "text": "لا توجد مجموعات مطابقة"
+    },
+    "v3.groups.privacy": {
+      "en": "Privacy",
+      "text": "الخصوصية"
+    },
+    "v3.groups.privacy.hint": {
+      "en": "Locked after you create the group.",
+      "text": "يُقفل بعد إنشاء المجموعة."
+    },
+    "v3.groups.removemod": {
+      "en": "Remove mod",
+      "text": "إزالة المشرف"
+    },
+    "v3.groups.request": {
+      "en": "Request",
+      "text": "طلب"
+    },
+    "v3.groups.requested": {
+      "en": "Requested · cancel",
+      "text": "تم الطلب · إلغاء"
+    },
+    "v3.groups.requesttojoin": {
+      "en": "Request to Join",
+      "text": "طلب الانضمام"
+    },
+    "v3.groups.saveannounce": {
+      "en": "Save announcement",
+      "text": "حفظ الإعلان"
+    },
+    "v3.groups.tags": {
+      "en": "Tags",
+      "text": "الوسوم"
+    },
+    "v3.groups.tags.hint": {
+      "en": "Up to 5. e.g. 18+, Anyone, Roleplay",
+      "text": "حتى 5. مثال: 18+، الجميع، لعب أدوار"
+    },
+    "v3.groups.tags.max": {
+      "en": "TAGS (MAX 5)",
+      "text": "الوسوم (5 كحد أقصى)"
+    },
+    "v3.groups.title": {
+      "en": "Groups",
+      "text": "المجموعات"
+    },
+    "v3.groups.warn": {
+      "en": "Warn",
+      "text": "تحذير"
+    },
+    "v3.groups.whocanjoin": {
+      "en": "Who can join",
+      "text": "من يمكنه الانضمام"
+    },
+    "v3.groups.wip": {
+      "en": "Groups are new. Requests, approvals and mod tools just landed — tell us what breaks.",
+      "text": "المجموعات جديدة. وصلت للتو الطلبات والموافقات وأدوات المشرفين — أخبرنا بما يتعطل."
+    },
+    "v3.header.discord": {
+      "en": "Discord",
+      "text": "Discord"
+    },
+    "v3.header.ea": {
+      "en": "EARLY ACCESS",
+      "text": "وصول مبكر"
+    },
+    "v3.header.quit": {
+      "en": "Quit",
+      "text": "خروج"
+    },
+    "v3.header.tagline": {
+      "en": "HAVE FUN · EXPLORE · ENJOY",
+      "text": "استمتع · استكشف · اقضِ وقتاً ممتعاً"
+    },
+    "v3.home.avatars.desc": {
+      "en": "Customize your look and express yourself.",
+      "text": "خصّص مظهرك وعبّر عن نفسك."
+    },
+    "v3.home.chat.desc": {
+      "en": "Message your friends and the community.",
+      "text": "راسل أصدقاءك والمجتمع."
+    },
+    "v3.home.discord": {
+      "en": "Join our Discord",
+      "text": "انضم إلى Discord الخاص بنا"
+    },
+    "v3.home.discord.sub": {
+      "en": "Events, updates and help · opens in your desktop browser",
+      "text": "فعاليات وتحديثات ومساعدة · يفتح في متصفح جهازك"
+    },
+    "v3.home.fbt.desc": {
+      "en": "Track your full body and move naturally.",
+      "text": "تتبّع جسمك بالكامل وتحرّك بشكل طبيعي."
+    },
+    "v3.home.fps": {
+      "en": "FPS",
+      "text": "إطار/ث"
+    },
+    "v3.home.friends.desc": {
+      "en": "View your friends list and join them.",
+      "text": "اعرض قائمة أصدقائك وانضم إليهم."
+    },
+    "v3.home.groups.desc": {
+      "en": "Create and join communities.",
+      "text": "أنشئ مجتمعات وانضم إليها."
+    },
+    "v3.home.home": {
+      "en": "Home",
+      "text": "الرئيسية"
+    },
+    "v3.home.nearby.desc": {
+      "en": "See who's around you in real time.",
+      "text": "شاهد من حولك في الوقت الفعلي."
+    },
+    "v3.home.ping": {
+      "en": "Ping",
+      "text": "الاستجابة"
+    },
+    "v3.home.settings.desc": {
+      "en": "Adjust your experience and preferences.",
+      "text": "اضبط تجربتك وتفضيلاتك."
+    },
+    "v3.home.store": {
+      "en": "Store",
+      "text": "المتجر"
+    },
+    "v3.home.store.sub": {
+      "en": "Cosmetics, boosts & more",
+      "text": "مظاهر وتعزيزات والمزيد"
+    },
+    "v3.home.supporter.sub": {
+      "en": "Exclusive perks & plates",
+      "text": "مزايا ولوحات حصرية"
+    },
+    "v3.home.worlds.desc": {
+      "en": "Explore new worlds and experiences.",
+      "text": "استكشف عوالم وتجارب جديدة."
+    },
+    "v3.host.action": {
+      "en": "Action",
+      "text": "الإجراء"
+    },
+    "v3.host.msg": {
+      "en": "Choose an action and visibility for this world.",
+      "text": "اختر إجراءً ومستوى الظهور لهذا العالم."
+    },
+    "v3.host.new": {
+      "en": "Host new instance",
+      "text": "استضافة جلسة جديدة"
+    },
+    "v3.host.portal": {
+      "en": "Drop portal to a new instance",
+      "text": "وضع بوابة إلى جلسة جديدة"
+    },
+    "v3.host.private": {
+      "en": "Private",
+      "text": "خاص"
+    },
+    "v3.host.public": {
+      "en": "Public",
+      "text": "عام"
+    },
+    "v3.host.title": {
+      "en": "Host or drop portal",
+      "text": "استضافة أو وضع بوابة"
+    },
+    "v3.host.visibility": {
+      "en": "Visibility",
+      "text": "الظهور"
+    },
+    "v3.inbox": {
+      "en": "Inbox",
+      "text": "الوارد"
+    },
+    "v3.inbox.empty": {
+      "en": "Nothing new right now.",
+      "text": "لا جديد حالياً."
+    },
+    "v3.instance.applyban": {
+      "en": "Apply ban",
+      "text": "تطبيق الحظر"
+    },
+    "v3.instance.banhours": {
+      "en": "hours (0 = permanent)",
+      "text": "ساعات (0 = دائم)"
+    },
+    "v3.instance.muteall": {
+      "en": "Mute All",
+      "text": "كتم الجميع"
+    },
+    "v3.instance.people": {
+      "en": "PEOPLE HERE",
+      "text": "الأشخاص هنا"
+    },
+    "v3.instance.title": {
+      "en": "Instance",
+      "text": "الجلسة"
+    },
+    "v3.modal.noundo": {
+      "en": "This action cannot be undone.",
+      "text": "لا يمكن التراجع عن هذا الإجراء."
+    },
+    "v3.modal.sure": {
+      "en": "Are you sure?",
+      "text": "هل أنت متأكد؟"
+    },
+    "v3.report.details": {
+      "en": "ADDITIONAL DETAILS (OPTIONAL)",
+      "text": "تفاصيل إضافية (اختياري)"
+    },
+    "v3.report.msg": {
+      "en": "Choose a reason for reporting this world.",
+      "text": "اختر سبب الإبلاغ عن هذا العالم."
+    },
+    "v3.report.reason.perf": {
+      "en": "Low performance",
+      "text": "أداء ضعيف"
+    },
+    "v3.report.reason.tags": {
+      "en": "Inappropriate tags (mature content)",
+      "text": "وسوم غير مناسبة (محتوى للبالغين)"
+    },
+    "v3.report.send": {
+      "en": "Send report",
+      "text": "إرسال البلاغ"
+    },
+    "v3.report.title": {
+      "en": "Report world",
+      "text": "الإبلاغ عن العالم"
+    },
+    "v3.report.what": {
+      "en": "WHAT IS WRONG?",
+      "text": "ما المشكلة؟"
+    },
+    "v3.role.member": {
+      "en": "Member",
+      "text": "عضو"
+    },
+    "v3.role.mod": {
+      "en": "Mod",
+      "text": "مشرف"
+    },
+    "v3.role.owner": {
+      "en": "Owner",
+      "text": "المالك"
+    },
+    "v3.search.avatars": {
+      "en": "Search avatars…",
+      "text": "ابحث عن أفاتار…"
+    },
+    "v3.search.friends": {
+      "en": "Search friends…",
+      "text": "ابحث عن أصدقاء…"
+    },
+    "v3.search.groups": {
+      "en": "Search groups…",
+      "text": "ابحث عن مجموعات…"
+    },
+    "v3.search.members": {
+      "en": "Search members…",
+      "text": "ابحث عن أعضاء…"
+    },
+    "v3.search.people": {
+      "en": "Search people…",
+      "text": "ابحث عن أشخاص…"
+    },
+    "v3.search.players": {
+      "en": "Search players…",
+      "text": "ابحث عن لاعبين…"
+    },
+    "v3.settings.access.hdr": {
+      "en": "LANGUAGE & ACCESSIBILITY",
+      "text": "اللغة وسهولة الوصول"
+    },
+    "v3.settings.avatarphysics": {
+      "en": "Avatar Physics",
+      "text": "فيزياء الأفاتار"
+    },
+    "v3.settings.avatarphysics.sub": {
+      "en": "Tails, ears and hair swing on avatars. Turn off for comfort or on a slower PC.",
+      "text": "تتأرجح الذيول والآذان والشعر على الأفاتارات. أوقفه للراحة أو على حاسوب أبطأ."
+    },
+    "v3.settings.brightness": {
+      "en": "Brightness",
+      "text": "السطوع"
+    },
+    "v3.settings.brightness.sub": {
+      "en": "Brighten or darken everything. 100% = the world as it was made.",
+      "text": "فتّح أو عتّم كل شيء. 100% = العالم كما صُمِّم."
+    },
+    "v3.settings.cambody": {
+      "en": "Upper Body",
+      "text": "الجزء العلوي من الجسم"
+    },
+    "v3.settings.cambody.sub": {
+      "en": "Also moves your avatar's arms, shoulders and fingers.",
+      "text": "يحرك أيضًا ذراعي الأفاتار وكتفيه وأصابعه."
+    },
+    "v3.settings.camface": {
+      "en": "Face Only",
+      "text": "الوجه فقط"
+    },
+    "v3.settings.camface.sub": {
+      "en": "Your avatar's face, eyelids and eyes follow your webcam.",
+      "text": "وجه الأفاتار وجفونه وعيناه تتبع كاميرا الويب."
+    },
+    "v3.settings.camhead": {
+      "en": "Face and Head Movement",
+      "text": "الوجه وحركة الرأس"
+    },
+    "v3.settings.camhead.sub": {
+      "en": "Also turns, nods and tilts your avatar's head with yours.",
+      "text": "يدير أيضًا رأس الأفاتار ويومئ به ويميله مع رأسك."
+    },
+    "v3.settings.controls": {
+      "en": "Controls",
+      "text": "التحكم"
+    },
+    "v3.settings.eyeavatar": {
+      "en": "Eye tracking: avatar eyes",
+      "text": "تتبع العين: عينا الأفاتار"
+    },
+    "v3.settings.eyeavatar.sub": {
+      "en": "Your avatar's eyes follow where you look. Needs a headset with eye tracking.",
+      "text": "عينا الأفاتار تتبعان اتجاه نظرك. يتطلب نظارة تدعم تتبع العين."
+    },
+    "v3.settings.faceheadset": {
+      "en": "Headset Face Tracking",
+      "text": "تتبع الوجه عبر النظارة"
+    },
+    "v3.settings.faceheadset.sub": {
+      "en": "Your avatar's face follows your own. Needs a headset with face tracking.",
+      "text": "وجه الأفاتار يتبع وجهك. يتطلب نظارة تدعم تتبع الوجه."
+    },
+    "v3.settings.facetrack.hdr": {
+      "en": "FACE TRACKING",
+      "text": "تتبع الوجه"
+    },
+    "v3.settings.fingertracking": {
+      "en": "Controller finger tracking",
+      "text": "تتبع الأصابع بوحدة التحكم"
+    },
+    "v3.settings.fingertracking.sub": {
+      "en": "Your avatar's fingers follow your controller's finger sensors instead of the preset hand poses.",
+      "text": "أصابع الأفاتار تتبع مستشعرات الأصابع في وحدة التحكم بدلًا من وضعيات اليد الجاهزة."
+    },
+    "v3.settings.fov": {
+      "en": "FIELD OF VIEW",
+      "text": "مجال الرؤية"
+    },
+    "v3.settings.fov.sub": {
+      "en": "Desktop only. How wide the view is. Lower feels zoomed in, higher shows more at the edges.",
+      "text": "سطح المكتب فقط. مدى اتساع الرؤية. الأقل يبدو مقرّباً، والأعلى يُظهر المزيد عند الأطراف."
+    },
+    "v3.settings.foveatedeyes": {
+      "en": "Eye tracking: foveated rendering",
+      "text": "تتبع العين: العرض البؤري"
+    },
+    "v3.settings.foveatedeyes.sub": {
+      "en": "With Foveated Rendering on, the sharp area follows your eyes.",
+      "text": "عند تفعيل العرض البؤري، تتبع المنطقة الواضحة عينيك."
+    },
+    "v3.settings.fpscap.sub": {
+      "en": "In VR at least 90 is used. Unlimited leaves it uncapped.",
+      "text": "في الواقع الافتراضي يُستخدم 90 على الأقل. غير محدود يتركه بلا حد."
+    },
+    "v3.settings.fullscreen.sub": {
+      "en": "Desktop window only",
+      "text": "نافذة سطح المكتب فقط"
+    },
+    "v3.settings.guestinvite": {
+      "en": "Allow Guests to Invite",
+      "text": "السماح للضيوف بالدعوة"
+    },
+    "v3.settings.guestinvite.sub": {
+      "en": "Let anyone here invite people. Off means only you can.",
+      "text": "اسمح لأي شخص هنا بدعوة الآخرين. عند الإيقاف، أنت فقط تستطيع."
+    },
+    "v3.settings.hideavatars": {
+      "en": "Hide Custom Avatars",
+      "text": "إخفاء الأفاتارات المخصصة"
+    },
+    "v3.settings.hideavatars.sub": {
+      "en": "Show everyone as Quinn. Their real avatars come back when you turn this off.",
+      "text": "اعرض الجميع كـ Quinn. تعود أفاتاراتهم الحقيقية عند إيقاف هذا."
+    },
+    "v3.settings.invertmouse": {
+      "en": "Invert Mouse Look",
+      "text": "عكس نظر الفأرة"
+    },
+    "v3.settings.invertmouse.sub": {
+      "en": "Desktop only. Moving the mouse down looks up.",
+      "text": "سطح المكتب فقط. تحريك الفأرة للأسفل ينظر للأعلى."
+    },
+    "v3.settings.invertpad": {
+      "en": "Invert Controller Look",
+      "text": "عكس نظر ذراع التحكم"
+    },
+    "v3.settings.invertpad.sub": {
+      "en": "Pushing the right stick down looks up.",
+      "text": "دفع العصا اليمنى للأسفل ينظر للأعلى."
+    },
+    "v3.settings.language": {
+      "en": "Language",
+      "text": "اللغة"
+    },
+    "v3.settings.mousesens": {
+      "en": "MOUSE SENSITIVITY",
+      "text": "حساسية الفأرة"
+    },
+    "v3.settings.mousesens.sub": {
+      "en": "Desktop only. How far the view turns for a given mouse movement.",
+      "text": "سطح المكتب فقط. مقدار دوران الرؤية لحركة معينة من الفأرة."
+    },
+    "v3.settings.music": {
+      "en": "Music",
+      "text": "الموسيقى"
+    },
+    "v3.settings.proxvoice": {
+      "en": "Proximity Voice",
+      "text": "صوت حسب القرب"
+    },
+    "v3.settings.proxvoice.sub": {
+      "en": "Voices fade with distance and muffle through walls",
+      "text": "تخفت الأصوات مع المسافة وتُكتم عبر الجدران"
+    },
+    "v3.settings.radialhand": {
+      "en": "Laser on Right Hand",
+      "text": "الليزر في اليد اليمنى"
+    },
+    "v3.settings.radialhandsub": {
+      "en": "Laser on the right; quick menu and mic button on the left. Off: the other way round.",
+      "text": "الليزر في اليمين، والقائمة السريعة وزر الميكروفون في اليسار. عند الإيقاف: العكس."
+    },
+    "v3.settings.resetall": {
+      "en": "Reset to default",
+      "text": "إعادة الضبط الافتراضي"
+    },
+    "v3.settings.resetall.body": {
+      "en": "Audio, mic, graphics, comfort, colours and controls go back to how they started. Your language, streamer and privacy settings stay.",
+      "text": "الصوت والميكروفون والرسومات والراحة والألوان والتحكم تعود كما كانت في البداية. تبقى لغتك وإعدادات البث والخصوصية كما هي."
+    },
+    "v3.settings.resetall.confirm": {
+      "en": "Reset",
+      "text": "إعادة ضبط"
+    },
+    "v3.settings.resetall.title": {
+      "en": "Reset all settings to default?",
+      "text": "إعادة كل الإعدادات إلى الافتراضي؟"
+    },
+    "v3.settings.resetall.toast": {
+      "en": "Settings reset to default",
+      "text": "تمت إعادة ضبط الإعدادات"
+    },
+    "v3.settings.resetgraphics": {
+      "en": "Reset graphics to defaults",
+      "text": "إعادة تعيين الرسومات"
+    },
+    "v3.settings.sessionvis": {
+      "en": "Session Visibility",
+      "text": "ظهور الجلسة"
+    },
+    "v3.settings.sessionvis.sub": {
+      "en": "Public: anyone can find and join. Friends Only: not listed, friends can join. Private: not listed, invite only.",
+      "text": "عام: يمكن لأي شخص العثور عليها والانضمام. الأصدقاء فقط: غير مدرجة، يمكن للأصدقاء الانضمام. خاص: غير مدرجة، بالدعوة فقط."
+    },
+    "v3.settings.streammature.hide": {
+      "en": "Streamer mode: hide mature avatars",
+      "text": "وضع البث: إخفاء الأفاتارات للبالغين"
+    },
+    "v3.settings.streammature.hide.sub": {
+      "en": "Shows them as an orb instead. You can unhide anyone from Nearby.",
+      "text": "يعرضهم ككرة بدلاً من ذلك. يمكنك إظهار أي شخص من قائمة القريبين."
+    },
+    "v3.settings.streammature.quinn": {
+      "en": "Streamer mode: mature avatars as Quinn",
+      "text": "وضع البث: الأفاتارات للبالغين كـ Quinn"
+    },
+    "v3.settings.streammature.quinn.sub": {
+      "en": "While streamer mode is on, other players' Mature Themes avatars show as Quinn.",
+      "text": "أثناء تفعيل وضع البث، تظهر أفاتارات اللاعبين الآخرين ذات المحتوى للبالغين كـ Quinn."
+    },
+    "v3.settings.swaphands.sub": {
+      "en": "Move the quick menu and Movement Mode to the other hand",
+      "text": "نقل القائمة السريعة ووضع الحركة إلى اليد الأخرى"
+    },
+    "v3.settings.uisize": {
+      "en": "UI SIZE",
+      "text": "حجم الواجهة"
+    },
+    "v3.settings.uisize.sub": {
+      "en": "Size of nameplates and on-screen notifications. Larger is easier to read in VR.",
+      "text": "حجم لوحات الأسماء والإشعارات على الشاشة. الأكبر أسهل للقراءة في الواقع الافتراضي."
+    },
+    "v3.settings.voice3d": {
+      "en": "3D Voice",
+      "text": "صوت ثلاثي الأبعاد"
+    },
+    "v3.settings.voice3d.sub": {
+      "en": "Hear each voice from where that person is standing: behind you sounds behind you. Off: everyone sounds flat.",
+      "text": "اسمع كل صوت من مكان وقوف صاحبه: من خلفك يُسمع من خلفك. عند الإيقاف: تبدو كل الأصوات مسطّحة."
+    },
+    "v3.settings.webcam.hdr": {
+      "en": "WEBCAM TRACKING",
+      "text": "التتبع بكاميرا الويب"
+    },
+    "v3.settings.webcam.note": {
+      "en": "Desktop mode only. Pick one: each choice includes the ones above it. Your camera picture never leaves this PC.",
+      "text": "في وضع سطح المكتب فقط. اختر واحدًا: كل خيار يشمل الخيارات التي فوقه. صورة الكاميرا لا تغادر هذا الحاسوب أبدًا."
+    },
+    "v3.store.companions": {
+      "en": "Companions",
+      "text": "الرفاق"
+    },
+    "v3.store.cosmetics": {
+      "en": "Cosmetics",
+      "text": "مظاهر"
+    },
+    "v3.store.empty": {
+      "en": "The store is still in the works",
+      "text": "المتجر لا يزال قيد التطوير"
+    },
+    "v3.store.emptysub": {
+      "en": "Check back soon — new items are on the way.",
+      "text": "عد قريباً — عناصر جديدة في الطريق."
+    },
+    "v3.store.sub": {
+      "en": "Early Access deals — support development and look good doing it.",
+      "text": "عروض الوصول المبكر — ادعم التطوير وابدُ رائعاً وأنت تفعل ذلك."
+    },
+    "v3.store.title": {
+      "en": "VR Realms Store",
+      "text": "متجر VR Realms"
+    },
+    "v3.supporter.accent": {
+      "en": "Accent",
+      "text": "اللون المميز"
+    },
+    "v3.supporter.active": {
+      "en": "Supporter active",
+      "text": "الداعم مفعّل"
+    },
+    "v3.supporter.activesub": {
+      "en": "Quick access to favorites and menu colour customization.",
+      "text": "وصول سريع إلى المفضلة وتخصيص ألوان القائمة."
+    },
+    "v3.supporter.background": {
+      "en": "Background",
+      "text": "الخلفية"
+    },
+    "v3.supporter.collected": {
+      "en": "COLLECTED HEAD PLATES",
+      "text": "اللوحات التي جمعتها"
+    },
+    "v3.supporter.colours": {
+      "en": "MENU COLOURS",
+      "text": "ألوان القائمة"
+    },
+    "v3.supporter.favavatars": {
+      "en": "FAVORITE AVATARS",
+      "text": "الأفاتارات المفضلة"
+    },
+    "v3.supporter.favworlds": {
+      "en": "FAVORITE WORLDS",
+      "text": "العوالم المفضلة"
+    },
+    "v3.supporter.locked": {
+      "en": "You have plates you cannot wear yet",
+      "text": "لديك لوحات لا يمكنك ارتداؤها بعد"
+    },
+    "v3.supporter.lockedsub": {
+      "en": "Supporters can wear any plate they have found and swap whenever they like. You also get 60 favorite avatars and worlds, plus menu colour customization.",
+      "text": "يمكن للداعمين ارتداء أي لوحة وجدوها وتبديلها متى شاؤوا. تحصل أيضاً على 60 أفاتاراً وعالماً في المفضلة وتخصيص ألوان القائمة."
+    },
+    "v3.supporter.noavatars": {
+      "en": "No favorite avatars yet. Heart avatars to pin them here.",
+      "text": "لا توجد أفاتارات مفضلة بعد. اضغط القلب على الأفاتارات لتثبيتها هنا."
+    },
+    "v3.supporter.noplate": {
+      "en": "Wear no plate",
+      "text": "بدون لوحة"
+    },
+    "v3.supporter.noworlds": {
+      "en": "No favorite worlds yet. Heart worlds to pin them here.",
+      "text": "لا توجد عوالم مفضلة بعد. اضغط القلب على العوالم لتثبيتها هنا."
+    },
+    "v3.supporter.plates": {
+      "en": "PLATES",
+      "text": "اللوحات"
+    },
+    "v3.supporter.platesnote": {
+      "en": "Every plate you find is yours to keep. Pick one to wear for free — choose carefully, it cannot be changed later. Supporters can wear any of them, and swap whenever they like.",
+      "text": "كل لوحة تجدها تبقى لك. اختر واحدة لارتدائها مجاناً — اختر بعناية، فلا يمكن تغييرها لاحقاً. يمكن للداعمين ارتداء أيٍّ منها والتبديل متى شاؤوا."
+    },
+    "v3.supporter.pricenote": {
+      "en": "Cancel anytime. Every plate you found stays yours.",
+      "text": "ألغِ في أي وقت. كل لوحة وجدتها تبقى لك."
+    },
+    "v3.supporter.resetcolours": {
+      "en": "Reset colours",
+      "text": "إعادة تعيين الألوان"
+    },
+    "v3.supporter.subscribe": {
+      "en": "$7 / month  ·  Become a Supporter",
+      "text": "7$ / شهرياً  ·  كن داعماً"
+    },
+    "v3.tag.anyone": {
+      "en": "Anyone",
+      "text": "الجميع"
+    },
+    "v3.tag.creators": {
+      "en": "Creators",
+      "text": "المبدعون"
+    },
+    "v3.tag.gaming": {
+      "en": "Gaming",
+      "text": "ألعاب"
+    },
+    "v3.tag.social": {
+      "en": "Social",
+      "text": "اجتماعي"
+    },
+    "v3.worlds.instances": {
+      "en": "Instances",
+      "text": "الجلسات"
+    },
+    "v3.worlds.noinstances": {
+      "en": "No active instances. Host one below.",
+      "text": "لا توجد جلسات نشطة. استضف واحدة أدناه."
+    },
+    "v3.worlds.nomatch": {
+      "en": "No worlds match",
+      "text": "لا توجد عوالم مطابقة"
+    },
+    "v3.worlds.singleplayer": {
+      "en": "Single Player",
+      "text": "لاعب واحد"
+    },
+    "worlds.access": {
+      "en": "ACCESS",
+      "text": "الوصول"
+    },
+    "worlds.audience": {
+      "en": "AUDIENCE",
+      "text": "الجمهور"
+    },
+    "worlds.capacity": {
+      "en": "CAPACITY",
+      "text": "السعة"
+    },
+    "worlds.dropportal": {
+      "en": "DROP PORTAL",
+      "text": "إسقاط بوابة"
+    },
+    "worlds.favonly": {
+      "en": "Favorites only",
+      "text": "المفضلة فقط"
+    },
+    "worlds.filters": {
+      "en": "Filters",
+      "text": "تصفية"
+    },
+    "worlds.gameworld": {
+      "en": "Game World",
+      "text": "عالم لعب"
+    },
+    "worlds.horror": {
+      "en": "Horror",
+      "text": "رعب"
+    },
+    "worlds.host": {
+      "en": "HOST",
+      "text": "استضافة"
+    },
+    "worlds.hostnew": {
+      "en": "+  HOST NEW SESSION",
+      "text": "+  استضافة جلسة جديدة"
+    },
+    "worlds.hub.sub": {
+      "en": "The official VR Realms hub — everyone starts here",
+      "text": "المركز الرسمي لـ VR Realms — الجميع يبدأ هنا"
+    },
+    "worlds.hub.title": {
+      "en": "Join the Main HUB",
+      "text": "انضم إلى المركز الرئيسي"
+    },
+    "worlds.install": {
+      "en": "INSTALL",
+      "text": "تثبيت"
+    },
+    "worlds.maptype": {
+      "en": "MAP TYPE",
+      "text": "نوع الخريطة"
+    },
+    "worlds.minigame": {
+      "en": "Minigame",
+      "text": "لعبة مصغرة"
+    },
+    "worlds.personal": {
+      "en": "Personal",
+      "text": "شخصي"
+    },
+    "worlds.report": {
+      "en": "REPORT",
+      "text": "إبلاغ"
+    },
+    "worlds.roleplay": {
+      "en": "Roleplay",
+      "text": "لعب أدوار"
+    },
+    "worlds.searchhint": {
+      "en": "Search worlds…",
+      "text": "ابحث عن عوالم…"
+    },
+    "worlds.showcase": {
+      "en": "Showcase",
+      "text": "عرض"
+    },
+    "worlds.socialhub": {
+      "en": "Social Hub",
+      "text": "مركز اجتماعي"
+    },
+    "worlds.sort.players": {
+      "en": "Most Players",
+      "text": "الأكثر لاعبين"
+    },
+    "worlds.sort.popular": {
+      "en": "Most Popular",
+      "text": "الأكثر شعبية"
+    },
+    "worlds.sort.recent": {
+      "en": "Most Recent",
+      "text": "الأحدث"
+    },
+    "worlds.sort.toprated": {
+      "en": "Top Rated All Time",
+      "text": "الأعلى تقييمًا"
+    },
+    "worlds.sort.updated": {
+      "en": "Last Updated",
+      "text": "آخر تحديث"
+    },
+    "worlds.sortby": {
+      "en": "Sort by",
+      "text": "ترتيب حسب"
+    },
+    "ws.nosend": {
+      "en": "Steam is not sending avatars right now. They will show up when it does.",
+      "text": "Steam لا يرسل الأفاتارات حالياً. ستظهر عندما يرسلها."
+    }
+  }
+}

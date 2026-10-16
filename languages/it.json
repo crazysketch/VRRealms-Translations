@@ -1,0 +1,4375 @@
+{
+  "language": "Italiano",
+  "code": "it",
+  "column": "italian",
+  "strings": {
+    "ach.arcaderegular": {
+      "en": "Arcade Regular",
+      "text": "Habitué della sala giochi"
+    },
+    "ach.avatarmaker": {
+      "en": "Avatar Maker",
+      "text": "Creatore di avatar"
+    },
+    "ach.collector": {
+      "en": "Collector",
+      "text": "Collezionista"
+    },
+    "ach.competitor": {
+      "en": "Competitor",
+      "text": "Competitore"
+    },
+    "ach.ffawin": {
+      "en": "Last One Standing",
+      "text": "L'ultimo in piedi"
+    },
+    "ach.fullhouse": {
+      "en": "Full House",
+      "text": "Tutto esaurito"
+    },
+    "ach.goldrush": {
+      "en": "Gold Rush",
+      "text": "Corsa all'oro"
+    },
+    "ach.guidedtour": {
+      "en": "Guided Tour",
+      "text": "Visita guidata"
+    },
+    "ach.helpinghand": {
+      "en": "Helping Hand",
+      "text": "Mano amica"
+    },
+    "ach.label": {
+      "en": "ACHIEVEMENT UNLOCKED",
+      "text": "OBIETTIVO SBLOCCATO"
+    },
+    "ach.numberone": {
+      "en": "Number One",
+      "text": "Numero uno"
+    },
+    "ach.ontheboard": {
+      "en": "On the Board",
+      "text": "In classifica"
+    },
+    "ach.poolshark": {
+      "en": "Pool Shark",
+      "text": "Squalo del biliardo"
+    },
+    "ach.rackemup": {
+      "en": "Rack 'Em Up",
+      "text": "Prepara le bilie"
+    },
+    "ach.roadtrip": {
+      "en": "Road Trip",
+      "text": "Viaggio di gruppo"
+    },
+    "ach.saycheese": {
+      "en": "Say Cheese",
+      "text": "Di' cheese"
+    },
+    "ach.teamwin": {
+      "en": "Hold the Line",
+      "text": "Tenete la linea"
+    },
+    "ach.treatyourself": {
+      "en": "Treat Yourself",
+      "text": "Concediti un regalo"
+    },
+    "ach.welcome": {
+      "en": "Welcome to VR Realms",
+      "text": "Benvenuto in VR Realms"
+    },
+    "ach.worldbuilder": {
+      "en": "World Builder",
+      "text": "Costruttore di mondi"
+    },
+    "ach.worldtour": {
+      "en": "World Tour",
+      "text": "Giro dei mondi"
+    },
+    "arcade.exitkey": {
+      "en": "E - EXIT",
+      "text": "E - ESCI"
+    },
+    "arcade.exitpad": {
+      "en": "X - EXIT",
+      "text": "X - ESCI"
+    },
+    "arcade.exitvr": {
+      "en": "A / X - EXIT",
+      "text": "A / X - ESCI"
+    },
+    "arcade.movekey": {
+      "en": "WASD - MOVE     SPACE - FIRE",
+      "text": "WASD - MUOVI     SPAZIO - SPARA"
+    },
+    "arcade.movepad": {
+      "en": "STICK - MOVE     A - FIRE",
+      "text": "STICK - MUOVI     A - SPARA"
+    },
+    "arcade.movevr": {
+      "en": "STICK - MOVE     TRIGGER - FIRE",
+      "text": "STICK - MUOVI     GRILLETTO - SPARA"
+    },
+    "arcade.needgold": {
+      "en": "You need {0} more gold to play.",
+      "text": "Ti servono altri {0} oro per giocare."
+    },
+    "arcade.nogold": {
+      "en": "Not enough gold to play.",
+      "text": "Non hai abbastanza oro per giocare."
+    },
+    "arcade.notsaved": {
+      "en": "That score could not be saved.",
+      "text": "Non è stato possibile salvare quel punteggio."
+    },
+    "arcade.stepup": {
+      "en": "Step up to the arcade machine to play.",
+      "text": "Avvicinati al cabinato per giocare."
+    },
+    "avatars.anime": {
+      "en": "Anime",
+      "text": "Anime"
+    },
+    "avatars.blendshapes": {
+      "en": "Blend Shapes",
+      "text": "Blend shapes"
+    },
+    "avatars.chibi": {
+      "en": "Chibi",
+      "text": "Chibi"
+    },
+    "avatars.creature": {
+      "en": "Creature",
+      "text": "Creatura"
+    },
+    "avatars.fantasy": {
+      "en": "Fantasy",
+      "text": "Fantasy"
+    },
+    "avatars.humanoid": {
+      "en": "Humanoid",
+      "text": "Umanoide"
+    },
+    "avatars.personal": {
+      "en": "Personal",
+      "text": "Personale"
+    },
+    "avatars.realistic": {
+      "en": "Realistic",
+      "text": "Realistico"
+    },
+    "avatars.scifi": {
+      "en": "Sci-Fi",
+      "text": "Sci-Fi"
+    },
+    "avatars.style": {
+      "en": "AVATAR STYLE",
+      "text": "STILE AVATAR"
+    },
+    "avatars.stylized": {
+      "en": "Stylized",
+      "text": "Stilizzato"
+    },
+    "board.avatar": {
+      "en": "avatar",
+      "text": "avatar"
+    },
+    "board.avatars": {
+      "en": "avatars",
+      "text": "avatar"
+    },
+    "board.by": {
+      "en": "by",
+      "text": "di"
+    },
+    "board.events": {
+      "en": "UPCOMING EVENTS",
+      "text": "PROSSIMI EVENTI"
+    },
+    "board.lastmonth": {
+      "en": "last month",
+      "text": "il mese scorso"
+    },
+    "board.lifetime": {
+      "en": "lifetime",
+      "text": "totale"
+    },
+    "board.live": {
+      "en": "LIVE",
+      "text": "IN DIRETTA"
+    },
+    "board.loading": {
+      "en": "Loading…",
+      "text": "Caricamento…"
+    },
+    "board.map": {
+      "en": "map",
+      "text": "mappa"
+    },
+    "board.maps": {
+      "en": "maps",
+      "text": "mappe"
+    },
+    "board.members": {
+      "en": "members",
+      "text": "membri"
+    },
+    "board.n.gold": {
+      "en": "{0} gold",
+      "text": "{0} oro"
+    },
+    "board.n.subs": {
+      "en": "{0} subs",
+      "text": "{0} iscritti"
+    },
+    "board.noevents": {
+      "en": "No events scheduled",
+      "text": "Nessun evento in programma"
+    },
+    "board.nogold": {
+      "en": "No gold yet",
+      "text": "Ancora niente oro"
+    },
+    "board.nogroupgold": {
+      "en": "No group gold yet",
+      "text": "Ancora niente oro di gruppo"
+    },
+    "board.nothing": {
+      "en": "Nothing here yet",
+      "text": "Ancora nulla qui"
+    },
+    "board.soon": {
+      "en": "soon",
+      "text": "presto"
+    },
+    "board.thismonth": {
+      "en": "this month",
+      "text": "questo mese"
+    },
+    "board.topavatars": {
+      "en": "TOP AVATARS",
+      "text": "MIGLIORI AVATAR"
+    },
+    "board.topcreators": {
+      "en": "TOP CREATORS",
+      "text": "MIGLIORI CREATORI"
+    },
+    "board.topgold": {
+      "en": "GOLD LEADERS",
+      "text": "CLASSIFICA ORO"
+    },
+    "board.topgroups": {
+      "en": "TOP GROUPS",
+      "text": "MIGLIORI GRUPPI"
+    },
+    "board.topworlds": {
+      "en": "TOP WORLDS",
+      "text": "MIGLIORI MONDI"
+    },
+    "bots.auto": {
+      "en": "AUTO",
+      "text": "AUTO"
+    },
+    "bots.now.auto": {
+      "en": "Now: AUTO. One droid ({0}) keeps you company while you are alone here, and leaves when somebody joins.",
+      "text": "Ora: AUTO. Un droide ({0}) ti tiene compagnia mentre sei da solo qui, e se ne va quando arriva qualcuno."
+    },
+    "bots.now.many": {
+      "en": "Now: {0} droids ({1}), until you remove them.",
+      "text": "Ora: {0} droidi ({1}), finché non li rimuovi."
+    },
+    "bots.now.none": {
+      "en": "Now: no bots.",
+      "text": "Ora: nessun bot."
+    },
+    "bots.now.one": {
+      "en": "Now: one droid ({0}), until you remove it.",
+      "text": "Ora: un droide ({0}), finché non lo rimuovi."
+    },
+    "bots.row.angle": {
+      "en": "Gun Angle (VR)",
+      "text": "Angolo dell'arma (VR)"
+    },
+    "bots.row.angledesc": {
+      "en": "Turns the barrel up or down in your hand, so a gun points where your controller's trigger feels right.",
+      "text": "Inclina la canna in su o in giù nella tua mano, così l'arma punta dove il grilletto del controller ti sembra giusto."
+    },
+    "bots.row.botsdesc": {
+      "en": "Droids to fight in a world that has a gun match. Up to 9. AUTO: one keeps you company while you are alone.",
+      "text": "Droidi da combattere in un mondo con una partita a fuoco. Fino a 9. AUTO: uno ti tiene compagnia mentre sei da solo."
+    },
+    "bots.row.guns": {
+      "en": "GUNS",
+      "text": "ARMI"
+    },
+    "bots.row.header": {
+      "en": "GUN BOTS",
+      "text": "BOT ARMATI"
+    },
+    "bots.row.level": {
+      "en": "Bot Level",
+      "text": "Livello dei bot"
+    },
+    "bots.row.leveldesc": {
+      "en": "How well they aim, how fast they shoot, and whether they sprint and jump.",
+      "text": "Quanto bene mirano, quanto velocemente sparano e se scattano e saltano."
+    },
+    "bots.row.now": {
+      "en": "Bots Now",
+      "text": "Bot attuali"
+    },
+    "bots.row.remove": {
+      "en": "REMOVE BOTS",
+      "text": "RIMUOVI BOT"
+    },
+    "bots.row.spawn": {
+      "en": "SPAWN BOTS",
+      "text": "GENERA BOT"
+    },
+    "bots.toast.auto": {
+      "en": "A droid keeps you company while you are alone. Go to Settings > Host to add or remove bots (up to 9).",
+      "text": "Un droide ti tiene compagnia mentre sei da solo. Vai su Impostazioni > Host per aggiungere o rimuovere bot (fino a 9)."
+    },
+    "bots.toast.host": {
+      "en": "Go to Settings > Host to add or remove bots (up to 9, three levels).",
+      "text": "Vai su Impostazioni > Host per aggiungere o rimuovere bot (fino a 9, tre livelli)."
+    },
+    "build.lost": {
+      "en": "Connection lost. This VR Realms is out of date: close the game and let Steam update it.",
+      "text": "Connessione persa. Questa versione di VR Realms non è aggiornata: chiudi il gioco e lascia che Steam lo aggiorni."
+    },
+    "build.tooold": {
+      "en": "A newer VR Realms is out, and the hub needs it. Close the game and let Steam update it.",
+      "text": "È uscita una versione più recente di VR Realms e l'hub ne ha bisogno. Chiudi il gioco e lascia che Steam lo aggiorni."
+    },
+    "call.aplayer": {
+      "en": "A player",
+      "text": "Un giocatore"
+    },
+    "call.aworld": {
+      "en": "a world",
+      "text": "un mondo"
+    },
+    "call.box.home": {
+      "en": "{0} invites everyone to hang out",
+      "text": "{0} invita tutti a passare del tempo insieme"
+    },
+    "call.box.notnow": {
+      "en": "NOT NOW",
+      "text": "NON ORA"
+    },
+    "call.box.tag": {
+      "en": "CALL TO PLAY",
+      "text": "CHIAMATA A GIOCARE"
+    },
+    "call.box.world": {
+      "en": "{0} is calling everyone to play",
+      "text": "{0} chiama tutti a giocare"
+    },
+    "call.chat.home": {
+      "en": "{0} invites everyone to hang out at their home. To join: the gold row in your quick menu.",
+      "text": "{0} invita tutti a passare del tempo a casa sua. Per unirti: la riga dorata nel tuo menu rapido."
+    },
+    "call.chat.world": {
+      "en": "{0} is calling everyone to play in {1}. To join: the gold row in your quick menu.",
+      "text": "{0} chiama tutti a giocare in {1}. Per unirti: la riga dorata nel tuo menu rapido."
+    },
+    "call.confirm.left": {
+      "en": "{0} OF {1} CALLS LEFT TODAY",
+      "text": "TI RESTANO {0} CHIAMATE SU {1} OGGI"
+    },
+    "call.confirm.notice": {
+      "en": "EVERYONE IN THE GAME GETS NOTIFIED",
+      "text": "TUTTI NEL GIOCO RICEVONO UNA NOTIFICA"
+    },
+    "call.confirm.title": {
+      "en": "CALL EVERYONE?",
+      "text": "CHIAMARE TUTTI?"
+    },
+    "call.confirm.yes": {
+      "en": "YES, CALL EVERYONE",
+      "text": "SÌ, CHIAMA TUTTI"
+    },
+    "call.daydone": {
+      "en": "You have called everyone today already. Your next call: in {0}.",
+      "text": "Oggi hai già chiamato tutti. La tua prossima chiamata: tra {0}."
+    },
+    "call.fullgame": {
+      "en": "{0}'s game is full right now.",
+      "text": "La partita di {0} è piena in questo momento."
+    },
+    "call.fullhome": {
+      "en": "{0}'s home is full right now.",
+      "text": "La casa di {0} è piena in questo momento."
+    },
+    "call.gap": {
+      "en": "A call went out a little while ago. The next one can go out in {0}.",
+      "text": "Poco fa è partita una chiamata. La prossima può partire tra {0}."
+    },
+    "call.homeof": {
+      "en": "{0}'s home",
+      "text": "Casa di {0}"
+    },
+    "call.hourmin": {
+      "en": "1 hour {0} min",
+      "text": "1 ora {0} min"
+    },
+    "call.hours": {
+      "en": "{0} hours",
+      "text": "{0} ore"
+    },
+    "call.joining": {
+      "en": "Joining {0}...",
+      "text": "Accesso a {0}..."
+    },
+    "call.lookgame": {
+      "en": "Looking for {0}'s game...",
+      "text": "Ricerca della partita di {0}..."
+    },
+    "call.lookhome": {
+      "en": "Looking for {0}'s home...",
+      "text": "Ricerca della casa di {0}..."
+    },
+    "call.nogame": {
+      "en": "Could not find {0}'s game. It may be full, private or closed.",
+      "text": "Impossibile trovare la partita di {0}. Potrebbe essere piena, privata o chiusa."
+    },
+    "call.nohome": {
+      "en": "Could not find {0}'s home. It may be full, private or closed.",
+      "text": "Impossibile trovare la casa di {0}. Potrebbe essere piena, privata o chiusa."
+    },
+    "call.nosite": {
+      "en": "The call could not be sent: VR Realms did not answer. Try again in a moment.",
+      "text": "Impossibile inviare la chiamata: VR Realms non ha risposto. Riprova tra un momento."
+    },
+    "call.nosteam": {
+      "en": "The call could not be sent: the game is not signed in to Steam.",
+      "text": "Impossibile inviare la chiamata: il gioco non è connesso a Steam."
+    },
+    "call.nothost": {
+      "en": "VR Realms does not know yet that you are hosting. Try again in a minute.",
+      "text": "VR Realms non sa ancora che sei tu l'host. Riprova tra un minuto."
+    },
+    "call.off": {
+      "en": "Calls are switched off right now.",
+      "text": "Le chiamate sono disattivate in questo momento."
+    },
+    "call.openfor": {
+      "en": "Your call is open for another {0}. Players who said yes so far: {1}.",
+      "text": "La tua chiamata resta aperta ancora per {0}. Giocatori che hanno detto sì finora: {1}."
+    },
+    "call.otheropen": {
+      "en": "Somebody else's call is open right now. Try again in {0}.",
+      "text": "In questo momento è aperta la chiamata di qualcun altro. Riprova tra {0}."
+    },
+    "call.out": {
+      "en": "Your call is out. Everyone in the game sees it within a minute, and it stays open for {0} minutes.",
+      "text": "La tua chiamata è partita. Tutti nel gioco la vedono entro un minuto, e resta aperta per {0} minuti."
+    },
+    "call.over1": {
+      "en": "Your call is over. 1 player said yes.",
+      "text": "La tua chiamata è finita. 1 giocatore ha detto sì."
+    },
+    "call.overn": {
+      "en": "Your call is over. {0} players said yes.",
+      "text": "La tua chiamata è finita. {0} giocatori hanno detto sì."
+    },
+    "call.refused": {
+      "en": "The call was refused.",
+      "text": "La chiamata è stata rifiutata."
+    },
+    "call.row.call": {
+      "en": "CALL EVERYONE",
+      "text": "CHIAMA TUTTI"
+    },
+    "call.row.in": {
+      "en": "CALL EVERYONE · IN {0}",
+      "text": "CHIAMA TUTTI · TRA {0}"
+    },
+    "call.row.join": {
+      "en": "JOIN {0}'S CALL",
+      "text": "UNISCITI ALLA CHIAMATA DI {0}"
+    },
+    "call.row.out": {
+      "en": "YOUR CALL IS OUT · {0}",
+      "text": "LA TUA CHIAMATA È PARTITA · {0}"
+    },
+    "call.row.press": {
+      "en": "PRESS AGAIN TO CALL",
+      "text": "PREMI DI NUOVO PER CHIAMARE"
+    },
+    "call.stays": {
+      "en": "{0}'s call stays in your quick menu until it is over.",
+      "text": "La chiamata di {0} resta nel tuo menu rapido finché non finisce."
+    },
+    "call.test": {
+      "en": "That was a test call: there is nothing to join.",
+      "text": "Era una chiamata di prova: non c'è niente a cui unirsi."
+    },
+    "call.yes1": {
+      "en": "1 player said yes to your call.",
+      "text": "1 giocatore ha detto sì alla tua chiamata."
+    },
+    "call.yesn": {
+      "en": "{0} players said yes to your call.",
+      "text": "{0} giocatori hanno detto sì alla tua chiamata."
+    },
+    "cam.dock.drone": {
+      "en": "Screen: On Drone",
+      "text": "Schermo: sul drone"
+    },
+    "cam.dock.hud": {
+      "en": "Screen: Corner",
+      "text": "Schermo: angolo"
+    },
+    "cam.dock.left": {
+      "en": "Screen: Left",
+      "text": "Schermo: sinistra"
+    },
+    "cam.dock.off": {
+      "en": "Screen: Hidden",
+      "text": "Schermo: nascosto"
+    },
+    "cam.dock.right": {
+      "en": "Screen: Right",
+      "text": "Schermo: destra"
+    },
+    "cam.exposure.bright": {
+      "en": "Exposure: Bright",
+      "text": "Esposizione: luminosa"
+    },
+    "cam.exposure.brighter": {
+      "en": "Exposure: Brighter",
+      "text": "Esposizione: più luminosa"
+    },
+    "cam.exposure.max": {
+      "en": "Exposure: Max",
+      "text": "Esposizione: massima"
+    },
+    "cam.exposure.normal": {
+      "en": "Exposure: Normal",
+      "text": "Esposizione: normale"
+    },
+    "cam.hint.alt": {
+      "en": "Press ALT to use the mouse",
+      "text": "Premi ALT per usare il mouse"
+    },
+    "cam.hint.flymouse": {
+      "en": "MOUSE MODE — ALT to fly again · ESC exits Free Fly",
+      "text": "MODALITÀ MOUSE — ALT per tornare a volare · ESC esce da Volo Libero"
+    },
+    "cam.hint.flymousepad": {
+      "en": "MOUSE MODE — LB to fly again · Start exits Free Fly",
+      "text": "MODALITÀ MOUSE — LB per tornare a volare · Start esce da Volo Libero"
+    },
+    "cam.hint.freefly": {
+      "en": "FREE FLY — WASD move · Q/E height · mouse look · ALT for cursor · ESC to exit",
+      "text": "VOLO LIBERO — WASD muovi · Q/E altezza · mouse guarda · ALT cursore · ESC esci"
+    },
+    "cam.hint.freeflypad": {
+      "en": "FREE FLY — left stick move · triggers height · right stick look · LB for cursor · Start to exit",
+      "text": "VOLO LIBERO — levetta sx muovi · grilletti altezza · levetta dx guarda · LB cursore · Start esci"
+    },
+    "cam.hint.lb": {
+      "en": "Press LB to use the mouse",
+      "text": "Premi LB per usare il mouse"
+    },
+    "cam.hint.mouseon": {
+      "en": "MOUSE MODE — press ALT to give the mouse back",
+      "text": "MODALITÀ MOUSE — premi ALT per restituire il mouse"
+    },
+    "cam.hint.mouseonpad": {
+      "en": "MOUSE MODE — press LB to give the mouse back",
+      "text": "MODALITÀ MOUSE — premi LB per restituire il mouse"
+    },
+    "cam.mode.followbehind": {
+      "en": "Follow Behind",
+      "text": "Segui da dietro"
+    },
+    "cam.mode.followfront": {
+      "en": "Follow Front",
+      "text": "Segui da davanti"
+    },
+    "cam.mode.freefly": {
+      "en": "Free Fly",
+      "text": "Volo libero"
+    },
+    "cam.mode.orbit": {
+      "en": "Orbit",
+      "text": "Orbita"
+    },
+    "cam.mode.tripod": {
+      "en": "Tripod",
+      "text": "Treppiede"
+    },
+    "cam.toast.freeflyhold": {
+      "en": "FREE FLY  —  squeeze GRIP to exit",
+      "text": "VOLO LIBERO  —  stringi il GRIP per uscire"
+    },
+    "cam.toast.freeflyon": {
+      "en": "FREE FLY — sticks steer the camera, grip to exit",
+      "text": "VOLO LIBERO — le levette guidano la telecamera, grip per uscire"
+    },
+    "cam.toast.modenow": {
+      "en": "Camera: {0}",
+      "text": "Telecamera: {0}"
+    },
+    "chat.comingonline": {
+      "en": "Chat coming online — messages will appear here.",
+      "text": "Chat in connessione – i messaggi appariranno qui."
+    },
+    "chat.deskhint": {
+      "en": "Type a message…  (Enter to send)",
+      "text": "Scrivi un messaggio…  (Invio per inviare)"
+    },
+    "chat.hint.desk": {
+      "en": "Click or press Enter to chat",
+      "text": "Clicca o premi Invio per chattare"
+    },
+    "chat.hint.vr": {
+      "en": "Tap to type…",
+      "text": "Tocca per scrivere…"
+    },
+    "chat.openkeyboard": {
+      "en": "Open the keyboard to type…",
+      "text": "Apri la tastiera per scrivere…"
+    },
+    "chat.reminder": {
+      "en": "Press Enter to chat",
+      "text": "Premi Invio per chattare"
+    },
+    "chat.translate.busy": {
+      "en": "Translation is busy. Try again later",
+      "text": "La traduzione è occupata. Riprova più tardi"
+    },
+    "chat.translate.failed": {
+      "en": "Could not translate. Tap to retry",
+      "text": "Impossibile tradurre. Tocca per riprovare"
+    },
+    "chat.translate.link": {
+      "en": "Translate",
+      "text": "Traduci"
+    },
+    "chat.translate.original": {
+      "en": "Show original",
+      "text": "Mostra originale"
+    },
+    "chat.translate.pending": {
+      "en": "Translating…",
+      "text": "Traduzione in corso…"
+    },
+    "chat.translate.same": {
+      "en": "Already in your language",
+      "text": "Già nella tua lingua"
+    },
+    "chat.translate.shown": {
+      "en": "Show translation",
+      "text": "Mostra traduzione"
+    },
+    "common.audio": {
+      "en": "Audio",
+      "text": "Audio"
+    },
+    "common.befriend": {
+      "en": "Befriend",
+      "text": "Aggiungi amico"
+    },
+    "common.chat": {
+      "en": "CHAT",
+      "text": "Chat"
+    },
+    "common.clearall": {
+      "en": "Clear all",
+      "text": "Cancella tutto"
+    },
+    "common.close": {
+      "en": "Close",
+      "text": "Chiudi"
+    },
+    "common.debug": {
+      "en": "Debug",
+      "text": "Debug"
+    },
+    "common.decline": {
+      "en": "Decline",
+      "text": "Rifiuta"
+    },
+    "common.emoji": {
+      "en": "Emoji",
+      "text": "Emoji"
+    },
+    "common.equip": {
+      "en": "EQUIP",
+      "text": "Equipaggia"
+    },
+    "common.everyone": {
+      "en": "Everyone",
+      "text": "Tutti"
+    },
+    "common.go": {
+      "en": "Go",
+      "text": "Vai"
+    },
+    "common.hide": {
+      "en": "Hide",
+      "text": "Nascondi"
+    },
+    "common.ignore": {
+      "en": "Ignore",
+      "text": "Ignora"
+    },
+    "common.invite": {
+      "en": "Invite",
+      "text": "Invita"
+    },
+    "common.join": {
+      "en": "Join",
+      "text": "Unisciti"
+    },
+    "common.justnow": {
+      "en": "just now",
+      "text": "proprio ora"
+    },
+    "common.kick": {
+      "en": "Kick",
+      "text": "Espelli"
+    },
+    "common.large": {
+      "en": "Large",
+      "text": "Grande"
+    },
+    "common.mature": {
+      "en": "Mature",
+      "text": "Per adulti"
+    },
+    "common.medium": {
+      "en": "Medium",
+      "text": "Medio"
+    },
+    "common.mute": {
+      "en": "Mute",
+      "text": "Muto"
+    },
+    "common.offline": {
+      "en": "Offline",
+      "text": "Offline"
+    },
+    "common.online": {
+      "en": "Online",
+      "text": "Online"
+    },
+    "common.search": {
+      "en": "Search",
+      "text": "Cerca"
+    },
+    "common.small": {
+      "en": "Small",
+      "text": "Piccolo"
+    },
+    "common.unhide": {
+      "en": "Unhide",
+      "text": "Mostra"
+    },
+    "common.unmute": {
+      "en": "Unmute",
+      "text": "Riattiva"
+    },
+    "dares.alldone": {
+      "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
+      "text": "Nixie: Tutte e tre le sfide. Ho finito le sfide, e sono vagamente colpita."
+    },
+    "dares.checkpoint": {
+      "en": "Checkpoint {0} of {1}.",
+      "text": "Checkpoint {0} di {1}."
+    },
+    "dares.d.easy": {
+      "en": "Easy",
+      "text": "Facile"
+    },
+    "dares.d.hard": {
+      "en": "Hard",
+      "text": "Difficile"
+    },
+    "dares.d.hardest": {
+      "en": "Hardest",
+      "text": "Difficilissima"
+    },
+    "dares.door": {
+      "en": "Nixie: That door opens onto nothing. I dare you. Unless you are chicken.",
+      "text": "Nixie: Quella porta si apre sul nulla. Ti sfido. A meno che tu non sia un fifone."
+    },
+    "dares.doorchicken": {
+      "en": "Nixie: Still standing there. I am not judging. I am only logging it.",
+      "text": "Nixie: Sei ancora lì impalato. Non ti giudico. Lo registro e basta."
+    },
+    "dares.fellout": {
+      "en": "You fell out of the world. Back you go.",
+      "text": "Sei caduto fuori dal mondo. Ti riportiamo dentro."
+    },
+    "dares.ffaagain": {
+      "en": "Nixie: Another round of free-for-all. Counted for today.",
+      "text": "Nixie: Un altro round di tutti contro tutti. Contata per oggi."
+    },
+    "dares.ffadone": {
+      "en": "Nixie: A whole round of free-for-all. You survived, mostly. Dare done.",
+      "text": "Nixie: Un intero round di tutti contro tutti. Sei sopravvissuto, più o meno. Sfida completata."
+    },
+    "dares.ffawinagain": {
+      "en": "Nixie: You won again. Counted for today.",
+      "text": "Nixie: Hai vinto di nuovo. Contata per oggi."
+    },
+    "dares.ffawindone": {
+      "en": "Nixie: First place. I will pretend I expected it. Dare done.",
+      "text": "Nixie: Primo posto. Farò finta di essermelo aspettato. Sfida completata."
+    },
+    "dares.galaxicaagain": {
+      "en": "Nixie: Stage 3 on Galaxica again. Counted for today.",
+      "text": "Nixie: Di nuovo livello 3 su Galaxica. Contata per oggi."
+    },
+    "dares.galaxicadone": {
+      "en": "Nixie: Stage 3 on Galaxica. The aliens have filed a complaint. Dare done.",
+      "text": "Nixie: Livello 3 su Galaxica. Gli alieni hanno presentato un reclamo. Sfida completata."
+    },
+    "dares.hintdesktop": {
+      "en": "Save yourself! Press {Radial}, then hit Respawn.",
+      "text": "Salvati! Premi {Radial}, poi premi Respawn."
+    },
+    "dares.hintvr": {
+      "en": "Save yourself! Click the {WheelStick} stick, look at your {WheelHand} wrist, then hit Respawn.",
+      "text": "Salvati! Premi lo stick {WheelStick}, guarda il polso del lato {WheelHand}, poi premi Respawn."
+    },
+    "dares.homeoffer": {
+      "en": "Nixie: I have three dares for you. Open your menu and press the glowing Dares button. Unless you are chicken. If you take one, find me there first. I will be watching.",
+      "text": "Nixie: Ho tre sfide per te. Apri il menu e premi il pulsante Sfide che brilla. A meno che tu non sia un fifone. Se ne accetti una, prima cercami lì. Ti terrò d'occhio."
+    },
+    "dares.jumpagain": {
+      "en": "Nixie: Again? Show-off.",
+      "text": "Nixie: Di nuovo? Esibizionista."
+    },
+    "dares.jumpagainpaid": {
+      "en": "Nixie: Again? Show-off. Counted for today.",
+      "text": "Nixie: Di nuovo? Esibizionista. Contata per oggi."
+    },
+    "dares.jumpcaught": {
+      "en": "Nixie: I fished you out. That one goes down as a fail. Try again, and this time save yourself with Respawn.",
+      "text": "Nixie: Ti ho ripescato. Questa conta come fallimento. Riprova, e stavolta salvati con Respawn."
+    },
+    "dares.jumpdone": {
+      "en": "Nixie: You saved yourself. I only screamed a little. Dare done.",
+      "text": "Nixie: Ti sei salvato. Ho urlato solo un pochino. Sfida completata."
+    },
+    "dares.l.ffa10": {
+      "en": "Nixie: First of ten. Everybody else is filing a complaint. Dare done.",
+      "text": "Nixie: Primo su dieci. Tutti gli altri stanno presentando un reclamo. Sfida completata."
+    },
+    "dares.l.ffa10again": {
+      "en": "Nixie: First of ten again. Counted for today.",
+      "text": "Nixie: Di nuovo primo su dieci. Contata per oggi."
+    },
+    "dares.l.team": {
+      "en": "Nixie: A whole team match. You even passed to someone. Dare done.",
+      "text": "Nixie: Un'intera partita a squadre. Hai perfino passato la palla a qualcuno. Sfida completata."
+    },
+    "dares.l.team5": {
+      "en": "Nixie: Five on five, and your side won. That is a real battle. Dare done.",
+      "text": "Nixie: Cinque contro cinque, e la tua parte ha vinto. Questa sì che è una battaglia. Sfida completata."
+    },
+    "dares.l.team5again": {
+      "en": "Nixie: Another five on five won. Counted for today.",
+      "text": "Nixie: Un altro cinque contro cinque vinto. Contata per oggi."
+    },
+    "dares.l.teamagain": {
+      "en": "Nixie: Another team match. Counted for today.",
+      "text": "Nixie: Un'altra partita a squadre. Contata per oggi."
+    },
+    "dares.l.teamwin": {
+      "en": "Nixie: Your team won. I am told you helped. Dare done.",
+      "text": "Nixie: La tua squadra ha vinto. Mi dicono che hai dato una mano. Sfida completata."
+    },
+    "dares.l.teamwinagain": {
+      "en": "Nixie: Your team won again. Counted for today.",
+      "text": "Nixie: La tua squadra ha vinto di nuovo. Contata per oggi."
+    },
+    "dares.lapdone": {
+      "en": "Nixie: One lap. I counted. Dare done.",
+      "text": "Nixie: Un giro. L'ho contato. Sfida completata."
+    },
+    "dares.lapnopay": {
+      "en": "Lap done. Today's jog was already counted. It counts again tomorrow.",
+      "text": "Giro completato. La corsetta di oggi era già contata. Domani conta di nuovo."
+    },
+    "dares.lappaid": {
+      "en": "Nixie: Another lap. Today's jog is counted. Same time tomorrow?",
+      "text": "Nixie: Un altro giro. La corsetta di oggi è contata. Domani alla stessa ora?"
+    },
+    "dares.lapsprint": {
+      "en": "Hold {Sprint} to run.",
+      "text": "Tieni premuto {Sprint} per correre."
+    },
+    "dares.lapstart": {
+      "en": "Nixie: A lap. I would join you, but I was built for standing.",
+      "text": "Nixie: Un giro. Verrei con te, ma sono stata costruita per stare in piedi."
+    },
+    "dares.n.dare": {
+      "en": "I dare you.",
+      "text": "Ti sfido."
+    },
+    "dares.n.done": {
+      "en": "Done. I made a note.",
+      "text": "Fatto. Ho preso nota."
+    },
+    "dares.n.ffa1": {
+      "en": "Round played. I logged every shot. Most of them missed.",
+      "text": "Round giocato. Ho registrato ogni colpo. La maggior parte è andata a vuoto."
+    },
+    "dares.n.ffa2": {
+      "en": "One round of free-for-all. Shoot things. I will keep score, badly.",
+      "text": "Un round di tutti contro tutti. Spara alle cose. Io tengo il punteggio, male."
+    },
+    "dares.n.gal1": {
+      "en": "Stage 3. The arcade has your number now.",
+      "text": "Livello 3. Ora la sala giochi ti tiene d'occhio."
+    },
+    "dares.n.gal2": {
+      "en": "Galaxica, stage 3. The aliens get meaner. So should you.",
+      "text": "Galaxica, livello 3. Gli alieni si fanno più cattivi. Anche tu dovresti."
+    },
+    "dares.n.jog1": {
+      "en": "One lap of the park. I would join you, but I was built for standing.",
+      "text": "Un giro del parco. Verrei con te, ma sono stata costruita per stare in piedi."
+    },
+    "dares.n.jog2": {
+      "en": "Today's lap is in the log. Come back tomorrow. I will act surprised.",
+      "text": "Il giro di oggi è nel registro. Torna domani. Farò finta di essere sorpresa."
+    },
+    "dares.n.jog3": {
+      "en": "A new day, a new lap. The park is waiting. So am I, technically.",
+      "text": "Un nuovo giorno, un nuovo giro. Il parco ti aspetta. Anch'io, tecnicamente."
+    },
+    "dares.n.jump1": {
+      "en": "You jumped and saved yourself. I only screamed a little.",
+      "text": "Hai saltato e ti sei salvato. Ho urlato solo un pochino."
+    },
+    "dares.n.jump2": {
+      "en": "A door, a lot of nothing behind it, and you. Unless you are chicken.",
+      "text": "Una porta, un sacco di nulla dietro, e tu. A meno che tu non sia un fifone."
+    },
+    "dares.n.plate1": {
+      "en": "You have one. I had a bet with the vending machine. I won.",
+      "text": "Ne hai una. Avevo scommesso con il distributore automatico. Ho vinto."
+    },
+    "dares.n.plate2": {
+      "en": "A plate is lying around the hub somewhere. Finders keepers. I checked the rules.",
+      "text": "C'è una targa in giro per l'hub. Chi trova tiene. Ho controllato le regole."
+    },
+    "dares.n.win1": {
+      "en": "A win. I printed you a tiny certificate. It is in my head.",
+      "text": "Una vittoria. Ti ho stampato un minuscolo attestato. È nella mia testa."
+    },
+    "dares.n.win2": {
+      "en": "Win a round. First place. No pressure. Some pressure.",
+      "text": "Vinci un round. Primo posto. Nessuna pressione. Un po' di pressione."
+    },
+    "dares.page.alltoday": {
+      "en": "All of them, today. Come back tomorrow. I will think of something.",
+      "text": "Tutte, oggi. Torna domani. Mi inventerò qualcosa."
+    },
+    "dares.page.arena": {
+      "en": "You are in the hub. The arena is the place.",
+      "text": "Sei nell'hub. Il posto giusto è l'arena."
+    },
+    "dares.page.checkreached": {
+      "en": "Checkpoint {0} of {1} reached. Keep going.",
+      "text": "Checkpoint {0} di {1} raggiunto. Continua così."
+    },
+    "dares.page.chip": {
+      "en": "Dares",
+      "text": "Sfide"
+    },
+    "dares.page.count": {
+      "en": "{0} of {1} today",
+      "text": "{0} di {1} oggi"
+    },
+    "dares.page.done": {
+      "en": "Done.",
+      "text": "Completata."
+    },
+    "dares.page.doneagain": {
+      "en": "Done today. It counts again tomorrow.",
+      "text": "Completata oggi. Domani conta di nuovo."
+    },
+    "dares.page.donebefore": {
+      "en": "Done before. Today it counts again: {0} gold.",
+      "text": "Già completata. Oggi conta di nuovo: {0} oro."
+    },
+    "dares.page.donetoday": {
+      "en": "Done today.",
+      "text": "Completata oggi."
+    },
+    "dares.page.doordone": {
+      "en": "Done. You are here: the door still opens, if you miss the fall.",
+      "text": "Completata. Sei qui: la porta si apre ancora, se ti manca la caduta."
+    },
+    "dares.page.finddoor": {
+      "en": "You are here. Find the door.",
+      "text": "Sei qui. Trova la porta."
+    },
+    "dares.page.foot": {
+      "en": "Gold for a finished dare arrives with the nightly tally. Every dare is optional, and counts again on a later day.",
+      "text": "L'oro di una sfida completata arriva con il conteggio notturno. Ogni sfida è facoltativa e conta di nuovo un altro giorno."
+    },
+    "dares.page.galaxica": {
+      "en": "You are in the hub. Find the Galaxica machine.",
+      "text": "Sei nell'hub. Trova il cabinato di Galaxica."
+    },
+    "dares.page.gohub": {
+      "en": "Go to the hub",
+      "text": "Vai all'hub"
+    },
+    "dares.page.goldday": {
+      "en": "{0} gold, then {1} a day",
+      "text": "{0} oro, poi {1} al giorno"
+    },
+    "dares.page.lapcounted": {
+      "en": "You are here. Today's lap is counted.",
+      "text": "Sei qui. Il giro di oggi è contato."
+    },
+    "dares.page.nocheck": {
+      "en": "You are here, but this world has no checkpoints yet.",
+      "text": "Sei qui, ma questo mondo non ha ancora checkpoint."
+    },
+    "dares.page.nodoor": {
+      "en": "You are here, but this world has no dare door yet.",
+      "text": "Sei qui, ma questo mondo non ha ancora una porta della sfida."
+    },
+    "dares.page.plategold": {
+      "en": "the plate's own {0} gold",
+      "text": "i {0} oro della targa stessa"
+    },
+    "dares.page.plategoldday": {
+      "en": "the plate's own {0} gold, then {1} a day",
+      "text": "i {0} oro della targa stessa, poi {1} al giorno"
+    },
+    "dares.page.platehub": {
+      "en": "You are in the hub. A plate is somewhere on the floor.",
+      "text": "Sei nell'hub. C'è una targa da qualche parte sul pavimento."
+    },
+    "dares.page.pressagain": {
+      "en": "Press again to go",
+      "text": "Premi di nuovo per andare"
+    },
+    "dares.page.runfirst": {
+      "en": "You are here. Run to the first checkpoint.",
+      "text": "Sei qui. Corri al primo checkpoint."
+    },
+    "dares.page.set": {
+      "en": "Set {0}",
+      "text": "Serie {0}"
+    },
+    "dares.page.setbonus": {
+      "en": "All three of a set: {0} gold on top",
+      "text": "Tutte e tre di una serie: {0} oro in più"
+    },
+    "dares.page.setnew": {
+      "en": "Set {0} · new",
+      "text": "Serie {0} · nuova"
+    },
+    "dares.page.sub1": {
+      "en": "All optional. Any order. They come back every day. I noticed you.",
+      "text": "Tutte facoltative. In qualsiasi ordine. Tornano ogni giorno. Ti ho notato."
+    },
+    "dares.page.sub2": {
+      "en": "All optional. Any order. They come back every day. I will be logging everything.",
+      "text": "Tutte facoltative. In qualsiasi ordine. Tornano ogni giorno. Registrerò tutto."
+    },
+    "dares.page.takeme": {
+      "en": "Take me there",
+      "text": "Portami lì"
+    },
+    "dares.page.title": {
+      "en": "Nixie's dares",
+      "text": "Le sfide di Nixie"
+    },
+    "dares.page.today": {
+      "en": "Today's dare +{0}",
+      "text": "Sfida di oggi +{0}"
+    },
+    "dares.parkintro": {
+      "en": "Nixie: A lap of the park. Follow the gold trail through every checkpoint. I will wait here. Standing is my cardio.",
+      "text": "Nixie: Un giro del parco. Segui la scia dorata attraverso ogni checkpoint. Io aspetto qui. Stare in piedi è il mio cardio."
+    },
+    "dares.parkover": {
+      "en": "Nixie: Today's lap is counted. Stay for the trees. I will keep standing here, professionally.",
+      "text": "Nixie: Il giro di oggi è contato. Resta per gli alberi. Io resto qui in piedi, con professionalità."
+    },
+    "dares.plateagain": {
+      "en": "Nixie: Another head plate. The plate dare is counted for today.",
+      "text": "Nixie: Un'altra targa. La sfida della targa è contata per oggi."
+    },
+    "dares.platedone": {
+      "en": "Nixie: A head plate. A hat made of facts. Dare done.",
+      "text": "Nixie: Una targa. Un cappello fatto di fatti. Sfida completata."
+    },
+    "dares.setbonus": {
+      "en": "+{0} gold for all three",
+      "text": "+{0} oro per tutte e tre"
+    },
+    "dares.setbonushead": {
+      "en": "Finish all three of a set: bonus gold on top",
+      "text": "Completa tutte e tre di una serie: oro bonus in più"
+    },
+    "dares.setdone": {
+      "en": "Nixie: That whole set is done. I will have to think of new dares.",
+      "text": "Nixie: Tutta la serie è completata. Dovrò inventarmi nuove sfide."
+    },
+    "dares.t.ffa": {
+      "en": "Play a round of free-for-all",
+      "text": "Gioca un round di tutti contro tutti"
+    },
+    "dares.t.ffa10win": {
+      "en": "Win a free-for-all of ten",
+      "text": "Vinci un tutti contro tutti a dieci"
+    },
+    "dares.t.ffawin": {
+      "en": "Win a round of free-for-all",
+      "text": "Vinci un round di tutti contro tutti"
+    },
+    "dares.t.galaxica": {
+      "en": "Reach stage 3 on Galaxica",
+      "text": "Raggiungi il livello 3 su Galaxica"
+    },
+    "dares.t.hubhunt": {
+      "en": "Find Nixie's three lost things in the hub",
+      "text": "Trova le tre cose perse di Nixie nell'hub"
+    },
+    "dares.t.hubhunt2": {
+      "en": "Find the hub's three lost things on another day",
+      "text": "Trova le tre cose perse dell'hub in un altro giorno"
+    },
+    "dares.t.jog": {
+      "en": "Jog one lap",
+      "text": "Corri un giro"
+    },
+    "dares.t.jump": {
+      "en": "Jump into the dark, then save yourself",
+      "text": "Salta nel buio, poi salvati"
+    },
+    "dares.t.plate": {
+      "en": "Find a head plate",
+      "text": "Trova una targa"
+    },
+    "dares.t.team": {
+      "en": "Play a round of team free-for-all",
+      "text": "Gioca un round di tutti contro tutti a squadre"
+    },
+    "dares.t.team5win": {
+      "en": "Win a team match, five on five",
+      "text": "Vinci una partita a squadre, cinque contro cinque"
+    },
+    "dares.t.teamwin": {
+      "en": "Win a round of team free-for-all",
+      "text": "Vinci un round di tutti contro tutti a squadre"
+    },
+    "dares.todaybonus": {
+      "en": "That was today's dare: a bonus on top.",
+      "text": "Era la sfida di oggi: un bonus in più."
+    },
+    "dares.w.arcade": {
+      "en": "the arcade in the hub",
+      "text": "la sala giochi dell'hub"
+    },
+    "dares.w.arena": {
+      "en": "the hub's arena, or any free-for-all world",
+      "text": "l'arena dell'hub, o qualsiasi mondo tutti contro tutti"
+    },
+    "dares.w.ffa": {
+      "en": "FFA Shooter, a bot plays you there",
+      "text": "FFA Shooter, lì ti affronta un bot"
+    },
+    "dares.w.ffa10": {
+      "en": "FFA Shooter, add 9 bots as host",
+      "text": "FFA Shooter, aggiungi 9 bot come host"
+    },
+    "dares.w.hubbusy": {
+      "en": "the hub, when it is busy",
+      "text": "l'hub, quando è affollato"
+    },
+    "dares.w.team": {
+      "en": "SciFi TFFA, or any team match; alone, add bots as host",
+      "text": "SciFi TFFA, o qualsiasi partita a squadre; da solo, aggiungi bot come host"
+    },
+    "dares.w.team5": {
+      "en": "SciFi TFFA, a team match of 10; alone, add 9 bots",
+      "text": "SciFi TFFA, una partita a squadre da 10; da solo, aggiungi 9 bot"
+    },
+    "fbt.calibrate": {
+      "en": "CALIBRATE",
+      "text": "CALIBRA"
+    },
+    "fbt.height": {
+      "en": "Avatar Height",
+      "text": "Altezza avatar"
+    },
+    "fbt.settings": {
+      "en": "FBT Settings",
+      "text": "Impostazioni FBT"
+    },
+    "first.bot": {
+      "en": "FIGHT A BOT",
+      "text": "SFIDA UN BOT"
+    },
+    "first.botsub": {
+      "en": "FFA Shooter, the easiest",
+      "text": "FFA Shooter, la più facile"
+    },
+    "first.donetag": {
+      "en": "MISSION DONE",
+      "text": "MISSIONE COMPIUTA"
+    },
+    "first.hintbot": {
+      "en": "Nixie: Your first mission: finish one round. Grab a gun from a pad. The bot is waiting.",
+      "text": "Nixie: La tua prima missione: finisci un round. Prendi un'arma da una piattaforma. Il bot ti aspetta."
+    },
+    "first.hintlap": {
+      "en": "Nixie: Your first mission: one lap. Follow the gold trail through every checkpoint.",
+      "text": "Nixie: La tua prima missione: un giro. Segui la scia dorata attraverso ogni checkpoint."
+    },
+    "first.hublater": {
+      "en": "Nixie: The hub is one press away on your Home page. People are better company than bots. Usually.",
+      "text": "Nixie: L'hub è a un clic dalla tua pagina Home. Le persone sono una compagnia migliore dei bot. Di solito."
+    },
+    "first.hubline": {
+      "en": "Nixie: Nice work. The other players hang out in the hub. Want to go meet them?",
+      "text": "Nixie: Ottimo lavoro. Gli altri giocatori si ritrovano nell'hub. Vuoi andare a conoscerli?"
+    },
+    "first.hubsub": {
+      "en": "Where the people are",
+      "text": "Dove c'è gente"
+    },
+    "first.lap": {
+      "en": "RUN A LAP",
+      "text": "CORRI UN GIRO"
+    },
+    "first.later": {
+      "en": "LATER",
+      "text": "PIÙ TARDI"
+    },
+    "first.line": {
+      "en": "Nixie: Pick one. Both work even when nobody else is online.",
+      "text": "Nixie: Scegline una. Funzionano entrambe anche se non c'è nessun altro online."
+    },
+    "first.saidbot": {
+      "en": "Nixie: Good choice. Taking you to the bot. It is not very smart.",
+      "text": "Nixie: Ottima scelta. Ti porto dal bot. Non è molto sveglio."
+    },
+    "first.saidlap": {
+      "en": "Nixie: Good choice. Taking you to the park. Stretch first.",
+      "text": "Nixie: Ottima scelta. Ti porto al parco. Prima fai stretching."
+    },
+    "first.saidlater": {
+      "en": "Nixie: Fine. Your missions wait behind the glowing Dares button on your Home page.",
+      "text": "Nixie: Va bene. Le tue missioni ti aspettano dietro il pulsante Sfide luminoso nella tua pagina Home."
+    },
+    "first.tag": {
+      "en": "FIRST MISSION",
+      "text": "PRIMA MISSIONE"
+    },
+    "friends.title": {
+      "en": "Friends",
+      "text": "Amici"
+    },
+    "guide.d.click": {
+      "en": "Click the stick",
+      "text": "Premi lo stick"
+    },
+    "guide.d.grab": {
+      "en": "Squeeze and hold",
+      "text": "Stringi e tieni premuto"
+    },
+    "guide.d.onoff": {
+      "en": "Press: on or off",
+      "text": "Premi: acceso o spento"
+    },
+    "guide.d.select": {
+      "en": "Aim the laser, pull the trigger",
+      "text": "Punta il laser e premi il grilletto"
+    },
+    "guide.d.sprint": {
+      "en": "Click the stick: sprint",
+      "text": "Premi lo stick: corsa"
+    },
+    "guide.d.turn": {
+      "en": "Flick the stick left or right",
+      "text": "Sposta lo stick a sinistra o a destra"
+    },
+    "guide.d.use": {
+      "en": "Pull the trigger",
+      "text": "Premi il grilletto"
+    },
+    "guide.d.wheel": {
+      "en": "Click the stick: quick menu",
+      "text": "Premi lo stick: menu rapido"
+    },
+    "guide.hint": {
+      "en": "Hide these labels: hold both triggers",
+      "text": "Nascondi queste etichette: tieni premuti entrambi i grilletti"
+    },
+    "guide.row": {
+      "en": "CONTROLLER GUIDE",
+      "text": "GUIDA CONTROLLER"
+    },
+    "guide.t.grab": {
+      "en": "Grab",
+      "text": "Afferra"
+    },
+    "guide.t.jump": {
+      "en": "Jump",
+      "text": "Salta"
+    },
+    "guide.t.laser": {
+      "en": "Laser",
+      "text": "Laser"
+    },
+    "guide.t.menu": {
+      "en": "Menu",
+      "text": "Menu"
+    },
+    "guide.t.select": {
+      "en": "Select",
+      "text": "Seleziona"
+    },
+    "guide.t.use": {
+      "en": "Use",
+      "text": "Usa"
+    },
+    "guns.blueteam": {
+      "en": "BLUE TEAM",
+      "text": "SQUADRA BLU"
+    },
+    "guns.free": {
+      "en": "FREE",
+      "text": "GRATIS"
+    },
+    "guns.health": {
+      "en": "HEALTH",
+      "text": "SALUTE"
+    },
+    "guns.needgold": {
+      "en": "You need {0} more gold for the {1}.",
+      "text": "Ti servono altri {0} oro per {1}."
+    },
+    "guns.nogold": {
+      "en": "Not enough gold for the {0}.",
+      "text": "Non hai abbastanza oro per {0}."
+    },
+    "guns.redteam": {
+      "en": "RED TEAM",
+      "text": "SQUADRA ROSSA"
+    },
+    "guns.reloadhint": {
+      "en": "R   reload",
+      "text": "R   ricarica"
+    },
+    "guns.reloading": {
+      "en": "RELOADING",
+      "text": "RICARICA"
+    },
+    "guns.shield": {
+      "en": "SHIELD {0}",
+      "text": "SCUDO {0}"
+    },
+    "hint.grab.desk": {
+      "en": "Press {0} to grab",
+      "text": "Premi {0} per afferrare"
+    },
+    "hint.profile.desk": {
+      "en": "Press {0} to view profile",
+      "text": "Premi {0} per vedere il profilo"
+    },
+    "hint.rotate.mouse": {
+      "en": "Middle mouse + move to rotate",
+      "text": "Tasto centrale + muovi per ruotare"
+    },
+    "hint.rotate.mouse2": {
+      "en": "Middle mouse: rotate · Scroll: closer / farther",
+      "text": "Tasto centrale: ruota · Rotellina: avvicina / allontana"
+    },
+    "hint.rotate.pad": {
+      "en": "Hold RB + right stick to rotate",
+      "text": "Tieni RB + levetta destra per ruotare"
+    },
+    "hint.use.desk": {
+      "en": "Press {0} to use",
+      "text": "Premi {0} per usare"
+    },
+    "hud.kicked": {
+      "en": "You have been kicked",
+      "text": "Sei stato espulso"
+    },
+    "hud.mapstale": {
+      "en": "Update needed - restart to view the latest map version",
+      "text": "Aggiornamento necessario - riavvia per vedere l'ultima versione della mappa"
+    },
+    "hud.standheight": {
+      "en": "Stand for a moment to set your height",
+      "text": "Alzati un momento per impostare la tua altezza"
+    },
+    "hunt.banana": {
+      "en": "Nixie: Oh, and I lost my banana. I do not eat. It was for emotional support. Find it?",
+      "text": "Nixie: Ah, e ho perso la mia banana. Io non mangio. Era per supporto emotivo. Me la trovi?"
+    },
+    "hunt.bat": {
+      "en": "Nixie: Oh, and my baseball bat is missing. I only use it for gentle conversations. Find it?",
+      "text": "Nixie: Ah, e mi manca la mia mazza da baseball. La uso solo per conversazioni gentili. Me la trovi?"
+    },
+    "hunt.cake": {
+      "en": "Nixie: Oh, and I hid a cake from myself. It worked too well. Find it?",
+      "text": "Nixie: Ah, e ho nascosto una torta a me stessa. Ha funzionato fin troppo bene. Me la trovi?"
+    },
+    "hunt.candy": {
+      "en": "Nixie: Oh, and my nephew lost his candy around here. He is a toaster. Find it for him?",
+      "text": "Nixie: Ah, e mio nipote ha perso le sue caramelle qui intorno. È un tostapane. Gliele trovi?"
+    },
+    "hunt.chicken": {
+      "en": "Nixie: Oh, and I lost my chicken. A cooked one. I was keeping it as a pet. Do not ask. Find it?",
+      "text": "Nixie: Ah, e ho perso il mio pollo. Uno arrosto. Lo tenevo come animale domestico. Non chiedere. Me lo trovi?"
+    },
+    "hunt.dog": {
+      "en": "Nixie: Oh, and my toy dog ran off. It is a toy. It cannot run. That is what worries me. Find it?",
+      "text": "Nixie: Ah, e il mio cane giocattolo è scappato. È un giocattolo. Non può correre. È questo che mi preoccupa. Me lo trovi?"
+    },
+    "hunt.elephant": {
+      "en": "Nixie: Oh, and I misplaced a toy elephant. You would think that is hard to misplace. Find it?",
+      "text": "Nixie: Ah, e ho smarrito un elefante giocattolo. Penseresti che sia difficile da smarrire. Me lo trovi?"
+    },
+    "hunt.fish": {
+      "en": "Nixie: Oh, and my fish went for a walk. That is not normal, which is why I need it back. Find it?",
+      "text": "Nixie: Ah, e il mio pesce è andato a fare una passeggiata. Non è normale, per questo lo rivoglio. Me lo trovi?"
+    },
+    "hunt.found1": {
+      "en": "Nixie: You found it. I will pretend I was not worried.",
+      "text": "Nixie: L'hai trovato. Farò finta di non essere stata in pensiero."
+    },
+    "hunt.found2": {
+      "en": "Nixie: Found it. I owe you one. I will not say which one.",
+      "text": "Nixie: Trovato. Te ne devo una. Non dirò quale."
+    },
+    "hunt.found3": {
+      "en": "Nixie: There it is. You are better at this than I am, and I have sensors.",
+      "text": "Nixie: Eccolo. Ci sai fare più di me, e io ho i sensori."
+    },
+    "hunt.hat": {
+      "en": "Nixie: Oh, and I lost my hat. I do not need a hat. That is not the point. Find it?",
+      "text": "Nixie: Ah, e ho perso il mio cappello. Non mi serve un cappello. Non è questo il punto. Me lo trovi?"
+    },
+    "hunt.horse": {
+      "en": "Nixie: Oh, and my toy horse is missing. It was the fast one. Find it?",
+      "text": "Nixie: Ah, e mi manca il mio cavallo giocattolo. Era quello veloce. Me lo trovi?"
+    },
+    "hunt.huball": {
+      "en": "Nixie: All three found. That is the bonus. I will lose more by tomorrow.",
+      "text": "Nixie: Trovate tutte e tre. Ecco il bonus. Entro domani ne perderò altre."
+    },
+    "hunt.hubask": {
+      "en": "Nixie: Three of my things are lost around the hub today. Find all three for a bigger bonus. I would look myself, but I am busy standing.",
+      "text": "Nixie: Oggi ho perso tre cose in giro per l'hub. Trovale tutte e tre per un bonus più grande. Le cercherei io, ma sono impegnata a stare in piedi."
+    },
+    "hunt.hubone": {
+      "en": "Nixie: That is one. Two more somewhere in the hub.",
+      "text": "Nixie: E una. Altre due da qualche parte nell'hub."
+    },
+    "hunt.hubover": {
+      "en": "Nixie: You found all three today. I will lose more by tomorrow. It is a gift.",
+      "text": "Nixie: Oggi le hai trovate tutte e tre. Entro domani ne perderò altre. È un dono."
+    },
+    "hunt.hubtwo": {
+      "en": "Nixie: That is two. One more.",
+      "text": "Nixie: E sono due. Ne manca una."
+    },
+    "hunt.icecream": {
+      "en": "Nixie: Oh, and I left an ice cream somewhere. It has probably not melted. Probably. Find it?",
+      "text": "Nixie: Ah, e ho lasciato un gelato da qualche parte. Probabilmente non si è sciolto. Probabilmente. Me lo trovi?"
+    },
+    "instance.mic": {
+      "en": "MICROPHONE",
+      "text": "MICROFONO"
+    },
+    "instance.muted": {
+      "en": "MUTED",
+      "text": "MUTO"
+    },
+    "instance.users": {
+      "en": "Users In Instance",
+      "text": "Utenti nell'istanza"
+    },
+    "instance.world": {
+      "en": "WORLD",
+      "text": "MONDO"
+    },
+    "kb.back": {
+      "en": "Back",
+      "text": "Canc"
+    },
+    "kb.clear": {
+      "en": "Clear",
+      "text": "Cancella"
+    },
+    "kb.space": {
+      "en": "Space",
+      "text": "Spazio"
+    },
+    "kb.typetosearch": {
+      "en": "Type to search…",
+      "text": "Scrivi per cercare…"
+    },
+    "level.up": {
+      "en": "Level up! You are level {0}.",
+      "text": "Livello superiore! Sei al livello {0}."
+    },
+    "nav.alerts": {
+      "en": "Alerts",
+      "text": "Avvisi"
+    },
+    "nav.avatars": {
+      "en": "Avatars",
+      "text": "Avatar"
+    },
+    "nav.camera": {
+      "en": "Camera",
+      "text": "Telecamera"
+    },
+    "nav.fbt": {
+      "en": "FBT",
+      "text": "FBT"
+    },
+    "nav.gohome": {
+      "en": "Go Home",
+      "text": "Vai a casa"
+    },
+    "nav.nearby": {
+      "en": "Nearby",
+      "text": "Vicino"
+    },
+    "nav.power": {
+      "en": "Power",
+      "text": "Esci"
+    },
+    "nav.settings": {
+      "en": "Settings",
+      "text": "Impostazioni"
+    },
+    "nav.supporter": {
+      "en": "Supporter",
+      "text": "Sostenitore"
+    },
+    "nav.worlds": {
+      "en": "Worlds",
+      "text": "Mondi"
+    },
+    "notif.events": {
+      "en": "Events",
+      "text": "Eventi"
+    },
+    "notif.invitedto": {
+      "en": "sent you a game invite to",
+      "text": "ti ha invitato in"
+    },
+    "notif.invites": {
+      "en": "Invites",
+      "text": "Inviti"
+    },
+    "notif.live": {
+      "en": "LIVE NOW",
+      "text": "IN DIRETTA"
+    },
+    "notif.noevents": {
+      "en": "No events scheduled right now - check back soon.",
+      "text": "Nessun evento in programma ora – torna presto."
+    },
+    "notif.noinvites": {
+      "en": "No pending invites.",
+      "text": "Nessun invito in sospeso."
+    },
+    "notif.title": {
+      "en": "Notifications",
+      "text": "Notifiche"
+    },
+    "pool.backspot": {
+      "en": "That ball goes back on its spot.",
+      "text": "Quella bilia torna al suo punto."
+    },
+    "pool.ball": {
+      "en": "ball {0}",
+      "text": "bilia {0}"
+    },
+    "pool.busy": {
+      "en": "The pool table is busy: a game is on.",
+      "text": "Il tavolo da biliardo è occupato: c'è una partita in corso."
+    },
+    "pool.cleared": {
+      "en": "Table cleared!",
+      "text": "Tavolo ripulito!"
+    },
+    "pool.clearednew": {
+      "en": "Table cleared. A new rack is coming.",
+      "text": "Tavolo ripulito. Arriva un nuovo triangolo."
+    },
+    "pool.early8": {
+      "en": "{0} sank the 8 ball too early.",
+      "text": "{0} ha imbucato la bilia 8 troppo presto."
+    },
+    "pool.eight": {
+      "en": "the 8 ball",
+      "text": "la bilia 8"
+    },
+    "pool.foulnone": {
+      "en": "Foul - no ball was hit.",
+      "text": "Fallo - nessuna bilia colpita."
+    },
+    "pool.foulwhite": {
+      "en": "Foul - the white ball went in.",
+      "text": "Fallo - la bilia bianca è andata in buca."
+    },
+    "pool.foulwrong": {
+      "en": "Foul - the wrong ball was hit first.",
+      "text": "Fallo - è stata colpita prima la bilia sbagliata."
+    },
+    "pool.gameover": {
+      "en": "Game over",
+      "text": "Partita finita"
+    },
+    "pool.hold": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  wheel: high or low",
+      "text": "Tieni premuto TASTO SINISTRO, tira indietro per la potenza, rilascia per tirare  |  rotellina: alto o basso"
+    },
+    "pool.holddrag": {
+      "en": "Hold LEFT MOUSE, pull back for power, let go to shoot  |  drag the white ball to move it  |  wheel: high or low",
+      "text": "Tieni premuto TASTO SINISTRO, tira indietro per la potenza, rilascia per tirare  |  trascina la bilia bianca per spostarla  |  rotellina: alto o basso"
+    },
+    "pool.howdesk": {
+      "en": "Look at the spot the white ball should roll toward. Hold LEFT MOUSE for power, let go to shoot. RIGHT MOUSE cancels. Mouse wheel: hit high or low.",
+      "text": "Guarda il punto verso cui deve rotolare la bilia bianca. Tieni premuto TASTO SINISTRO per la potenza, rilascia per tirare. TASTO DESTRO annulla. Rotellina: colpo alto o basso."
+    },
+    "pool.howvr": {
+      "en": "Grab a cue with the hand you push with, then steady the front with your other hand and push the tip through the white ball. Low on the ball pulls it back, high lets it follow.",
+      "text": "Afferra una stecca con la mano con cui spingi, tieni ferma la parte davanti con l'altra mano e spingi la punta attraverso la bilia bianca. In basso sulla bilia la fa tornare indietro, in alto la fa proseguire."
+    },
+    "pool.needgold": {
+      "en": "You need {0} more gold to play pool.",
+      "text": "Ti servono altri {0} oro per giocare a biliardo."
+    },
+    "pool.newrack": {
+      "en": "New rack. The white ball can be placed for the break.",
+      "text": "Nuovo triangolo. La bilia bianca si può posizionare per lo spacco."
+    },
+    "pool.nogold": {
+      "en": "Not enough gold to play pool.",
+      "text": "Non hai abbastanza oro per giocare a biliardo."
+    },
+    "pool.open": {
+      "en": "open table",
+      "text": "tavolo aperto"
+    },
+    "pool.p1": {
+      "en": "Player 1",
+      "text": "Giocatore 1"
+    },
+    "pool.p2": {
+      "en": "Player 2",
+      "text": "Giocatore 2"
+    },
+    "pool.practicejoin": {
+      "en": "Practice - shoot to practise, or JOIN to start a game.",
+      "text": "Allenamento - tira per allenarti, o premi UNISCITI per iniziare una partita."
+    },
+    "pool.practicenoturns": {
+      "en": "Practice - no turns, no winner. Another player can JOIN for a game.",
+      "text": "Allenamento - niente turni, nessun vincitore. Un altro giocatore può premere UNISCITI per una partita."
+    },
+    "pool.practiceplace": {
+      "en": "Practice - put the white ball where you like, then shoot",
+      "text": "Allenamento - metti la bilia bianca dove vuoi, poi tira"
+    },
+    "pool.practising": {
+      "en": "{0} is practising. JOIN to play a game against them.",
+      "text": "{0} si sta allenando. Premi UNISCITI per giocare una partita contro di lui."
+    },
+    "pool.pullback": {
+      "en": "Pull the mouse back for power, let go to shoot  |  RIGHT MOUSE cancels",
+      "text": "Tira indietro il mouse per la potenza, rilascia per tirare  |  TASTO DESTRO annulla"
+    },
+    "pool.putdown": {
+      "en": "Let go to put the white ball down",
+      "text": "Rilascia per posare la bilia bianca"
+    },
+    "pool.seat": {
+      "en": "A seat opened up.",
+      "text": "Si è liberato un posto."
+    },
+    "pool.seatopen": {
+      "en": "A pool game is on with a seat open. Press JOIN on the panel to play.",
+      "text": "C'è una partita di biliardo con un posto libero. Premi UNISCITI sul pannello per giocare."
+    },
+    "pool.solids": {
+      "en": "{0} plays solids.",
+      "text": "{0} gioca con le piene."
+    },
+    "pool.stepup": {
+      "en": "Step up to the pool table first.",
+      "text": "Prima avvicinati al tavolo da biliardo."
+    },
+    "pool.stripes": {
+      "en": "{0} plays stripes.",
+      "text": "{0} gioca con le rigate."
+    },
+    "pool.toshoot": {
+      "en": "{0} to shoot - {1}",
+      "text": "Tira {0} - {1}"
+    },
+    "pool.unseated": {
+      "en": "You are no longer seated at the pool table. Press JOIN on its panel to play again.",
+      "text": "Non sei più seduto al tavolo da biliardo. Premi UNISCITI sul suo pannello per giocare di nuovo."
+    },
+    "pool.using": {
+      "en": "{0} is using the pool table. Press JOIN on its panel to play a game against them.",
+      "text": "{0} sta usando il tavolo da biliardo. Premi UNISCITI sul suo pannello per giocare una partita contro di lui."
+    },
+    "pool.wins": {
+      "en": "{0} wins!",
+      "text": "{0} vince!"
+    },
+    "pool.winsgame": {
+      "en": "{0} wins the game!",
+      "text": "{0} vince la partita!"
+    },
+    "pool.yourturn": {
+      "en": "Your turn.",
+      "text": "Tocca a te."
+    },
+    "pool.yourturnhand": {
+      "en": "Your turn - ball in hand.",
+      "text": "Tocca a te - bilia in mano."
+    },
+    "portal.closed": {
+      "en": "PORTAL CLOSED",
+      "text": "PORTALE CHIUSO"
+    },
+    "portal.dlfailed": {
+      "en": "Couldn't download \"{0}\"",
+      "text": "Impossibile scaricare \"{0}\""
+    },
+    "portal.dlpct": {
+      "en": "DOWNLOADING  {0}%",
+      "text": "DOWNLOAD  {0}%"
+    },
+    "portal.downloading": {
+      "en": "DOWNLOADING…",
+      "text": "DOWNLOAD…"
+    },
+    "portal.droppedby": {
+      "en": "Dropped by {0}",
+      "text": "Piazzato da {0}"
+    },
+    "portal.getting": {
+      "en": "Getting \"{0}\"…",
+      "text": "Recupero di \"{0}\"…"
+    },
+    "portal.gettingpct": {
+      "en": "Getting \"{0}\"… {1}%",
+      "text": "Recupero di \"{0}\"… {1}%"
+    },
+    "portal.gonow": {
+      "en": "GO NOW  ({0} READY)",
+      "text": "VAI ORA  ({0} PRONTI)"
+    },
+    "portal.groupleft": {
+      "en": "GROUP LEFT  ·  QUEUE TO FOLLOW",
+      "text": "IL GRUPPO È PARTITO  ·  METTITI IN CODA PER SEGUIRLO"
+    },
+    "portal.leavequeue": {
+      "en": "LEAVE QUEUE",
+      "text": "ESCI DALLA CODA"
+    },
+    "portal.leaving": {
+      "en": "LEAVING…",
+      "text": "USCITA…"
+    },
+    "portal.leavingbehind": {
+      "en": "LEAVING  ·  {0} will follow when ready",
+      "text": "PARTENZA  ·  {0} seguiranno quando pronti"
+    },
+    "portal.leavingtogether": {
+      "en": "LEAVING TOGETHER",
+      "text": "PARTENZA INSIEME"
+    },
+    "portal.nobodyqueued": {
+      "en": "NOBODY QUEUED YET",
+      "text": "ANCORA NESSUNO IN CODA"
+    },
+    "portal.queued": {
+      "en": "{0} QUEUED",
+      "text": "{0} IN CODA"
+    },
+    "portal.queuedplus": {
+      "en": "{0} QUEUED  ·  {1} DOWNLOADING",
+      "text": "{0} IN CODA  ·  {1} IN DOWNLOAD"
+    },
+    "portal.queueup": {
+      "en": "QUEUE UP",
+      "text": "METTITI IN CODA"
+    },
+    "portal.ready": {
+      "en": "\"{0}\" ready",
+      "text": "\"{0}\" pronto"
+    },
+    "portal.starting": {
+      "en": "STARTING…",
+      "text": "AVVIO…"
+    },
+    "portal.startingwait": {
+      "en": "STARTING  ·  waiting for {0}",
+      "text": "AVVIO  ·  in attesa di {0}"
+    },
+    "presence.joined1": {
+      "en": "{0} joined",
+      "text": "{0} è entrato"
+    },
+    "presence.joined2": {
+      "en": "{0} and {1} joined",
+      "text": "{0} e {1} sono entrati"
+    },
+    "presence.joinedn": {
+      "en": "{0} +{1} joined",
+      "text": "{0} +{1} entrati"
+    },
+    "presence.left1": {
+      "en": "{0} left",
+      "text": "{0} è uscito"
+    },
+    "presence.left2": {
+      "en": "{0} and {1} left",
+      "text": "{0} e {1} sono usciti"
+    },
+    "presence.leftn": {
+      "en": "{0} +{1} left",
+      "text": "{0} +{1} usciti"
+    },
+    "profile.achievements": {
+      "en": "Achievements",
+      "text": "Obiettivi"
+    },
+    "profile.addfriend": {
+      "en": "Add friend",
+      "text": "Aggiungi amico"
+    },
+    "profile.arcade": {
+      "en": "Arcade",
+      "text": "Arcade"
+    },
+    "profile.badge.avatar": {
+      "en": "Avatar creator",
+      "text": "Creatore di avatar"
+    },
+    "profile.badge.helper": {
+      "en": "Helper",
+      "text": "Aiutante"
+    },
+    "profile.badge.new": {
+      "en": "New player",
+      "text": "Nuovo giocatore"
+    },
+    "profile.badge.partner": {
+      "en": "Partner",
+      "text": "Partner"
+    },
+    "profile.badge.staff": {
+      "en": "Staff",
+      "text": "Staff"
+    },
+    "profile.badge.streamer": {
+      "en": "Streamer",
+      "text": "Streamer"
+    },
+    "profile.badge.world": {
+      "en": "World creator",
+      "text": "Creatore di mondi"
+    },
+    "profile.bestjogger": {
+      "en": "Best jogger",
+      "text": "Miglior corridore"
+    },
+    "profile.bronze": {
+      "en": "Bronze",
+      "text": "Bronzo"
+    },
+    "profile.competitive": {
+      "en": "Competitive",
+      "text": "Competitivo"
+    },
+    "profile.crown": {
+      "en": "Crown",
+      "text": "Corona"
+    },
+    "profile.darecompleter": {
+      "en": "Dare completer",
+      "text": "Completa-sfide"
+    },
+    "profile.dayone": {
+      "en": "Day One",
+      "text": "Dal primo giorno"
+    },
+    "profile.empty": {
+      "en": "Has not played VR Realms yet.",
+      "text": "Non ha ancora giocato a VR Realms."
+    },
+    "profile.ffa": {
+      "en": "Free for all",
+      "text": "Tutti contro tutti"
+    },
+    "profile.goback": {
+      "en": "Go back",
+      "text": "Indietro"
+    },
+    "profile.gold": {
+      "en": "Gold",
+      "text": "Oro"
+    },
+    "profile.helpful": {
+      "en": "Helpful",
+      "text": "Utile"
+    },
+    "profile.hidden": {
+      "en": "{0} (hidden)",
+      "text": "{0} (nascosto)"
+    },
+    "profile.hidden.other": {
+      "en": "This player keeps their profile private.",
+      "text": "Questo giocatore tiene privato il suo profilo."
+    },
+    "profile.hidden.self": {
+      "en": "Your profile is hidden from other players.",
+      "text": "Il tuo profilo è nascosto agli altri giocatori."
+    },
+    "profile.hours": {
+      "en": "{0} h",
+      "text": "{0} h"
+    },
+    "profile.invite": {
+      "en": "Invite to VR Realms",
+      "text": "Invita su VR Realms"
+    },
+    "profile.invite.reward": {
+      "en": "{0} gold for you when they join",
+      "text": "{0} oro per te quando si unisce"
+    },
+    "profile.invited": {
+      "en": "Invite sent",
+      "text": "Invito inviato"
+    },
+    "profile.last.days": {
+      "en": "Last online {0} days ago",
+      "text": "Ultimo accesso {0} giorni fa"
+    },
+    "profile.last.h": {
+      "en": "Last online {0} h ago",
+      "text": "Ultimo accesso {0} h fa"
+    },
+    "profile.last.min": {
+      "en": "Last online {0} min ago",
+      "text": "Ultimo accesso {0} min fa"
+    },
+    "profile.level": {
+      "en": "Level {0}",
+      "text": "Livello {0}"
+    },
+    "profile.loadfail": {
+      "en": "Could not load this profile. Trying again.",
+      "text": "Impossibile caricare questo profilo. Nuovo tentativo."
+    },
+    "profile.member": {
+      "en": "Member since {0}",
+      "text": "Membro dal {0}"
+    },
+    "profile.minutes": {
+      "en": "{0} min",
+      "text": "{0} min"
+    },
+    "profile.more": {
+      "en": "+{0} more",
+      "text": "+{0} altri"
+    },
+    "profile.none": {
+      "en": "This player has no profile.",
+      "text": "Questo giocatore non ha un profilo."
+    },
+    "profile.online": {
+      "en": "Online now",
+      "text": "Online adesso"
+    },
+    "profile.parkjogger": {
+      "en": "Park jogger",
+      "text": "Corridore del parco"
+    },
+    "profile.pool": {
+      "en": "Pool",
+      "text": "Biliardo"
+    },
+    "profile.private": {
+      "en": "This player keeps their stats private.",
+      "text": "Questo giocatore tiene private le sue statistiche."
+    },
+    "profile.published": {
+      "en": "{0} published",
+      "text": "{0} pubblicati"
+    },
+    "profile.rank.creatorall": {
+      "en": "#{0}  Creator hours all time",
+      "text": "#{0}  Ore creatore di sempre"
+    },
+    "profile.rank.creatormonth": {
+      "en": "#{0}  Creator hours this month",
+      "text": "#{0}  Ore creatore questo mese"
+    },
+    "profile.rank.goldall": {
+      "en": "#{0}  Gold all time",
+      "text": "#{0}  Oro di sempre"
+    },
+    "profile.rank.goldmonth": {
+      "en": "#{0}  Gold this month",
+      "text": "#{0}  Oro questo mese"
+    },
+    "profile.rank.timeall": {
+      "en": "#{0}  Most active all time",
+      "text": "#{0}  Più attivo di sempre"
+    },
+    "profile.rank.timemonth": {
+      "en": "#{0}  Most active this month",
+      "text": "#{0}  Più attivo questo mese"
+    },
+    "profile.rank.topavatars": {
+      "en": "#{0}  Top avatars",
+      "text": "#{0}  Migliori avatar"
+    },
+    "profile.rank.topcreators": {
+      "en": "#{0}  Top creators",
+      "text": "#{0}  Migliori creatori"
+    },
+    "profile.rank.topworlds": {
+      "en": "#{0}  Top worlds",
+      "text": "#{0}  Migliori mondi"
+    },
+    "profile.rankings": {
+      "en": "Rankings",
+      "text": "Classifiche"
+    },
+    "profile.rarity": {
+      "en": "{0}% of players",
+      "text": "{0}% dei giocatori"
+    },
+    "profile.rate.daily": {
+      "en": "You have given all your thumbs-ups for today.",
+      "text": "Hai già dato tutti i pollici in su di oggi."
+    },
+    "profile.rate.failed": {
+      "en": "That did not go through. Try again in a moment.",
+      "text": "Non è andato a buon fine. Riprova tra un momento."
+    },
+    "profile.rate.need": {
+      "en": "Play {0} minutes together to rate",
+      "text": "Giocate {0} minuti insieme per valutare"
+    },
+    "profile.report": {
+      "en": "Report player",
+      "text": "Segnala giocatore"
+    },
+    "profile.show": {
+      "en": "Show",
+      "text": "Mostra"
+    },
+    "profile.silver": {
+      "en": "Silver",
+      "text": "Argento"
+    },
+    "profile.since": {
+      "en": "since {0}",
+      "text": "dal {0}"
+    },
+    "profile.stat.creator": {
+      "en": "Time in their worlds",
+      "text": "Tempo nei suoi mondi"
+    },
+    "profile.stat.gold": {
+      "en": "Gold earned",
+      "text": "Oro guadagnato"
+    },
+    "profile.stat.playtime": {
+      "en": "Playtime",
+      "text": "Tempo di gioco"
+    },
+    "profile.stat.worlds": {
+      "en": "Worlds visited",
+      "text": "Mondi visitati"
+    },
+    "profile.steam.online": {
+      "en": "Online on Steam",
+      "text": "Online su Steam"
+    },
+    "profile.streak": {
+      "en": "{0}-day streak",
+      "text": "Serie di {0} giorni"
+    },
+    "profile.sure": {
+      "en": "Sure?",
+      "text": "Sicuro?"
+    },
+    "profile.tapbadge": {
+      "en": "Tap a badge to show or hide it on your head plate.",
+      "text": "Tocca un badge per mostrarlo o nasconderlo sulla tua targa."
+    },
+    "profile.teamffa": {
+      "en": "Team free for all",
+      "text": "Tutti contro tutti a squadre"
+    },
+    "profile.title": {
+      "en": "Profile",
+      "text": "Profilo"
+    },
+    "profile.visit": {
+      "en": "Visit",
+      "text": "Visita"
+    },
+    "profile.wear": {
+      "en": "Wear",
+      "text": "Indossa"
+    },
+    "profile.wearing": {
+      "en": "Wearing",
+      "text": "Indossa"
+    },
+    "session.gone": {
+      "en": "Couldn't connect — that session is no longer available.",
+      "text": "Impossibile connettersi — quella sessione non è più disponibile."
+    },
+    "session.handing": {
+      "en": "Handing over…",
+      "text": "Cambio di host…"
+    },
+    "session.handover": {
+      "en": "Handing over to a new host",
+      "text": "Passaggio a un nuovo host"
+    },
+    "session.moving": {
+      "en": "Moving you to the new host",
+      "text": "Ti stiamo spostando dal nuovo host"
+    },
+    "session.transitfail": {
+      "en": "Steam could not open that world just now. Back home: try again in a moment.",
+      "text": "Steam non è riuscito ad aprire quel mondo in questo momento. Sei tornato a casa: riprova tra un momento."
+    },
+    "settings.aa": {
+      "en": "Anti-Aliasing",
+      "text": "Anti-aliasing"
+    },
+    "settings.access.hdr": {
+      "en": "ACCESSIBILITY",
+      "text": "ACCESSIBILITÀ"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "text": "Ambiente"
+    },
+    "settings.autodecline": {
+      "en": "Auto Decline Invites",
+      "text": "Rifiuta autom. gli inviti"
+    },
+    "settings.autodecline.sub": {
+      "en": "Decline all world invites automatically",
+      "text": "Rifiuta autom. tutti gli inviti ai mondi"
+    },
+    "settings.autodl": {
+      "en": "Auto Download Avatars",
+      "text": "Scarica avatar autom."
+    },
+    "settings.autodl.sub": {
+      "en": "Automatically download new avatar assets",
+      "text": "Scarica autom. i nuovi avatar"
+    },
+    "settings.builddate": {
+      "en": "Build Date",
+      "text": "Data build"
+    },
+    "settings.buildver": {
+      "en": "Build Version",
+      "text": "Versione build"
+    },
+    "settings.censor": {
+      "en": "Censor Chat",
+      "text": "Censura la chat"
+    },
+    "settings.censor.sub": {
+      "en": "Filter profanity and slurs in chat for everyone here",
+      "text": "Filtra volgarità e insulti nella chat per tutti qui"
+    },
+    "settings.changedevice": {
+      "en": "Change Device",
+      "text": "Cambia dispositivo"
+    },
+    "settings.climb": {
+      "en": "Allow Climbing",
+      "text": "Consenti l'arrampicata"
+    },
+    "settings.climb.sub": {
+      "en": "Let guests use climbing locomotion in your instance",
+      "text": "Consenti agli ospiti di arrampicarsi nella tua istanza"
+    },
+    "settings.dialogue": {
+      "en": "Dialogue",
+      "text": "Dialoghi"
+    },
+    "settings.dlworlds": {
+      "en": "Downloaded Worlds",
+      "text": "Mondi scaricati"
+    },
+    "settings.dlworlds.value": {
+      "en": "{0} kept  ·  {1} MB",
+      "text": "{0} conservati  ·  {1} MB"
+    },
+    "settings.effects": {
+      "en": "Effects",
+      "text": "Effetti"
+    },
+    "settings.foliage": {
+      "en": "Foliage",
+      "text": "Vegetazione"
+    },
+    "settings.forcemove": {
+      "en": "Force Movement Style (everyone here)",
+      "text": "Forza lo stile di movimento (tutti qui)"
+    },
+    "settings.foveated": {
+      "en": "Foveated Rendering",
+      "text": "Rendering foveato"
+    },
+    "settings.foveated.sub": {
+      "en": "Cheaper edges of vision - takes effect on restart",
+      "text": "Bordi più leggeri – attivo al riavvio"
+    },
+    "settings.fps": {
+      "en": "FPS Counter",
+      "text": "Contatore FPS"
+    },
+    "settings.fps.sub": {
+      "en": "Display frames per second overlay",
+      "text": "Mostra i fotogrammi al secondo"
+    },
+    "settings.fpscap": {
+      "en": "FPS Cap",
+      "text": "Limite FPS"
+    },
+    "settings.fpscap.sub": {
+      "en": "In VR at least 90 is used",
+      "text": "In VR viene usato almeno 90"
+    },
+    "settings.fpsvalue": {
+      "en": "Frames per second",
+      "text": "Fotogrammi al secondo"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "text": "Schermo intero"
+    },
+    "settings.gpu": {
+      "en": "Detected GPU",
+      "text": "GPU rilevata"
+    },
+    "settings.hideboards": {
+      "en": "Hide Me From Leaderboards",
+      "text": "Nascondimi dalle classifiche"
+    },
+    "settings.hideboards.sub": {
+      "en": "Keeps your name off the hub boards. Your playtime and creator hours still count.",
+      "text": "Tiene il tuo nome fuori dalle bacheche dell'hub. Le tue ore di gioco e da creatore contano comunque."
+    },
+    "settings.homeprivate": {
+      "en": "Make Home Private",
+      "text": "Rendi privata la casa"
+    },
+    "settings.homeprivate.sub": {
+      "en": "Stop your home appearing in Browse and to friends",
+      "text": "Non mostrare la casa in Sfoglia e agli amici"
+    },
+    "settings.host.hdr": {
+      "en": "YOUR INSTANCE (HOST ONLY)",
+      "text": "LA TUA ISTANZA (SOLO HOST)"
+    },
+    "settings.hostmedia": {
+      "en": "Host-Only Media",
+      "text": "Media solo host"
+    },
+    "settings.hostmedia.sub": {
+      "en": "Only you can play, stop or retune TVs and jukeboxes here",
+      "text": "Solo tu puoi riprodurre, fermare o regolare TV e jukebox qui"
+    },
+    "settings.master": {
+      "en": "Master Sound",
+      "text": "Volume generale"
+    },
+    "settings.micenabled": {
+      "en": "Microphone Enabled",
+      "text": "Microfono attivato"
+    },
+    "settings.micenabled.sub": {
+      "en": "Transmit your voice to others",
+      "text": "Trasmetti la tua voce agli altri"
+    },
+    "settings.movestyle": {
+      "en": "Movement Style",
+      "text": "Stile di movimento"
+    },
+    "settings.nameplates": {
+      "en": "Show Nameplates on Stream",
+      "text": "Mostra i nomi in streaming"
+    },
+    "settings.nameplates.sub": {
+      "en": "Show player name tags in the camera / streaming view",
+      "text": "Mostra i nomi dei giocatori nella telecamera e nella vista streaming"
+    },
+    "settings.ping": {
+      "en": "Ping Display",
+      "text": "Visualizza ping"
+    },
+    "settings.ping.sub": {
+      "en": "Display network latency overlay",
+      "text": "Mostra la latenza di rete"
+    },
+    "settings.pingvalue": {
+      "en": "Ping to host",
+      "text": "Ping all'host"
+    },
+    "settings.pixeldensity": {
+      "en": "Render Resolution (VR)",
+      "text": "Risoluzione di rendering (VR)"
+    },
+    "settings.postprocess": {
+      "en": "Post Process",
+      "text": "Post-elaborazione"
+    },
+    "settings.preset": {
+      "en": "Overall Quality",
+      "text": "Qualità generale"
+    },
+    "settings.profilehidden": {
+      "en": "Hide My Profile",
+      "text": "Nascondi il mio profilo"
+    },
+    "settings.profilehidden.sub": {
+      "en": "Other players see only your name and picture. Nothing stops counting.",
+      "text": "Gli altri giocatori vedono solo il tuo nome e la tua immagine. Tutto continua a contare."
+    },
+    "settings.reflections": {
+      "en": "Reflections",
+      "text": "Riflessi"
+    },
+    "settings.reportbug": {
+      "en": "Report a Bug",
+      "text": "Segnala un bug"
+    },
+    "settings.restarthint": {
+      "en": "Some changes apply after a restart.",
+      "text": "Alcune modifiche si applicano dopo il riavvio."
+    },
+    "settings.sfx": {
+      "en": "Sound Effects",
+      "text": "Effetti sonori"
+    },
+    "settings.shadow": {
+      "en": "Shadow Quality",
+      "text": "Qualità ombre"
+    },
+    "settings.smoothturn": {
+      "en": "Smooth Turning",
+      "text": "Rotazione fluida"
+    },
+    "settings.smoothturn.sub": {
+      "en": "Gradual rotation instead of snap turning",
+      "text": "Rotazione graduale invece che a scatti"
+    },
+    "settings.streamer": {
+      "en": "Streamer Mode",
+      "text": "Modalità streamer"
+    },
+    "settings.streamer.sub": {
+      "en": "Hide personal information for streaming",
+      "text": "Nascondi le info personali in streaming"
+    },
+    "settings.swaphands": {
+      "en": "Swap Hands",
+      "text": "Cambia mano"
+    },
+    "settings.swaphands.sub": {
+      "en": "Move the menu and laser to your other hand",
+      "text": "Sposta menu e laser sull'altra mano"
+    },
+    "settings.tab.access": {
+      "en": "Access.",
+      "text": "Access."
+    },
+    "settings.tab.comfort": {
+      "en": "Comfort",
+      "text": "Comfort"
+    },
+    "settings.tab.graphics": {
+      "en": "Graphics",
+      "text": "Grafica"
+    },
+    "settings.tab.mic": {
+      "en": "Mic",
+      "text": "Micro"
+    },
+    "settings.texture": {
+      "en": "Texture Quality",
+      "text": "Qualità texture"
+    },
+    "settings.turnspeed": {
+      "en": "Turn Speed",
+      "text": "Velocità di rotazione"
+    },
+    "settings.tvmedia": {
+      "en": "TV / Media",
+      "text": "TV / Media"
+    },
+    "settings.viewdist": {
+      "en": "View Distance",
+      "text": "Distanza visiva"
+    },
+    "settings.voices": {
+      "en": "Voices",
+      "text": "Voci"
+    },
+    "status.checkingupdates": {
+      "en": "Checking for updates…",
+      "text": "Ricerca aggiornamenti…"
+    },
+    "status.connecting": {
+      "en": "Connecting…",
+      "text": "Connessione…"
+    },
+    "status.couldntjoin": {
+      "en": "Couldn't join",
+      "text": "Impossibile accedere"
+    },
+    "status.couldntprepare": {
+      "en": "Couldn't prepare the map",
+      "text": "Impossibile preparare la mappa"
+    },
+    "status.downloadfailed": {
+      "en": "Download failed",
+      "text": "Download non riuscito"
+    },
+    "status.downloadingworld": {
+      "en": "Downloading world update…",
+      "text": "Download aggiornamento mondo…"
+    },
+    "status.friendretry": {
+      "en": "Friend's session not ready — retrying…",
+      "text": "Sessione non pronta — nuovo tentativo…"
+    },
+    "status.joining": {
+      "en": "Joining…",
+      "text": "Accesso…"
+    },
+    "status.joiningfriend": {
+      "en": "Joining friend's session…",
+      "text": "Accesso alla sessione dell'amico…"
+    },
+    "status.levelnotfound": {
+      "en": "Level not found",
+      "text": "Livello non trovato"
+    },
+    "status.loading": {
+      "en": "Loading",
+      "text": "Caricamento"
+    },
+    "status.lookinghost": {
+      "en": "Looking for a host…",
+      "text": "Ricerca di un host…"
+    },
+    "status.lookinglevel": {
+      "en": "Looking up level…",
+      "text": "Ricerca livello…"
+    },
+    "status.preparing": {
+      "en": "Preparing…",
+      "text": "Preparazione…"
+    },
+    "status.startingdl": {
+      "en": "Starting download…",
+      "text": "Avvio download…"
+    },
+    "status.travelhub": {
+      "en": "Traveling to HUB…",
+      "text": "In viaggio verso l'HUB…"
+    },
+    "toast.admin.badkey": {
+      "en": "Ban key rejected — it is not a valid moderator key.",
+      "text": "Chiave di ban rifiutata — non è una chiave moderatore valida."
+    },
+    "toast.admin.banned": {
+      "en": "Player banned.",
+      "text": "Giocatore bannato."
+    },
+    "toast.admin.lifted": {
+      "en": "Ban lifted.",
+      "text": "Ban revocato."
+    },
+    "toast.admin.nokey": {
+      "en": "No ban key on this machine — the player was not banned in the database.",
+      "text": "Nessuna chiave di ban su questo PC — il giocatore non è stato bannato nel database."
+    },
+    "toast.admin.nolift": {
+      "en": "You do not have permission to lift bans.",
+      "text": "Non hai il permesso di revocare i ban."
+    },
+    "toast.admin.noperm": {
+      "en": "You do not have permission to ban.",
+      "text": "Non hai il permesso di bannare."
+    },
+    "toast.admin.noplayer": {
+      "en": "No player selected.",
+      "text": "Nessun giocatore selezionato."
+    },
+    "toast.admin.ownermod": {
+      "en": "Only the owner can ban a moderator.",
+      "text": "Solo il proprietario può bannare un moderatore."
+    },
+    "toast.admin.protected": {
+      "en": "That player cannot be banned.",
+      "text": "Quel giocatore non può essere bannato."
+    },
+    "toast.admin.refused": {
+      "en": "Refused: that account cannot be banned by you.",
+      "text": "Rifiutato: non puoi bannare quell'account."
+    },
+    "toast.admin.self": {
+      "en": "You cannot ban yourself.",
+      "text": "Non puoi bannare te stesso."
+    },
+    "toast.admin.sitecode": {
+      "en": "The site did not accept it (code {0}).",
+      "text": "Il sito non l'ha accettato (codice {0})."
+    },
+    "toast.admin.unavailable": {
+      "en": "Ban system unavailable.",
+      "text": "Sistema di ban non disponibile."
+    },
+    "toast.avatar.applying": {
+      "en": "Applying avatar…",
+      "text": "Applicazione avatar…"
+    },
+    "toast.avatar.checking": {
+      "en": "Checking avatar…",
+      "text": "Verifica avatar…"
+    },
+    "toast.avatar.dlfail": {
+      "en": "Avatar download failed",
+      "text": "Download avatar non riuscito"
+    },
+    "toast.avatar.downloading": {
+      "en": "Downloading avatar… {0}%",
+      "text": "Download avatar… {0}%"
+    },
+    "toast.avatar.floorlow": {
+      "en": "Your headset reads only {0} cm above the floor, so your avatar cannot be calibrated. Fix the floor height in SteamVR Room Setup (or your headset's floor setting), then Calibrate.",
+      "text": "Il visore rileva solo {0} cm dal pavimento, quindi il tuo avatar non può essere calibrato. Correggi l'altezza del pavimento in Configurazione stanza di SteamVR (o nell'impostazione pavimento del visore), poi premi Calibra."
+    },
+    "toast.avatar.loadfail": {
+      "en": "Couldn't load avatar",
+      "text": "Impossibile caricare l'avatar"
+    },
+    "toast.avatar.preparing": {
+      "en": "Preparing avatar…",
+      "text": "Preparazione avatar…"
+    },
+    "toast.avatar.ready": {
+      "en": "Avatar ready",
+      "text": "Avatar pronto"
+    },
+    "toast.ban.day": {
+      "en": "You have been banned from VR Realms for {0} day.",
+      "text": "Sei stato bannato da VR Realms per {0} giorno."
+    },
+    "toast.ban.day.leftdays": {
+      "en": "You have been banned from VR Realms for {0} day ({1} days remaining).",
+      "text": "Sei stato bannato da VR Realms per {0} giorno (mancano {1} giorni)."
+    },
+    "toast.ban.days": {
+      "en": "You have been banned from VR Realms for {0} days.",
+      "text": "Sei stato bannato da VR Realms per {0} giorni."
+    },
+    "toast.ban.days.leftday": {
+      "en": "You have been banned from VR Realms for {0} days ({1} day remaining).",
+      "text": "Sei stato bannato da VR Realms per {0} giorni (manca {1} giorno)."
+    },
+    "toast.ban.days.leftdays": {
+      "en": "You have been banned from VR Realms for {0} days ({1} days remaining).",
+      "text": "Sei stato bannato da VR Realms per {0} giorni (mancano {1} giorni)."
+    },
+    "toast.ban.hour": {
+      "en": "You have been banned from VR Realms for {0} more hour.",
+      "text": "Sei bannato da VR Realms per ancora {0} ora."
+    },
+    "toast.ban.hours": {
+      "en": "You have been banned from VR Realms for {0} more hours.",
+      "text": "Sei bannato da VR Realms per ancora {0} ore."
+    },
+    "toast.ban.hub": {
+      "en": "You have been suspended from the hub.",
+      "text": "Sei stato sospeso dall'hub."
+    },
+    "toast.ban.hub.day": {
+      "en": "You have been suspended from the hub for {0} more day.",
+      "text": "Sei sospeso dall'hub per ancora {0} giorno."
+    },
+    "toast.ban.hub.days": {
+      "en": "You have been suspended from the hub for {0} more days.",
+      "text": "Sei sospeso dall'hub per ancora {0} giorni."
+    },
+    "toast.ban.hub.hour": {
+      "en": "You have been suspended from the hub for {0} more hour.",
+      "text": "Sei sospeso dall'hub per ancora {0} ora."
+    },
+    "toast.ban.hub.hours": {
+      "en": "You have been suspended from the hub for {0} more hours.",
+      "text": "Sei sospeso dall'hub per ancora {0} ore."
+    },
+    "toast.ban.perm": {
+      "en": "You have been banned from VR Realms.",
+      "text": "Sei stato bannato da VR Realms."
+    },
+    "toast.bp.deletecancelled": {
+      "en": "Delete cancelled.",
+      "text": "Eliminazione annullata."
+    },
+    "toast.bp.noinvitegroups": {
+      "en": "No groups you can invite to",
+      "text": "Nessun gruppo in cui puoi invitare"
+    },
+    "toast.bp.ownmax": {
+      "en": "You can only own 5 groups",
+      "text": "Puoi possedere solo 5 gruppi"
+    },
+    "toast.bp.photofailed": {
+      "en": "Photo FAILED to save - see the log",
+      "text": "Salvataggio foto NON riuscito - controlla il log"
+    },
+    "toast.bp.portalaim": {
+      "en": "Aim at the floor - press to drop the portal - turn the laser off to cancel",
+      "text": "Punta il pavimento - premi per piazzare il portale - spegni il laser per annullare"
+    },
+    "toast.bp.stillreview": {
+      "en": "This one is still waiting to be reviewed.",
+      "text": "Questo è ancora in attesa di revisione."
+    },
+    "toast.content.needdlc": {
+      "en": "Mature Themes. Needs the mature DLC to unlock — it is free on the VR Realms Steam page.",
+      "text": "Temi per adulti. Serve il DLC per adulti — è gratis sulla pagina Steam di VR Realms."
+    },
+    "toast.content.nocheck": {
+      "en": "We could not check this content's rating just now. Try again in a moment.",
+      "text": "Non siamo riusciti a verificare la classificazione di questo contenuto. Riprova tra un attimo."
+    },
+    "toast.content.orbstreamer": {
+      "en": "Mature avatars will show as an orb while streamer mode is on. You can unhide anyone from Nearby.",
+      "text": "Gli avatar per adulti appariranno come una sfera finché la modalità streamer è attiva. Puoi mostrare di nuovo chiunque da Vicino."
+    },
+    "toast.content.removed": {
+      "en": "This content has been removed.",
+      "text": "Questo contenuto è stato rimosso."
+    },
+    "toast.content.review": {
+      "en": "This is waiting to be reviewed. It will work once it has been checked.",
+      "text": "È in attesa di revisione. Funzionerà una volta controllato."
+    },
+    "toast.content.revoked": {
+      "en": "Your access to mature content has been removed.",
+      "text": "Il tuo accesso ai contenuti per adulti è stato rimosso."
+    },
+    "toast.content.unavailable": {
+      "en": "This content is not available to you.",
+      "text": "Questo contenuto non è disponibile per te."
+    },
+    "toast.diamonds.added": {
+      "en": "Diamonds added",
+      "text": "Diamanti aggiunti"
+    },
+    "toast.diamonds.cancelled": {
+      "en": "Purchase cancelled",
+      "text": "Acquisto annullato"
+    },
+    "toast.diamonds.confirmsteam": {
+      "en": "Confirm the purchase in the Steam window (it may be on your monitor)",
+      "text": "Conferma l'acquisto nella finestra di Steam (potrebbe essere sul monitor)"
+    },
+    "toast.diamonds.got": {
+      "en": "+{0} diamonds",
+      "text": "+{0} diamanti"
+    },
+    "toast.diamonds.gotdoubled": {
+      "en": "+{0} diamonds! Your first pack was doubled",
+      "text": "+{0} diamanti! Il tuo primo pacchetto è raddoppiato"
+    },
+    "toast.diamonds.nosteam": {
+      "en": "Steam is not available right now",
+      "text": "Steam non è disponibile al momento"
+    },
+    "toast.diamonds.nostore": {
+      "en": "Could not reach the store. Nothing was charged",
+      "text": "Impossibile raggiungere il negozio. Non ti è stato addebitato nulla"
+    },
+    "toast.diamonds.notonsale": {
+      "en": "Diamonds are not on sale yet",
+      "text": "I diamanti non sono ancora in vendita"
+    },
+    "toast.diamonds.paidpending": {
+      "en": "Payment received. Your diamonds may take a minute to arrive",
+      "text": "Pagamento ricevuto. I tuoi diamanti potrebbero arrivare tra un minuto"
+    },
+    "toast.diamonds.stillwaiting": {
+      "en": "Still waiting for Steam. If you confirm there, your diamonds arrive shortly",
+      "text": "Ancora in attesa di Steam. Se confermi lì, i tuoi diamanti arriveranno a breve"
+    },
+    "toast.event.now": {
+      "en": "Event starting now: {0}",
+      "text": "Evento in partenza ora: {0}"
+    },
+    "toast.event.nowin": {
+      "en": "Event starting now: {0} in {1}",
+      "text": "Evento in partenza ora: {0} in {1}"
+    },
+    "toast.event.soon": {
+      "en": "Event in {0} minutes: {1}",
+      "text": "Evento tra {0} minuti: {1}"
+    },
+    "toast.goldrush.bought": {
+      "en": "You bought this Gold Rush, so it is for everyone else!",
+      "text": "Hai comprato questa Corsa all'oro, quindi è per tutti gli altri!"
+    },
+    "toast.goldrush.expired": {
+      "en": "Nobody found the Gold Rush plate in time. It's gone!",
+      "text": "Nessuno ha trovato in tempo la targa della Corsa all'oro. È sparita!"
+    },
+    "toast.goldrush.won": {
+      "en": "You won the Gold Rush! +{0} gold",
+      "text": "Hai vinto la Corsa all'oro! +{0} oro"
+    },
+    "toast.groups.accepted": {
+      "en": "You're in {0} — your request was accepted",
+      "text": "Sei in {0} — la tua richiesta è stata accettata"
+    },
+    "toast.groups.badreply": {
+      "en": "Groups did not answer properly",
+      "text": "I Gruppi non hanno risposto correttamente"
+    },
+    "toast.groups.invited": {
+      "en": "You've been invited to {0} — open Groups to accept",
+      "text": "Sei stato invitato in {0} — apri Gruppi per accettare"
+    },
+    "toast.groups.key": {
+      "en": "Groups are unavailable (key)",
+      "text": "Gruppi non disponibili (chiave)"
+    },
+    "toast.groups.perksoffline": {
+      "en": "Group perks need the site — you are offline.",
+      "text": "I vantaggi di gruppo richiedono il sito — sei offline."
+    },
+    "toast.groups.request": {
+      "en": "{0} wants to join {1} — open Groups to approve",
+      "text": "{0} vuole unirsi a {1} — apri Gruppi per approvare"
+    },
+    "toast.groups.requests": {
+      "en": "{0} new join requests — open Groups to approve",
+      "text": "{0} nuove richieste di adesione — apri Gruppi per approvare"
+    },
+    "toast.groups.unreachable": {
+      "en": "Groups are unreachable right now",
+      "text": "I Gruppi non sono raggiungibili al momento"
+    },
+    "toast.guide.agree": {
+      "en": "Look at your hands: the labels show what each button does. To hide them, hold both triggers.",
+      "text": "Guarda le tue mani: le etichette mostrano cosa fa ogni pulsante. Per nasconderle, tieni premuti entrambi i grilletti."
+    },
+    "toast.guide.off": {
+      "en": "Controller guide is off. Bring it back from the quick menu.",
+      "text": "La guida controller è disattivata. Riattivala dal menu rapido."
+    },
+    "toast.guide.on": {
+      "en": "Controller guide is on. Look at your hands.",
+      "text": "La guida controller è attiva. Guarda le tue mani."
+    },
+    "toast.guide.other": {
+      "en": "The controller guide only knows Quest-style controllers for now.",
+      "text": "Per ora la guida controller conosce solo i controller in stile Quest."
+    },
+    "toast.guide.tourdone": {
+      "en": "Controller guide is off now. Bring it back any time from the quick menu.",
+      "text": "La guida controller ora è disattivata. Riattivala quando vuoi dal menu rapido."
+    },
+    "toast.hub.allfull": {
+      "en": "The hubs are full right now — try again in a few minutes.",
+      "text": "Gli hub sono pieni in questo momento — riprova tra qualche minuto."
+    },
+    "toast.hub.fullredirect": {
+      "en": "{0} is full — taking you to {1}.",
+      "text": "{0} è pieno — ti portiamo a {1}."
+    },
+    "toast.hub.lost": {
+      "en": "Lost the hub connection — the hub may be updating. Try again in a minute.",
+      "text": "Connessione all'hub persa — potrebbe essere in aggiornamento. Riprova tra un minuto."
+    },
+    "toast.hub.mismatch": {
+      "en": "Hub and game versions don't match — update the game, or wait for the hub update.",
+      "text": "Le versioni dell'hub e del gioco non coincidono — aggiorna il gioco o attendi l'aggiornamento dell'hub."
+    },
+    "toast.hub.noanswer": {
+      "en": "Couldn't reach the hub — nothing answered. It may be restarting; try again in a minute.",
+      "text": "Impossibile raggiungere l'hub — nessuna risposta. Potrebbe essere in riavvio; riprova tra un minuto."
+    },
+    "toast.hub.reason.update": {
+      "en": "for an update",
+      "text": "per un aggiornamento"
+    },
+    "toast.hub.restart1": {
+      "en": "Hub restarting in {0} minute {1}",
+      "text": "L'hub si riavvia tra {0} minuto {1}"
+    },
+    "toast.hub.restartn": {
+      "en": "Hub restarting in {0} minutes {1}",
+      "text": "L'hub si riavvia tra {0} minuti {1}"
+    },
+    "toast.hub.unreachable": {
+      "en": "Couldn't reach the hub — it may be restarting. Try again in a minute.",
+      "text": "Impossibile raggiungere l'hub — potrebbe essere in riavvio. Riprova tra un minuto."
+    },
+    "toast.join.dlfailed": {
+      "en": "Could not download that world — you have not been moved",
+      "text": "Impossibile scaricare quel mondo — non sei stato spostato"
+    },
+    "toast.join.dlfailednamed": {
+      "en": "Could not download {0} — you have not been moved",
+      "text": "Impossibile scaricare {0} — non sei stato spostato"
+    },
+    "toast.join.failed": {
+      "en": "Couldn't join that session",
+      "text": "Impossibile entrare in quella sessione"
+    },
+    "toast.join.instanceclosed": {
+      "en": "That instance has closed — nobody is hosting this world right now",
+      "text": "Quell'istanza è stata chiusa — nessuno sta ospitando questo mondo ora"
+    },
+    "toast.join.noanswer": {
+      "en": "Couldn't join that session — the host didn't answer. Try again in a moment.",
+      "text": "Impossibile entrare in quella sessione — l'host non ha risposto. Riprova tra un momento."
+    },
+    "toast.join.sessionclosed": {
+      "en": "That session has closed — refresh the list",
+      "text": "Quella sessione è stata chiusa — aggiorna la lista"
+    },
+    "toast.migration.failed": {
+      "en": "The host left and no new host took over — you're on your own here now.",
+      "text": "L'host se n'è andato e nessuno ha preso il suo posto — ora sei da solo qui."
+    },
+    "toast.migration.named": {
+      "en": "The host left — {0} is taking over. Reconnecting…",
+      "text": "L'host se n'è andato — subentra {0}. Riconnessione…"
+    },
+    "toast.migration.waiting": {
+      "en": "The host left — waiting for a new host…",
+      "text": "L'host se n'è andato — in attesa di un nuovo host…"
+    },
+    "toast.migration.youarehost": {
+      "en": "The host left — you're the host now. Reloading the room…",
+      "text": "L'host se n'è andato — ora l'host sei tu. Ricaricamento della stanza…"
+    },
+    "toast.plate.dupegold": {
+      "en": "+{0} gold from {1} (you already own it)",
+      "text": "+{0} oro da {1} (la possiedi già)"
+    },
+    "toast.plate.dupemaxed": {
+      "en": "You own {0}. Owned plate gold is maxed for today ({1}/{2})",
+      "text": "Possiedi già {0}. L'oro per le targhe già possedute è al massimo per oggi ({1}/{2})"
+    },
+    "toast.plate.new": {
+      "en": "You got a new head plate!",
+      "text": "Hai ottenuto una nuova targa!"
+    },
+    "toast.portal.busy": {
+      "en": "You're already travelling — wait until you arrive to drop a portal",
+      "text": "Stai già viaggiando — aspetta di arrivare per piazzare un portale"
+    },
+    "toast.report.failed": {
+      "en": "Couldn't send the report right now. Please try again later.",
+      "text": "Impossibile inviare la segnalazione ora. Riprova più tardi."
+    },
+    "toast.report.missing": {
+      "en": "That report was missing something — please add more detail.",
+      "text": "Alla segnalazione mancava qualcosa — aggiungi più dettagli."
+    },
+    "toast.report.moredetail": {
+      "en": "Please describe what happened in a little more detail.",
+      "text": "Descrivi cosa è successo con un po' più di dettagli."
+    },
+    "toast.report.noitem": {
+      "en": "That report is missing the item it is about.",
+      "text": "Alla segnalazione manca l'elemento a cui si riferisce."
+    },
+    "toast.report.noserver": {
+      "en": "Couldn't reach the server. Check your connection and try again.",
+      "text": "Impossibile raggiungere il server. Controlla la connessione e riprova."
+    },
+    "toast.report.nosteamid": {
+      "en": "Couldn't read your Steam ID — are you signed in to Steam?",
+      "text": "Impossibile leggere il tuo Steam ID — hai effettuato l'accesso a Steam?"
+    },
+    "toast.report.notconfigured": {
+      "en": "Reporting isn't configured in this build.",
+      "text": "Le segnalazioni non sono configurate in questa build."
+    },
+    "toast.report.pickplayer": {
+      "en": "Pick which player you're reporting.",
+      "text": "Scegli quale giocatore stai segnalando."
+    },
+    "toast.report.ratelimited": {
+      "en": "You've sent several reports recently. Please wait a little while.",
+      "text": "Hai inviato diverse segnalazioni di recente. Aspetta un po'."
+    },
+    "toast.report.sent": {
+      "en": "Report sent — thank you.",
+      "text": "Segnalazione inviata — grazie."
+    },
+    "toast.score.awardaway": {
+      "en": "Welcome back — you earned {0} gold while you were away!   Total: {1}",
+      "text": "Bentornato — hai guadagnato {0} oro mentre eri via!   Totale: {1}"
+    },
+    "toast.score.awardlive": {
+      "en": "+{0} gold!   Total: {1}",
+      "text": "+{0} oro!   Totale: {1}"
+    },
+    "toast.score.streakkeep": {
+      "en": "{0}-day streak · play today to keep it",
+      "text": "Serie di {0} {0}|plural(one=giorno,other=giorni) · gioca oggi per mantenerla"
+    },
+    "toast.score.streakmore": {
+      "en": "{0}-day streak · {1} more {1}|plural(one=day,other=days) for +{2} gold",
+      "text": "Serie di {0} {0}|plural(one=giorno,other=giorni) · ancora {1} {1}|plural(one=giorno,other=giorni) per +{2} oro"
+    },
+    "toast.score.streakpaid": {
+      "en": "{0}-day streak · +{1} gold at tonight's tally",
+      "text": "Serie di {0} {0}|plural(one=giorno,other=giorni) · +{1} oro al conteggio di stanotte"
+    },
+    "toast.seated.autoon": {
+      "en": "Looks like you are sitting, so seated mode is on and your avatar stays full size. Stand up to switch it off.",
+      "text": "Sembra che tu sia seduto, quindi la modalità seduta è attiva e il tuo avatar resta a grandezza naturale. Alzati per disattivarla."
+    },
+    "toast.seated.fbt": {
+      "en": "Seated mode isn't needed with full-body trackers. Your trackers already sit you down.",
+      "text": "Con i tracker full-body la modalità seduta non serve. I tuoi tracker ti fanno già sedere."
+    },
+    "toast.seated.off": {
+      "en": "Seated mode off.",
+      "text": "Modalità seduta disattivata."
+    },
+    "toast.seated.on": {
+      "en": "Seated mode on. Sit comfortably and hold still for a second. Stand up to turn it off.",
+      "text": "Modalità seduta attiva. Siediti comodo e resta fermo un secondo. Alzati per disattivarla."
+    },
+    "toast.seated.stoodup": {
+      "en": "You stood up, so seated mode is off.",
+      "text": "Ti sei alzato, quindi la modalità seduta è disattivata."
+    },
+    "toast.seated.trackers": {
+      "en": "Trackers detected, seated mode is off.",
+      "text": "Tracker rilevati, modalità seduta disattivata."
+    },
+    "toast.session.invitehost": {
+      "en": "Only the host can invite people to this session.",
+      "text": "Solo l'host può invitare persone in questa sessione."
+    },
+    "toast.store.badreply": {
+      "en": "The store did not answer properly",
+      "text": "Il negozio non ha risposto correttamente"
+    },
+    "toast.store.freepick": {
+      "en": "Your free plate pick is back: choose a new plate in Menu, Supporter",
+      "text": "La tua scelta gratuita della targa è tornata: scegline una nuova in Menu, Sostenitore"
+    },
+    "toast.store.gone": {
+      "en": "That item is gone",
+      "text": "Quell'oggetto non c'è più"
+    },
+    "toast.store.key": {
+      "en": "The store is unavailable (key)",
+      "text": "Il negozio non è disponibile (chiave)"
+    },
+    "toast.store.needdiamonds": {
+      "en": "You need {0} more diamonds",
+      "text": "Ti servono altri {0} diamanti"
+    },
+    "toast.store.needgold": {
+      "en": "You need {0} more gold",
+      "text": "Ti servono altri {0} oro"
+    },
+    "toast.store.offline": {
+      "en": "The store is offline right now",
+      "text": "Il negozio è offline al momento"
+    },
+    "toast.store.owned": {
+      "en": "You already own that",
+      "text": "Lo possiedi già"
+    },
+    "toast.store.unreachable": {
+      "en": "The store is unreachable right now",
+      "text": "Il negozio non è raggiungibile al momento"
+    },
+    "toast.terms.howto.desk": {
+      "en": "To start: click I agree with the mouse.",
+      "text": "Per iniziare: fai clic su Accetto con il mouse."
+    },
+    "toast.terms.howto.vr": {
+      "en": "To start: point a hand at I agree and pull the trigger. Either hand works.",
+      "text": "Per iniziare: punta una mano su Accetto e premi il grilletto. Va bene qualsiasi mano."
+    },
+    "toast.testmode.offline": {
+      "en": "Test launch — offline. Quit and start VR Realms normally to play online.",
+      "text": "Avvio di prova — offline. Esci e avvia VR Realms normalmente per giocare online."
+    },
+    "toast.voice.hostnudge": {
+      "en": "{0} joined your voice room — your mic is OFF. Turn it on in Settings → Microphone",
+      "text": "{0} è entrato nella tua stanza vocale — il tuo microfono è SPENTO. Attivalo in Impostazioni → Microfono"
+    },
+    "toast.voice.micdisconnected": {
+      "en": "Your microphone is disconnected — pick another in Settings → Microphone",
+      "text": "Il microfono è scollegato — scegline un altro in Impostazioni → Microfono"
+    },
+    "toast.voice.micfailed": {
+      "en": "Your microphone could not be opened — check Windows microphone privacy, or another app may be using it",
+      "text": "Impossibile aprire il microfono — controlla la privacy del microfono in Windows, oppure un'altra app lo sta usando"
+    },
+    "toast.voice.micoff": {
+      "en": "Your mic is OFF — turn it on in Settings → Microphone",
+      "text": "Il tuo microfono è SPENTO — attivalo in Impostazioni → Microfono"
+    },
+    "toast.voice.micsilent": {
+      "en": "Your microphone is open but silent — it may be muted in Windows, or be the wrong device",
+      "text": "Il microfono è aperto ma muto — potrebbe essere silenziato in Windows o essere il dispositivo sbagliato"
+    },
+    "tour.announce": {
+      "en": "New: a two-minute tour of the controls. Find it on the Home page of your menu.",
+      "text": "Novità: un tour di due minuti sui comandi. Lo trovi nella pagina Home del menu."
+    },
+    "tour.both.friends": {
+      "en": "Invite a friend from Friends. It all runs through Steam, and the game is free, so anyone can join you.",
+      "text": "Invita un amico da Amici. Passa tutto da Steam e il gioco è gratis, quindi chiunque può unirsi a te."
+    },
+    "tour.both.gold": {
+      "en": "You earn gold just by playing. Join a group and you earn together. Spend it in the Store on plates and more.",
+      "text": "Guadagni oro semplicemente giocando. Unisciti a un gruppo e guadagnerete insieme. Spendilo nel Negozio in targhe e altro."
+    },
+    "tour.both.hub": {
+      "en": "The hub is always open. It is where everyone meets, and the boards there show the top players, groups and supporters. Pick the region nearest you and press Join Hub on Home.",
+      "text": "L'hub è sempre aperto. È dove tutti si incontrano, e le bacheche mostrano i migliori giocatori, gruppi e sostenitori. Scegli la regione più vicina e premi Entra nell'hub in Home."
+    },
+    "tour.both.ready": {
+      "en": "Your home is public by default, so your friends and anyone else can drop in. Want it to yourself? Settings, Comfort, Session visibility: Friends Only or Private. When you want people, the hub is waiting. One more thing: this is an alpha, so things will change a lot. Your feedback shapes it.",
+      "text": "Casa tua è pubblica per impostazione predefinita, quindi i tuoi amici e chiunque altro possono passare. La vuoi tutta per te? Impostazioni, Comfort, Visibilità della sessione: Solo amici o Privata. Quando vuoi compagnia, l'hub ti aspetta. Un'ultima cosa: questa è un'alfa, quindi cambierà molto. Il tuo feedback le dà forma."
+    },
+    "tour.both.wrong": {
+      "en": "Stuck or falling: quick menu, Respawn. Want out of anywhere: quick menu, Home. Someone bothering you: Nearby, Mute or Hide. Only you are affected.",
+      "text": "Bloccato o in caduta: menu rapido, Respawn. Vuoi uscire da ovunque: menu rapido, Home. Qualcuno ti disturba: Vicini, Silenzia o Nascondi. Riguarda solo te."
+    },
+    "tour.chip": {
+      "en": "Tutorial",
+      "text": "Tutorial"
+    },
+    "tour.chip.end": {
+      "en": "End tutorial",
+      "text": "Termina il tutorial"
+    },
+    "tour.complete": {
+      "en": "Tour complete! Your gold for finishing arrives after tonight's tally.",
+      "text": "Tour completato! L'oro per averlo finito arriva dopo il conteggio di stanotte."
+    },
+    "tour.desk.chat": {
+      "en": "Press {Chat}, type, {Chat} again.",
+      "text": "Premi {Chat}, scrivi, di nuovo {Chat}."
+    },
+    "tour.desk.grab": {
+      "en": "{Grab} the object on the table. {Use} to use it. {Interact} presses buttons and switches you look at.",
+      "text": "{Grab} sull'oggetto sul tavolo. {Use} per usarlo. {Interact} preme i pulsanti e gli interruttori che guardi."
+    },
+    "tour.desk.look": {
+      "en": "Move the mouse. This is your home.",
+      "text": "Muovi il mouse. Questa è casa tua."
+    },
+    "tour.desk.menu": {
+      "en": "{Menu} opens it. Back takes you to Home.",
+      "text": "{Menu} lo apre. Indietro ti porta a Home."
+    },
+    "tour.desk.sprint": {
+      "en": "Hold {Sprint} while moving to run.",
+      "text": "Tieni premuto {Sprint} mentre ti muovi per correre."
+    },
+    "tour.desk.talk": {
+      "en": "Press {Mic}. It turns your voice on or off for everyone.",
+      "text": "Premi {Mic}. Attiva o disattiva la tua voce per tutti."
+    },
+    "tour.desk.walk": {
+      "en": "{Move} to move. {Jump} to jump.",
+      "text": "{Move} per muoverti. {Jump} per saltare."
+    },
+    "tour.desk.wheel": {
+      "en": "Press {Radial} to open the quick menu. Click what you want.",
+      "text": "Premi {Radial} per aprire il menu rapido. Clicca su quello che vuoi."
+    },
+    "tour.desk.yours": {
+      "en": "Settings, Controls: rebind any key, sprint included. Settings, Comfort: turn and movement options. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "Impostazioni, Comandi: riassegna qualsiasi tasto, corsa inclusa. Impostazioni, Comfort: opzioni di rotazione e movimento. Lingua: il globo in alto a destra nel menu. Streaming: la modalità streamer nasconde i nomi e i contenuti per adulti."
+    },
+    "tour.hint.desk": {
+      "en": "Right Arrow: next   ·   End: end tour   ·   ALT: mouse",
+      "text": "Freccia destra: avanti   ·   Fine: termina il tour   ·   ALT: mouse"
+    },
+    "tour.hint.vr": {
+      "en": "Point at a button and pull the trigger",
+      "text": "Punta un pulsante e premi il grilletto"
+    },
+    "tour.kicker": {
+      "en": "TOUR",
+      "text": "TOUR"
+    },
+    "tour.label.end": {
+      "en": "End tour",
+      "text": "Termina il tour"
+    },
+    "tour.label.mouse": {
+      "en": "Mouse",
+      "text": "Mouse"
+    },
+    "tour.label.next": {
+      "en": "Next",
+      "text": "Avanti"
+    },
+    "tour.label.rightarrow": {
+      "en": "Right Arrow",
+      "text": "Freccia destra"
+    },
+    "tour.label.skip": {
+      "en": "Skip",
+      "text": "Salta"
+    },
+    "tour.offer.body": {
+      "en": "A few short cards: moving, your quick menu, voice, chat and the menu. Skip any of them, or end it at any time.",
+      "text": "Qualche scheda breve: muoversi, il tuo menu rapido, voce, chat e il menu. Salta quelle che vuoi o termina quando vuoi."
+    },
+    "tour.offer.body.away": {
+      "en": "It uses the things in your own place to show you moving, your quick menu, voice, chat and the menu. Head there now and start?",
+      "text": "Usa le cose di casa tua per mostrarti come muoverti, il tuo menu rapido, voce, chat e il menu. Andiamo lì adesso e iniziamo?"
+    },
+    "tour.offer.confirm": {
+      "en": "Start",
+      "text": "Inizia"
+    },
+    "tour.offer.title": {
+      "en": "Want a two-minute tour?",
+      "text": "Vuoi un tour di due minuti?"
+    },
+    "tour.offer.title.away": {
+      "en": "The tour happens in your home",
+      "text": "Il tour si svolge a casa tua"
+    },
+    "tour.side.left": {
+      "en": "left",
+      "text": "sinistro"
+    },
+    "tour.side.right": {
+      "en": "right",
+      "text": "destro"
+    },
+    "tour.t.friends": {
+      "en": "Bring friends",
+      "text": "Porta gli amici"
+    },
+    "tour.t.gold": {
+      "en": "Earn gold",
+      "text": "Guadagna oro"
+    },
+    "tour.t.grab": {
+      "en": "Pick something up",
+      "text": "Raccogli qualcosa"
+    },
+    "tour.t.hub": {
+      "en": "The hub",
+      "text": "L'hub"
+    },
+    "tour.t.look": {
+      "en": "Look around",
+      "text": "Guardati intorno"
+    },
+    "tour.t.menu": {
+      "en": "Your menu",
+      "text": "Il tuo menu"
+    },
+    "tour.t.move": {
+      "en": "Move",
+      "text": "Muoviti"
+    },
+    "tour.t.ready": {
+      "en": "You're ready",
+      "text": "Sei pronto"
+    },
+    "tour.t.sprint": {
+      "en": "Sprint",
+      "text": "Corsa"
+    },
+    "tour.t.talk": {
+      "en": "Talk",
+      "text": "Parla"
+    },
+    "tour.t.turn": {
+      "en": "Turn",
+      "text": "Girare"
+    },
+    "tour.t.walk": {
+      "en": "Walk",
+      "text": "Cammina"
+    },
+    "tour.t.wheel": {
+      "en": "Your quick menu",
+      "text": "Il tuo menu rapido"
+    },
+    "tour.t.wrong": {
+      "en": "If something goes wrong",
+      "text": "Se qualcosa va storto"
+    },
+    "tour.t.yours": {
+      "en": "Make it yours",
+      "text": "Fallo tuo"
+    },
+    "tour.travel": {
+      "en": "Taking you home for the tour…",
+      "text": "Ti portiamo a casa per il tour…"
+    },
+    "tour.vr.chat": {
+      "en": "In the quick menu, pick Chat. Type on the floating keyboard and send.",
+      "text": "Nel menu rapido, scegli Chat. Scrivi sulla tastiera fluttuante e invia."
+    },
+    "tour.vr.grab": {
+      "en": "Squeeze grip on the object on the table.",
+      "text": "Stringi il grip sull'oggetto sul tavolo."
+    },
+    "tour.vr.look": {
+      "en": "Turn your head. This is your home.",
+      "text": "Gira la testa. Questa è casa tua."
+    },
+    "tour.vr.menu": {
+      "en": "In the quick menu, pick Avatar. That is the full menu. Back takes you to Home.",
+      "text": "Nel menu rapido, scegli Avatar. Quello è il menu completo. Indietro ti porta a Home."
+    },
+    "tour.vr.move": {
+      "en": "Push the {MoveStick} stick.",
+      "text": "Spingi lo stick {MoveStick}."
+    },
+    "tour.vr.sprint": {
+      "en": "Click the {SprintStick} stick while moving to run. Click again, or stop, to walk.",
+      "text": "Premi lo stick {SprintStick} mentre ti muovi per correre. Premi di nuovo, o fermati, per camminare."
+    },
+    "tour.vr.talk": {
+      "en": "Press the top button on your {MicHand} hand. It turns your voice on or off for everyone.",
+      "text": "Premi il pulsante in alto sul controller {MicHand}. Attiva o disattiva la tua voce per tutti."
+    },
+    "tour.vr.turn": {
+      "en": "Flick the {TurnStick} stick left or right. Prefer smooth turning or other movement styles? Settings, Comfort.",
+      "text": "Sposta lo stick {TurnStick} a sinistra o a destra. Preferisci la rotazione fluida o altri stili di movimento? Impostazioni, Comfort."
+    },
+    "tour.vr.wheel": {
+      "en": "Click the {WheelStick} stick. The quick menu opens on your {WheelHand} hand. Point at it with your {LaserHand} hand and pull the trigger to pick.",
+      "text": "Premi lo stick {WheelStick}. Il menu rapido si apre sulla mano del lato {WheelHand}. Puntalo con il controller {LaserHand} e premi il grilletto per scegliere."
+    },
+    "tour.vr.yours": {
+      "en": "Settings, Comfort: swap which hand walks and sprints, put the quick menu and mic button on the other hand, and set turning and movement to your liking. Language: the globe at the top right of the menu. Streaming: Streamer mode hides names and mature content.",
+      "text": "Impostazioni, Comfort: scambia la mano che cammina e corre, metti il menu rapido e il tasto mic sull'altra mano e regola rotazione e movimento come preferisci. Lingua: il globo in alto a destra nel menu. Streaming: la modalità streamer nasconde i nomi e i contenuti per adulti."
+    },
+    "v3.avatars.favorites": {
+      "en": "Favorites",
+      "text": "Preferiti"
+    },
+    "v3.avatars.furry": {
+      "en": "Furry",
+      "text": "Furry"
+    },
+    "v3.avatars.nomatch": {
+      "en": "No avatars match",
+      "text": "Nessun avatar corrisponde"
+    },
+    "v3.card.flashing": {
+      "en": "FLASHING LIGHTS",
+      "text": "LUCI LAMPEGGIANTI"
+    },
+    "v3.card.mature": {
+      "en": "MATURE THEMES",
+      "text": "TEMI PER ADULTI"
+    },
+    "v3.cat.community": {
+      "en": "Community",
+      "text": "Community"
+    },
+    "v3.chat.help": {
+      "en": "Type /help for chat commands",
+      "text": "Scrivi /help per i comandi chat"
+    },
+    "v3.common.all": {
+      "en": "All",
+      "text": "Tutti"
+    },
+    "v3.common.applied": {
+      "en": "Applied",
+      "text": "Applicato"
+    },
+    "v3.common.apply": {
+      "en": "Apply",
+      "text": "Applica"
+    },
+    "v3.common.buy": {
+      "en": "Buy",
+      "text": "Acquista"
+    },
+    "v3.common.cancel": {
+      "en": "Cancel",
+      "text": "Annulla"
+    },
+    "v3.common.confirm": {
+      "en": "Confirm",
+      "text": "Conferma"
+    },
+    "v3.common.continue": {
+      "en": "Continue",
+      "text": "Continua"
+    },
+    "v3.common.done": {
+      "en": "Done",
+      "text": "Fatto"
+    },
+    "v3.common.down": {
+      "en": "Down",
+      "text": "Giù"
+    },
+    "v3.common.near": {
+      "en": "Near",
+      "text": "Vicino"
+    },
+    "v3.common.new": {
+      "en": "NEW",
+      "text": "NUOVO"
+    },
+    "v3.common.no": {
+      "en": "No",
+      "text": "No"
+    },
+    "v3.common.up": {
+      "en": "Up",
+      "text": "Su"
+    },
+    "v3.common.wip": {
+      "en": "WIP",
+      "text": "WIP"
+    },
+    "v3.contract.agree": {
+      "en": "I agree",
+      "text": "Accetto"
+    },
+    "v3.contract.hint": {
+      "en": "Read to the end, then agree to continue",
+      "text": "Leggi fino alla fine, poi accetta per continuare"
+    },
+    "v3.contract.title": {
+      "en": "Terms of Service",
+      "text": "Termini di servizio"
+    },
+    "v3.controls.category": {
+      "en": "CATEGORY",
+      "text": "CATEGORIA"
+    },
+    "v3.controls.gamepad": {
+      "en": "Gamepad",
+      "text": "Gamepad"
+    },
+    "v3.controls.hint": {
+      "en": "Click a key to change it. Right-click a key to clear it.",
+      "text": "Clicca un tasto per cambiarlo. Clic destro per cancellarlo."
+    },
+    "v3.controls.keyboard": {
+      "en": "Keyboard / Mouse",
+      "text": "Tastiera / Mouse"
+    },
+    "v3.controls.resetall": {
+      "en": "Reset All",
+      "text": "Ripristina tutto"
+    },
+    "v3.fbt.bodyfollows": {
+      "en": "Body follows head (turn off if your chest twists)",
+      "text": "Il corpo segue la testa (disattiva se il petto si torce)"
+    },
+    "v3.fbt.bodyturnspeed": {
+      "en": "Body turn speed",
+      "text": "Velocità rotazione corpo"
+    },
+    "v3.fbt.calibtolerance": {
+      "en": "Calibration tolerance",
+      "text": "Tolleranza calibrazione"
+    },
+    "v3.fbt.fadefeet": {
+      "en": "Fade feet to walk anim while moving",
+      "text": "Sfuma i piedi nell'animazione di camminata in movimento"
+    },
+    "v3.fbt.footforward": {
+      "en": "Foot forward",
+      "text": "Piede avanti"
+    },
+    "v3.fbt.footheight": {
+      "en": "Foot height",
+      "text": "Altezza piede"
+    },
+    "v3.fbt.footsmoothing": {
+      "en": "Foot smoothing",
+      "text": "Fluidità piedi"
+    },
+    "v3.fbt.headlock": {
+      "en": "Head lock",
+      "text": "Blocco testa"
+    },
+    "v3.fbt.hipforward": {
+      "en": "Hip forward",
+      "text": "Anca avanti"
+    },
+    "v3.fbt.hipfreedom": {
+      "en": "Hip freedom",
+      "text": "Libertà anca"
+    },
+    "v3.fbt.hipheight": {
+      "en": "Hip height",
+      "text": "Altezza anca"
+    },
+    "v3.fbt.hiplock": {
+      "en": "Hip lock",
+      "text": "Blocco anca"
+    },
+    "v3.fbt.keepik": {
+      "en": "Keep IK on a lifted foot while moving",
+      "text": "Mantieni IK sul piede sollevato in movimento"
+    },
+    "v3.fbt.kneewidth": {
+      "en": "Knee width",
+      "text": "Larghezza ginocchia"
+    },
+    "v3.fbt.leftfootturn": {
+      "en": "Left foot turn",
+      "text": "Rotazione piede sinistro"
+    },
+    "v3.fbt.legstretch": {
+      "en": "Leg stretch limit",
+      "text": "Limite estensione gamba"
+    },
+    "v3.fbt.maxfootfromhead": {
+      "en": "Max foot from head",
+      "text": "Max piede dalla testa"
+    },
+    "v3.fbt.maxfootsplit": {
+      "en": "Max foot height split",
+      "text": "Max differenza altezza piedi"
+    },
+    "v3.fbt.maxhiptravel": {
+      "en": "Max hip travel",
+      "text": "Corsa max anca"
+    },
+    "v3.fbt.minfootbelowhips": {
+      "en": "Min foot below hips",
+      "text": "Min piede sotto anca"
+    },
+    "v3.fbt.minheadabovewaist": {
+      "en": "Min head above waist",
+      "text": "Min testa sopra vita"
+    },
+    "v3.fbt.minwaistabovefeet": {
+      "en": "Min waist above feet",
+      "text": "Min vita sopra piedi"
+    },
+    "v3.fbt.posturegate": {
+      "en": "Posture gate",
+      "text": "Soglia postura"
+    },
+    "v3.fbt.raisedfoot": {
+      "en": "Raised-foot threshold",
+      "text": "Soglia piede sollevato"
+    },
+    "v3.fbt.rightfootturn": {
+      "en": "Right foot turn",
+      "text": "Rotazione piede destro"
+    },
+    "v3.fbt.stancewidth": {
+      "en": "Stance width",
+      "text": "Larghezza postura"
+    },
+    "v3.fbt.title": {
+      "en": "Full Body Tracking",
+      "text": "Tracciamento corpo intero"
+    },
+    "v3.groups.all": {
+      "en": "All groups",
+      "text": "Tutti i gruppi"
+    },
+    "v3.groups.announce.hint": {
+      "en": "Welcome message…",
+      "text": "Messaggio di benvenuto…"
+    },
+    "v3.groups.announce.sub": {
+      "en": "Optional. Shows for members when they open the group.",
+      "text": "Facoltativo. I membri lo vedono aprendo il gruppo."
+    },
+    "v3.groups.announcement": {
+      "en": "Announcement",
+      "text": "Annuncio"
+    },
+    "v3.groups.approve": {
+      "en": "Approve",
+      "text": "Approva"
+    },
+    "v3.groups.ban": {
+      "en": "Ban",
+      "text": "Banna"
+    },
+    "v3.groups.create": {
+      "en": "Create group",
+      "text": "Crea gruppo"
+    },
+    "v3.groups.delete": {
+      "en": "Delete group",
+      "text": "Elimina gruppo"
+    },
+    "v3.groups.desc.hint": {
+      "en": "What is this group about?",
+      "text": "Di cosa tratta questo gruppo?"
+    },
+    "v3.groups.description": {
+      "en": "Description",
+      "text": "Descrizione"
+    },
+    "v3.groups.freejoin": {
+      "en": "Free Join",
+      "text": "Ingresso libero"
+    },
+    "v3.groups.inviteonly": {
+      "en": "Invite-Only",
+      "text": "Solo su invito"
+    },
+    "v3.groups.leave": {
+      "en": "Leave",
+      "text": "Esci"
+    },
+    "v3.groups.makemod": {
+      "en": "Make mod",
+      "text": "Rendi mod"
+    },
+    "v3.groups.memberscaninvite": {
+      "en": "Members can invite",
+      "text": "I membri possono invitare"
+    },
+    "v3.groups.membersettings": {
+      "en": "MEMBER SETTINGS",
+      "text": "IMPOSTAZIONI MEMBRI"
+    },
+    "v3.groups.modscanannounce": {
+      "en": "Mods can announce",
+      "text": "I mod possono annunciare"
+    },
+    "v3.groups.modscanban": {
+      "en": "Mods can ban",
+      "text": "I mod possono bannare"
+    },
+    "v3.groups.modscankick": {
+      "en": "Mods can kick",
+      "text": "I mod possono espellere"
+    },
+    "v3.groups.modscanroles": {
+      "en": "Mods can change roles",
+      "text": "I mod possono cambiare ruoli"
+    },
+    "v3.groups.modscanwarn": {
+      "en": "Mods can warn",
+      "text": "I mod possono avvisare"
+    },
+    "v3.groups.modsettings": {
+      "en": "MOD SETTINGS",
+      "text": "IMPOSTAZIONI MOD"
+    },
+    "v3.groups.name": {
+      "en": "Group name",
+      "text": "Nome del gruppo"
+    },
+    "v3.groups.name.hint": {
+      "en": "e.g. Night Owls",
+      "text": "es. Nottambuli"
+    },
+    "v3.groups.nomatch": {
+      "en": "No groups match",
+      "text": "Nessun gruppo corrisponde"
+    },
+    "v3.groups.privacy": {
+      "en": "Privacy",
+      "text": "Privacy"
+    },
+    "v3.groups.privacy.hint": {
+      "en": "Locked after you create the group.",
+      "text": "Bloccato dopo la creazione del gruppo."
+    },
+    "v3.groups.removemod": {
+      "en": "Remove mod",
+      "text": "Rimuovi mod"
+    },
+    "v3.groups.request": {
+      "en": "Request",
+      "text": "Richiedi"
+    },
+    "v3.groups.requested": {
+      "en": "Requested · cancel",
+      "text": "Richiesto · annulla"
+    },
+    "v3.groups.requesttojoin": {
+      "en": "Request to Join",
+      "text": "Richiesta di adesione"
+    },
+    "v3.groups.saveannounce": {
+      "en": "Save announcement",
+      "text": "Salva annuncio"
+    },
+    "v3.groups.tags": {
+      "en": "Tags",
+      "text": "Tag"
+    },
+    "v3.groups.tags.hint": {
+      "en": "Up to 5. e.g. 18+, Anyone, Roleplay",
+      "text": "Fino a 5. es. 18+, Chiunque, Roleplay"
+    },
+    "v3.groups.tags.max": {
+      "en": "TAGS (MAX 5)",
+      "text": "TAG (MAX 5)"
+    },
+    "v3.groups.title": {
+      "en": "Groups",
+      "text": "Gruppi"
+    },
+    "v3.groups.warn": {
+      "en": "Warn",
+      "text": "Avvisa"
+    },
+    "v3.groups.whocanjoin": {
+      "en": "Who can join",
+      "text": "Chi può unirsi"
+    },
+    "v3.groups.wip": {
+      "en": "Groups are new. Requests, approvals and mod tools just landed — tell us what breaks.",
+      "text": "I gruppi sono nuovi. Richieste, approvazioni e strumenti mod sono appena arrivati: dicci cosa non funziona."
+    },
+    "v3.header.discord": {
+      "en": "Discord",
+      "text": "Discord"
+    },
+    "v3.header.ea": {
+      "en": "EARLY ACCESS",
+      "text": "ACCESSO ANTICIPATO"
+    },
+    "v3.header.quit": {
+      "en": "Quit",
+      "text": "Esci"
+    },
+    "v3.header.tagline": {
+      "en": "HAVE FUN · EXPLORE · ENJOY",
+      "text": "DIVERTITI · ESPLORA · GODITI"
+    },
+    "v3.home.avatars.desc": {
+      "en": "Customize your look and express yourself.",
+      "text": "Personalizza il tuo look ed esprimiti."
+    },
+    "v3.home.chat.desc": {
+      "en": "Message your friends and the community.",
+      "text": "Scrivi ai tuoi amici e alla community."
+    },
+    "v3.home.discord": {
+      "en": "Join our Discord",
+      "text": "Unisciti al nostro Discord"
+    },
+    "v3.home.discord.sub": {
+      "en": "Events, updates and help · opens in your desktop browser",
+      "text": "Eventi, novità e aiuto · si apre nel browser del desktop"
+    },
+    "v3.home.fbt.desc": {
+      "en": "Track your full body and move naturally.",
+      "text": "Traccia tutto il corpo e muoviti in modo naturale."
+    },
+    "v3.home.fps": {
+      "en": "FPS",
+      "text": "FPS"
+    },
+    "v3.home.friends.desc": {
+      "en": "View your friends list and join them.",
+      "text": "Vedi la lista amici e unisciti a loro."
+    },
+    "v3.home.groups.desc": {
+      "en": "Create and join communities.",
+      "text": "Crea community e uniscisi."
+    },
+    "v3.home.home": {
+      "en": "Home",
+      "text": "Home"
+    },
+    "v3.home.nearby.desc": {
+      "en": "See who's around you in real time.",
+      "text": "Vedi chi c'è intorno a te in tempo reale."
+    },
+    "v3.home.ping": {
+      "en": "Ping",
+      "text": "Ping"
+    },
+    "v3.home.settings.desc": {
+      "en": "Adjust your experience and preferences.",
+      "text": "Regola esperienza e preferenze."
+    },
+    "v3.home.store": {
+      "en": "Store",
+      "text": "Negozio"
+    },
+    "v3.home.store.sub": {
+      "en": "Cosmetics, boosts & more",
+      "text": "Cosmetici, potenziamenti e altro"
+    },
+    "v3.home.supporter.sub": {
+      "en": "Exclusive perks & plates",
+      "text": "Vantaggi e targhe esclusivi"
+    },
+    "v3.home.worlds.desc": {
+      "en": "Explore new worlds and experiences.",
+      "text": "Esplora nuovi mondi ed esperienze."
+    },
+    "v3.host.action": {
+      "en": "Action",
+      "text": "Azione"
+    },
+    "v3.host.msg": {
+      "en": "Choose an action and visibility for this world.",
+      "text": "Scegli un'azione e la visibilità per questo mondo."
+    },
+    "v3.host.new": {
+      "en": "Host new instance",
+      "text": "Ospita nuova istanza"
+    },
+    "v3.host.portal": {
+      "en": "Drop portal to a new instance",
+      "text": "Lascia un portale a una nuova istanza"
+    },
+    "v3.host.private": {
+      "en": "Private",
+      "text": "Privato"
+    },
+    "v3.host.public": {
+      "en": "Public",
+      "text": "Pubblico"
+    },
+    "v3.host.title": {
+      "en": "Host or drop portal",
+      "text": "Ospita o lascia un portale"
+    },
+    "v3.host.visibility": {
+      "en": "Visibility",
+      "text": "Visibilità"
+    },
+    "v3.inbox": {
+      "en": "Inbox",
+      "text": "In arrivo"
+    },
+    "v3.inbox.empty": {
+      "en": "Nothing new right now.",
+      "text": "Niente di nuovo per ora."
+    },
+    "v3.instance.applyban": {
+      "en": "Apply ban",
+      "text": "Applica ban"
+    },
+    "v3.instance.banhours": {
+      "en": "hours (0 = permanent)",
+      "text": "ore (0 = permanente)"
+    },
+    "v3.instance.muteall": {
+      "en": "Mute All",
+      "text": "Silenzia tutti"
+    },
+    "v3.instance.people": {
+      "en": "PEOPLE HERE",
+      "text": "PERSONE QUI"
+    },
+    "v3.instance.title": {
+      "en": "Instance",
+      "text": "Istanza"
+    },
+    "v3.modal.noundo": {
+      "en": "This action cannot be undone.",
+      "text": "Questa azione non può essere annullata."
+    },
+    "v3.modal.sure": {
+      "en": "Are you sure?",
+      "text": "Sei sicuro?"
+    },
+    "v3.report.details": {
+      "en": "ADDITIONAL DETAILS (OPTIONAL)",
+      "text": "DETTAGLI AGGIUNTIVI (FACOLTATIVO)"
+    },
+    "v3.report.msg": {
+      "en": "Choose a reason for reporting this world.",
+      "text": "Scegli un motivo per segnalare questo mondo."
+    },
+    "v3.report.reason.perf": {
+      "en": "Low performance",
+      "text": "Prestazioni scarse"
+    },
+    "v3.report.reason.tags": {
+      "en": "Inappropriate tags (mature content)",
+      "text": "Tag inappropriati (contenuti per adulti)"
+    },
+    "v3.report.send": {
+      "en": "Send report",
+      "text": "Invia segnalazione"
+    },
+    "v3.report.title": {
+      "en": "Report world",
+      "text": "Segnala mondo"
+    },
+    "v3.report.what": {
+      "en": "WHAT IS WRONG?",
+      "text": "COSA NON VA?"
+    },
+    "v3.role.member": {
+      "en": "Member",
+      "text": "Membro"
+    },
+    "v3.role.mod": {
+      "en": "Mod",
+      "text": "Mod"
+    },
+    "v3.role.owner": {
+      "en": "Owner",
+      "text": "Proprietario"
+    },
+    "v3.search.avatars": {
+      "en": "Search avatars…",
+      "text": "Cerca avatar…"
+    },
+    "v3.search.friends": {
+      "en": "Search friends…",
+      "text": "Cerca amici…"
+    },
+    "v3.search.groups": {
+      "en": "Search groups…",
+      "text": "Cerca gruppi…"
+    },
+    "v3.search.members": {
+      "en": "Search members…",
+      "text": "Cerca membri…"
+    },
+    "v3.search.people": {
+      "en": "Search people…",
+      "text": "Cerca persone…"
+    },
+    "v3.search.players": {
+      "en": "Search players…",
+      "text": "Cerca giocatori…"
+    },
+    "v3.settings.access.hdr": {
+      "en": "LANGUAGE & ACCESSIBILITY",
+      "text": "LINGUA E ACCESSIBILITÀ"
+    },
+    "v3.settings.avatarphysics": {
+      "en": "Avatar Physics",
+      "text": "Fisica avatar"
+    },
+    "v3.settings.avatarphysics.sub": {
+      "en": "Tails, ears and hair swing on avatars. Turn off for comfort or on a slower PC.",
+      "text": "Code, orecchie e capelli oscillano. Disattiva per comfort o su un PC lento."
+    },
+    "v3.settings.brightness": {
+      "en": "Brightness",
+      "text": "Luminosità"
+    },
+    "v3.settings.brightness.sub": {
+      "en": "Brighten or darken everything. 100% = the world as it was made.",
+      "text": "Schiarisci o scurisci tutto. 100% = il mondo com'è stato creato."
+    },
+    "v3.settings.cambody": {
+      "en": "Upper Body",
+      "text": "Parte superiore del corpo"
+    },
+    "v3.settings.cambody.sub": {
+      "en": "Also moves your avatar's arms, shoulders and fingers.",
+      "text": "Muove anche le braccia, le spalle e le dita del tuo avatar."
+    },
+    "v3.settings.camface": {
+      "en": "Face Only",
+      "text": "Solo il viso"
+    },
+    "v3.settings.camface.sub": {
+      "en": "Your avatar's face, eyelids and eyes follow your webcam.",
+      "text": "Il viso, le palpebre e gli occhi del tuo avatar seguono la tua webcam."
+    },
+    "v3.settings.camhead": {
+      "en": "Face and Head Movement",
+      "text": "Viso e movimento della testa"
+    },
+    "v3.settings.camhead.sub": {
+      "en": "Also turns, nods and tilts your avatar's head with yours.",
+      "text": "Inoltre ruota, annuisce e inclina la testa del tuo avatar insieme alla tua."
+    },
+    "v3.settings.controls": {
+      "en": "Controls",
+      "text": "Controlli"
+    },
+    "v3.settings.eyeavatar": {
+      "en": "Eye tracking: avatar eyes",
+      "text": "Tracciamento oculare: occhi dell'avatar"
+    },
+    "v3.settings.eyeavatar.sub": {
+      "en": "Your avatar's eyes follow where you look. Needs a headset with eye tracking.",
+      "text": "Gli occhi del tuo avatar seguono il tuo sguardo. Richiede un visore con tracciamento oculare."
+    },
+    "v3.settings.faceheadset": {
+      "en": "Headset Face Tracking",
+      "text": "Tracciamento del viso del visore"
+    },
+    "v3.settings.faceheadset.sub": {
+      "en": "Your avatar's face follows your own. Needs a headset with face tracking.",
+      "text": "Il viso del tuo avatar segue il tuo. Richiede un visore con tracciamento del viso."
+    },
+    "v3.settings.facetrack.hdr": {
+      "en": "FACE TRACKING",
+      "text": "TRACCIAMENTO DEL VISO"
+    },
+    "v3.settings.fingertracking": {
+      "en": "Controller finger tracking",
+      "text": "Tracciamento delle dita del controller"
+    },
+    "v3.settings.fingertracking.sub": {
+      "en": "Your avatar's fingers follow your controller's finger sensors instead of the preset hand poses.",
+      "text": "Le dita del tuo avatar seguono i sensori delle dita del controller invece delle pose predefinite della mano."
+    },
+    "v3.settings.fov": {
+      "en": "FIELD OF VIEW",
+      "text": "CAMPO VISIVO"
+    },
+    "v3.settings.fov.sub": {
+      "en": "Desktop only. How wide the view is. Lower feels zoomed in, higher shows more at the edges.",
+      "text": "Solo desktop. Ampiezza della visuale. Più basso sembra zoomato, più alto mostra di più ai bordi."
+    },
+    "v3.settings.foveatedeyes": {
+      "en": "Eye tracking: foveated rendering",
+      "text": "Tracciamento oculare: rendering foveato"
+    },
+    "v3.settings.foveatedeyes.sub": {
+      "en": "With Foveated Rendering on, the sharp area follows your eyes.",
+      "text": "Con il rendering foveato attivo, l'area nitida segue i tuoi occhi."
+    },
+    "v3.settings.fpscap.sub": {
+      "en": "In VR at least 90 is used. Unlimited leaves it uncapped.",
+      "text": "In VR si usano almeno 90. Illimitato toglie il limite."
+    },
+    "v3.settings.fullscreen.sub": {
+      "en": "Desktop window only",
+      "text": "Solo finestra desktop"
+    },
+    "v3.settings.guestinvite": {
+      "en": "Allow Guests to Invite",
+      "text": "I ospiti possono invitare"
+    },
+    "v3.settings.guestinvite.sub": {
+      "en": "Let anyone here invite people. Off means only you can.",
+      "text": "Chiunque qui può invitare. Off: solo tu."
+    },
+    "v3.settings.hideavatars": {
+      "en": "Hide Custom Avatars",
+      "text": "Nascondi avatar personalizzati"
+    },
+    "v3.settings.hideavatars.sub": {
+      "en": "Show everyone as Quinn. Their real avatars come back when you turn this off.",
+      "text": "Mostra tutti come Quinn. I loro veri avatar tornano quando lo disattivi."
+    },
+    "v3.settings.invertmouse": {
+      "en": "Invert Mouse Look",
+      "text": "Inverti visuale mouse"
+    },
+    "v3.settings.invertmouse.sub": {
+      "en": "Desktop only. Moving the mouse down looks up.",
+      "text": "Solo desktop. Mouse in basso guarda in alto."
+    },
+    "v3.settings.invertpad": {
+      "en": "Invert Controller Look",
+      "text": "Inverti visuale controller"
+    },
+    "v3.settings.invertpad.sub": {
+      "en": "Pushing the right stick down looks up.",
+      "text": "Stick destro in basso guarda in alto."
+    },
+    "v3.settings.language": {
+      "en": "Language",
+      "text": "Lingua"
+    },
+    "v3.settings.mousesens": {
+      "en": "MOUSE SENSITIVITY",
+      "text": "SENSIBILITÀ MOUSE"
+    },
+    "v3.settings.mousesens.sub": {
+      "en": "Desktop only. How far the view turns for a given mouse movement.",
+      "text": "Solo desktop. Quanto ruota la visuale per un movimento del mouse."
+    },
+    "v3.settings.music": {
+      "en": "Music",
+      "text": "Musica"
+    },
+    "v3.settings.proxvoice": {
+      "en": "Proximity Voice",
+      "text": "Voce di prossimità"
+    },
+    "v3.settings.proxvoice.sub": {
+      "en": "Voices fade with distance and muffle through walls",
+      "text": "Le voci si attenuano con la distanza e si ovattano attraverso i muri"
+    },
+    "v3.settings.radialhand": {
+      "en": "Laser on Right Hand",
+      "text": "Laser sulla mano destra"
+    },
+    "v3.settings.radialhandsub": {
+      "en": "Laser on the right; quick menu and mic button on the left. Off: the other way round.",
+      "text": "Laser a destra; menu rapido e tasto mic a sinistra. Off: il contrario."
+    },
+    "v3.settings.resetall": {
+      "en": "Reset to default",
+      "text": "Ripristina predefiniti"
+    },
+    "v3.settings.resetall.body": {
+      "en": "Audio, mic, graphics, comfort, colours and controls go back to how they started. Your language, streamer and privacy settings stay.",
+      "text": "Audio, mic, grafica, comfort, colori e controlli tornano come all'inizio. Lingua, streamer e privacy restano come sono."
+    },
+    "v3.settings.resetall.confirm": {
+      "en": "Reset",
+      "text": "Ripristina"
+    },
+    "v3.settings.resetall.title": {
+      "en": "Reset all settings to default?",
+      "text": "Ripristinare tutte le impostazioni predefinite?"
+    },
+    "v3.settings.resetall.toast": {
+      "en": "Settings reset to default",
+      "text": "Impostazioni ripristinate"
+    },
+    "v3.settings.resetgraphics": {
+      "en": "Reset graphics to defaults",
+      "text": "Ripristina grafica"
+    },
+    "v3.settings.sessionvis": {
+      "en": "Session Visibility",
+      "text": "Visibilità sessione"
+    },
+    "v3.settings.sessionvis.sub": {
+      "en": "Public: anyone can find and join. Friends Only: not listed, friends can join. Private: not listed, invite only.",
+      "text": "Pubblica: chiunque può trovarla e unirsi. Solo amici: non elencata, gli amici possono unirsi. Privata: non elencata, solo su invito."
+    },
+    "v3.settings.streammature.hide": {
+      "en": "Streamer mode: hide mature avatars",
+      "text": "Modalità streamer: nascondi avatar per adulti"
+    },
+    "v3.settings.streammature.hide.sub": {
+      "en": "Shows them as an orb instead. You can unhide anyone from Nearby.",
+      "text": "Li mostra come una sfera. Puoi mostrarli di nuovo da Vicino."
+    },
+    "v3.settings.streammature.quinn": {
+      "en": "Streamer mode: mature avatars as Quinn",
+      "text": "Modalità streamer: avatar per adulti come Quinn"
+    },
+    "v3.settings.streammature.quinn.sub": {
+      "en": "While streamer mode is on, other players' Mature Themes avatars show as Quinn.",
+      "text": "Con la modalità streamer attiva, gli avatar per adulti degli altri appaiono come Quinn."
+    },
+    "v3.settings.swaphands.sub": {
+      "en": "Move the quick menu and Movement Mode to the other hand",
+      "text": "Sposta menu rapido e modalità movimento sull’altra mano"
+    },
+    "v3.settings.uisize": {
+      "en": "UI SIZE",
+      "text": "DIMENSIONE UI"
+    },
+    "v3.settings.uisize.sub": {
+      "en": "Size of nameplates and on-screen notifications. Larger is easier to read in VR.",
+      "text": "Dimensione di targhette e notifiche. Più grande si legge meglio in VR."
+    },
+    "v3.settings.voice3d": {
+      "en": "3D Voice",
+      "text": "Voce 3D"
+    },
+    "v3.settings.voice3d.sub": {
+      "en": "Hear each voice from where that person is standing: behind you sounds behind you. Off: everyone sounds flat.",
+      "text": "Senti ogni voce da dove si trova la persona: chi è dietro di te si sente dietro. Off: tutti suonano piatti."
+    },
+    "v3.settings.webcam.hdr": {
+      "en": "WEBCAM TRACKING",
+      "text": "TRACCIAMENTO CON WEBCAM"
+    },
+    "v3.settings.webcam.note": {
+      "en": "Desktop mode only. Pick one: each choice includes the ones above it. Your camera picture never leaves this PC.",
+      "text": "Solo in modalità desktop. Scegline una: ogni scelta include quelle sopra. L'immagine della tua camera non lascia mai questo PC."
+    },
+    "v3.store.companions": {
+      "en": "Companions",
+      "text": "Compagni"
+    },
+    "v3.store.cosmetics": {
+      "en": "Cosmetics",
+      "text": "Cosmetici"
+    },
+    "v3.store.empty": {
+      "en": "The store is still in the works",
+      "text": "Il negozio è ancora in lavorazione"
+    },
+    "v3.store.emptysub": {
+      "en": "Check back soon — new items are on the way.",
+      "text": "Torna presto: nuovi articoli in arrivo."
+    },
+    "v3.store.sub": {
+      "en": "Early Access deals — support development and look good doing it.",
+      "text": "Offerte Early Access: sostieni lo sviluppo con stile."
+    },
+    "v3.store.title": {
+      "en": "VR Realms Store",
+      "text": "Negozio VR Realms"
+    },
+    "v3.supporter.accent": {
+      "en": "Accent",
+      "text": "Accento"
+    },
+    "v3.supporter.active": {
+      "en": "Supporter active",
+      "text": "Sostenitore attivo"
+    },
+    "v3.supporter.activesub": {
+      "en": "Quick access to favorites and menu colour customization.",
+      "text": "Accesso rapido ai preferiti e colori del menu."
+    },
+    "v3.supporter.background": {
+      "en": "Background",
+      "text": "Sfondo"
+    },
+    "v3.supporter.collected": {
+      "en": "COLLECTED HEAD PLATES",
+      "text": "TARGHE RACCOLTE"
+    },
+    "v3.supporter.colours": {
+      "en": "MENU COLOURS",
+      "text": "COLORI DEL MENU"
+    },
+    "v3.supporter.favavatars": {
+      "en": "FAVORITE AVATARS",
+      "text": "AVATAR PREFERITI"
+    },
+    "v3.supporter.favworlds": {
+      "en": "FAVORITE WORLDS",
+      "text": "MONDI PREFERITI"
+    },
+    "v3.supporter.locked": {
+      "en": "You have plates you cannot wear yet",
+      "text": "Hai targhe che non puoi ancora indossare"
+    },
+    "v3.supporter.lockedsub": {
+      "en": "Supporters can wear any plate they have found and swap whenever they like. You also get 60 favorite avatars and worlds, plus menu colour customization.",
+      "text": "I sostenitori indossano qualsiasi targa trovata e la cambiano quando vogliono. In più 60 avatar e mondi preferiti e i colori del menu."
+    },
+    "v3.supporter.noavatars": {
+      "en": "No favorite avatars yet. Heart avatars to pin them here.",
+      "text": "Nessun avatar preferito. Metti un cuore agli avatar per fissarli qui."
+    },
+    "v3.supporter.noplate": {
+      "en": "Wear no plate",
+      "text": "Nessuna targa"
+    },
+    "v3.supporter.noworlds": {
+      "en": "No favorite worlds yet. Heart worlds to pin them here.",
+      "text": "Nessun mondo preferito. Metti un cuore ai mondi per fissarli qui."
+    },
+    "v3.supporter.plates": {
+      "en": "PLATES",
+      "text": "TARGHE"
+    },
+    "v3.supporter.platesnote": {
+      "en": "Every plate you find is yours to keep. Pick one to wear for free — choose carefully, it cannot be changed later. Supporters can wear any of them, and swap whenever they like.",
+      "text": "Ogni targa trovata è tua. Scegline una da indossare gratis: scegli bene, non si può cambiare dopo. I sostenitori le indossano tutte e cambiano quando vogliono."
+    },
+    "v3.supporter.pricenote": {
+      "en": "Cancel anytime. Every plate you found stays yours.",
+      "text": "Annulla quando vuoi. Ogni targa trovata resta tua."
+    },
+    "v3.supporter.resetcolours": {
+      "en": "Reset colours",
+      "text": "Ripristina colori"
+    },
+    "v3.supporter.subscribe": {
+      "en": "$7 / month  ·  Become a Supporter",
+      "text": "7 $ / mese  ·  Diventa sostenitore"
+    },
+    "v3.tag.anyone": {
+      "en": "Anyone",
+      "text": "Chiunque"
+    },
+    "v3.tag.creators": {
+      "en": "Creators",
+      "text": "Creator"
+    },
+    "v3.tag.gaming": {
+      "en": "Gaming",
+      "text": "Gaming"
+    },
+    "v3.tag.social": {
+      "en": "Social",
+      "text": "Social"
+    },
+    "v3.worlds.instances": {
+      "en": "Instances",
+      "text": "Istanze"
+    },
+    "v3.worlds.noinstances": {
+      "en": "No active instances. Host one below.",
+      "text": "Nessuna istanza attiva. Creane una qui sotto."
+    },
+    "v3.worlds.nomatch": {
+      "en": "No worlds match",
+      "text": "Nessun mondo corrisponde"
+    },
+    "v3.worlds.singleplayer": {
+      "en": "Single Player",
+      "text": "Giocatore singolo"
+    },
+    "worlds.access": {
+      "en": "ACCESS",
+      "text": "ACCESSO"
+    },
+    "worlds.audience": {
+      "en": "AUDIENCE",
+      "text": "PUBBLICO"
+    },
+    "worlds.capacity": {
+      "en": "CAPACITY",
+      "text": "CAPIENZA"
+    },
+    "worlds.dropportal": {
+      "en": "DROP PORTAL",
+      "text": "PIAZZA PORTALE"
+    },
+    "worlds.favonly": {
+      "en": "Favorites only",
+      "text": "Solo preferiti"
+    },
+    "worlds.filters": {
+      "en": "Filters",
+      "text": "Filtri"
+    },
+    "worlds.gameworld": {
+      "en": "Game World",
+      "text": "Mondo di gioco"
+    },
+    "worlds.horror": {
+      "en": "Horror",
+      "text": "Horror"
+    },
+    "worlds.host": {
+      "en": "HOST",
+      "text": "OSPITA"
+    },
+    "worlds.hostnew": {
+      "en": "+  HOST NEW SESSION",
+      "text": "+  OSPITA UNA NUOVA SESSIONE"
+    },
+    "worlds.hub.sub": {
+      "en": "The official VR Realms hub — everyone starts here",
+      "text": "L'hub ufficiale di VR Realms — tutti iniziano qui"
+    },
+    "worlds.hub.title": {
+      "en": "Join the Main HUB",
+      "text": "Unisciti all'HUB principale"
+    },
+    "worlds.install": {
+      "en": "INSTALL",
+      "text": "INSTALLA"
+    },
+    "worlds.maptype": {
+      "en": "MAP TYPE",
+      "text": "TIPO DI MAPPA"
+    },
+    "worlds.minigame": {
+      "en": "Minigame",
+      "text": "Minigioco"
+    },
+    "worlds.personal": {
+      "en": "Personal",
+      "text": "Personale"
+    },
+    "worlds.report": {
+      "en": "REPORT",
+      "text": "SEGNALA"
+    },
+    "worlds.roleplay": {
+      "en": "Roleplay",
+      "text": "Gioco di ruolo"
+    },
+    "worlds.searchhint": {
+      "en": "Search worlds…",
+      "text": "Cerca mondi…"
+    },
+    "worlds.showcase": {
+      "en": "Showcase",
+      "text": "Vetrina"
+    },
+    "worlds.socialhub": {
+      "en": "Social Hub",
+      "text": "Hub sociale"
+    },
+    "worlds.sort.players": {
+      "en": "Most Players",
+      "text": "Più giocatori"
+    },
+    "worlds.sort.popular": {
+      "en": "Most Popular",
+      "text": "Più popolari"
+    },
+    "worlds.sort.recent": {
+      "en": "Most Recent",
+      "text": "Più recenti"
+    },
+    "worlds.sort.toprated": {
+      "en": "Top Rated All Time",
+      "text": "Più votati"
+    },
+    "worlds.sort.updated": {
+      "en": "Last Updated",
+      "text": "Ultimo aggiornamento"
+    },
+    "worlds.sortby": {
+      "en": "Sort by",
+      "text": "Ordina per"
+    },
+    "ws.nosend": {
+      "en": "Steam is not sending avatars right now. They will show up when it does.",
+      "text": "Steam non sta inviando avatar in questo momento. Appariranno quando lo farà."
+    }
+  }
+}
