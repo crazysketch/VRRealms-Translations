@@ -479,9 +479,21 @@
       "en": "The call was refused.",
       "text": "호출이 거부되었어요."
     },
+    "call.reset.done": {
+      "en": "Calls reset: the open call ended, and anyone hosting can call again now.",
+      "text": "호출을 초기화했어요. 열려 있던 호출은 끝났고, 이제 호스트라면 누구나 다시 호출할 수 있어요."
+    },
+    "call.reset.notstaff": {
+      "en": "Only staff can reset calls.",
+      "text": "호출 초기화는 스태프만 할 수 있어요."
+    },
     "call.row.call": {
       "en": "CALL EVERYONE",
       "text": "모두 호출"
+    },
+    "call.row.calling": {
+      "en": "CALLING...",
+      "text": "호출 중..."
     },
     "call.row.in": {
       "en": "CALL EVERYONE · IN {0}",
@@ -506,6 +518,10 @@
     "call.test": {
       "en": "That was a test call: there is nothing to join.",
       "text": "테스트 호출이었어요: 참가할 곳이 없어요."
+    },
+    "call.unreachable": {
+      "en": "Calls cannot reach VR Realms right now.",
+      "text": "지금은 호출이 VR Realms에 닿지 않아요."
     },
     "call.yes1": {
       "en": "1 player said yes to your call.",

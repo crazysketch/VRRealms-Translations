@@ -479,9 +479,21 @@
       "en": "The call was refused.",
       "text": "Призыв отклонён."
     },
+    "call.reset.done": {
+      "en": "Calls reset: the open call ended, and anyone hosting can call again now.",
+      "text": "Вызовы сброшены: открытый вызов завершён, и любой хост снова может звать."
+    },
+    "call.reset.notstaff": {
+      "en": "Only staff can reset calls.",
+      "text": "Сбрасывать вызовы может только команда."
+    },
     "call.row.call": {
       "en": "CALL EVERYONE",
       "text": "ПОЗВАТЬ ВСЕХ"
+    },
+    "call.row.calling": {
+      "en": "CALLING...",
+      "text": "ЗОВЁМ..."
     },
     "call.row.in": {
       "en": "CALL EVERYONE · IN {0}",
@@ -506,6 +518,10 @@
     "call.test": {
       "en": "That was a test call: there is nothing to join.",
       "text": "Это был тестовый призыв: присоединяться некуда."
+    },
+    "call.unreachable": {
+      "en": "Calls cannot reach VR Realms right now.",
+      "text": "Сейчас вызовы не доходят до VR Realms."
     },
     "call.yes1": {
       "en": "1 player said yes to your call.",

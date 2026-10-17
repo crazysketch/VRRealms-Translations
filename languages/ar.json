@@ -479,9 +479,21 @@
       "en": "The call was refused.",
       "text": "رُفضت الدعوة."
     },
+    "call.reset.done": {
+      "en": "Calls reset: the open call ended, and anyone hosting can call again now.",
+      "text": "تمت إعادة ضبط الدعوات: انتهت الدعوة المفتوحة، ويمكن لأي مضيف الدعوة من جديد الآن."
+    },
+    "call.reset.notstaff": {
+      "en": "Only staff can reset calls.",
+      "text": "يمكن لفريق العمل فقط إعادة ضبط الدعوات."
+    },
     "call.row.call": {
       "en": "CALL EVERYONE",
       "text": "ادعُ الجميع"
+    },
+    "call.row.calling": {
+      "en": "CALLING...",
+      "text": "جارٍ الدعوة..."
     },
     "call.row.in": {
       "en": "CALL EVERYONE · IN {0}",
@@ -506,6 +518,10 @@
     "call.test": {
       "en": "That was a test call: there is nothing to join.",
       "text": "كانت هذه دعوة تجريبية: لا يوجد ما تنضم إليه."
+    },
+    "call.unreachable": {
+      "en": "Calls cannot reach VR Realms right now.",
+      "text": "لا يمكن للدعوات الوصول إلى VR Realms الآن."
     },
     "call.yes1": {
       "en": "1 player said yes to your call.",
