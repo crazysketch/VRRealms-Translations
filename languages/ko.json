@@ -795,9 +795,41 @@
       "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
       "text": "Nixie: 도전 세 개 전부. 이제 낼 도전이 없어요. 그리고 살짝 감탄했어요."
     },
+    "dares.boxagain": {
+      "en": "Nixie: Another round boxed. Counted for today.",
+      "text": "Nixie: 복싱 한 라운드 더. 오늘 분으로 인정했어요."
+    },
+    "dares.boxdone": {
+      "en": "Nixie: A whole round in the ring, and your face is still on. Dare done.",
+      "text": "Nixie: 링에서 한 라운드를 끝까지 버텼네요. 얼굴도 아직 멀쩡해요. 도전 완료."
+    },
+    "dares.boxintro": {
+      "en": "Nixie: Boxing Royale. Land five punches and your opponent is out. Last one standing takes the round, the most rounds takes the match. On a screen, click to jab. In a headset, swing for real. I dare you.",
+      "text": "Nixie: Boxing Royale이에요. 펀치를 다섯 번 맞히면 상대는 아웃이에요. 마지막까지 서 있는 사람이 라운드를 가져가고, 라운드를 가장 많이 이긴 사람이 경기를 가져가요. 화면에서는 클릭으로 잽을 날리고, 헤드셋에서는 진짜로 주먹을 휘두르세요. 할 수 있으면 해 봐요."
+    },
+    "dares.boxmatchagain": {
+      "en": "Nixie: Champion again. Counted for today.",
+      "text": "Nixie: 또 챔피언이에요. 오늘 분으로 인정했어요."
+    },
+    "dares.boxmatchdone": {
+      "en": "Nixie: Champion. I would polish your belt, but nobody gave me one. Dare done.",
+      "text": "Nixie: 챔피언이에요. 벨트를 닦아 주고 싶지만 아무도 안 줬어요. 도전 완료."
+    },
+    "dares.boxwinagain": {
+      "en": "Nixie: Another round won. Counted for today.",
+      "text": "Nixie: 라운드를 또 이겼네요. 오늘 분으로 인정했어요."
+    },
+    "dares.boxwindone": {
+      "en": "Nixie: You took the round. I felt that from here. Dare done.",
+      "text": "Nixie: 라운드를 가져갔네요. 여기까지 느껴졌어요. 도전 완료."
+    },
     "dares.checkpoint": {
       "en": "Checkpoint {0} of {1}.",
       "text": "체크포인트 {0}/{1}."
+    },
+    "dares.d.boxing": {
+      "en": "Boxing",
+      "text": "복싱"
     },
     "dares.d.easy": {
       "en": "Easy",
@@ -926,6 +958,30 @@
     "dares.lapstart": {
       "en": "Nixie: A lap. I would join you, but I was built for standing.",
       "text": "Nixie: 한 바퀴네요. 같이 가고 싶지만, 저는 서 있으려고 만들어졌거든요."
+    },
+    "dares.n.box": {
+      "en": "Gloves on, one round. Punch them before they punch you.",
+      "text": "글러브 끼고 한 라운드. 맞기 전에 먼저 때리세요."
+    },
+    "dares.n.boxdone": {
+      "en": "One round boxed. I kept the ice ready. You did not need it. Mostly.",
+      "text": "한 라운드 끝. 얼음을 준비해 뒀어요. 필요 없었네요. 거의요."
+    },
+    "dares.n.boxmatch": {
+      "en": "Take the most rounds of a match. Then I call you champion.",
+      "text": "한 경기에서 라운드를 가장 많이 가져가세요. 그러면 챔피언이라고 불러 줄게요."
+    },
+    "dares.n.boxmatchdone": {
+      "en": "Champion. I made you a belt. It is imaginary, but shiny.",
+      "text": "챔피언. 벨트를 만들어 줬어요. 상상 속 벨트지만 반짝여요."
+    },
+    "dares.n.boxwin": {
+      "en": "Win a round: last one standing, or the fewest hits taken.",
+      "text": "라운드를 이기려면 마지막까지 서 있거나, 가장 적게 맞으면 돼요."
+    },
+    "dares.n.boxwindone": {
+      "en": "A round won. The bell rang just for you.",
+      "text": "라운드 승리. 종은 당신만을 위해 울렸어요."
     },
     "dares.n.dare": {
       "en": "I dare you.",
@@ -1127,6 +1183,10 @@
       "en": "Nixie: A head plate. A hat made of facts. Dare done.",
       "text": "Nixie: 헤드 플레이트네요. 사실로 만든 모자죠. 도전 완료."
     },
+    "dares.s.boxhere": {
+      "en": "You are here. The next round puts you in the ring.",
+      "text": "여기 있어요. 다음 라운드에 링에 오르게 돼요."
+    },
     "dares.setbonus": {
       "en": "+{0} gold for all three",
       "text": "3개 모두 완료 시 +{0} 골드"
@@ -1138,6 +1198,18 @@
     "dares.setdone": {
       "en": "Nixie: That whole set is done. I will have to think of new dares.",
       "text": "Nixie: 이 세트를 전부 끝냈네요. 새 도전을 생각해 봐야겠어요."
+    },
+    "dares.t.box": {
+      "en": "Box one round",
+      "text": "복싱 한 라운드 하기"
+    },
+    "dares.t.boxmatch": {
+      "en": "Become the boxing champion",
+      "text": "복싱 챔피언 되기"
+    },
+    "dares.t.boxwin": {
+      "en": "Win a round in the ring",
+      "text": "링에서 한 라운드 이기기"
     },
     "dares.t.ffa": {
       "en": "Play a round of free-for-all",
@@ -1198,6 +1270,14 @@
     "dares.w.arena": {
       "en": "the hub's arena, or any free-for-all world",
       "text": "허브의 아레나 또는 아무 개인전 월드"
+    },
+    "dares.w.box": {
+      "en": "Boxing Royale, a boxer bot spars with you",
+      "text": "Boxing Royale, 복서 봇이 스파링 상대가 돼 줘요"
+    },
+    "dares.w.boxmatch": {
+      "en": "Boxing Royale: win the most rounds of a match",
+      "text": "Boxing Royale: 한 경기에서 라운드를 가장 많이 이기기"
     },
     "dares.w.ffa": {
       "en": "FFA Shooter, a bot plays you there",

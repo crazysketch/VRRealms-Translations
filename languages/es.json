@@ -795,9 +795,41 @@
       "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
       "text": "Nixie: Los tres retos. Me quedé sin retos, y un poco impresionada."
     },
+    "dares.boxagain": {
+      "en": "Nixie: Another round boxed. Counted for today.",
+      "text": "Nixie: Otra ronda de boxeo. Contado por hoy."
+    },
+    "dares.boxdone": {
+      "en": "Nixie: A whole round in the ring, and your face is still on. Dare done.",
+      "text": "Nixie: Una ronda entera en el ring, y tu cara sigue en su sitio. Reto cumplido."
+    },
+    "dares.boxintro": {
+      "en": "Nixie: Boxing Royale. Land five punches and your opponent is out. Last one standing takes the round, the most rounds takes the match. On a screen, click to jab. In a headset, swing for real. I dare you.",
+      "text": "Nixie: Boxing Royale. Conecta cinco golpes y tu rival queda fuera. El último en pie gana la ronda, y quien gane más rondas gana el combate. En pantalla, haz clic para lanzar un jab. Con el visor, golpea de verdad. Te reto."
+    },
+    "dares.boxmatchagain": {
+      "en": "Nixie: Champion again. Counted for today.",
+      "text": "Nixie: Campeón otra vez. Contado por hoy."
+    },
+    "dares.boxmatchdone": {
+      "en": "Nixie: Champion. I would polish your belt, but nobody gave me one. Dare done.",
+      "text": "Nixie: Campeón. Te puliría el cinturón, pero nadie me dio uno. Reto cumplido."
+    },
+    "dares.boxwinagain": {
+      "en": "Nixie: Another round won. Counted for today.",
+      "text": "Nixie: Otra ronda ganada. Contado por hoy."
+    },
+    "dares.boxwindone": {
+      "en": "Nixie: You took the round. I felt that from here. Dare done.",
+      "text": "Nixie: Te llevaste la ronda. Lo sentí desde aquí. Reto cumplido."
+    },
     "dares.checkpoint": {
       "en": "Checkpoint {0} of {1}.",
       "text": "Punto de control {0} de {1}."
+    },
+    "dares.d.boxing": {
+      "en": "Boxing",
+      "text": "Boxeo"
     },
     "dares.d.easy": {
       "en": "Easy",
@@ -926,6 +958,30 @@
     "dares.lapstart": {
       "en": "Nixie: A lap. I would join you, but I was built for standing.",
       "text": "Nixie: Una vuelta. Te acompañaría, pero me construyeron para estar de pie."
+    },
+    "dares.n.box": {
+      "en": "Gloves on, one round. Punch them before they punch you.",
+      "text": "Guantes puestos, una ronda. Golpea antes de que te golpeen."
+    },
+    "dares.n.boxdone": {
+      "en": "One round boxed. I kept the ice ready. You did not need it. Mostly.",
+      "text": "Una ronda boxeada. Tenía el hielo preparado. No te hizo falta. Casi."
+    },
+    "dares.n.boxmatch": {
+      "en": "Take the most rounds of a match. Then I call you champion.",
+      "text": "Gana más rondas que nadie en un combate. Entonces te llamaré campeón."
+    },
+    "dares.n.boxmatchdone": {
+      "en": "Champion. I made you a belt. It is imaginary, but shiny.",
+      "text": "Campeón. Te hice un cinturón. Es imaginario, pero brilla."
+    },
+    "dares.n.boxwin": {
+      "en": "Win a round: last one standing, or the fewest hits taken.",
+      "text": "Gana una ronda: sé el último en pie, o el que menos golpes reciba."
+    },
+    "dares.n.boxwindone": {
+      "en": "A round won. The bell rang just for you.",
+      "text": "Una ronda ganada. La campana sonó solo para ti."
     },
     "dares.n.dare": {
       "en": "I dare you.",
@@ -1127,6 +1183,10 @@
       "en": "Nixie: A head plate. A hat made of facts. Dare done.",
       "text": "Nixie: Una placa. Un sombrero hecho de datos. Reto cumplido."
     },
+    "dares.s.boxhere": {
+      "en": "You are here. The next round puts you in the ring.",
+      "text": "Estás aquí. La próxima ronda te mete en el ring."
+    },
     "dares.setbonus": {
       "en": "+{0} gold for all three",
       "text": "+{0} de oro por los tres"
@@ -1138,6 +1198,18 @@
     "dares.setdone": {
       "en": "Nixie: That whole set is done. I will have to think of new dares.",
       "text": "Nixie: Esa serie está completa. Tendré que inventar retos nuevos."
+    },
+    "dares.t.box": {
+      "en": "Box one round",
+      "text": "Boxea una ronda"
+    },
+    "dares.t.boxmatch": {
+      "en": "Become the boxing champion",
+      "text": "Conviértete en el campeón de boxeo"
+    },
+    "dares.t.boxwin": {
+      "en": "Win a round in the ring",
+      "text": "Gana una ronda en el ring"
     },
     "dares.t.ffa": {
       "en": "Play a round of free-for-all",
@@ -1198,6 +1270,14 @@
     "dares.w.arena": {
       "en": "the hub's arena, or any free-for-all world",
       "text": "la arena del hub o cualquier mundo de todos contra todos"
+    },
+    "dares.w.box": {
+      "en": "Boxing Royale, a boxer bot spars with you",
+      "text": "Boxing Royale, un bot boxeador entrena contigo"
+    },
+    "dares.w.boxmatch": {
+      "en": "Boxing Royale: win the most rounds of a match",
+      "text": "Boxing Royale: gana más rondas que nadie en un combate"
     },
     "dares.w.ffa": {
       "en": "FFA Shooter, a bot plays you there",

@@ -795,9 +795,41 @@
       "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
       "text": "Nixie: Alle drie de uitdagingen. Mijn uitdagingen zijn op, en ik ben een tikje onder de indruk."
     },
+    "dares.boxagain": {
+      "en": "Nixie: Another round boxed. Counted for today.",
+      "text": "Nixie: Weer een ronde gebokst. Geteld voor vandaag."
+    },
+    "dares.boxdone": {
+      "en": "Nixie: A whole round in the ring, and your face is still on. Dare done.",
+      "text": "Nixie: Een hele ronde in de ring, en je gezicht zit er nog aan. Uitdaging voltooid."
+    },
+    "dares.boxintro": {
+      "en": "Nixie: Boxing Royale. Land five punches and your opponent is out. Last one standing takes the round, the most rounds takes the match. On a screen, click to jab. In a headset, swing for real. I dare you.",
+      "text": "Nixie: Boxing Royale. Raak vijf keer en je tegenstander ligt eruit. Wie als laatste overeind staat, wint de ronde, en wie de meeste rondes wint, wint de wedstrijd. Op een scherm klik je om te jabben. Met een headset sla je echt. Ik daag je uit."
+    },
+    "dares.boxmatchagain": {
+      "en": "Nixie: Champion again. Counted for today.",
+      "text": "Nixie: Weer kampioen. Geteld voor vandaag."
+    },
+    "dares.boxmatchdone": {
+      "en": "Nixie: Champion. I would polish your belt, but nobody gave me one. Dare done.",
+      "text": "Nixie: Kampioen. Ik zou je riem poetsen, maar niemand gaf me er een. Uitdaging voltooid."
+    },
+    "dares.boxwinagain": {
+      "en": "Nixie: Another round won. Counted for today.",
+      "text": "Nixie: Weer een ronde gewonnen. Geteld voor vandaag."
+    },
+    "dares.boxwindone": {
+      "en": "Nixie: You took the round. I felt that from here. Dare done.",
+      "text": "Nixie: Je pakte de ronde. Dat voelde ik tot hier. Uitdaging voltooid."
+    },
     "dares.checkpoint": {
       "en": "Checkpoint {0} of {1}.",
       "text": "Checkpoint {0} van {1}."
+    },
+    "dares.d.boxing": {
+      "en": "Boxing",
+      "text": "Boksen"
     },
     "dares.d.easy": {
       "en": "Easy",
@@ -926,6 +958,30 @@
     "dares.lapstart": {
       "en": "Nixie: A lap. I would join you, but I was built for standing.",
       "text": "Nixie: Een rondje. Ik zou meelopen, maar ik ben gebouwd om te staan."
+    },
+    "dares.n.box": {
+      "en": "Gloves on, one round. Punch them before they punch you.",
+      "text": "Handschoenen aan, één ronde. Sla ze voordat zij jou slaan."
+    },
+    "dares.n.boxdone": {
+      "en": "One round boxed. I kept the ice ready. You did not need it. Mostly.",
+      "text": "Eén ronde gebokst. Ik had het ijs klaar. Je had het niet nodig. Grotendeels."
+    },
+    "dares.n.boxmatch": {
+      "en": "Take the most rounds of a match. Then I call you champion.",
+      "text": "Pak de meeste rondes van een wedstrijd. Dan noem ik je kampioen."
+    },
+    "dares.n.boxmatchdone": {
+      "en": "Champion. I made you a belt. It is imaginary, but shiny.",
+      "text": "Kampioen. Ik heb een riem voor je gemaakt. Hij is denkbeeldig, maar hij glimt."
+    },
+    "dares.n.boxwin": {
+      "en": "Win a round: last one standing, or the fewest hits taken.",
+      "text": "Win een ronde: blijf als laatste staan, of incasseer de minste klappen."
+    },
+    "dares.n.boxwindone": {
+      "en": "A round won. The bell rang just for you.",
+      "text": "Een ronde gewonnen. De bel ging speciaal voor jou."
     },
     "dares.n.dare": {
       "en": "I dare you.",
@@ -1127,6 +1183,10 @@
       "en": "Nixie: A head plate. A hat made of facts. Dare done.",
       "text": "Nixie: Een plate. Een hoed van feiten. Uitdaging voltooid."
     },
+    "dares.s.boxhere": {
+      "en": "You are here. The next round puts you in the ring.",
+      "text": "Je bent hier. De volgende ronde zet je in de ring."
+    },
     "dares.setbonus": {
       "en": "+{0} gold for all three",
       "text": "+{0} goud voor alle drie"
@@ -1138,6 +1198,18 @@
     "dares.setdone": {
       "en": "Nixie: That whole set is done. I will have to think of new dares.",
       "text": "Nixie: Die hele set is voltooid. Ik moet nieuwe uitdagingen bedenken."
+    },
+    "dares.t.box": {
+      "en": "Box one round",
+      "text": "Box één ronde"
+    },
+    "dares.t.boxmatch": {
+      "en": "Become the boxing champion",
+      "text": "Word de bokskampioen"
+    },
+    "dares.t.boxwin": {
+      "en": "Win a round in the ring",
+      "text": "Win een ronde in de ring"
     },
     "dares.t.ffa": {
       "en": "Play a round of free-for-all",
@@ -1198,6 +1270,14 @@
     "dares.w.arena": {
       "en": "the hub's arena, or any free-for-all world",
       "text": "de arena van de hub, of elke free-for-all-wereld"
+    },
+    "dares.w.box": {
+      "en": "Boxing Royale, a boxer bot spars with you",
+      "text": "Boxing Royale, een boksbot spart met je"
+    },
+    "dares.w.boxmatch": {
+      "en": "Boxing Royale: win the most rounds of a match",
+      "text": "Boxing Royale: win de meeste rondes van een wedstrijd"
     },
     "dares.w.ffa": {
       "en": "FFA Shooter, a bot plays you there",

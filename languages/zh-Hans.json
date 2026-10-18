@@ -795,9 +795,41 @@
       "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
       "text": "Nixie: 三个挑战全完成了。我没挑战可出了，还有点佩服你。"
     },
+    "dares.boxagain": {
+      "en": "Nixie: Another round boxed. Counted for today.",
+      "text": "Nixie: 又打完一回合拳击。今天的已计入。"
+    },
+    "dares.boxdone": {
+      "en": "Nixie: A whole round in the ring, and your face is still on. Dare done.",
+      "text": "Nixie: 在擂台上打完了整整一回合，脸还在原位。挑战完成。"
+    },
+    "dares.boxintro": {
+      "en": "Nixie: Boxing Royale. Land five punches and your opponent is out. Last one standing takes the round, the most rounds takes the match. On a screen, click to jab. In a headset, swing for real. I dare you.",
+      "text": "Nixie: Boxing Royale。打中五拳，对手就出局。最后站着的人赢下这一回合，赢得回合最多的人赢下整场比赛。在屏幕上点击出刺拳。戴着头显就真的挥拳吧。敢不敢？"
+    },
+    "dares.boxmatchagain": {
+      "en": "Nixie: Champion again. Counted for today.",
+      "text": "Nixie: 又是冠军。今天的已计入。"
+    },
+    "dares.boxmatchdone": {
+      "en": "Nixie: Champion. I would polish your belt, but nobody gave me one. Dare done.",
+      "text": "Nixie: 冠军。我本想帮你擦亮金腰带，可没人给我一条。挑战完成。"
+    },
+    "dares.boxwinagain": {
+      "en": "Nixie: Another round won. Counted for today.",
+      "text": "Nixie: 又赢了一回合。今天的已计入。"
+    },
+    "dares.boxwindone": {
+      "en": "Nixie: You took the round. I felt that from here. Dare done.",
+      "text": "Nixie: 你拿下了这一回合。我在这儿都感觉到了。挑战完成。"
+    },
     "dares.checkpoint": {
       "en": "Checkpoint {0} of {1}.",
       "text": "检查点 {0}/{1}。"
+    },
+    "dares.d.boxing": {
+      "en": "Boxing",
+      "text": "拳击"
     },
     "dares.d.easy": {
       "en": "Easy",
@@ -926,6 +958,30 @@
     "dares.lapstart": {
       "en": "Nixie: A lap. I would join you, but I was built for standing.",
       "text": "Nixie: 跑一圈。我本想陪你，可我是为站着而造的。"
+    },
+    "dares.n.box": {
+      "en": "Gloves on, one round. Punch them before they punch you.",
+      "text": "戴上拳套，打一回合。在对方出拳之前先出拳。"
+    },
+    "dares.n.boxdone": {
+      "en": "One round boxed. I kept the ice ready. You did not need it. Mostly.",
+      "text": "打完一回合。我备好了冰袋。你没用上。基本上。"
+    },
+    "dares.n.boxmatch": {
+      "en": "Take the most rounds of a match. Then I call you champion.",
+      "text": "在一场比赛中拿下最多回合。到时我就叫你冠军。"
+    },
+    "dares.n.boxmatchdone": {
+      "en": "Champion. I made you a belt. It is imaginary, but shiny.",
+      "text": "冠军。我给你做了一条金腰带。是想象出来的，但很闪亮。"
+    },
+    "dares.n.boxwin": {
+      "en": "Win a round: last one standing, or the fewest hits taken.",
+      "text": "赢下一回合：做最后站着的人，或者挨打最少。"
+    },
+    "dares.n.boxwindone": {
+      "en": "A round won. The bell rang just for you.",
+      "text": "赢下一回合。铃声只为你而响。"
     },
     "dares.n.dare": {
       "en": "I dare you.",
@@ -1127,6 +1183,10 @@
       "en": "Nixie: A head plate. A hat made of facts. Dare done.",
       "text": "Nixie: 一块铭牌。一顶写满事实的帽子。挑战完成。"
     },
+    "dares.s.boxhere": {
+      "en": "You are here. The next round puts you in the ring.",
+      "text": "你已在这里。下一回合你就会进入擂台。"
+    },
     "dares.setbonus": {
       "en": "+{0} gold for all three",
       "text": "三个全完成 +{0} 金币"
@@ -1138,6 +1198,18 @@
     "dares.setdone": {
       "en": "Nixie: That whole set is done. I will have to think of new dares.",
       "text": "Nixie: 这一整套都完成了。我得想些新挑战了。"
+    },
+    "dares.t.box": {
+      "en": "Box one round",
+      "text": "打一回合拳击"
+    },
+    "dares.t.boxmatch": {
+      "en": "Become the boxing champion",
+      "text": "成为拳击冠军"
+    },
+    "dares.t.boxwin": {
+      "en": "Win a round in the ring",
+      "text": "在擂台上赢一回合"
     },
     "dares.t.ffa": {
       "en": "Play a round of free-for-all",
@@ -1198,6 +1270,14 @@
     "dares.w.arena": {
       "en": "the hub's arena, or any free-for-all world",
       "text": "大厅的竞技场，或任意自由混战世界"
+    },
+    "dares.w.box": {
+      "en": "Boxing Royale, a boxer bot spars with you",
+      "text": "Boxing Royale，有拳击机器人陪你对练"
+    },
+    "dares.w.boxmatch": {
+      "en": "Boxing Royale: win the most rounds of a match",
+      "text": "Boxing Royale：在一场比赛中赢下最多回合"
     },
     "dares.w.ffa": {
       "en": "FFA Shooter, a bot plays you there",

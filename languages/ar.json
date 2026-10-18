@@ -795,9 +795,41 @@
       "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
       "text": "Nixie: التحديات الثلاثة كلها. نفدت تحدياتي، وأنا معجبة قليلاً."
     },
+    "dares.boxagain": {
+      "en": "Nixie: Another round boxed. Counted for today.",
+      "text": "Nixie: جولة ملاكمة أخرى. حُسبت لليوم."
+    },
+    "dares.boxdone": {
+      "en": "Nixie: A whole round in the ring, and your face is still on. Dare done.",
+      "text": "Nixie: جولة كاملة في الحلبة، ووجهك ما زال في مكانه. أُنجز التحدي."
+    },
+    "dares.boxintro": {
+      "en": "Nixie: Boxing Royale. Land five punches and your opponent is out. Last one standing takes the round, the most rounds takes the match. On a screen, click to jab. In a headset, swing for real. I dare you.",
+      "text": "Nixie: Boxing Royale. سدّد خمس لكمات ويخرج خصمك. آخر من يبقى واقفاً يفوز بالجولة، ومن يفوز بأكثر الجولات يفوز بالمباراة. على الشاشة، انقر لتوجّه لكمة. مع النظارة، اضرب حقاً. أتحداك."
+    },
+    "dares.boxmatchagain": {
+      "en": "Nixie: Champion again. Counted for today.",
+      "text": "Nixie: بطل مرة أخرى. حُسبت لليوم."
+    },
+    "dares.boxmatchdone": {
+      "en": "Nixie: Champion. I would polish your belt, but nobody gave me one. Dare done.",
+      "text": "Nixie: بطل. كنت سألمّع حزامك، لكن لم يعطني أحد حزاماً. أُنجز التحدي."
+    },
+    "dares.boxwinagain": {
+      "en": "Nixie: Another round won. Counted for today.",
+      "text": "Nixie: جولة أخرى فزت بها. حُسبت لليوم."
+    },
+    "dares.boxwindone": {
+      "en": "Nixie: You took the round. I felt that from here. Dare done.",
+      "text": "Nixie: فزت بالجولة. شعرتُ بها من هنا. أُنجز التحدي."
+    },
     "dares.checkpoint": {
       "en": "Checkpoint {0} of {1}.",
       "text": "نقطة التفتيش {0} من {1}."
+    },
+    "dares.d.boxing": {
+      "en": "Boxing",
+      "text": "ملاكمة"
     },
     "dares.d.easy": {
       "en": "Easy",
@@ -926,6 +958,30 @@
     "dares.lapstart": {
       "en": "Nixie: A lap. I would join you, but I was built for standing.",
       "text": "Nixie: لفّة. كنت سأنضم إليك، لكنني صُنعت للوقوف."
+    },
+    "dares.n.box": {
+      "en": "Gloves on, one round. Punch them before they punch you.",
+      "text": "القفازات في يديك، جولة واحدة. اضربهم قبل أن يضربوك."
+    },
+    "dares.n.boxdone": {
+      "en": "One round boxed. I kept the ice ready. You did not need it. Mostly.",
+      "text": "جولة ملاكمة انتهت. جهّزت الثلج. لم تحتج إليه. في الغالب."
+    },
+    "dares.n.boxmatch": {
+      "en": "Take the most rounds of a match. Then I call you champion.",
+      "text": "افز بأكبر عدد من جولات المباراة. حينها سأدعوك بطلاً."
+    },
+    "dares.n.boxmatchdone": {
+      "en": "Champion. I made you a belt. It is imaginary, but shiny.",
+      "text": "بطل. صنعت لك حزاماً. إنه خيالي، لكنه لامع."
+    },
+    "dares.n.boxwin": {
+      "en": "Win a round: last one standing, or the fewest hits taken.",
+      "text": "افز بجولة: كن آخر من يبقى واقفاً، أو الأقل تلقياً للضربات."
+    },
+    "dares.n.boxwindone": {
+      "en": "A round won. The bell rang just for you.",
+      "text": "جولة فزت بها. رنّ الجرس من أجلك وحدك."
     },
     "dares.n.dare": {
       "en": "I dare you.",
@@ -1127,6 +1183,10 @@
       "en": "Nixie: A head plate. A hat made of facts. Dare done.",
       "text": "Nixie: لوحة. قبعة مصنوعة من الحقائق. أُنجز التحدي."
     },
+    "dares.s.boxhere": {
+      "en": "You are here. The next round puts you in the ring.",
+      "text": "أنت هنا. الجولة القادمة ستضعك في الحلبة."
+    },
     "dares.setbonus": {
       "en": "+{0} gold for all three",
       "text": "+{0} ذهب للثلاثة كلها"
@@ -1138,6 +1198,18 @@
     "dares.setdone": {
       "en": "Nixie: That whole set is done. I will have to think of new dares.",
       "text": "Nixie: اكتملت هذه المجموعة كلها. عليّ أن أفكر في تحديات جديدة."
+    },
+    "dares.t.box": {
+      "en": "Box one round",
+      "text": "العب جولة ملاكمة واحدة"
+    },
+    "dares.t.boxmatch": {
+      "en": "Become the boxing champion",
+      "text": "كن بطل الملاكمة"
+    },
+    "dares.t.boxwin": {
+      "en": "Win a round in the ring",
+      "text": "افز بجولة في الحلبة"
     },
     "dares.t.ffa": {
       "en": "Play a round of free-for-all",
@@ -1198,6 +1270,14 @@
     "dares.w.arena": {
       "en": "the hub's arena, or any free-for-all world",
       "text": "ساحة المركز، أو أي عالم «الكل ضد الكل»"
+    },
+    "dares.w.box": {
+      "en": "Boxing Royale, a boxer bot spars with you",
+      "text": "Boxing Royale، حيث يتدرب معك روبوت ملاكم"
+    },
+    "dares.w.boxmatch": {
+      "en": "Boxing Royale: win the most rounds of a match",
+      "text": "Boxing Royale: افز بأكبر عدد من جولات المباراة"
     },
     "dares.w.ffa": {
       "en": "FFA Shooter, a bot plays you there",

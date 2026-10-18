@@ -795,9 +795,41 @@
       "en": "Nixie: All three dares. I am out of dares, and slightly impressed.",
       "text": "Nixie: 3つのチャレンジを全部。もうネタ切れです。少しだけ感心しました。"
     },
+    "dares.boxagain": {
+      "en": "Nixie: Another round boxed. Counted for today.",
+      "text": "Nixie: またボクシングを1ラウンド。今日の分としてカウントしました。"
+    },
+    "dares.boxdone": {
+      "en": "Nixie: A whole round in the ring, and your face is still on. Dare done.",
+      "text": "Nixie: リングで1ラウンドやり切りましたね。顔もまだちゃんと付いています。チャレンジ達成。"
+    },
+    "dares.boxintro": {
+      "en": "Nixie: Boxing Royale. Land five punches and your opponent is out. Last one standing takes the round, the most rounds takes the match. On a screen, click to jab. In a headset, swing for real. I dare you.",
+      "text": "Nixie: Boxing Royale へようこそ。パンチを5発当てれば相手はアウト。最後まで立っていた人がそのラウンドの勝ち、いちばん多くラウンドを取った人が試合の勝ちです。画面ではクリックでジャブ。ヘッドセットでは本当に拳を振ってください。やれるものならどうぞ。"
+    },
+    "dares.boxmatchagain": {
+      "en": "Nixie: Champion again. Counted for today.",
+      "text": "Nixie: またチャンピオンです。今日の分としてカウントしました。"
+    },
+    "dares.boxmatchdone": {
+      "en": "Nixie: Champion. I would polish your belt, but nobody gave me one. Dare done.",
+      "text": "Nixie: チャンピオンです。ベルトを磨いてあげたいところですが、誰もくれませんでした。チャレンジ達成。"
+    },
+    "dares.boxwinagain": {
+      "en": "Nixie: Another round won. Counted for today.",
+      "text": "Nixie: またラウンドを取りました。今日の分としてカウントしました。"
+    },
+    "dares.boxwindone": {
+      "en": "Nixie: You took the round. I felt that from here. Dare done.",
+      "text": "Nixie: ラウンドを取りましたね。ここまで響きました。チャレンジ達成。"
+    },
     "dares.checkpoint": {
       "en": "Checkpoint {0} of {1}.",
       "text": "チェックポイント {0}/{1}。"
+    },
+    "dares.d.boxing": {
+      "en": "Boxing",
+      "text": "ボクシング"
     },
     "dares.d.easy": {
       "en": "Easy",
@@ -926,6 +958,30 @@
     "dares.lapstart": {
       "en": "Nixie: A lap. I would join you, but I was built for standing.",
       "text": "Nixie: 1周ですね。一緒に走りたいところですが、私は立つために作られたので。"
+    },
+    "dares.n.box": {
+      "en": "Gloves on, one round. Punch them before they punch you.",
+      "text": "グローブをはめて1ラウンド。打たれる前に打ってください。"
+    },
+    "dares.n.boxdone": {
+      "en": "One round boxed. I kept the ice ready. You did not need it. Mostly.",
+      "text": "1ラウンド完了。氷を用意していました。必要ありませんでしたね。だいたいは。"
+    },
+    "dares.n.boxmatch": {
+      "en": "Take the most rounds of a match. Then I call you champion.",
+      "text": "1試合でいちばん多くラウンドを取ってください。そうしたらチャンピオンと呼びます。"
+    },
+    "dares.n.boxmatchdone": {
+      "en": "Champion. I made you a belt. It is imaginary, but shiny.",
+      "text": "チャンピオン。ベルトを作りました。想像上のものですが、ピカピカです。"
+    },
+    "dares.n.boxwin": {
+      "en": "Win a round: last one standing, or the fewest hits taken.",
+      "text": "ラウンドに勝つには、最後まで立っているか、受けたパンチがいちばん少ないこと。"
+    },
+    "dares.n.boxwindone": {
+      "en": "A round won. The bell rang just for you.",
+      "text": "ラウンド勝利。ゴングはあなたのために鳴りました。"
     },
     "dares.n.dare": {
       "en": "I dare you.",
@@ -1127,6 +1183,10 @@
       "en": "Nixie: A head plate. A hat made of facts. Dare done.",
       "text": "Nixie: ヘッドプレートですね。事実でできた帽子です。チャレンジ達成。"
     },
+    "dares.s.boxhere": {
+      "en": "You are here. The next round puts you in the ring.",
+      "text": "ここにいます。次のラウンドでリングに上がります。"
+    },
     "dares.setbonus": {
       "en": "+{0} gold for all three",
       "text": "3つすべてで +{0} ゴールド"
@@ -1138,6 +1198,18 @@
     "dares.setdone": {
       "en": "Nixie: That whole set is done. I will have to think of new dares.",
       "text": "Nixie: このセットは全部達成です。新しいチャレンジを考えないといけませんね。"
+    },
+    "dares.t.box": {
+      "en": "Box one round",
+      "text": "ボクシングを1ラウンド戦う"
+    },
+    "dares.t.boxmatch": {
+      "en": "Become the boxing champion",
+      "text": "ボクシングのチャンピオンになる"
+    },
+    "dares.t.boxwin": {
+      "en": "Win a round in the ring",
+      "text": "リングで1ラウンド勝つ"
     },
     "dares.t.ffa": {
       "en": "Play a round of free-for-all",
@@ -1198,6 +1270,14 @@
     "dares.w.arena": {
       "en": "the hub's arena, or any free-for-all world",
       "text": "ハブのアリーナ、またはフリーフォーオールのワールド"
+    },
+    "dares.w.box": {
+      "en": "Boxing Royale, a boxer bot spars with you",
+      "text": "Boxing Royale、ボクサーのボットがスパーリング相手です"
+    },
+    "dares.w.boxmatch": {
+      "en": "Boxing Royale: win the most rounds of a match",
+      "text": "Boxing Royale：1試合でいちばん多くラウンドを取る"
     },
     "dares.w.ffa": {
       "en": "FFA Shooter, a bot plays you there",
