@@ -2243,6 +2243,10 @@
       "en": "Wearing",
       "text": "Porte"
     },
+    "session.createfailstay": {
+      "en": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
+      "text": "Steam n'a pas pu ouvrir ce monde pour l'instant. Réessaie dans un moment ; si ça échoue encore, redémarre le jeu."
+    },
     "session.gone": {
       "en": "Couldn't connect — that session is no longer available.",
       "text": "Connexion impossible — cette session n'est plus disponible."

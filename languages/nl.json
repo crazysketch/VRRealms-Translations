@@ -2243,6 +2243,10 @@
       "en": "Wearing",
       "text": "Draagt"
     },
+    "session.createfailstay": {
+      "en": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
+      "text": "Steam kon die wereld nu niet openen. Probeer het zo nog eens; lukt het steeds niet, start de game dan opnieuw."
+    },
     "session.gone": {
       "en": "Couldn't connect — that session is no longer available.",
       "text": "Kon niet verbinden — die sessie is niet meer beschikbaar."

@@ -562,6 +562,7 @@
     "profile.visit": "Visit",
     "profile.wear": "Wear",
     "profile.wearing": "Wearing",
+    "session.createfailstay": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
     "session.gone": "Couldn't connect — that session is no longer available.",
     "session.handing": "Handing over…",
     "session.handover": "Handing over to a new host",

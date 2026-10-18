@@ -2243,6 +2243,10 @@
       "en": "Wearing",
       "text": "正在穿"
     },
+    "session.createfailstay": {
+      "en": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
+      "text": "Steam 暂时无法打开那个世界。请稍后再试；如果一直失败，请重启游戏。"
+    },
     "session.gone": {
       "en": "Couldn't connect — that session is no longer available.",
       "text": "无法连接 — 该会话已不可用。"

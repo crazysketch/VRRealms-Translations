@@ -2243,6 +2243,10 @@
       "en": "Wearing",
       "text": "يرتدي"
     },
+    "session.createfailstay": {
+      "en": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
+      "text": "تعذّر على Steam فتح ذلك العالم الآن. حاول مجدداً بعد قليل؛ وإن استمر الفشل، أعد تشغيل اللعبة."
+    },
     "session.gone": {
       "en": "Couldn't connect — that session is no longer available.",
       "text": "تعذّر الاتصال — تلك الجلسة لم تعد متاحة."

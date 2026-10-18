@@ -2243,6 +2243,10 @@
       "en": "Wearing",
       "text": "Lleva puesto"
     },
+    "session.createfailstay": {
+      "en": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
+      "text": "Steam no pudo abrir ese mundo ahora mismo. Inténtalo de nuevo en un momento; si sigue fallando, reinicia el juego."
+    },
     "session.gone": {
       "en": "Couldn't connect — that session is no longer available.",
       "text": "No se pudo conectar — esa sesión ya no está disponible."

@@ -2243,6 +2243,10 @@
       "en": "Wearing",
       "text": "Зараз одягнено"
     },
+    "session.createfailstay": {
+      "en": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
+      "text": "Steam не зміг відкрити цей світ просто зараз. Спробуй ще раз за хвилину; якщо не виходить, перезапусти гру."
+    },
     "session.gone": {
       "en": "Couldn't connect — that session is no longer available.",
       "text": "Не вдалося під'єднатися — ця сесія більше недоступна."

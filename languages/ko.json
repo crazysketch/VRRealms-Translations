@@ -2243,6 +2243,10 @@
       "en": "Wearing",
       "text": "착용 중"
     },
+    "session.createfailstay": {
+      "en": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
+      "text": "Steam이 지금 그 월드를 열 수 없었어요. 잠시 후 다시 시도하세요. 계속 실패하면 게임을 다시 시작하세요."
+    },
     "session.gone": {
       "en": "Couldn't connect — that session is no longer available.",
       "text": "연결할 수 없어요 — 그 세션은 더 이상 없어요."

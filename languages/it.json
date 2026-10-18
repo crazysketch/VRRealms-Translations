@@ -2243,6 +2243,10 @@
       "en": "Wearing",
       "text": "Indossa"
     },
+    "session.createfailstay": {
+      "en": "Steam could not open that world just now. Try again in a moment; if it keeps failing, restart the game.",
+      "text": "Steam non è riuscito ad aprire quel mondo in questo momento. Riprova tra poco; se continua a non funzionare, riavvia il gioco."
+    },
     "session.gone": {
       "en": "Couldn't connect — that session is no longer available.",
       "text": "Impossibile connettersi — quella sessione non è più disponibile."
